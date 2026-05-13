@@ -2,15 +2,14 @@ name: Hourly CVE News Update
 
 on:
   schedule:
-    # Runs at the start of every hour
     - cron: '0 * * * *'
-  workflow_dispatch: # Allows manual triggering
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needed to push changes back to the repo
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -23,7 +22,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          pip install feedparser python-dateutil
+          pip install feedparser python-dateutil requests
 
       - name: Run Update Script
         run: python update_news.py
@@ -33,5 +32,4 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add news/
-          # Only commit if there are changes to avoid workflow errors
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update news: $(date +'%Y-%m-%d %H:%M')" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: RSS & CISA KEV $(date +'%Y-%m-%d %H:%M')" && git push)
