@@ -9,8 +9,9 @@ from dateutil import parser
 FEEDS = [
     "https://feeds.feedburner.com/TheHackersNews",
     "https://www.securityweek.com/feed/",
+    "https://www.bleepingcomputer.com/feed/",
     "https://www.darkreading.com/rss.xml",
-    "https://www.rapid7.com/rss.xml"
+    #"https://www.rapid7.com/rss.xml"
 ]
 
 # Regex for CVE IDs, handling various dash types (hyphen, en-dash, em-dash)
