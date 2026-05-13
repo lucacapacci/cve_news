@@ -32,8 +32,12 @@ def extract_cves(text):
     return {m.replace('—', '-').replace('–', '-').upper() for m in matches}
 
 def save_cve_entry(date_str, cve_id, title, link):
-    """Helper to save or update the CVE JSON file."""
-    dir_path = os.path.join("news", date_str)
+    """Helper to save or update the CVE JSON file with year subdirectories."""
+    # Extract the year from the date string (YYYY-MM-DD)
+    year = date_str.split('-')[0]
+    
+    # Update path to include the year: news/YYYY/YYYY-MM-DD/
+    dir_path = os.path.join("news", year, date_str)
     os.makedirs(dir_path, exist_ok=True)
     
     file_path = os.path.join(dir_path, f"{cve_id}.json")
@@ -90,7 +94,7 @@ def process_cisa_kev():
             # The 'notes' field often contains multiple URLs separated by semicolons
             # We'll take the first one as the primary link
             notes = vuln.get('notes', '')
-            link = notes.split(';')[0].strip() if notes else "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+            link = f"https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve={cve_id}"
             
             title = f"New vulnerability added to CISA KEV: {cve_id}"
             
