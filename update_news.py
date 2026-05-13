@@ -12,6 +12,8 @@ FEEDS = [
     "https://www.securityweek.com/feed/",
     "https://www.bleepingcomputer.com/feed/",
     "https://www.darkreading.com/rss.xml",
+    "https://feeds.feedburner.com/tenable/qaXL",
+    "https://www.zerodayinitiative.com/rss/published/",
     #"https://www.rapid7.com/rss.xml"
 ]
 
