@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import requests
 import feedparser
 from datetime import datetime
 from dateutil import parser
@@ -14,6 +15,8 @@ FEEDS = [
     #"https://www.rapid7.com/rss.xml"
 ]
 
+CISA_KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
+
 # Regex for CVE IDs, handling various dash types (hyphen, en-dash, em-dash)
 CVE_REGEX = r"CVE[-—–]\d{4}[-—–]\d{4,}"
 
@@ -24,58 +27,78 @@ def extract_cves(text):
     standardized = {m.replace('—', '-').replace('–', '-').upper() for m in matches}
     return standardized
 
-def process_feeds():
+def extract_cves(text):
+    matches = re.findall(CVE_REGEX, text, re.IGNORECASE)
+    return {m.replace('—', '-').replace('–', '-').upper() for m in matches}
+
+def save_cve_entry(date_str, cve_id, title, link):
+    """Helper to save or update the CVE JSON file."""
+    dir_path = os.path.join("news", date_str)
+    os.makedirs(dir_path, exist_ok=True)
+    
+    file_path = os.path.join(dir_path, f"{cve_id}.json")
+    
+    data = []
+    if os.path.exists(file_path):
+        with open(file_path, 'r') as f:
+            try:
+                data = json.load(f)
+            except json.JSONDecodeError:
+                data = []
+
+    # Check for uniqueness based on link
+    if not any(item.get('link') == link for item in data):
+        data.append({
+            "title": title,
+            "link": link
+        })
+        with open(file_path, 'w') as f:
+            json.dump(data, f, indent=4)
+        print(f"Saved: {cve_id} in {date_str}")
+
+def process_rss_feeds():
     for url in FEEDS:
-        print(f"Fetching: {url}")
+        print(f"Fetching RSS: {url}")
         feed = feedparser.parse(url)
-        
         for entry in feed.entries:
             title = entry.get('title', '')
             link = entry.get('link', '')
             description = entry.get('description', '')
             
-            # Use dateutil to handle various RSS date formats
             try:
                 pub_date_raw = entry.get('published') or entry.get('pubDate')
                 dt = parser.parse(pub_date_raw)
                 date_str = dt.strftime('%Y-%m-%d')
-            except (ValueError, TypeError):
-                # Fallback to today if date parsing fails
+            except:
                 date_str = datetime.now().strftime('%Y-%m-%d')
 
-            # Search for CVEs in title and description
-            content_to_search = f"{title} {description}"
-            found_cves = extract_cves(content_to_search)
-
-            if not found_cves:
-                continue
-
-            # Ensure directory exists: news/YYYY-MM-DD/
-            dir_path = os.path.join("news", date_str)
-            os.makedirs(dir_path, exist_ok=True)
-
+            found_cves = extract_cves(f"{title} {description}")
             for cve in found_cves:
-                file_path = os.path.join(dir_path, f"{cve}.json")
-                
-                # Load existing data or start new list
-                data = []
-                if os.path.exists(file_path):
-                    with open(file_path, 'r') as f:
-                        try:
-                            data = json.load(f)
-                        except json.JSONDecodeError:
-                            data = []
+                save_cve_entry(date_str, cve, title, link)
 
-                # Check if link already exists in this specific CVE file
-                if not any(item.get('link') == link for item in data):
-                    data.append({
-                        "title": title,
-                        "link": link
-                    })
-                    
-                    with open(file_path, 'w') as f:
-                        json.dump(data, f, indent=4)
-                    print(f"Updated {file_path} with {cve}")
+def process_cisa_kev():
+    print(f"Fetching CISA KEV...")
+    try:
+        response = requests.get(CISA_KEV_URL)
+        response.raise_for_status()
+        kev_data = response.json()
+        
+        for vuln in kev_data.get('vulnerabilities', []):
+            cve_id = vuln.get('cveID', '').upper()
+            date_added = vuln.get('dateAdded', '') # Format is already YYYY-MM-DD
+            
+            # The 'notes' field often contains multiple URLs separated by semicolons
+            # We'll take the first one as the primary link
+            notes = vuln.get('notes', '')
+            link = notes.split(';')[0].strip() if notes else "https://www.cisa.gov/known-exploited-vulnerabilities-catalog"
+            
+            title = f"New vulnerability added to CISA KEV: {cve_id}"
+            
+            if cve_id and date_added:
+                save_cve_entry(date_added, cve_id, title, link)
+    except Exception as e:
+        print(f"Error processing CISA KEV: {e}")
 
 if __name__ == "__main__":
-    process_feeds()
+    process_rss_feeds()
+    process_cisa_kev()
