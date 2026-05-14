@@ -1,0 +1,44 @@
+{
+    "CVE-2017-15944": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2017-15944",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2017-15944"
+        }
+    ],
+    "CVE-2022-32894": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-32894",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-32894"
+        }
+    ],
+    "CVE-2022-22536": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-22536",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-22536"
+        }
+    ],
+    "CVE-2022-26923": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-26923",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-26923"
+        }
+    ],
+    "CVE-2022-32893": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-32893",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-32893"
+        }
+    ],
+    "CVE-2022-2856": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-2856",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-2856"
+        }
+    ],
+    "CVE-2022-21971": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-21971",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-21971"
+        }
+    ]
+}

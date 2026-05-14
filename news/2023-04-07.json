@@ -1,0 +1,32 @@
+{
+    "CVE-2021-27878": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-27878",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-27878"
+        }
+    ],
+    "CVE-2021-27877": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-27877",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-27877"
+        }
+    ],
+    "CVE-2021-27876": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-27876",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-27876"
+        }
+    ],
+    "CVE-2019-1388": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2019-1388",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-1388"
+        }
+    ],
+    "CVE-2023-26083": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-26083",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-26083"
+        }
+    ]
+}

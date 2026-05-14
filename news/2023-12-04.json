@@ -1,0 +1,14 @@
+{
+    "CVE-2023-42917": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-42917",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-42917"
+        }
+    ],
+    "CVE-2023-42916": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-42916",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-42916"
+        }
+    ]
+}

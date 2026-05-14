@@ -1,0 +1,44 @@
+{
+    "CVE-2015-5317": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2015-5317",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2015-5317"
+        }
+    ],
+    "CVE-2023-25717": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-25717",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-25717"
+        }
+    ],
+    "CVE-2021-3560": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-3560",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-3560"
+        }
+    ],
+    "CVE-2014-0196": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2014-0196",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2014-0196"
+        }
+    ],
+    "CVE-2016-3427": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2016-3427",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2016-3427"
+        }
+    ],
+    "CVE-2010-3904": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2010-3904",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2010-3904"
+        }
+    ],
+    "CVE-2016-8735": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2016-8735",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2016-8735"
+        }
+    ]
+}

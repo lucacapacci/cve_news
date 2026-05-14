@@ -1,0 +1,14 @@
+{
+    "CVE-2025-68461": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-68461",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-68461"
+        }
+    ],
+    "CVE-2025-49113": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-49113",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-49113"
+        }
+    ]
+}

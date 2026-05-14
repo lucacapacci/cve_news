@@ -1,0 +1,38 @@
+{
+    "CVE-2025-54309": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-54309",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-54309"
+        }
+    ],
+    "CVE-2025-6558": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-6558",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-6558"
+        }
+    ],
+    "CVE-2025-2776": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-2776",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-2776"
+        }
+    ],
+    "CVE-2025-49706": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-49706",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-49706"
+        }
+    ],
+    "CVE-2025-2775": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-2775",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-2775"
+        }
+    ],
+    "CVE-2025-49704": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-49704",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-49704"
+        }
+    ]
+}

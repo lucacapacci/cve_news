@@ -1,0 +1,66 @@
+{
+    "CVE-2026-21633": [
+        {
+            "title": "ZDI-26-127: (Pwn2Own) Ubiquiti Networks AI Pro Cleartext Transmission Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-127/"
+        },
+        {
+            "title": "ZDI-26-126: (Pwn2Own) Ubiquiti Networks AI Pro Discovery Protocol Missing Encryption Protocol Downgrade Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-126/"
+        }
+    ],
+    "CVE-2026-20127": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2026-20127",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20127"
+        }
+    ],
+    "CVE-2025-15060": [
+        {
+            "title": "ZDI-26-124: claude-hovercraft executeClaudeCode Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-124/"
+        }
+    ],
+    "CVE-2026-21634": [
+        {
+            "title": "ZDI-26-128: (Pwn2Own) Ubiquiti Networks AI Pro Uncaught Exception Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-128/"
+        }
+    ],
+    "CVE-2026-2491": [
+        {
+            "title": "ZDI-26-129: Socomec DIRIS A-40 HTTP API Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-129/"
+        }
+    ],
+    "CVE-2026-25656": [
+        {
+            "title": "ZDI-26-132: Siemens SINEC NMS Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-132/"
+        }
+    ],
+    "CVE-2026-25655": [
+        {
+            "title": "ZDI-26-131: Siemens SINEC NMS Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-131/"
+        }
+    ],
+    "CVE-2026-2493": [
+        {
+            "title": "ZDI-26-130: IceWarp collaboration Directory Traversal Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-130/"
+        }
+    ],
+    "CVE-2022-20775": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-20775",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-20775"
+        }
+    ],
+    "CVE-2026-2664": [
+        {
+            "title": "ZDI-26-125: Docker Desktop grpcfuse Kernel Module Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-125/"
+        }
+    ]
+}

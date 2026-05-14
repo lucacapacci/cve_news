@@ -1,0 +1,32 @@
+{
+    "CVE-2026-2044": [
+        {
+            "title": "ZDI-26-118: GIMP PGM File Parsing Uninitialized Memory Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-118/"
+        }
+    ],
+    "CVE-2026-2040": [
+        {
+            "title": "ZDI-26-122: PDF-XChange Editor TrackerUpdate Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-122/"
+        }
+    ],
+    "CVE-2026-2045": [
+        {
+            "title": "ZDI-26-119: GIMP XWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-119/"
+        }
+    ],
+    "CVE-2026-2047": [
+        {
+            "title": "ZDI-26-120: GIMP ICNS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-120/"
+        }
+    ],
+    "CVE-2026-2048": [
+        {
+            "title": "ZDI-26-121: GIMP XWD File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-121/"
+        }
+    ]
+}

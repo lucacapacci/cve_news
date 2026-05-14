@@ -1,0 +1,26 @@
+{
+    "CVE-2021-3129": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-3129",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-3129"
+        }
+    ],
+    "CVE-2022-22265": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-22265",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-22265"
+        }
+    ],
+    "CVE-2017-6884": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2017-6884",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2017-6884"
+        }
+    ],
+    "CVE-2014-8361": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2014-8361",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2014-8361"
+        }
+    ]
+}

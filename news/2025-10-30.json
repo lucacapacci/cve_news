@@ -1,0 +1,14 @@
+{
+    "CVE-2025-24893": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-24893",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-24893"
+        }
+    ],
+    "CVE-2025-41244": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-41244",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-41244"
+        }
+    ]
+}

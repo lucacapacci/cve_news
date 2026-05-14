@@ -1,0 +1,20 @@
+{
+    "CVE-2015-2291": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2015-2291",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2015-2291"
+        }
+    ],
+    "CVE-2023-0669": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-0669",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-0669"
+        }
+    ],
+    "CVE-2022-24990": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-24990",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-24990"
+        }
+    ]
+}

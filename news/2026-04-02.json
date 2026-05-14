@@ -1,0 +1,26 @@
+{
+    "CVE-2026-3502": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2026-3502",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-3502"
+        }
+    ],
+    "CVE-2026-3775": [
+        {
+            "title": "ZDI-26-251: Foxit PDF Reader Update Service Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-251/"
+        }
+    ],
+    "CVE-2026-21518": [
+        {
+            "title": "ZDI-26-253: Microsoft Visual Studio Code mcp.json Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-253/"
+        }
+    ],
+    "CVE-2026-4698": [
+        {
+            "title": "ZDI-26-252: Mozilla Firefox IonMonkey Switch Statement Optimization Type Confusion Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-252/"
+        }
+    ]
+}

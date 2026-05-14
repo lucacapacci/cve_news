@@ -1,0 +1,14 @@
+{
+    "CVE-2019-8526": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2019-8526",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-8526"
+        }
+    ],
+    "CVE-2023-2033": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-2033",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-2033"
+        }
+    ]
+}

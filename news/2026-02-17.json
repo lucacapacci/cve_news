@@ -1,0 +1,26 @@
+{
+    "CVE-2024-7694": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-7694",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-7694"
+        }
+    ],
+    "CVE-2020-7796": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2020-7796",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2020-7796"
+        }
+    ],
+    "CVE-2026-2441": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2026-2441",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-2441"
+        }
+    ],
+    "CVE-2008-0015": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2008-0015",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2008-0015"
+        }
+    ]
+}

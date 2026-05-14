@@ -1,0 +1,14 @@
+{
+    "CVE-2024-53704": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-53704",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-53704"
+        }
+    ],
+    "CVE-2025-0108": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-0108",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-0108"
+        }
+    ]
+}

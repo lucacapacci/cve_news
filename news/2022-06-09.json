@@ -1,0 +1,20 @@
+{
+    "CVE-2016-2388": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2016-2388",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2016-2388"
+        }
+    ],
+    "CVE-2016-2386": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2016-2386",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2016-2386"
+        }
+    ],
+    "CVE-2021-38163": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-38163",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-38163"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "CVE-2025-14233": [
+        {
+            "title": "ZDI-26-222: (Pwn2Own) Canon imageCLASS MF654Cdw BJNP Memory Corruption Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-222/"
+        }
+    ],
+    "CVE-2025-58488": [
+        {
+            "title": "ZDI-26-223: (Pwn2Own) Samsung Galaxy S25 Smart Touch Call Application Protection Mechanism Failure Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-223/"
+        }
+    ],
+    "CVE-2025-58486": [
+        {
+            "title": "ZDI-26-224: (Pwn2Own) Samsung Galaxy S25 Samsung Account Cross-Site Scripting Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-224/"
+        }
+    ],
+    "CVE-2025-58487": [
+        {
+            "title": "ZDI-26-225: (Pwn2Own) Samsung Galaxy S25 Samsung Account Open Redirect Security Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-225/"
+        }
+    ]
+}

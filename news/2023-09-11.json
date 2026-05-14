@@ -1,0 +1,14 @@
+{
+    "CVE-2023-41061": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-41061",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-41061"
+        }
+    ],
+    "CVE-2023-41064": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-41064",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-41064"
+        }
+    ]
+}

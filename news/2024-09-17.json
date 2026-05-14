@@ -1,0 +1,26 @@
+{
+    "CVE-2014-0497": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2014-0497",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2014-0497"
+        }
+    ],
+    "CVE-2013-0648": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2013-0648",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2013-0648"
+        }
+    ],
+    "CVE-2013-0643": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2013-0643",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2013-0643"
+        }
+    ],
+    "CVE-2014-0502": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2014-0502",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2014-0502"
+        }
+    ]
+}

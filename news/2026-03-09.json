@@ -1,0 +1,32 @@
+{
+    "CVE-2025-26399": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-26399",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-26399"
+        }
+    ],
+    "CVE-2026-3839": [
+        {
+            "title": "ZDI-26-172: Unraid Authentication Request Path Traversal Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-172/"
+        }
+    ],
+    "CVE-2021-22054": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-22054",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-22054"
+        }
+    ],
+    "CVE-2026-3838": [
+        {
+            "title": "ZDI-26-171: Unraid Update Request Path Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-171/"
+        }
+    ],
+    "CVE-2026-1603": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2026-1603",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-1603"
+        }
+    ]
+}

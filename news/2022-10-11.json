@@ -1,0 +1,14 @@
+{
+    "CVE-2022-40684": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-40684",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-40684"
+        }
+    ],
+    "CVE-2022-41033": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-41033",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-41033"
+        }
+    ]
+}

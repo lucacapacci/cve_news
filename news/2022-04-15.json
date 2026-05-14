@@ -1,0 +1,56 @@
+{
+    "CVE-2014-0780": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2014-0780",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2014-0780"
+        }
+    ],
+    "CVE-2010-5330": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2010-5330",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2010-5330"
+        }
+    ],
+    "CVE-2019-16057": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2019-16057",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-16057"
+        }
+    ],
+    "CVE-2016-4523": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2016-4523",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2016-4523"
+        }
+    ],
+    "CVE-2018-7841": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2018-7841",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2018-7841"
+        }
+    ],
+    "CVE-2007-3010": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2007-3010",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2007-3010"
+        }
+    ],
+    "CVE-2022-22960": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-22960",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-22960"
+        }
+    ],
+    "CVE-2022-1364": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-1364",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-1364"
+        }
+    ],
+    "CVE-2019-3929": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2019-3929",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-3929"
+        }
+    ]
+}

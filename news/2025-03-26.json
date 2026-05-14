@@ -1,0 +1,14 @@
+{
+    "CVE-2019-9874": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2019-9874",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-9874"
+        }
+    ],
+    "CVE-2019-9875": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2019-9875",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-9875"
+        }
+    ]
+}
