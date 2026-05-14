@@ -24,5 +24,15 @@
             "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
             "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html"
         }
+    ],
+    "CVE-2026-20182": [
+        {
+            "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+            "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-20182",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20182"
+        }
     ]
 }
