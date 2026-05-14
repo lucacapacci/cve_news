@@ -1,0 +1,32 @@
+{
+    "CVE-2020-11261": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2020-11261",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2020-11261"
+        }
+    ],
+    "CVE-2021-37415": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-37415",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-37415"
+        }
+    ],
+    "CVE-2021-44077": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-44077",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-44077"
+        }
+    ],
+    "CVE-2021-40438": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-40438",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-40438"
+        }
+    ],
+    "CVE-2018-14847": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2018-14847",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2018-14847"
+        }
+    ]
+}

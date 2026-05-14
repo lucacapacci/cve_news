@@ -1,0 +1,14 @@
+{
+    "CVE-2024-38475": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-38475",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-38475"
+        }
+    ],
+    "CVE-2023-44221": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-44221",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-44221"
+        }
+    ]
+}

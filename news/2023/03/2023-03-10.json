@@ -1,0 +1,14 @@
+{
+    "CVE-2021-39144": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-39144",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-39144"
+        }
+    ],
+    "CVE-2020-5741": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2020-5741",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2020-5741"
+        }
+    ]
+}

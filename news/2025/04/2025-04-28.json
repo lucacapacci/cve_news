@@ -1,0 +1,20 @@
+{
+    "CVE-2025-3928": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-3928",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-3928"
+        }
+    ],
+    "CVE-2025-42599": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-42599",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-42599"
+        }
+    ],
+    "CVE-2025-1976": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-1976",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-1976"
+        }
+    ]
+}

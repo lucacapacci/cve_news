@@ -1,0 +1,20 @@
+{
+    "CVE-2024-1708": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-1708",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-1708"
+        }
+    ],
+    "CVE-2026-35230": [
+        {
+            "title": "ZDI-26-306: Oracle VirtualBox SoundBlaster 16 Race Condition Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-306/"
+        }
+    ],
+    "CVE-2026-32202": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2026-32202",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-32202"
+        }
+    ]
+}

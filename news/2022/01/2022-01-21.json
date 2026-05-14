@@ -1,0 +1,26 @@
+{
+    "CVE-2006-1547": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2006-1547",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2006-1547"
+        }
+    ],
+    "CVE-2018-8453": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2018-8453",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2018-8453"
+        }
+    ],
+    "CVE-2012-0391": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2012-0391",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2012-0391"
+        }
+    ],
+    "CVE-2021-35247": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-35247",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-35247"
+        }
+    ]
+}

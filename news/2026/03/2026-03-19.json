@@ -1,0 +1,38 @@
+{
+    "CVE-2026-4151": [
+        {
+            "title": "ZDI-26-218: GIMP ANI File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-218/"
+        }
+    ],
+    "CVE-2026-4153": [
+        {
+            "title": "ZDI-26-220: GIMP PSP File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-220/"
+        }
+    ],
+    "CVE-2026-4152": [
+        {
+            "title": "ZDI-26-219: GIMP JP2 File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-219/"
+        }
+    ],
+    "CVE-2026-4150": [
+        {
+            "title": "ZDI-26-217: GIMP PSD File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-217/"
+        }
+    ],
+    "CVE-2026-4154": [
+        {
+            "title": "ZDI-26-221: GIMP XPM File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-221/"
+        }
+    ],
+    "CVE-2026-20131": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2026-20131",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20131"
+        }
+    ]
+}

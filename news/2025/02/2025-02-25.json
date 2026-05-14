@@ -1,0 +1,14 @@
+{
+    "CVE-2024-49035": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-49035",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-49035"
+        }
+    ],
+    "CVE-2023-34192": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-34192",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-34192"
+        }
+    ]
+}

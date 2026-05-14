@@ -1,0 +1,56 @@
+{
+    "CVE-2022-22706": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-22706",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-22706"
+        }
+    ],
+    "CVE-2023-0266": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-0266",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-0266"
+        }
+    ],
+    "CVE-2017-7494": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2017-7494",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2017-7494"
+        }
+    ],
+    "CVE-2022-42948": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-42948",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-42948"
+        }
+    ],
+    "CVE-2022-3038": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-3038",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-3038"
+        }
+    ],
+    "CVE-2021-30900": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-30900",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-30900"
+        }
+    ],
+    "CVE-2013-3163": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2013-3163",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2013-3163"
+        }
+    ],
+    "CVE-2022-38181": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-38181",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-38181"
+        }
+    ],
+    "CVE-2022-39197": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-39197",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-39197"
+        }
+    ]
+}

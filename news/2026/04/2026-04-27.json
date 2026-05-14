@@ -1,0 +1,32 @@
+{
+    "CVE-2026-5942": [
+        {
+            "title": "ZDI-26-303: Foxit PDF Reader AcroForm Signature Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-303/"
+        }
+    ],
+    "CVE-2026-41276": [
+        {
+            "title": "ZDI-26-300: Flowise AccountService resetPassword Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-300/"
+        }
+    ],
+    "CVE-2026-5941": [
+        {
+            "title": "ZDI-26-302: Foxit PDF Reader AcroForm Signature Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-302/"
+        }
+    ],
+    "CVE-2026-5943": [
+        {
+            "title": "ZDI-26-304: Foxit PDF Reader AcroForm Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-304/"
+        }
+    ],
+    "CVE-2026-5940": [
+        {
+            "title": "ZDI-26-301: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-301/"
+        }
+    ]
+}

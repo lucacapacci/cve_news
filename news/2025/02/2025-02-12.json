@@ -1,0 +1,14 @@
+{
+    "CVE-2025-24200": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-24200",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-24200"
+        }
+    ],
+    "CVE-2024-41710": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-41710",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-41710"
+        }
+    ]
+}

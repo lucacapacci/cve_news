@@ -1,0 +1,14 @@
+{
+    "CVE-2023-48365": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-48365",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-48365"
+        }
+    ],
+    "CVE-2024-12686": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-12686",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-12686"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+{
+    "CVE-2025-71214": [
+        {
+            "title": "ZDI-26-139: Trend Micro Apex One Security Agent iCore Service Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-139/"
+        }
+    ],
+    "CVE-2025-71217": [
+        {
+            "title": "ZDI-26-143: Trend Micro Apex One Security Agent TmSelfProtect Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-143/"
+        }
+    ],
+    "CVE-2026-27794": [
+        {
+            "title": "ZDI-26-135: LangChain LangGraph BaseCache Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-135/"
+        }
+    ],
+    "CVE-2026-21385": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2026-21385",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-21385"
+        }
+    ],
+    "CVE-2025-71213": [
+        {
+            "title": "ZDI-26-140: Trend Micro Apex One Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-140/"
+        }
+    ],
+    "CVE-2026-28400": [
+        {
+            "title": "ZDI-26-150: Docker Desktop for Mac Docker Model Runner Exposed Dangerous Function Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-150/"
+        }
+    ],
+    "CVE-2025-71218": [
+        {
+            "title": "ZDI-26-149: Trend Micro Cleaner One Pro Link Following Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-149/"
+        }
+    ],
+    "CVE-2026-26975": [
+        {
+            "title": "ZDI-26-133: (Pwn2Own) Music Assistant _update_library_item External Control of File Path Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-133/"
+        }
+    ],
+    "CVE-2026-23600": [
+        {
+            "title": "ZDI-26-134: Hewlett Packard Enterprise AutoPass License Server Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-134/"
+        }
+    ],
+    "CVE-2025-71215": [
+        {
+            "title": "ZDI-26-141: Trend Micro Apex One Security Agent iCore Service Signature Verification Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-141/"
+        }
+    ],
+    "CVE-2025-71208": [
+        {
+            "title": "ZDI-26-147: Trend Micro Apex Central Improper Authentication Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-147/"
+        }
+    ],
+    "CVE-2025-71210": [
+        {
+            "title": "ZDI-26-136: Trend Micro Apex One Console Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-136/"
+        }
+    ],
+    "CVE-2025-71209": [
+        {
+            "title": "ZDI-26-148: Trend Micro Apex Central Improper Authentication Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-148/"
+        }
+    ],
+    "CVE-2025-71216": [
+        {
+            "title": "ZDI-26-142: Trend Micro Apex One Security Agent Cache Mechanism Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-142/"
+        }
+    ],
+    "CVE-2025-71207": [
+        {
+            "title": "ZDI-26-146: Trend Micro Apex Central Manual Update Server-Side Request Forgery Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-146/"
+        }
+    ],
+    "CVE-2026-22719": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2026-22719",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-22719"
+        }
+    ],
+    "CVE-2025-71205": [
+        {
+            "title": "ZDI-26-144: Trend Micro Apex Central Hub Server Server-Side Request Forgery Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-144/"
+        }
+    ],
+    "CVE-2025-71206": [
+        {
+            "title": "ZDI-26-145: Trend Micro Apex Central Scheduled Update Server-Side Request Forgery Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-145/"
+        }
+    ],
+    "CVE-2025-71212": [
+        {
+            "title": "ZDI-26-138: Trend Micro Apex One Virus Scan Engine Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-138/"
+        }
+    ],
+    "CVE-2025-71211": [
+        {
+            "title": "ZDI-26-137: Trend Micro Apex One Console Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-137/"
+        }
+    ]
+}

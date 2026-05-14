@@ -1,0 +1,26 @@
+{
+    "CVE-2014-3931": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2014-3931",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2014-3931"
+        }
+    ],
+    "CVE-2019-5418": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2019-5418",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-5418"
+        }
+    ],
+    "CVE-2016-10033": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2016-10033",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2016-10033"
+        }
+    ],
+    "CVE-2019-9621": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2019-9621",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-9621"
+        }
+    ]
+}

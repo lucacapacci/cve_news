@@ -1,0 +1,14 @@
+{
+    "CVE-2024-53197": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-53197",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-53197"
+        }
+    ],
+    "CVE-2024-53150": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-53150",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-53150"
+        }
+    ]
+}

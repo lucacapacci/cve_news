@@ -1,0 +1,20 @@
+{
+    "CVE-2016-6415": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2016-6415",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2016-6415"
+        }
+    ],
+    "CVE-2004-1464": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2004-1464",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2004-1464"
+        }
+    ],
+    "CVE-2023-21492": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-21492",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-21492"
+        }
+    ]
+}

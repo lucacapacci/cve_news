@@ -1,0 +1,26 @@
+{
+    "CVE-2019-19006": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2019-19006",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-19006"
+        }
+    ],
+    "CVE-2025-64328": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-64328",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-64328"
+        }
+    ],
+    "CVE-2025-40551": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2025-40551",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-40551"
+        }
+    ],
+    "CVE-2021-39935": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-39935",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-39935"
+        }
+    ]
+}

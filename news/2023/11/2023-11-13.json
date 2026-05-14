@@ -1,0 +1,38 @@
+{
+    "CVE-2023-47246": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-47246",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-47246"
+        }
+    ],
+    "CVE-2023-36845": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-36845",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-36845"
+        }
+    ],
+    "CVE-2023-36851": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-36851",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-36851"
+        }
+    ],
+    "CVE-2023-36844": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-36844",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-36844"
+        }
+    ],
+    "CVE-2023-36846": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-36846",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-36846"
+        }
+    ],
+    "CVE-2023-36847": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2023-36847",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-36847"
+        }
+    ]
+}

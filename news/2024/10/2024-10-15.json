@@ -1,0 +1,20 @@
+{
+    "CVE-2024-9680": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-9680",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-9680"
+        }
+    ],
+    "CVE-2024-28987": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-28987",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-28987"
+        }
+    ],
+    "CVE-2024-30088": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2024-30088",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-30088"
+        }
+    ]
+}

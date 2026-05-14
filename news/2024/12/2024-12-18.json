@@ -1,0 +1,26 @@
+{
+    "CVE-2018-14933": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2018-14933",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2018-14933"
+        }
+    ],
+    "CVE-2021-40407": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2021-40407",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-40407"
+        }
+    ],
+    "CVE-2022-23227": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2022-23227",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-23227"
+        }
+    ],
+    "CVE-2019-11001": [
+        {
+            "title": "New vulnerability added to CISA KEV: CVE-2019-11001",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-11001"
+        }
+    ]
+}
