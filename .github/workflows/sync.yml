@@ -32,4 +32,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add news/
+          git add cves/
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: RSS & CISA KEV $(date +'%Y-%m-%d %H:%M')" && git push)
