@@ -83,46 +83,6 @@ def save_cve_entry(date_str, cve_id, title, link):
             json.dump(cve_data, f, indent=4)
         print(f"Logged {cve_id} for {date_str}")
 
-def migrate_old_data():
-    """
-    TEMP: Migrates old news/YYYY/YYYY-MM-DD/CVE-ID.json files 
-    to the two new directory structures.
-    """
-    print("🚀 Starting one-time migration...")
-    root = "news"
-    if not os.path.exists(root):
-        return
-
-    # Looking for old structure: news/<year>/<date_str>/<cve_id>.json
-    for year_folder in os.listdir(root):
-        year_path = os.path.join(root, year_folder)
-        if not os.path.isdir(year_path) or len(year_folder) != 4:
-            continue
-            
-        for date_folder in os.listdir(year_path):
-            date_path = os.path.join(year_path, date_folder)
-            if not os.path.isdir(date_path):
-                continue
-            
-            for cve_json in os.listdir(date_path):
-                if not cve_json.endswith(".json"):
-                    continue
-                
-                cve_id = cve_json.replace(".json", "")
-                with open(os.path.join(date_path, cve_json), 'r') as f:
-                    try:
-                        entries = json.load(f)
-                        for entry in entries:
-                            save_cve_entry(
-                                date_str=date_folder, # YYYY-MM-DD
-                                cve_id=cve_id,
-                                title=entry.get('title'),
-                                link=entry.get('link')
-                            )
-                    except:
-                        continue
-    print("✅ Migration complete.")
-
 def process_rss_feeds():
     for url in FEEDS:
         print(f"Fetching RSS: {url}")
@@ -157,9 +117,6 @@ def process_cisa_kev():
     except Exception as e:
         print(f"Error: {e}")
 
-if __name__ == "__main__":
-    # Remove migrate_old_data() after the first successful GitHub Action run
-    migrate_old_data()
-    
+if __name__ == "__main__":  
     process_rss_feeds()
     process_cisa_kev()
