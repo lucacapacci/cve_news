@@ -1,8 +1,0 @@
-{
-    "CVE-2025-62847": [
-        {
-            "title": "ZDI-26-216: (Pwn2Own) QNAP TS-453E smbd domain_name Argument Injection Authentication Bypass Vulnerability",
-            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-216/"
-        }
-    ]
-}

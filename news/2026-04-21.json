@@ -1,8 +1,0 @@
-{
-    "CVE-2026-5059": [
-        {
-            "title": "ZDI-26-245: (0Day) aws-mcp-server AWS CLI Command Injection Remote Code Execution Vulnerability",
-            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-245/"
-        }
-    ]
-}

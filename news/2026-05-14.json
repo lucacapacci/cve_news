@@ -1,8 +1,0 @@
-{
-    "CVE-2026-42945": [
-        {
-            "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-            "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html"
-        }
-    ]
-}
