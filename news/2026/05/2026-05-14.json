@@ -17,6 +17,10 @@
         {
             "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
             "link": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/"
+        },
+        {
+            "title": "Fragnesia (CVE-2026-46300): Frequently asked questions about new Linux Kernel XFRM ESP-in-TCP privilege escalation",
+            "link": "https://www.tenable.com/blog/fragnesia-cve-2026-46300-faq-about-new-linux-kernel-xfrm-esp-in-tcp-priv-esc"
         }
     ],
     "CVE-2026-44338": [
@@ -33,6 +37,46 @@
         {
             "title": "CISA KEV Addition: CVE-2026-20182",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20182"
+        },
+        {
+            "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/"
+        }
+    ],
+    "CVE-2024-1086": [
+        {
+            "title": "Fragnesia (CVE-2026-46300): Frequently asked questions about new Linux Kernel XFRM ESP-in-TCP privilege escalation",
+            "link": "https://www.tenable.com/blog/fragnesia-cve-2026-46300-faq-about-new-linux-kernel-xfrm-esp-in-tcp-priv-esc"
+        }
+    ],
+    "CVE-2026-43500": [
+        {
+            "title": "Fragnesia (CVE-2026-46300): Frequently asked questions about new Linux Kernel XFRM ESP-in-TCP privilege escalation",
+            "link": "https://www.tenable.com/blog/fragnesia-cve-2026-46300-faq-about-new-linux-kernel-xfrm-esp-in-tcp-priv-esc"
+        }
+    ],
+    "CVE-2026-43284": [
+        {
+            "title": "Fragnesia (CVE-2026-46300): Frequently asked questions about new Linux Kernel XFRM ESP-in-TCP privilege escalation",
+            "link": "https://www.tenable.com/blog/fragnesia-cve-2026-46300-faq-about-new-linux-kernel-xfrm-esp-in-tcp-priv-esc"
+        }
+    ],
+    "CVE-2026-31431": [
+        {
+            "title": "Fragnesia (CVE-2026-46300): Frequently asked questions about new Linux Kernel XFRM ESP-in-TCP privilege escalation",
+            "link": "https://www.tenable.com/blog/fragnesia-cve-2026-46300-faq-about-new-linux-kernel-xfrm-esp-in-tcp-priv-esc"
+        }
+    ],
+    "CVE-2016-5195": [
+        {
+            "title": "Fragnesia (CVE-2026-46300): Frequently asked questions about new Linux Kernel XFRM ESP-in-TCP privilege escalation",
+            "link": "https://www.tenable.com/blog/fragnesia-cve-2026-46300-faq-about-new-linux-kernel-xfrm-esp-in-tcp-priv-esc"
+        }
+    ],
+    "CVE-2022-0847": [
+        {
+            "title": "Fragnesia (CVE-2026-46300): Frequently asked questions about new Linux Kernel XFRM ESP-in-TCP privilege escalation",
+            "link": "https://www.tenable.com/blog/fragnesia-cve-2026-46300-faq-about-new-linux-kernel-xfrm-esp-in-tcp-priv-esc"
         }
     ]
 }
