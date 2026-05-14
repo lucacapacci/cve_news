@@ -29,38 +29,106 @@ def extract_cves(text):
     standardized = {m.replace('—', '-').replace('–', '-').upper() for m in matches}
     return standardized
 
-def extract_cves(text):
-    matches = re.findall(CVE_REGEX, text, re.IGNORECASE)
-    return {m.replace('—', '-').replace('–', '-').upper() for m in matches}
-
 def save_cve_entry(date_str, cve_id, title, link):
-    """Helper to save or update the CVE JSON file with year subdirectories."""
-    # Extract the year from the date string (YYYY-MM-DD)
-    year = date_str.split('-')[0]
+    """Saves CVE entries into the new dual-structure: news/ and cves/."""
     
-    # Update path to include the year: news/YYYY/YYYY-MM-DD/
-    dir_path = os.path.join("news", year, date_str)
-    os.makedirs(dir_path, exist_ok=True)
+    # 1. Handle news/<date>.json structure
+    os.makedirs("news", exist_ok=True)
+    news_file = os.path.join("news", f"{date_str}.json")
     
-    file_path = os.path.join(dir_path, f"{cve_id}.json")
-    
-    data = []
-    if os.path.exists(file_path):
-        with open(file_path, 'r') as f:
+    news_data = {}
+    if os.path.exists(news_file):
+        with open(news_file, 'r') as f:
             try:
-                data = json.load(f)
+                news_data = json.load(f)
             except json.JSONDecodeError:
-                data = []
+                news_data = {}
 
-    # Check for uniqueness based on link
-    if not any(item.get('link') == link for item in data):
-        data.append({
+    if cve_id not in news_data:
+        news_data[cve_id] = []
+    
+    # Check for uniqueness in news entry
+    if not any(item.get('link') == link for item in news_data[cve_id]):
+        news_data[cve_id].append({
             "title": title,
             "link": link
         })
-        with open(file_path, 'w') as f:
-            json.dump(data, f, indent=4)
-        print(f"Saved: {cve_id} in {date_str}")
+        with open(news_file, 'w') as f:
+            json.dump(news_data, f, indent=4)
+
+    # 2. Handle cves/<year>/<CVEID>.json structure
+    # Extract year from CVE-ID (e.g., CVE-2025-1234 -> 2025)
+    try:
+        cve_year = cve_id.split('-')[1]
+    except IndexError:
+        cve_year = "unknown"
+
+    cve_dir = os.path.join("cves", cve_year)
+    os.makedirs(cve_dir, exist_ok=True)
+    cve_file = os.path.join(cve_dir, f"{cve_id}.json")
+
+    cve_data = []
+    if os.path.exists(cve_file):
+        with open(cve_file, 'r') as f:
+            try:
+                cve_data = json.load(f)
+            except json.JSONDecodeError:
+                cve_data = []
+
+    # Check for uniqueness in CVE entry
+    if not any(item.get('link') == link for item in cve_data):
+        cve_data.append({
+            "title": title,
+            "link": link,
+            "date": date_str
+        })
+        with open(cve_file, 'w') as f:
+            json.dump(cve_data, f, indent=4)
+        print(f"Updated: {cve_id} (Date: {date_str})")
+
+def migrate_old_data():
+    """
+    Temporary function to migrate from news/YYYY/YYYY-MM-DD/CVE-ID.json 
+    to the new structures.
+    """
+    print("Starting migration of old data structure...")
+    old_news_root = "news"
+    if not os.path.exists(old_news_root):
+        return
+
+    # Old structure: news/<year>/<date_str>/<cve_id>.json
+    for year_dir in os.listdir(old_news_root):
+        year_path = os.path.join(old_news_root, year_dir)
+        if not os.path.isdir(year_path) or not year_dir.isdigit():
+            continue
+        
+        for date_dir in os.listdir(year_path):
+            date_path = os.path.join(year_path, date_dir)
+            if not os.path.isdir(date_path):
+                continue
+            
+            # date_dir should be YYYY-MM-DD
+            for cve_file in os.listdir(date_path):
+                if not cve_file.endswith(".json"):
+                    continue
+                
+                cve_id = cve_file.replace(".json", "")
+                full_path = os.path.join(date_path, cve_file)
+                
+                try:
+                    with open(full_path, 'r') as f:
+                        entries = json.load(f)
+                        for entry in entries:
+                            save_cve_entry(
+                                date_str=date_dir,
+                                cve_id=cve_id,
+                                title=entry.get('title'),
+                                link=entry.get('link')
+                            )
+                except Exception as e:
+                    print(f"Error migrating {full_path}: {e}")
+
+    print("Migration complete. (Note: Old directories were not deleted automatically).")
 
 def process_rss_feeds():
     for url in FEEDS:
@@ -93,11 +161,7 @@ def process_cisa_kev():
             cve_id = vuln.get('cveID', '').upper()
             date_added = vuln.get('dateAdded', '') # Format is already YYYY-MM-DD
             
-            # The 'notes' field often contains multiple URLs separated by semicolons
-            # We'll take the first one as the primary link
-            notes = vuln.get('notes', '')
             link = f"https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve={cve_id}"
-            
             title = f"New vulnerability added to CISA KEV: {cve_id}"
             
             if cve_id and date_added:
@@ -106,5 +170,9 @@ def process_cisa_kev():
         print(f"Error processing CISA KEV: {e}")
 
 if __name__ == "__main__":
+    # Run migration first (remove this line after the first successful run)
+    migrate_old_data()
+    
+    # Process new data
     process_rss_feeds()
     process_cisa_kev()
