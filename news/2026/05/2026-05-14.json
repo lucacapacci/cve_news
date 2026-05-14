@@ -13,6 +13,10 @@
         {
             "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
             "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/"
+        },
+        {
+            "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
+            "link": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/"
         }
     ],
     "CVE-2026-44338": [
