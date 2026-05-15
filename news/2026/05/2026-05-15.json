@@ -7,6 +7,10 @@
         {
             "title": "Critical Microsoft Exchange Server Vulnerability Actively Exploited in Attacks",
             "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerability-exploited/"
+        },
+        {
+            "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild",
+            "link": "https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/"
         }
     ],
     "CVE-2026-20182": [
