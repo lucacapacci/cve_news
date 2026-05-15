@@ -41,6 +41,10 @@
         {
             "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
             "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/"
+        },
+        {
+            "title": "Frequently asked questions about the continued exploitation of Cisco Catalyst SD-WAN vulnerabilities (CVE-2026-20182)",
+            "link": "https://www.tenable.com/blog/faq-about-the-continued-exploitation-of-cisco-catalyst-sd-wan-vulnerabilities-uat-8616"
         }
     ],
     "CVE-2024-1086": [
@@ -77,6 +81,36 @@
         {
             "title": "Fragnesia (CVE-2026-46300): Frequently asked questions about new Linux Kernel XFRM ESP-in-TCP privilege escalation",
             "link": "https://www.tenable.com/blog/fragnesia-cve-2026-46300-faq-about-new-linux-kernel-xfrm-esp-in-tcp-priv-esc"
+        }
+    ],
+    "CVE-2022-20775": [
+        {
+            "title": "Frequently asked questions about the continued exploitation of Cisco Catalyst SD-WAN vulnerabilities (CVE-2026-20182)",
+            "link": "https://www.tenable.com/blog/faq-about-the-continued-exploitation-of-cisco-catalyst-sd-wan-vulnerabilities-uat-8616"
+        }
+    ],
+    "CVE-2026-20122": [
+        {
+            "title": "Frequently asked questions about the continued exploitation of Cisco Catalyst SD-WAN vulnerabilities (CVE-2026-20182)",
+            "link": "https://www.tenable.com/blog/faq-about-the-continued-exploitation-of-cisco-catalyst-sd-wan-vulnerabilities-uat-8616"
+        }
+    ],
+    "CVE-2026-20133": [
+        {
+            "title": "Frequently asked questions about the continued exploitation of Cisco Catalyst SD-WAN vulnerabilities (CVE-2026-20182)",
+            "link": "https://www.tenable.com/blog/faq-about-the-continued-exploitation-of-cisco-catalyst-sd-wan-vulnerabilities-uat-8616"
+        }
+    ],
+    "CVE-2026-20127": [
+        {
+            "title": "Frequently asked questions about the continued exploitation of Cisco Catalyst SD-WAN vulnerabilities (CVE-2026-20182)",
+            "link": "https://www.tenable.com/blog/faq-about-the-continued-exploitation-of-cisco-catalyst-sd-wan-vulnerabilities-uat-8616"
+        }
+    ],
+    "CVE-2026-20128": [
+        {
+            "title": "Frequently asked questions about the continued exploitation of Cisco Catalyst SD-WAN vulnerabilities (CVE-2026-20182)",
+            "link": "https://www.tenable.com/blog/faq-about-the-continued-exploitation-of-cisco-catalyst-sd-wan-vulnerabilities-uat-8616"
         }
     ]
 }
