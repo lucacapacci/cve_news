@@ -28,5 +28,11 @@
             "title": "VMware Fusion Vulnerability Let Attackers Escalate Privilege to Root",
             "link": "https://cybersecuritynews.com/vmware-fusion-toctou-vulnerability/"
         }
+    ],
+    "CVE-2026-44338": [
+        {
+            "title": "PraisonAI Vulnerability Exploited Within Hours of Public Disclosure",
+            "link": "https://cybersecuritynews.com/praisonai-vulnerability-exploited/"
+        }
     ]
 }
