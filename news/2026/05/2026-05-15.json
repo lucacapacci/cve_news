@@ -3,6 +3,10 @@
         {
             "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
             "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html"
+        },
+        {
+            "title": "Critical Microsoft Exchange Server Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerability-exploited/"
         }
     ],
     "CVE-2026-20182": [
@@ -13,6 +17,16 @@
         {
             "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
             "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/"
+        },
+        {
+            "title": "Cisco Catalyst SD-WAN Controller 0-Day Actively Exploited to Gain Admin Access",
+            "link": "https://cybersecuritynews.com/cisco-catalyst-sd-wan-controller-0-day/"
+        }
+    ],
+    "CVE-2026-41702": [
+        {
+            "title": "VMware Fusion Vulnerability Let Attackers Escalate Privilege to Root",
+            "link": "https://cybersecuritynews.com/vmware-fusion-toctou-vulnerability/"
         }
     ]
 }
