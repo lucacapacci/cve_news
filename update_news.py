@@ -14,6 +14,7 @@ FEEDS = [
     "https://www.darkreading.com/rss.xml",
     "https://feeds.feedburner.com/tenable/qaXL",
     "https://www.zerodayinitiative.com/rss/published/",
+    "https://cybersecuritynews.com/feed/"
 ]
 
 CISA_KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
