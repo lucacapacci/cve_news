@@ -1,0 +1,18 @@
+{
+    "CVE-2026-42897": [
+        {
+            "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+            "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html"
+        }
+    ],
+    "CVE-2026-20182": [
+        {
+            "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+            "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html"
+        },
+        {
+            "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
+            "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/"
+        }
+    ]
+}
