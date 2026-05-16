@@ -1,0 +1,8 @@
+{
+    "CVE-2026-46333": [
+        {
+            "title": "Critical Linux Kernel Flaw \u2018ssh-keysign-pwn\u2019 Exposes SSH Keys and Shadow Passwords",
+            "link": "https://cybersecuritynews.com/linux-kernel-vulnerability-ssh-keysign-pwn/"
+        }
+    ]
+}
