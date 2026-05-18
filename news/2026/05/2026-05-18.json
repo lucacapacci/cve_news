@@ -16,5 +16,23 @@
             "title": "CISA Warns of Microsoft Exchange Server Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/cisa-microsoft-exchange-server-vulnerability/"
         }
+    ],
+    "CVE-2026-44789": [
+        {
+            "title": "Critical n8n Vulnerabilities Expose Automation Nodes to Full RCE",
+            "link": "https://cybersecuritynews.com/n8n-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-44791": [
+        {
+            "title": "Critical n8n Vulnerabilities Expose Automation Nodes to Full RCE",
+            "link": "https://cybersecuritynews.com/n8n-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-44790": [
+        {
+            "title": "Critical n8n Vulnerabilities Expose Automation Nodes to Full RCE",
+            "link": "https://cybersecuritynews.com/n8n-rce-vulnerabilities/"
+        }
     ]
 }
