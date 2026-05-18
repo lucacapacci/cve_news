@@ -1,0 +1,8 @@
+{
+    "CVE-2026-8181": [
+        {
+            "title": "Critical WordPress Plugin Vulnerability Exposes Websites to Authentication Bypass Attacks",
+            "link": "https://cybersecuritynews.com/wordpress-plugin-vulnerability-exposes-websites/"
+        }
+    ]
+}
