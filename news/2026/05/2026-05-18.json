@@ -34,5 +34,11 @@
             "title": "Critical n8n Vulnerabilities Expose Automation Nodes to Full RCE",
             "link": "https://cybersecuritynews.com/n8n-rce-vulnerabilities/"
         }
+    ],
+    "CVE-2026-42945": [
+        {
+            "title": "Hackers Actively Exploiting Critical NGINX RCE Vulnerability in the Wild",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-nginx-rce-vulnerability/"
+        }
     ]
 }
