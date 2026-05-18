@@ -4,5 +4,17 @@
             "title": "Critical WordPress Plugin Vulnerability Exposes Websites to Authentication Bypass Attacks",
             "link": "https://cybersecuritynews.com/wordpress-plugin-vulnerability-exposes-websites/"
         }
+    ],
+    "CVE-2026-8043": [
+        {
+            "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+            "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html"
+        }
+    ],
+    "CVE-2026-42897": [
+        {
+            "title": "CISA Warns of Microsoft Exchange Server Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-microsoft-exchange-server-vulnerability/"
+        }
     ]
 }
