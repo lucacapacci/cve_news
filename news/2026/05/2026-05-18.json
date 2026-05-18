@@ -15,6 +15,10 @@
         {
             "title": "CISA Warns of Microsoft Exchange Server Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/cisa-microsoft-exchange-server-vulnerability/"
+        },
+        {
+            "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available",
+            "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch"
         }
     ],
     "CVE-2026-44789": [
