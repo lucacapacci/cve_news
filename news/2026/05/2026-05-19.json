@@ -4,5 +4,11 @@
             "title": "Critical Vulnerability Exposes Industrial Robot Fleets to Hacking",
             "link": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/"
         }
+    ],
+    "CVE-2026-39987": [
+        {
+            "title": "Critical Marimo Security Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/marimo-security-vulnerability/"
+        }
     ]
 }
