@@ -10,5 +10,23 @@
             "title": "Critical Marimo Security Vulnerability Enables Remote Code Execution Attacks",
             "link": "https://cybersecuritynews.com/marimo-security-vulnerability/"
         }
+    ],
+    "CVE-2026-31635": [
+        {
+            "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
+            "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html"
+        }
+    ],
+    "CVE-2024-9643": [
+        {
+            "title": "Hackers Hijacking Four-Faith Industrial Routers for Botnet Activity",
+            "link": "https://cybersecuritynews.com/hijacking-four-faith-industrial-routers-for-botnet/"
+        }
+    ],
+    "CVE-2026-35194": [
+        {
+            "title": "Critical Apache Flink Vulnerability Enables Remote code execution Attacks",
+            "link": "https://cybersecuritynews.com/apache-flink-vulnerability/"
+        }
     ]
 }
