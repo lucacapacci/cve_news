@@ -15,6 +15,10 @@
         {
             "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
             "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html"
+        },
+        {
+            "title": "DirtyDecrypt Linux Kernel Vulnerability PoC Exploit Code Released",
+            "link": "https://cybersecuritynews.com/dirtydecrypt-linux-kernel-vulnerability/"
         }
     ],
     "CVE-2024-9643": [
