@@ -64,5 +64,17 @@
             "title": "Mini Shai-Hulud: Frequently asked questions about the TeamPCP npm and PyPI supply chain campaign",
             "link": "https://www.tenable.com/blog/mini-shai-hulud-frequently-asked-questions"
         }
+    ],
+    "CVE-2025-34291": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-34291",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-34291"
+        }
+    ],
+    "CVE-2026-34926": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-34926",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34926"
+        }
     ]
 }
