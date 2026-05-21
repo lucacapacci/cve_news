@@ -3,12 +3,32 @@
         {
             "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
             "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html"
+        },
+        {
+            "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
+            "link": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/"
         }
     ],
     "CVE-2026-46333": [
         {
             "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
             "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html"
+        },
+        {
+            "title": "Nine-year-old Linux Kernel Vulnerability Let Attackers Exfiltrate SSH Private Keys",
+            "link": "https://cybersecuritynews.com/nine-year-old-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-41091": [
+        {
+            "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
+            "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html"
+        }
+    ],
+    "CVE-2026-20223": [
+        {
+            "title": "Critical Cisco Secure Workload Vulnerability Enables Unauthorized API Access",
+            "link": "https://cybersecuritynews.com/cisco-secure-workload-vulnerability/"
         }
     ]
 }
