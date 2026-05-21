@@ -58,5 +58,11 @@
             "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
             "link": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004"
         }
+    ],
+    "CVE-2026-45321": [
+        {
+            "title": "Mini Shai-Hulud: Frequently asked questions about the TeamPCP npm and PyPI supply chain campaign",
+            "link": "https://www.tenable.com/blog/mini-shai-hulud-frequently-asked-questions"
+        }
     ]
 }
