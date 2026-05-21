@@ -7,6 +7,10 @@
         {
             "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
             "link": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/"
+        },
+        {
+            "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
+            "link": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004"
         }
     ],
     "CVE-2026-46333": [
@@ -29,6 +33,30 @@
         {
             "title": "Critical Cisco Secure Workload Vulnerability Enables Unauthorized API Access",
             "link": "https://cybersecuritynews.com/cisco-secure-workload-vulnerability/"
+        }
+    ],
+    "CVE-2018-7602": [
+        {
+            "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
+            "link": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004"
+        }
+    ],
+    "CVE-2018-7600": [
+        {
+            "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
+            "link": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004"
+        }
+    ],
+    "CVE-2019-6340": [
+        {
+            "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
+            "link": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004"
+        }
+    ],
+    "CVE-2020-13671": [
+        {
+            "title": "CVE-2026-9082: Highly Critical SQL Injection Vulnerability in Drupal Core (SA-CORE-2026-004)",
+            "link": "https://www.tenable.com/blog/cve-2026-9082-highly-critical-sql-injection-vulnerability-in-drupal-core-sa-core-2026-004"
         }
     ]
 }
