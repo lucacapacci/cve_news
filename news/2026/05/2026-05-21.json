@@ -4,5 +4,11 @@
             "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
             "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html"
         }
+    ],
+    "CVE-2026-46333": [
+        {
+            "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+            "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html"
+        }
     ]
 }
