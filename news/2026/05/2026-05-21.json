@@ -1,0 +1,8 @@
+{
+    "CVE-2026-9082": [
+        {
+            "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+            "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html"
+        }
+    ]
+}
