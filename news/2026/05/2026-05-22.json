@@ -9,6 +9,10 @@
         {
             "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
             "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html"
+        },
+        {
+            "title": "CISA adds Langflow Origin Validation Flaw to Known Exploited Vulnerabilities Catalog",
+            "link": "https://cybersecuritynews.com/langflow-origin-validation-flaw-exploit/"
         }
     ],
     "CVE-2026-34926": [
@@ -37,6 +41,24 @@
         {
             "title": "Splunk Patches Multiple Vulnerabilities that Enable DOS Attack and Exposes Sensitive Data",
             "link": "https://cybersecuritynews.com/splunk-patches-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-9082": [
+        {
+            "title": "Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
+            "link": "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/"
+        }
+    ],
+    "CVE-2026-45498": [
+        {
+            "title": "CISA Warns of Microsoft Defender 0-Day Vulnerabilities Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-defender-0-day-vulnerabilities-exploited/"
+        }
+    ],
+    "CVE-2026-41091": [
+        {
+            "title": "CISA Warns of Microsoft Defender 0-Day Vulnerabilities Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-defender-0-day-vulnerabilities-exploited/"
         }
     ]
 }
