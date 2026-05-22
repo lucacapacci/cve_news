@@ -47,6 +47,10 @@
         {
             "title": "Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
             "link": "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-9082",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-9082"
         }
     ],
     "CVE-2026-45498": [
