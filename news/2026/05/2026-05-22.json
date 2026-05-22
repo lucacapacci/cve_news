@@ -4,5 +4,39 @@
             "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
             "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html"
         }
+    ],
+    "CVE-2025-34291": [
+        {
+            "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+            "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html"
+        }
+    ],
+    "CVE-2026-34926": [
+        {
+            "title": "TrendAI Patches Apex One Zero-Day Exploited in the Wild",
+            "link": "https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/"
+        },
+        {
+            "title": "CISA Warns of Trend Micro Apex One Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/trend-micro-apex-one-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-20238": [
+        {
+            "title": "Splunk Patches Multiple Vulnerabilities that Enable DOS Attack and Exposes Sensitive Data",
+            "link": "https://cybersecuritynews.com/splunk-patches-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20240": [
+        {
+            "title": "Splunk Patches Multiple Vulnerabilities that Enable DOS Attack and Exposes Sensitive Data",
+            "link": "https://cybersecuritynews.com/splunk-patches-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20239": [
+        {
+            "title": "Splunk Patches Multiple Vulnerabilities that Enable DOS Attack and Exposes Sensitive Data",
+            "link": "https://cybersecuritynews.com/splunk-patches-multiple-vulnerabilities/"
+        }
     ]
 }
