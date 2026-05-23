@@ -10,5 +10,11 @@
             "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
             "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html"
         }
+    ],
+    "CVE-2026-9256": [
+        {
+            "title": "Nginx-poolslip Vulnerability Enables DoS and Code Execution Attacks \u2014 Patch Now!",
+            "link": "https://cybersecuritynews.com/nginx-poolslip-vulnerability/"
+        }
     ]
 }
