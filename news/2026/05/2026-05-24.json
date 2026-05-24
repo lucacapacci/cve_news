@@ -1,0 +1,8 @@
+{
+    "CVE-2026-26980": [
+        {
+            "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+            "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/"
+        }
+    ]
+}
