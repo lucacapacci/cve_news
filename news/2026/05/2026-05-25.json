@@ -10,5 +10,11 @@
             "title": "CISA Warns of Drupal Core SQL Injection Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/drupal-core-sql-injection-vulnerability-exploited/"
         }
+    ],
+    "CVE-2026-5426": [
+        {
+            "title": "KnowledgeDeliver LMS Zero-Day Exploited to Deploy BLUEBEAM Web Shell",
+            "link": "https://cybersecuritynews.com/knowledgedeliver-lms-zero-day-exploited/"
+        }
     ]
 }
