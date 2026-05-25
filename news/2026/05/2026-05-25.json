@@ -1,0 +1,14 @@
+{
+    "CVE-2026-26980": [
+        {
+            "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
+            "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html"
+        }
+    ],
+    "CVE-2026-9082": [
+        {
+            "title": "CISA Warns of Drupal Core SQL Injection Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/drupal-core-sql-injection-vulnerability-exploited/"
+        }
+    ]
+}
