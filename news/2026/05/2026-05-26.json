@@ -10,5 +10,11 @@
             "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
             "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html"
         }
+    ],
+    "CVE-2026-45659": [
+        {
+            "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
+            "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html"
+        }
     ]
 }
