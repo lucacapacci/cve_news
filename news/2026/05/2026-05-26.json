@@ -15,6 +15,22 @@
         {
             "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
             "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html"
+        },
+        {
+            "title": "Microsoft SharePoint Server Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/sharepoint-server-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-26980": [
+        {
+            "title": "Hackers Exploit Ghost CMS CVE-2026-26980 to Poison 700 Websites With ClickFix Malware",
+            "link": "https://cybersecuritynews.com/hackers-exploit-ghost-cms-cve-2026-26980/"
+        }
+    ],
+    "CVE-2026-48172": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-48172",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48172"
         }
     ]
 }
