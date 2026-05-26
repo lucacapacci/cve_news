@@ -4,5 +4,11 @@
             "title": "New 7-Zip Vulnerabilities Let Attackers Execute Arbitrary Code and Compromise Systems",
             "link": "https://cybersecuritynews.com/7-zip-vulnerabilities-code-execution/"
         }
+    ],
+    "CVE-2026-5426": [
+        {
+            "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+            "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html"
+        }
     ]
 }
