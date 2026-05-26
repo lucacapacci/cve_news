@@ -1,0 +1,8 @@
+{
+    "CVE-2026-48095": [
+        {
+            "title": "New 7-Zip Vulnerabilities Let Attackers Execute Arbitrary Code and Compromise Systems",
+            "link": "https://cybersecuritynews.com/7-zip-vulnerabilities-code-execution/"
+        }
+    ]
+}
