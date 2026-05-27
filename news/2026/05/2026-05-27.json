@@ -1,0 +1,26 @@
+{
+    "CVE-2026-27771": [
+        {
+            "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
+            "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html"
+        }
+    ],
+    "CVE-2026-48710": [
+        {
+            "title": "Attackers Can Exploit BadHost to Access Sensitive AI Agent Server Endpoints",
+            "link": "https://cybersecuritynews.com/badhost-ai-agent-vulnerability/"
+        }
+    ],
+    "CVE-2026-48172": [
+        {
+            "title": "CISA Warns of LiteSpeed cPanel Plugin Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/litespeed-cpanel-plugin-vulnerability-exploit/"
+        }
+    ],
+    "CVE-2026-40369": [
+        {
+            "title": "Windows Kernel Vulnerability Allows Attackers to Modify Kernel Memory Counters",
+            "link": "https://cybersecuritynews.com/windows-kernel-vulnerability/"
+        }
+    ]
+}
