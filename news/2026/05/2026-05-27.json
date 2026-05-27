@@ -22,5 +22,287 @@
             "title": "Windows Kernel Vulnerability Allows Attackers to Modify Kernel Memory Counters",
             "link": "https://cybersecuritynews.com/windows-kernel-vulnerability/"
         }
+    ],
+    "CVE-2023-4966": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2013-2465": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2021-44228": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2025-41244": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2024-1709": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2021-1732": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2024-9474": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2013-3900": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-28252": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2017-0143": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2021-26855": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-36874": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-20198": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2024-21887": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2026-21510": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-23397": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2017-0199": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-22515": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-46805": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-22518": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2022-26134": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2017-11882": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2024-27199": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-20273": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-36884": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2022-30190": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2017-0146": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2018-13379": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2018-8453": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2024-3400": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2024-1708": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2020-1472": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-32046": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-34048": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2024-27198": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2021-26857": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2017-0144": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2026-21513": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2024-0012": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2021-27065": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2023-42793": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2022-1388": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2014-4114": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2021-26858": [
+        {
+            "title": "Inside the customer environment: Where threat actors, vulnerabilities, and exposed assets intersect",
+            "link": "https://www.tenable.com/blog/vulnerability-prioritization-attacker-mapping-severity-exploitation-risk"
+        }
+    ],
+    "CVE-2026-48027": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-48027",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48027"
+        }
+    ],
+    "CVE-2026-45321": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-45321",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-45321"
+        }
+    ],
+    "CVE-2026-8398": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-8398",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-8398"
+        }
     ]
 }
