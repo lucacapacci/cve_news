@@ -4,5 +4,17 @@
             "title": "FortiClient Code Execution Vulnerability Exploited to Deploy EKZ Malware",
             "link": "https://cybersecuritynews.com/forticlient-code-execution-vulnerability/"
         }
+    ],
+    "CVE-2026-27771": [
+        {
+            "title": "Gitea Container Vulnerability Exposes Private Container Images to Attackers",
+            "link": "https://cybersecuritynews.com/gitea-container-vulnerability/"
+        }
+    ],
+    "CVE-2026-32996": [
+        {
+            "title": "Veeam Backup & Replication Tool Vulnerability Enables Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/veeam-backup-replication-tool-vulnerability/"
+        }
     ]
 }
