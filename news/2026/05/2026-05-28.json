@@ -1,0 +1,8 @@
+{
+    "CVE-2026-35616": [
+        {
+            "title": "FortiClient Code Execution Vulnerability Exploited to Deploy EKZ Malware",
+            "link": "https://cybersecuritynews.com/forticlient-code-execution-vulnerability/"
+        }
+    ]
+}
