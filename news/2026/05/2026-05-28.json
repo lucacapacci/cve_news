@@ -3,6 +3,10 @@
         {
             "title": "FortiClient Code Execution Vulnerability Exploited to Deploy EKZ Malware",
             "link": "https://cybersecuritynews.com/forticlient-code-execution-vulnerability/"
+        },
+        {
+            "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/"
         }
     ],
     "CVE-2026-27771": [
@@ -21,6 +25,48 @@
         {
             "title": "Critical OpenVPN Connect for macOS Vulnerability Let Attackers Execute Arbitrary Commands",
             "link": "https://cybersecuritynews.com/openvpn-connect-for-macos-vulnerability/"
+        }
+    ],
+    "CVE-2026-45208": [
+        {
+            "title": "ZDI-26-326: TrendAI Vision One Security Agent Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-326/"
+        }
+    ],
+    "CVE-2026-45207": [
+        {
+            "title": "ZDI-26-325: TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-325/"
+        }
+    ],
+    "CVE-2026-45206": [
+        {
+            "title": "ZDI-26-324: TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-324/"
+        }
+    ],
+    "CVE-2026-34930": [
+        {
+            "title": "ZDI-26-323: TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-323/"
+        }
+    ],
+    "CVE-2026-34929": [
+        {
+            "title": "ZDI-26-322: TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-322/"
+        }
+    ],
+    "CVE-2026-34928": [
+        {
+            "title": "ZDI-26-321: TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-321/"
+        }
+    ],
+    "CVE-2026-34927": [
+        {
+            "title": "ZDI-26-320: TrendAI Vision One Security Agent Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-320/"
         }
     ]
 }
