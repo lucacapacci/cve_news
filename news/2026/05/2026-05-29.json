@@ -1,0 +1,8 @@
+{
+    "CVE-2026-4480": [
+        {
+            "title": "Critical Samba Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/samba-rce-vulnerability/"
+        }
+    ]
+}
