@@ -7,6 +7,10 @@
         {
             "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
             "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html"
+        },
+        {
+            "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/"
         }
     ]
 }
