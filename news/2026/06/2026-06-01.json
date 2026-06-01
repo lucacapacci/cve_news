@@ -3,12 +3,22 @@
         {
             "title": "Windows Netlogon 0-Click RCE Vulnerability Now Actively Exploited In The Wild",
             "link": "https://cybersecuritynews.com/windows-netlogon-0-click-rce/"
+        },
+        {
+            "title": "Critical Windows Netlogon Vulnerability in Attackers\u2019 Crosshairs",
+            "link": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/"
         }
     ],
     "CVE-2026-0257": [
         {
             "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
             "link": "https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/"
+        }
+    ],
+    "CVE-2026-44962": [
+        {
+            "title": "Critical Plesk Vulnerability Let Users Execute Arbitrary Commands on the Server",
+            "link": "https://cybersecuritynews.com/plesk-command-execution-vulnerability/"
         }
     ]
 }
