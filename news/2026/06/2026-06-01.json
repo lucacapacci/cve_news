@@ -1,0 +1,8 @@
+{
+    "CVE-2026-41089": [
+        {
+            "title": "Windows Netlogon 0-Click RCE Vulnerability Now Actively Exploited In The Wild",
+            "link": "https://cybersecuritynews.com/windows-netlogon-0-click-rce/"
+        }
+    ]
+}
