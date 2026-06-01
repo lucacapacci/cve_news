@@ -4,5 +4,11 @@
             "title": "Windows Netlogon 0-Click RCE Vulnerability Now Actively Exploited In The Wild",
             "link": "https://cybersecuritynews.com/windows-netlogon-0-click-rce/"
         }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
+            "link": "https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/"
+        }
     ]
 }
