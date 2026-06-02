@@ -40,5 +40,11 @@
             "title": "CISA KEV Addition: CVE-2022-0492",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-0492"
         }
+    ],
+    "CVE-2026-8206": [
+        {
+            "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/"
+        }
     ]
 }
