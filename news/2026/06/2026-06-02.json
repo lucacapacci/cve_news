@@ -3,12 +3,42 @@
         {
             "title": "Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities",
             "link": "https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2025-48595",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-48595"
         }
     ],
     "CVE-2024-21182": [
         {
             "title": "Oracle WebLogic Vulnerability Exploited in the Wild",
             "link": "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/"
+        },
+        {
+            "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+            "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html"
+        },
+        {
+            "title": "CISA Warns of Two-Year-Old Oracle WebLogic Server Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/oracle-weblogic-server-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+            "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html"
+        }
+    ],
+    "CVE-2026-5386": [
+        {
+            "title": "Critical KMW CCTV Vulnerability Let Attackers Gain Unauthorized Access to Camera Feeds",
+            "link": "https://cybersecuritynews.com/kmw-cctv-vulnerability/"
+        }
+    ],
+    "CVE-2022-0492": [
+        {
+            "title": "CISA KEV Addition: CVE-2022-0492",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2022-0492"
         }
     ]
 }
