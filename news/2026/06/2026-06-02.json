@@ -1,0 +1,14 @@
+{
+    "CVE-2025-48595": [
+        {
+            "title": "Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities",
+            "link": "https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/"
+        }
+    ],
+    "CVE-2024-21182": [
+        {
+            "title": "Oracle WebLogic Vulnerability Exploited in the Wild",
+            "link": "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/"
+        }
+    ]
+}
