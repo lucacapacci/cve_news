@@ -13,18 +13,56 @@
         {
             "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
             "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html"
+        },
+        {
+            "title": "Windows Search URI Handler Vulnerability Exposes NTLMv2 Hashes to Remote Attackers",
+            "link": "https://gbhackers.com/windows-search-uri-handler-vulnerability/"
         }
     ],
     "CVE-2026-45247": [
         {
             "title": "CISA KEV Addition: CVE-2026-45247",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-45247"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-one-known-exploited-vulnerability-to-catalog-75/"
         }
     ],
     "CVE-2026-23479": [
         {
             "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
             "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html"
+        }
+    ],
+    "CVE-2026-8206": [
+        {
+            "title": "WordPress Plugin Vulnerability Exposes 500,000+ Websites to Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/wordpress-plugin-vulnerability-exposes-2/"
+        },
+        {
+            "title": "WordPress Plugin Flaw Opens Door to Privilege Escalation Attacks Across 500,000+ Sites",
+            "link": "https://gbhackers.com/wordpress-plugin-flaw-4/"
+        }
+    ],
+    "CVE-2026-42253": [
+        {
+            "title": "Critical Apache ActiveMQ Vulnerability Allows Malicious Security Header Injections",
+            "link": "https://cybersecuritynews.com/apache-activemq-header-injection-vulnerability/"
+        },
+        {
+            "title": "Critical Apache ActiveMQ Vulnerability Exposes Systems to Security Header Injection Attacks",
+            "link": "https://gbhackers.com/critical-activemq-vulnerability/"
+        }
+    ],
+    "CVE-2026-9614": [
+        {
+            "title": "Ivanti ITSM Vulnerability Lets Attackers Gain Admin Privilege",
+            "link": "https://cybersecuritynews.com/ivanti-itsm-vulnerability-admin-privilege/"
+        },
+        {
+            "title": "Ivanti ITSM Flaw Could Allow Attackers to Escalate to Admin Access",
+            "link": "https://gbhackers.com/ivanti-itsm-flaw/"
         }
     ]
 }

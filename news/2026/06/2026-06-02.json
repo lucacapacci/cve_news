@@ -46,5 +46,11 @@
             "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
             "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/"
         }
+    ],
+    "CVE-2026-8732": [
+        {
+            "title": "Critical WordPress Plugin Flaw Exposes 15,000 Sites to Instant Admin Takeover",
+            "link": "https://www.webpronews.com/critical-wordpress-plugin-flaw-exposes-15000-sites-to-instant-admin-takeover/"
+        }
     ]
 }
