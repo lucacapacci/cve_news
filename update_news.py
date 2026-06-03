@@ -97,6 +97,12 @@ def process_rss_feeds():
         for entry in feed.entries:
             title = entry.get('title', '')
             link = entry.get('link', '')
+            description = entry.get('description', '')
+
+            content = ""
+            if 'content' in entry:
+                content = " ".join([c.get('value', '') for c in entry.content])
+                
             try:
                 pub_date_raw = entry.get('published') or entry.get('pubDate')
                 dt = parser.parse(pub_date_raw)
@@ -104,7 +110,7 @@ def process_rss_feeds():
             except:
                 date_str = datetime.now().strftime('%Y-%m-%d')
 
-            found_cves = extract_cves(f"{title} {entry.get('description', '')}")
+            found_cves = extract_cves(f"{title} {description} {content}")
             for cve in found_cves:
                 save_cve_entry(date_str, cve, title, link)
 
