@@ -64,5 +64,15 @@
             "title": "Ivanti ITSM Flaw Could Allow Attackers to Escalate to Admin Access",
             "link": "https://gbhackers.com/ivanti-itsm-flaw/"
         }
+    ],
+    "CVE-2024-21182": [
+        {
+            "title": "CISA Flags 2-Year-Old Oracle WebLogic Vulnerability as Actively Exploited",
+            "link": "https://www.itsecuritynews.info/cisa-flags-2-year-old-oracle-weblogic-vulnerability-as-actively-exploited/"
+        },
+        {
+            "title": "CISA Flags 2-Year-Old Oracle WebLogic Vulnerability as Actively Exploited",
+            "link": "https://www.techrepublic.com/article/news-cisa-oracle-weblogic-vulnerability-exploited/"
+        }
     ]
 }
