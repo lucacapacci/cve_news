@@ -14,7 +14,12 @@ FEEDS = [
     "https://www.darkreading.com/rss.xml",
     "https://feeds.feedburner.com/tenable/qaXL",
     "https://www.zerodayinitiative.com/rss/published/",
-    "https://cybersecuritynews.com/feed/"
+    "https://cybersecuritynews.com/feed/",
+    "https://gbhackers.com/feed/",
+    "https://www.itsecuritynews.info/feed/",
+    "https://www.helpnetsecurity.com/feed/",
+    "https://www.webpronews.com/feed/",
+    "https://www.techrepublic.com/feed/"
 ]
 
 CISA_KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
@@ -26,6 +31,7 @@ def extract_cves(text):
     return {m.replace('—', '-').replace('–', '-').upper() for m in matches}
 
 def save_cve_entry(date_str, cve_id, title, link):
+    print(f"Saving {cve_id} for {date_str}")
     """
     Saves entries to two structures:
     1. news/<YYYY>/<MM>/<date>.json (Dictionary keyed by CVE)
