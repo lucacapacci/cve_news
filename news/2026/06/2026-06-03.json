@@ -4,5 +4,11 @@
             "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
             "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html"
         }
+    ],
+    "CVE-2026-33829": [
+        {
+            "title": "Windows Search URI Handler Flaw Leaks NTLMv2 Hashes to Attacker-Controlled Servers",
+            "link": "https://cybersecuritynews.com/windows-search-uri-flaw-leaks-ntlmv2-hashes/"
+        }
     ]
 }
