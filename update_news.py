@@ -5,6 +5,18 @@ import requests
 import feedparser
 from datetime import datetime
 from dateutil import parser
+from io import BytesIO
+from urllib3.util import Retry
+from requests.adapters import HTTPAdapter
+import random
+
+USER_AGENTS = [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.2.1 Safari/605.1.15",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:121.0) Gecko/20100101 Firefox/121.0"
+]
 
 # Configuration
 FEEDS = [
@@ -91,9 +103,32 @@ def save_cve_entry(date_str, cve_id, title, link):
         print(f"Logged {cve_id} for {date_str}")
 
 def process_rss_feeds():
+    # Set up a robust HTTP session with 3 retries
+    session = requests.Session()
+    retries = Retry(
+        total=3,
+        backoff_factor=1,
+        status_forcelist=[500, 502, 503, 504],
+        raise_on_status=False
+    )
+    session.mount('https://', HTTPAdapter(max_retries=retries))
+    session.mount('http://', HTTPAdapter(max_retries=retries))
+
     for url in FEEDS:
         print(f"Fetching RSS: {url}")
-        feed = feedparser.parse(url)
+        
+        try:
+            headers = {'User-Agent': random.choice(USER_AGENTS)}
+            response = session.get(url, headers=headers, timeout=10)
+            response.raise_for_status()
+            
+            # Pass the raw bytes to feedparser
+            feed = feedparser.parse(BytesIO(response.content))
+            
+        except requests.exceptions.RequestException as e:
+            print(f"Failed to fetch {url} after retries: {e}")
+            continue # Skip to the next feed URL if this one is completely dead
+
         for entry in feed.entries:
             title = entry.get('title', '')
             link = entry.get('link', '')
