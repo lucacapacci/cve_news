@@ -20,5 +20,11 @@
             "title": "CISA KEV Addition: CVE-2026-45247",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-45247"
         }
+    ],
+    "CVE-2026-23479": [
+        {
+            "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+            "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html"
+        }
     ]
 }
