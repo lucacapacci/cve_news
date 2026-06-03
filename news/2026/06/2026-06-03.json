@@ -14,5 +14,11 @@
             "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
             "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html"
         }
+    ],
+    "CVE-2026-45247": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-45247",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-45247"
+        }
     ]
 }
