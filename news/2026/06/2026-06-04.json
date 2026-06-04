@@ -24,5 +24,77 @@
             "title": "Cisco Unified Communications Manager Vulnerability Exposed Along With PoC Exploit Code",
             "link": "https://www.itsecuritynews.info/cisco-unified-communications-manager-vulnerability-exposed-along-with-poc-exploit-code/"
         }
+    ],
+    "CVE-2026-32778": [
+        {
+            "title": "Hitachi Energy RTU500",
+            "link": "https://www.itsecuritynews.info/hitachi-energy-rtu500/"
+        }
+    ],
+    "CVE-2026-8479": [
+        {
+            "title": "Hitachi Energy RTU500",
+            "link": "https://www.itsecuritynews.info/hitachi-energy-rtu500/"
+        }
+    ],
+    "CVE-2026-32777": [
+        {
+            "title": "Hitachi Energy RTU500",
+            "link": "https://www.itsecuritynews.info/hitachi-energy-rtu500/"
+        }
+    ],
+    "CVE-2026-24515": [
+        {
+            "title": "Hitachi Energy RTU500",
+            "link": "https://www.itsecuritynews.info/hitachi-energy-rtu500/"
+        }
+    ],
+    "CVE-2026-32776": [
+        {
+            "title": "Hitachi Energy RTU500",
+            "link": "https://www.itsecuritynews.info/hitachi-energy-rtu500/"
+        }
+    ],
+    "CVE-2025-69421": [
+        {
+            "title": "Hitachi Energy RTU500",
+            "link": "https://www.itsecuritynews.info/hitachi-energy-rtu500/"
+        }
+    ],
+    "CVE-2026-25210": [
+        {
+            "title": "Hitachi Energy RTU500",
+            "link": "https://www.itsecuritynews.info/hitachi-energy-rtu500/"
+        }
+    ],
+    "CVE-2025-11482": [
+        {
+            "title": "B&R PPT30 Operating System",
+            "link": "https://www.itsecuritynews.info/br-ppt30-operating-system/"
+        }
+    ],
+    "CVE-2025-59375": [
+        {
+            "title": "Hitachi Energy ITT600 Explorer",
+            "link": "https://www.itsecuritynews.info/hitachi-energy-itt600-explorer/"
+        }
+    ],
+    "CVE-2024-8176": [
+        {
+            "title": "Hitachi Energy ITT600 Explorer",
+            "link": "https://www.itsecuritynews.info/hitachi-energy-itt600-explorer/"
+        }
+    ],
+    "CVE-2026-7310": [
+        {
+            "title": "Hitachi Energy MACH HiDraw",
+            "link": "https://www.itsecuritynews.info/hitachi-energy-mach-hidraw/"
+        }
+    ],
+    "CVE-2026-21404": [
+        {
+            "title": "NAVTOR NavBox",
+            "link": "https://www.itsecuritynews.info/navtor-navbox/"
+        }
     ]
 }
