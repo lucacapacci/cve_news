@@ -19,6 +19,10 @@
         {
             "title": "U.S. CISA adds Mirasvit Full Page Cache Warmer flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://www.itsecuritynews.info/u-s-cisa-adds-mirasvit-full-page-cache-warmer-flaw-to-its-known-exploited-vulnerabilities-catalog/"
+        },
+        {
+            "title": "IT Security News Daily Summary 2026-06-04",
+            "link": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-06-04/"
         }
     ],
     "CVE-2025-48595": [
@@ -43,6 +47,10 @@
         {
             "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
             "link": "https://www.itsecuritynews.info/cisco-patches-cve-2026-20230-in-unified-cm-as-exploit-code-goes-public/"
+        },
+        {
+            "title": "IT Security News Daily Summary 2026-06-04",
+            "link": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-06-04/"
         }
     ],
     "CVE-2026-32778": [
@@ -137,6 +145,28 @@
         {
             "title": "IT Security News Hourly Summary 2026-06-04 21h : 6 posts",
             "link": "https://www.itsecuritynews.info/it-security-news-hourly-summary-2026-06-04-21h-6-posts/"
+        },
+        {
+            "title": "IT Security News Daily Summary 2026-06-04",
+            "link": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-06-04/"
+        }
+    ],
+    "CVE-2026-45495": [
+        {
+            "title": "ZDI-26-331: (Pwn2Own) Microsoft Edge Feedback Log File Handling Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-331/"
+        }
+    ],
+    "CVE-2026-45494": [
+        {
+            "title": "ZDI-26-330: (Pwn2Own) Microsoft Edge Navigation Handling Universal Cross-Site Scripting Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-330/"
+        }
+    ],
+    "CVE-2026-45492": [
+        {
+            "title": "ZDI-26-329: (Pwn2Own) Microsoft Edge Origin Validation Error Security Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-329/"
         }
     ]
 }
