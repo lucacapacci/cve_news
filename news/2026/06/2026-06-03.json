@@ -27,6 +27,10 @@
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "link": "https://www.itsecuritynews.info/cisa-adds-one-known-exploited-vulnerability-to-catalog-75/"
+        },
+        {
+            "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+            "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html"
         }
     ],
     "CVE-2026-23479": [
@@ -109,6 +113,18 @@
         {
             "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
             "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2026-41091": [
+        {
+            "title": "Microsoft Faces Fresh Wave of Researcher Revolt Over Flawed Bug Handling",
+            "link": "https://www.webpronews.com/microsoft-faces-fresh-wave-of-researcher-revolt-over-flawed-bug-handling/"
+        }
+    ],
+    "CVE-2026-33825": [
+        {
+            "title": "Microsoft Faces Fresh Wave of Researcher Revolt Over Flawed Bug Handling",
+            "link": "https://www.webpronews.com/microsoft-faces-fresh-wave-of-researcher-revolt-over-flawed-bug-handling/"
         }
     ]
 }

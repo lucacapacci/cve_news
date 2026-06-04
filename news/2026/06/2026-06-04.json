@@ -13,6 +13,16 @@
         {
             "title": "CISA Warns of Android Framework Integer Overflow Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/android-framework-integer-overflow-vulnerability-exploited/"
+        },
+        {
+            "title": "CISA Warns of Android Framework Integer Overflow Vulnerability Exploited in Attacks",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-android-framework-integer-overflow-vulnerability-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-20230": [
+        {
+            "title": "Cisco Unified Communications Manager Vulnerability Exposed Along With PoC Exploit Code",
+            "link": "https://www.itsecuritynews.info/cisco-unified-communications-manager-vulnerability-exposed-along-with-poc-exploit-code/"
         }
     ]
 }
