@@ -74,5 +74,41 @@
             "title": "CISA Flags 2-Year-Old Oracle WebLogic Vulnerability as Actively Exploited",
             "link": "https://www.techrepublic.com/article/news-cisa-oracle-weblogic-vulnerability-exploited/"
         }
+    ],
+    "CVE-2020-5135": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2024-3400": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2025-33073": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2025-32433": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2024-55591": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
+    ],
+    "CVE-2023-4966": [
+        {
+            "title": "The Gentlemen Ransomware Group Uses Fortinet Exploits, AI, and Custom C2 Frameworks",
+            "link": "https://cybersecuritynews.com/the-gentlemen-ransomware-group-uses-fortinet-exploits/"
+        }
     ]
 }
