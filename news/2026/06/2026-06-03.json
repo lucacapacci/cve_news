@@ -126,5 +126,11 @@
             "title": "Microsoft Faces Fresh Wave of Researcher Revolt Over Flawed Bug Handling",
             "link": "https://www.webpronews.com/microsoft-faces-fresh-wave-of-researcher-revolt-over-flawed-bug-handling/"
         }
+    ],
+    "CVE-2026-8936": [
+        {
+            "title": "ZDI-26-327: Docker Desktop grpcfuse Kernel Module Uncontrolled Recursion Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-327/"
+        }
     ]
 }
