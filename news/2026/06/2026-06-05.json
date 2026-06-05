@@ -52,5 +52,23 @@
             "title": "Cisco SD-WAN 0-day exploited, no patch available (CVE-2026-20245)",
             "link": "https://www.helpnetsecurity.com/2026/06/05/cisco-sd-wan-cve-2026-20245-0-day-exploited/"
         }
+    ],
+    "CVE-2026-3300": [
+        {
+            "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
+            "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html"
+        }
+    ],
+    "CVE-2026-4372": [
+        {
+            "title": "Hugging Face Transformers Security Flaw Allows Remote Code Execution",
+            "link": "https://www.itsecuritynews.info/hugging-face-transformers-security-flaw-allows-remote-code-execution/"
+        }
+    ],
+    "CVE-2021-27137": [
+        {
+            "title": "New Gafgyt Variant Targets Linux Systems With Modular Spread Tactics",
+            "link": "https://www.itsecuritynews.info/new-gafgyt-variant-targets-linux-systems-with-modular-spread-tactics/"
+        }
     ]
 }

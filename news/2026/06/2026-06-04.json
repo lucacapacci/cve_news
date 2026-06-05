@@ -168,5 +168,11 @@
             "title": "ZDI-26-329: (Pwn2Own) Microsoft Edge Origin Validation Error Security Bypass Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-329/"
         }
+    ],
+    "CVE-2024-30090": [
+        {
+            "title": "CISA Warns of Active Exploitation in Critical Oracle WebLogic RCE Flaw (CVE-2024-30090)",
+            "link": "https://www.webpronews.com/cisa-warns-of-active-exploitation-in-critical-oracle-weblogic-rce-flaw-cve-2024-30090/"
+        }
     ]
 }
