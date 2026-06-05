@@ -16,5 +16,41 @@
             "title": "Microsoft Edge Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
             "link": "https://cybersecuritynews.com/microsoft-edge-vulnerability-code-execution/"
         }
+    ],
+    "CVE-2026-20245": [
+        {
+            "title": "Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026",
+            "link": "https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/"
+        },
+        {
+            "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/"
+        },
+        {
+            "title": "Cisco SD-WAN Security Flaw Actively Exploited for Root-Level Command Execution",
+            "link": "https://www.itsecuritynews.info/cisco-sd-wan-security-flaw-actively-exploited-for-root-level-command-execution/"
+        },
+        {
+            "title": "Cisco SD-WAN 0-day exploited, no patch available (CVE-2026-20245)",
+            "link": "https://www.helpnetsecurity.com/2026/06/05/cisco-sd-wan-cve-2026-20245-0-day-exploited/"
+        }
+    ],
+    "CVE-2022-0492": [
+        {
+            "title": "CISA Issues Alert on Actively Exploited Linux Kernel Security Flaw",
+            "link": "https://www.itsecuritynews.info/cisa-issues-alert-on-actively-exploited-linux-kernel-security-flaw/"
+        }
+    ],
+    "CVE-2026-20182": [
+        {
+            "title": "Cisco SD-WAN 0-day exploited, no patch available (CVE-2026-20245)",
+            "link": "https://www.helpnetsecurity.com/2026/06/05/cisco-sd-wan-cve-2026-20245-0-day-exploited/"
+        }
+    ],
+    "CVE-2026-20127": [
+        {
+            "title": "Cisco SD-WAN 0-day exploited, no patch available (CVE-2026-20245)",
+            "link": "https://www.helpnetsecurity.com/2026/06/05/cisco-sd-wan-cve-2026-20245-0-day-exploited/"
+        }
     ]
 }
