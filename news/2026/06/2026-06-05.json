@@ -80,5 +80,11 @@
             "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257",
             "link": "https://www.itsecuritynews.info/threat-brief-active-exploitation-of-pan-os-cve-2026-0257/"
         }
+    ],
+    "CVE-2026-28318": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-28318",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-28318"
+        }
     ]
 }
