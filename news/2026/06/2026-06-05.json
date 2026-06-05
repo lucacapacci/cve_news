@@ -1,0 +1,20 @@
+{
+    "CVE-2026-45495": [
+        {
+            "title": "Microsoft Edge Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/microsoft-edge-vulnerability-code-execution/"
+        }
+    ],
+    "CVE-2026-45492": [
+        {
+            "title": "Microsoft Edge Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/microsoft-edge-vulnerability-code-execution/"
+        }
+    ],
+    "CVE-2026-45494": [
+        {
+            "title": "Microsoft Edge Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/microsoft-edge-vulnerability-code-execution/"
+        }
+    ]
+}
