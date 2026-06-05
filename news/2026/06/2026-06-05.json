@@ -77,6 +77,10 @@
         {
             "title": "New Gafgyt Variant Targets Linux Systems With Modular Spread Tactics",
             "link": "https://www.itsecuritynews.info/new-gafgyt-variant-targets-linux-systems-with-modular-spread-tactics/"
+        },
+        {
+            "title": "New Gafgyt Variant Targets Multiple Linux Architectures With Modular Propagation",
+            "link": "https://cybersecuritynews.com/new-gafgyt-variant-targets-multiple-linux-architectures/"
         }
     ],
     "CVE-2026-0257": [
@@ -93,6 +97,36 @@
         {
             "title": "CISA KEV Addition: CVE-2026-28318",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-28318"
+        }
+    ],
+    "CVE-2016-15047": [
+        {
+            "title": "New Gafgyt Variant Targets Multiple Linux Architectures With Modular Propagation",
+            "link": "https://cybersecuritynews.com/new-gafgyt-variant-targets-multiple-linux-architectures/"
+        }
+    ],
+    "CVE-2022-35914": [
+        {
+            "title": "New Gafgyt Variant Targets Multiple Linux Architectures With Modular Propagation",
+            "link": "https://cybersecuritynews.com/new-gafgyt-variant-targets-multiple-linux-architectures/"
+        }
+    ],
+    "CVE-2015-2051": [
+        {
+            "title": "New Gafgyt Variant Targets Multiple Linux Architectures With Modular Propagation",
+            "link": "https://cybersecuritynews.com/new-gafgyt-variant-targets-multiple-linux-architectures/"
+        }
+    ],
+    "CVE-2025-34054": [
+        {
+            "title": "New Gafgyt Variant Targets Multiple Linux Architectures With Modular Propagation",
+            "link": "https://cybersecuritynews.com/new-gafgyt-variant-targets-multiple-linux-architectures/"
+        }
+    ],
+    "CVE-2026-25253": [
+        {
+            "title": "Agentic AI Red Teaming Reveals Zero-Click Human-in-the-Loop Bypass Attack Chains",
+            "link": "https://cybersecuritynews.com/agentic-ai-red-teaming-reveals-zero-click/"
         }
     ]
 }
