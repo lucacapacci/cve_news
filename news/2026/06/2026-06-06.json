@@ -8,5 +8,25 @@
             "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited \u2013 No Patch Available",
             "link": "https://www.itsecuritynews.info/cisco-catalyst-sd-wan-manager-cve-2026-20245-flaw-actively-exploited-no-patch-available/"
         }
+    ],
+    "CVE-2026-28318": [
+        {
+            "title": "CISA Warns of SolarWinds Serv-U Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-solarwinds-serv-u-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of SolarWinds Serv-U Vulnerability Exploited in Attacks",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-solarwinds-serv-u-vulnerability-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-4372": [
+        {
+            "title": "Critical Hugging Face Transformers Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/hugging-face-rce-vulnerability/"
+        },
+        {
+            "title": "Critical Hugging Face Transformers Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://www.itsecuritynews.info/critical-hugging-face-transformers-vulnerability-enables-remote-code-execution-attacks/"
+        }
     ]
 }
