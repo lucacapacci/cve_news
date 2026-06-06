@@ -128,5 +128,23 @@
             "title": "Agentic AI Red Teaming Reveals Zero-Click Human-in-the-Loop Bypass Attack Chains",
             "link": "https://cybersecuritynews.com/agentic-ai-red-teaming-reveals-zero-click/"
         }
+    ],
+    "CVE-2025-62626": [
+        {
+            "title": "AMD\u2019s Zen 5 Stumbles: The RDSEED Bug, Refresh Plans and What It Means for Buyers",
+            "link": "https://www.webpronews.com/amds-zen-5-stumbles-the-rdseed-bug-refresh-plans-and-what-it-means-for-buyers/"
+        }
+    ],
+    "CVE-2026-20045": [
+        {
+            "title": "Cisco Races to Patch Unified CM Flaw as Public Exploit Code Raises Stakes",
+            "link": "https://www.webpronews.com/cisco-races-to-patch-unified-cm-flaw-as-public-exploit-code-raises-stakes/"
+        }
+    ],
+    "CVE-2026-20230": [
+        {
+            "title": "Cisco Races to Patch Unified CM Flaw as Public Exploit Code Raises Stakes",
+            "link": "https://www.webpronews.com/cisco-races-to-patch-unified-cm-flaw-as-public-exploit-code-raises-stakes/"
+        }
     ]
 }

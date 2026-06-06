@@ -17,6 +17,18 @@
         {
             "title": "CISA Warns of SolarWinds Serv-U Vulnerability Exploited in Attacks",
             "link": "https://www.itsecuritynews.info/cisa-warns-of-solarwinds-serv-u-vulnerability-exploited-in-attacks/"
+        },
+        {
+            "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+            "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html"
+        },
+        {
+            "title": "CISA Alerts on Actively Exploited SolarWinds Serv-U Denial-of-Service Flaw",
+            "link": "https://www.itsecuritynews.info/cisa-alerts-on-actively-exploited-solarwinds-serv-u-denial-of-service-flaw/"
+        },
+        {
+            "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-actively-exploited-solarwinds-serv-u-dos-flaw-to-kev-catalog/"
         }
     ],
     "CVE-2026-4372": [
@@ -27,6 +39,24 @@
         {
             "title": "Critical Hugging Face Transformers Vulnerability Enables Remote Code Execution Attacks",
             "link": "https://www.itsecuritynews.info/critical-hugging-face-transformers-vulnerability-enables-remote-code-execution-attacks/"
+        }
+    ],
+    "CVE-2026-34908": [
+        {
+            "title": "Critical UniFi OS Auth Bypass Flaws Lead to Unauthenticated Root RCE",
+            "link": "https://www.itsecuritynews.info/critical-unifi-os-auth-bypass-flaws-lead-to-unauthenticated-root-rce/"
+        }
+    ],
+    "CVE-2026-34909": [
+        {
+            "title": "Critical UniFi OS Auth Bypass Flaws Lead to Unauthenticated Root RCE",
+            "link": "https://www.itsecuritynews.info/critical-unifi-os-auth-bypass-flaws-lead-to-unauthenticated-root-rce/"
+        }
+    ],
+    "CVE-2026-34910": [
+        {
+            "title": "Critical UniFi OS Auth Bypass Flaws Lead to Unauthenticated Root RCE",
+            "link": "https://www.itsecuritynews.info/critical-unifi-os-auth-bypass-flaws-lead-to-unauthenticated-root-rce/"
         }
     ]
 }
