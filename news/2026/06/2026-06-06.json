@@ -7,6 +7,10 @@
         {
             "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited \u2013 No Patch Available",
             "link": "https://www.itsecuritynews.info/cisco-catalyst-sd-wan-manager-cve-2026-20245-flaw-actively-exploited-no-patch-available/"
+        },
+        {
+            "title": "IT Security News Daily Summary 2026-06-06",
+            "link": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-06-06/"
         }
     ],
     "CVE-2026-28318": [
@@ -29,6 +33,10 @@
         {
             "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
             "link": "https://www.itsecuritynews.info/cisa-adds-actively-exploited-solarwinds-serv-u-dos-flaw-to-kev-catalog/"
+        },
+        {
+            "title": "U.S. CISA adds SolarWinds Serv-U flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-solarwinds-serv-u-flaw-to-its-known-exploited-vulnerabilities-catalog/"
         }
     ],
     "CVE-2026-4372": [
