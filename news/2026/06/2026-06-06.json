@@ -58,5 +58,11 @@
             "title": "Critical UniFi OS Auth Bypass Flaws Lead to Unauthenticated Root RCE",
             "link": "https://www.itsecuritynews.info/critical-unifi-os-auth-bypass-flaws-lead-to-unauthenticated-root-rce/"
         }
+    ],
+    "CVE-2026-3300": [
+        {
+            "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"
+        }
     ]
 }
