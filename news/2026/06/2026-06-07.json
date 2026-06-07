@@ -8,5 +8,11 @@
             "title": "CISA Warns of Linux Kernel Improper Authentication Vulnerability Exploited in Attacks",
             "link": "https://www.itsecuritynews.info/cisa-warns-of-linux-kernel-improper-authentication-vulnerability-exploited-in-attacks/"
         }
+    ],
+    "CVE-2026-35616": [
+        {
+            "title": "Hackers Exploit FortiClient EMS Flaw to Deploy EKZ Credential-Stealing Malware",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-forticlient-ems-flaw-to-deploy-ekz-credential-stealing-malware/"
+        }
     ]
 }
