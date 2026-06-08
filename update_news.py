@@ -28,10 +28,10 @@ FEEDS = [
     "https://www.zerodayinitiative.com/rss/published/",
     "https://cybersecuritynews.com/feed/",
     "https://gbhackers.com/feed/",
-    "https://www.itsecuritynews.info/feed/",
     "https://www.helpnetsecurity.com/feed/",
     "https://www.webpronews.com/feed/",
-    "https://www.techrepublic.com/feed/"
+    "https://www.techrepublic.com/feed/",
+    "https://www.itsecuritynews.info/feed/"
 ]
 
 CISA_KEV_URL = "https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json"
@@ -44,11 +44,31 @@ def extract_cves(text):
 
 def save_cve_entry(date_str, cve_id, title, link):
     print(f"Saving {cve_id} for {date_str}")
+
+    # --- Ignore itsecuritynews if title already exists ---
+    if "itsecuritynews.info" in link:
+        # 1. Immediately drop daily/weekly/monthly summary posts
+        summaries = ["it security news daily summary", "it security news weekly summary", "it security news monthly summary"]
+        if any(summary in title.lower() for summary in summaries):
+            return
+
+        # 2. Drop if the exact title was already logged by another source
+        cve_year = cve_id.split('-')[1] if '-' in cve_id else "unknown"
+        cve_file = os.path.join("cves", cve_year, f"{cve_id}.json")
+        if os.path.exists(cve_file):
+            with open(cve_file, 'r') as f:
+                try:
+                    if any(item.get('title') == title for item in json.load(f)):
+                        return 
+                except Exception:
+                    pass
+    
     """
     Saves entries to two structures:
     1. news/<YYYY>/<MM>/<date>.json (Dictionary keyed by CVE)
     2. cves/<year>/<CVEID>.json (List of news sources)
     """
+                    
     # --- 1. Structure: news/<YYYY>/<MM>/<date>.json ---
     # date_str format is YYYY-MM-DD
     year_news = date_str[:4]
