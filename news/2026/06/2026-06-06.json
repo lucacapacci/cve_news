@@ -41,6 +41,10 @@
         {
             "title": "CISA Flags Fresh SolarWinds Serv-U Flaw as Actively Exploited",
             "link": "https://www.webpronews.com/cisa-flags-fresh-solarwinds-serv-u-flaw-as-actively-exploited/"
+        },
+        {
+            "title": "CISA Warns of Exploited SolarWinds Serv-U Vulnerability",
+            "link": "https://cyberpress.org/exploited-solarwinds-serv-u-vulnerability/"
         }
     ],
     "CVE-2026-4372": [
@@ -57,24 +61,48 @@
         {
             "title": "Critical UniFi OS Auth Bypass Flaws Lead to Unauthenticated Root RCE",
             "link": "https://www.itsecuritynews.info/critical-unifi-os-auth-bypass-flaws-lead-to-unauthenticated-root-rce/"
+        },
+        {
+            "title": "Critical UniFi OS Flaws Enable Auth Bypass and Command Execution",
+            "link": "https://cyberpress.org/critical-unifi-os-flaws/"
         }
     ],
     "CVE-2026-34909": [
         {
             "title": "Critical UniFi OS Auth Bypass Flaws Lead to Unauthenticated Root RCE",
             "link": "https://www.itsecuritynews.info/critical-unifi-os-auth-bypass-flaws-lead-to-unauthenticated-root-rce/"
+        },
+        {
+            "title": "Critical UniFi OS Flaws Enable Auth Bypass and Command Execution",
+            "link": "https://cyberpress.org/critical-unifi-os-flaws/"
         }
     ],
     "CVE-2026-34910": [
         {
             "title": "Critical UniFi OS Auth Bypass Flaws Lead to Unauthenticated Root RCE",
             "link": "https://www.itsecuritynews.info/critical-unifi-os-auth-bypass-flaws-lead-to-unauthenticated-root-rce/"
+        },
+        {
+            "title": "Critical UniFi OS Flaws Enable Auth Bypass and Command Execution",
+            "link": "https://cyberpress.org/critical-unifi-os-flaws/"
         }
     ],
     "CVE-2026-3300": [
         {
             "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
             "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/"
+        }
+    ],
+    "CVE-2021-35211": [
+        {
+            "title": "CISA Warns of Exploited SolarWinds Serv-U Vulnerability",
+            "link": "https://cyberpress.org/exploited-solarwinds-serv-u-vulnerability/"
+        }
+    ],
+    "CVE-2024-28995": [
+        {
+            "title": "CISA Warns of Exploited SolarWinds Serv-U Vulnerability",
+            "link": "https://cyberpress.org/exploited-solarwinds-serv-u-vulnerability/"
         }
     ]
 }
