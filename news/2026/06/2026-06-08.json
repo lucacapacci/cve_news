@@ -14,5 +14,17 @@
             "title": "IoT Botnet C0XMO Adds Competitor-Killing Capability",
             "link": "https://www.itsecuritynews.info/iot-botnet-c0xmo-adds-competitor-killing-capability/"
         }
+    ],
+    "CVE-2026-28318": [
+        {
+            "title": "CISA: Patch actively exploited SolarWinds Serv-U DoS vulnerability (CVE-2026-28318)",
+            "link": "https://www.helpnetsecurity.com/2026/06/08/cisa-patch-actively-exploited-solarwinds-serv-u-dos-vulnerability-cve-2026-28318/"
+        }
+    ],
+    "CVE-2026-50751": [
+        {
+            "title": "Security Advisory \u2013 Action Required \u2013 Active Exploitation of Check Point VPN Authentication Bypass (CVE-2026-50751)",
+            "link": "https://www.itsecuritynews.info/security-advisory-action-required-active-exploitation-of-check-point-vpn-authentication-bypass-cve-2026-50751/"
+        }
     ]
 }
