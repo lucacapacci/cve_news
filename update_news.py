@@ -31,6 +31,7 @@ FEEDS = [
     "https://www.helpnetsecurity.com/feed/",
     "https://www.webpronews.com/feed/",
     "https://www.techrepublic.com/feed/",
+    "https://cyberpress.org/feed/",
     "https://www.itsecuritynews.info/feed/"
 ]
 
