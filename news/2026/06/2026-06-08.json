@@ -7,6 +7,10 @@
         {
             "title": "Critical Redis Vulnerability Could Let Attackers Execute Code and Hijack Servers",
             "link": "https://www.itsecuritynews.info/critical-redis-vulnerability-could-let-attackers-execute-code-and-hijack-servers/"
+        },
+        {
+            "title": "Critical Redis Bug Allows Remote Attackers to Gain Server Control",
+            "link": "https://cyberpress.org/critical-redis-server-takeover/"
         }
     ],
     "CVE-2021-27137": [
@@ -33,6 +37,84 @@
         {
             "title": "Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751)",
             "link": "https://www.helpnetsecurity.com/2026/06/08/check-point-cve-2026-50751-qilin-ransomware/"
+        }
+    ],
+    "CVE-2026-10629": [
+        {
+            "title": "Attackers Can Manipulate SIP Messages in Verizon VoLTE Deployments",
+            "link": "https://cyberpress.org/verizon-volte-sip-manipulation/"
+        }
+    ],
+    "CVE-2026-7198": [
+        {
+            "title": "Sitefinity Vulnerabilities Allow Hackers to Steal Plaintext Credentials",
+            "link": "https://cyberpress.org/sitefinity-flaws-expose-credentials/"
+        }
+    ],
+    "CVE-2026-7312": [
+        {
+            "title": "Sitefinity Vulnerabilities Allow Hackers to Steal Plaintext Credentials",
+            "link": "https://cyberpress.org/sitefinity-flaws-expose-credentials/"
+        }
+    ],
+    "CVE-2026-7195": [
+        {
+            "title": "Sitefinity Vulnerabilities Allow Hackers to Steal Plaintext Credentials",
+            "link": "https://cyberpress.org/sitefinity-flaws-expose-credentials/"
+        }
+    ],
+    "CVE-2026-7313": [
+        {
+            "title": "Sitefinity Vulnerabilities Allow Hackers to Steal Plaintext Credentials",
+            "link": "https://cyberpress.org/sitefinity-flaws-expose-credentials/"
+        }
+    ],
+    "CVE-2026-7201": [
+        {
+            "title": "Sitefinity Vulnerabilities Allow Hackers to Steal Plaintext Credentials",
+            "link": "https://cyberpress.org/sitefinity-flaws-expose-credentials/"
+        }
+    ],
+    "CVE-2026-41722": [
+        {
+            "title": "Attackers Can Inject Malicious Scripts Through VMware XSS Flaws",
+            "link": "https://cyberpress.org/vmware-xss-enables-script-injection/"
+        }
+    ],
+    "CVE-2026-41724": [
+        {
+            "title": "Attackers Can Inject Malicious Scripts Through VMware XSS Flaws",
+            "link": "https://cyberpress.org/vmware-xss-enables-script-injection/"
+        }
+    ],
+    "CVE-2026-41723": [
+        {
+            "title": "Attackers Can Inject Malicious Scripts Through VMware XSS Flaws",
+            "link": "https://cyberpress.org/vmware-xss-enables-script-injection/"
+        }
+    ],
+    "CVE-2026-48095": [
+        {
+            "title": "Critical 7-Zip Vulnerability Exposes Millions of Systems to Potential Malware Attacks",
+            "link": "https://www.itsecuritynews.info/critical-7-zip-vulnerability-exposes-millions-of-systems-to-potential-malware-attacks/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Old WinRAR Flaw Fuels Attacks on Ukraine: How Unmanaged Software Keeps the Door Open",
+            "link": "https://www.itsecuritynews.info/old-winrar-flaw-fuels-attacks-on-ukraine-how-unmanaged-software-keeps-the-door-open/"
+        }
+    ],
+    "CVE-2026-23111": [
+        {
+            "title": "New Linux Kernel Vulnerability Lets Attackers Escalate Privileges to Root",
+            "link": "https://www.itsecuritynews.info/new-linux-kernel-vulnerability-lets-attackers-escalate-privileges-to-root/"
+        }
+    ],
+    "CVE-2026-42271": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-42271",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-42271"
         }
     ]
 }
