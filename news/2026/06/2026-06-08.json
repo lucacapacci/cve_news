@@ -37,6 +37,18 @@
         {
             "title": "Qilin ransomware affiliate exploited Check Point VPN zero-day (CVE-2026-50751)",
             "link": "https://www.helpnetsecurity.com/2026/06/08/check-point-cve-2026-50751-qilin-ransomware/"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-two-known-exploited-vulnerabilities-to-catalog-37/"
+        },
+        {
+            "title": "Check Point VPN 0-day Vulnerability Exploited in the Wild to Deploy Ransomware",
+            "link": "https://www.itsecuritynews.info/check-point-vpn-0-day-vulnerability-exploited-in-the-wild-to-deploy-ransomware/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-50751",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-50751"
         }
     ],
     "CVE-2026-10629": [
@@ -115,6 +127,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-42271",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-42271"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-two-known-exploited-vulnerabilities-to-catalog-37/"
         }
     ]
 }

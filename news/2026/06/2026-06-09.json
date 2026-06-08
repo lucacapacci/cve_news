@@ -1,0 +1,8 @@
+{
+    "CVE-2026-23111": [
+        {
+            "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
+            "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html"
+        }
+    ]
+}
