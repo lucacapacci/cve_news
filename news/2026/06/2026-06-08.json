@@ -1,0 +1,18 @@
+{
+    "CVE-2026-23631": [
+        {
+            "title": "Critical Redis RCE Vulnerability Enable Attackers to Gain Complete Control to Host Server",
+            "link": "https://cybersecuritynews.com/redis-rce-vulnerability-server/"
+        },
+        {
+            "title": "Critical Redis Vulnerability Could Let Attackers Execute Code and Hijack Servers",
+            "link": "https://www.itsecuritynews.info/critical-redis-vulnerability-could-let-attackers-execute-code-and-hijack-servers/"
+        }
+    ],
+    "CVE-2021-27137": [
+        {
+            "title": "IoT Botnet C0XMO Adds Competitor-Killing Capability",
+            "link": "https://www.itsecuritynews.info/iot-botnet-c0xmo-adds-competitor-killing-capability/"
+        }
+    ]
+}
