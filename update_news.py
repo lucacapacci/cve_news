@@ -50,7 +50,7 @@ def save_cve_entry(date_str, cve_id, title, link):
 
     # 1. Immediately drop daily/weekly/monthly summary posts
     if is_itsec:
-        summaries = ["it security news daily summary", "it security news weekly summary", "it security news monthly summary"]
+        summaries = ["it security news hourly summary", "it security news daily summary", "it security news weekly summary", "it security news monthly summary"]
         if any(summary in title.lower() for summary in summaries):
             return
 
