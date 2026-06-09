@@ -55,6 +55,10 @@
         {
             "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
             "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-11645",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-11645"
         }
     ],
     "CVE-2026-44185": [
@@ -379,6 +383,10 @@
         {
             "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
             "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html"
+        },
+        {
+            "title": "Russian Attackers Weaponize WinRAR Flaw Against Ukrainian Orgs",
+            "link": "https://www.darkreading.com/vulnerabilities-threats/russian-groups-winrar-flaw-ukrainian-orgs"
         }
     ],
     "CVE-2026-25089": [
@@ -469,6 +477,40 @@
         {
             "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
             "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-44963": [
+        {
+            "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
+            "link": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html"
+        },
+        {
+            "title": "Critical Veeam RCE Flaw Lets Low-Privilege Users Take Over Backup Servers",
+            "link": "https://www.itsecuritynews.info/critical-veeam-rce-flaw-lets-low-privilege-users-take-over-backup-servers/"
+        }
+    ],
+    "CVE-2024-3596": [
+        {
+            "title": "Schneider Electric Modicon Network Managed Switches",
+            "link": "https://www.itsecuritynews.info/schneider-electric-modicon-network-managed-switches/"
+        }
+    ],
+    "CVE-2026-6866": [
+        {
+            "title": "Schneider Electric EcoStruxure Panel Server",
+            "link": "https://www.itsecuritynews.info/schneider-electric-ecostruxure-panel-server-2/"
+        }
+    ],
+    "CVE-2025-40946": [
+        {
+            "title": "Siemens KACO Blueplanet Inverters",
+            "link": "https://www.itsecuritynews.info/siemens-kaco-blueplanet-inverters/"
+        }
+    ],
+    "CVE-2026-7473": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-7473",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-7473"
         }
     ]
 }
