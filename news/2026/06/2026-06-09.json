@@ -13,6 +13,10 @@
         {
             "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
             "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html"
+        },
+        {
+            "title": "IT Security News Hourly Summary 2026-06-09 09h : 3 posts",
+            "link": "https://www.itsecuritynews.info/it-security-news-hourly-summary-2026-06-09-09h-3-posts/"
         }
     ],
     "CVE-2026-11645": [
@@ -218,7 +222,7 @@
         },
         {
             "title": "Check Point VPN Zero-Day Under Active Exploitation by Ransomware Operators",
-            "link": "https://www.itsecuritynews.info/check-point-vpn-zero-day-under-active-exploitation-by-ransomware-operators/"
+            "link": "https://gbhackers.com/check-point-vpn-zero-day/"
         }
     ],
     "CVE-2026-23278": [

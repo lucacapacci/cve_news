@@ -91,18 +91,30 @@
         {
             "title": "Attackers Can Inject Malicious Scripts Through VMware XSS Flaws",
             "link": "https://cyberpress.org/vmware-xss-enables-script-injection/"
+        },
+        {
+            "title": "Multiple VMware Stored XSS Flaw Enable Attackers to Inject Malicious Scripts",
+            "link": "https://gbhackers.com/multiple-vmware-stored-xss-flaw/"
         }
     ],
     "CVE-2026-41724": [
         {
             "title": "Attackers Can Inject Malicious Scripts Through VMware XSS Flaws",
             "link": "https://cyberpress.org/vmware-xss-enables-script-injection/"
+        },
+        {
+            "title": "Multiple VMware Stored XSS Flaw Enable Attackers to Inject Malicious Scripts",
+            "link": "https://gbhackers.com/multiple-vmware-stored-xss-flaw/"
         }
     ],
     "CVE-2026-41723": [
         {
             "title": "Attackers Can Inject Malicious Scripts Through VMware XSS Flaws",
             "link": "https://cyberpress.org/vmware-xss-enables-script-injection/"
+        },
+        {
+            "title": "Multiple VMware Stored XSS Flaw Enable Attackers to Inject Malicious Scripts",
+            "link": "https://gbhackers.com/multiple-vmware-stored-xss-flaw/"
         }
     ],
     "CVE-2026-48095": [

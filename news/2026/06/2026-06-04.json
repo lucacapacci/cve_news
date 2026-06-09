@@ -9,26 +9,14 @@
             "link": "https://cybersecuritynews.com/magento-cache-warmer-rce-flaw-exploited/"
         },
         {
-            "title": "CISA Warns of critical Magento Cache Warmer RCE flaw Exploited in Attacks",
-            "link": "https://www.itsecuritynews.info/cisa-warns-of-critical-magento-cache-warmer-rce-flaw-exploited-in-attacks/"
-        },
-        {
             "title": "U.S. CISA adds Mirasvit Full Page Cache Warmer flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://www.itsecuritynews.info/u-s-cisa-adds-mirasvit-full-page-cache-warmer-flaw-to-its-known-exploited-vulnerabilities-catalog/"
-        },
-        {
-            "title": "IT Security News Daily Summary 2026-06-04",
-            "link": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-06-04/"
         }
     ],
     "CVE-2025-48595": [
         {
             "title": "CISA Warns of Android Framework Integer Overflow Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/android-framework-integer-overflow-vulnerability-exploited/"
-        },
-        {
-            "title": "CISA Warns of Android Framework Integer Overflow Vulnerability Exploited in Attacks",
-            "link": "https://www.itsecuritynews.info/cisa-warns-of-android-framework-integer-overflow-vulnerability-exploited-in-attacks/"
         }
     ],
     "CVE-2026-20230": [
@@ -39,10 +27,6 @@
         {
             "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
             "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html"
-        },
-        {
-            "title": "IT Security News Daily Summary 2026-06-04",
-            "link": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-06-04/"
         }
     ],
     "CVE-2026-32778": [
@@ -137,10 +121,6 @@
         {
             "title": "IT Security News Hourly Summary 2026-06-04 21h : 6 posts",
             "link": "https://www.itsecuritynews.info/it-security-news-hourly-summary-2026-06-04-21h-6-posts/"
-        },
-        {
-            "title": "IT Security News Daily Summary 2026-06-04",
-            "link": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-06-04/"
         }
     ],
     "CVE-2026-45495": [
