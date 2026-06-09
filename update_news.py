@@ -45,17 +45,16 @@ def extract_cves(text):
 
 def save_cve_entry(date_str, cve_id, title, link):
     print(f"Saving {cve_id} for {date_str}")
-    
+
     is_itsec = "itsecuritynews.info" in link
 
+    # 1. Immediately drop daily/weekly/monthly summary posts
     if is_itsec:
-        # 1. Immediately drop daily/weekly/monthly summary posts
         summaries = ["it security news daily summary", "it security news weekly summary", "it security news monthly summary"]
         if any(summary in title.lower() for summary in summaries):
             return
 
-    # Prepare CVE directory and load existing CVE data early
-    # so we can check for duplicates across previous runs
+    # Load existing CVE data early so we can check it regardless of the incoming source
     try:
         cve_year = cve_id.split('-')[1]
     except (IndexError, AttributeError):
@@ -73,44 +72,49 @@ def save_cve_entry(date_str, cve_id, title, link):
             except json.JSONDecodeError:
                 cve_data = []
 
+    # Clean up whitespace/case differences just to be bulletproof
+    norm_title = " ".join(title.lower().split())
+    def get_norm(t): return " ".join(t.lower().split())
+
     if is_itsec:
-        # 2. If this is itsecuritynews, drop if the exact title was already logged by another source
-        if any(item.get('title') == title for item in cve_data):
-            return 
+        # Scenario A: itsecuritynews comes second. Drop it if the title already exists.
+        if any(get_norm(item.get('title', '')) == norm_title for item in cve_data):
+            print(f"Skipping itsecuritynews duplicate title: {title}")
+            return
     else:
-        # 3. If a higher-priority source comes in, retroactively remove any existing 
-        # itsecuritynews.info entries with the exact same title from previous runs.
-        entries_to_remove = [item for item in cve_data if item.get('title') == title and "itsecuritynews.info" in item.get('link', '')]
+        # Scenario B: itsecuritynews came FIRST. Find and purge it retroactively.
+        itsec_duplicates = [
+            item for item in cve_data 
+            if get_norm(item.get('title', '')) == norm_title and "itsecuritynews.info" in item.get('link', '')
+        ]
         
-        if entries_to_remove:
-            # Filter out the old itsecuritynews entries from our working cve_data list
-            cve_data = [item for item in cve_data if item not in entries_to_remove]
+        if itsec_duplicates:
+            print(f"Retroactively removing itsecuritynews duplicate for: {title}")
+            # Filter out from our working CVE data array
+            cve_data = [item for item in cve_data if item not in itsec_duplicates]
             
-            # Also remove them from their respective daily news files
-            for old_entry in entries_to_remove:
-                old_date_str = old_entry.get('date')
-                if old_date_str:
-                    old_year = old_date_str[:4]
-                    old_month = old_date_str[5:7]
-                    old_news_file = os.path.join("news", old_year, old_month, f"{old_date_str}.json")
-                    
+            # Also remove from respective daily news files
+            for old_item in itsec_duplicates:
+                old_date = old_item.get('date')
+                old_link = old_item.get('link')
+                if old_date:
+                    y_n = old_date[:4]
+                    m_n = old_date[5:7]
+                    old_news_file = os.path.join("news", y_n, m_n, f"{old_date}.json")
                     if os.path.exists(old_news_file):
-                        with open(old_news_file, 'r') as f:
+                        with open(old_news_file, 'r') as nf:
                             try:
-                                old_news_data = json.load(f)
-                            except json.JSONDecodeError:
+                                old_news_data = json.load(nf)
+                            except Exception:
                                 old_news_data = {}
-                                
+                        
                         if cve_id in old_news_data:
-                            # Remove the specific link from the daily file
-                            old_news_data[cve_id] = [i for i in old_news_data[cve_id] if i.get('link') != old_entry.get('link')]
-                            
-                            # Clean up the key entirely if the list becomes empty
+                            old_news_data[cve_id] = [i for i in old_news_data[cve_id] if i.get('link') != old_link]
                             if not old_news_data[cve_id]:
                                 del old_news_data[cve_id]
                             
-                            with open(old_news_file, 'w') as f:
-                                json.dump(old_news_data, f, indent=4)
+                            with open(old_news_file, 'w') as nf:
+                                json.dump(old_news_data, nf, indent=4)
 
     # --- 1. Structure: news/<YYYY>/<MM>/<date>.json ---
     year_news = date_str[:4]
