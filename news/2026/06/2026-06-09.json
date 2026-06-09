@@ -17,12 +17,36 @@
         {
             "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
             "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html"
+        },
+        {
+            "title": "Hackers Exploiting LiteLLM RCE Vulnerability in the Wild to Run Arbitrary Commands",
+            "link": "https://cybersecuritynews.com/litellm-rce-vulnerability-exploited/"
+        },
+        {
+            "title": "LiteLLM vulnerability under active attack, CISA warns (CVE-2026-42271)",
+            "link": "https://www.helpnetsecurity.com/2026/06/09/litellm-vulnerability-under-active-attack-cisa-warns-cve-2026-42271/"
+        },
+        {
+            "title": "LiteLLM RCE Vulnerability Exploited in the Wild to Run Commands",
+            "link": "https://cyberpress.org/litellm-rce-vulnerability-exploited/"
         }
     ],
     "CVE-2026-11645": [
         {
             "title": "Google Patches 5th Chrome Zero-Day Exploited in 2026",
             "link": "https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/"
+        },
+        {
+            "title": "Google patches Chrome zero-day exploited in the wild (CVE-2026-11645)",
+            "link": "https://www.helpnetsecurity.com/2026/06/09/google-chrome-zero-day-cve-2026-11645/"
+        },
+        {
+            "title": "Google fixes the fifth actively exploited Chrome zero-day of 2026",
+            "link": "https://www.itsecuritynews.info/google-fixes-the-fifth-actively-exploited-chrome-zero-day-of-2026/"
+        },
+        {
+            "title": "Google Releases Patch for Chrome Vulnerability Exploited in the Wild",
+            "link": "https://www.itsecuritynews.info/google-releases-patch-for-chrome-vulnerability-exploited-in-the-wild/"
         }
     ],
     "CVE-2026-44185": [
@@ -229,6 +253,118 @@
         {
             "title": "New Linux Kernel Vulnerability Enables Root Privilege Escalation",
             "link": "https://cyberpress.org/new-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-48710": [
+        {
+            "title": "Hackers Exploiting LiteLLM RCE Vulnerability in the Wild to Run Arbitrary Commands",
+            "link": "https://cybersecuritynews.com/litellm-rce-vulnerability-exploited/"
+        },
+        {
+            "title": "LiteLLM RCE Vulnerability Exploited in the Wild to Run Commands",
+            "link": "https://cyberpress.org/litellm-rce-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-22732": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-29145": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-44751": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2025-66614": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-40128": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-44748": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-44750": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-44755": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-44744": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-24734": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-44754": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-44757": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-24315": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-44746": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-27671": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2025-68161": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2026-44743": [
+        {
+            "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
+            "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
         }
     ]
 }
