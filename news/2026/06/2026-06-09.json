@@ -47,6 +47,14 @@
         {
             "title": "Google Releases Patch for Chrome Vulnerability Exploited in the Wild",
             "link": "https://www.itsecuritynews.info/google-releases-patch-for-chrome-vulnerability-exploited-in-the-wild/"
+        },
+        {
+            "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
+            "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html"
+        },
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
         }
     ],
     "CVE-2026-44185": [
@@ -365,6 +373,102 @@
         {
             "title": "SAP Security Patch Day \u2013 Critical Vulnerabilities in SAP NetWeaver Patched",
             "link": "https://cybersecuritynews.com/sap-security-patch-day-june/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
+            "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html"
+        }
+    ],
+    "CVE-2026-25089": [
+        {
+            "title": "Fortinet FortiSandbox Vulnerability Allows Attackers to Execute Unauthorized Commands",
+            "link": "https://cybersecuritynews.com/fortinet-fortisandbox-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-11656": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-3910": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-11667": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-11651": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-11672": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-3909": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-2441": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-11649": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-11662": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-11688": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-11652": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-5281": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-11640": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
+        }
+    ],
+    "CVE-2026-11670": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability Exploited in the Wild \u2014 Update Now",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-vulnerability-exploited-in-the-wild-update-now/"
         }
     ]
 }
