@@ -49,6 +49,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-50751",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-50751"
+        },
+        {
+            "title": "Check Point VPN 0-day Vulnerability Exploited in the Wild to Deploy Ransomware",
+            "link": "https://cybersecuritynews.com/check-point-vpn-0-day-vulnerability/"
         }
     ],
     "CVE-2026-10629": [
@@ -121,6 +125,10 @@
         {
             "title": "New Linux Kernel Vulnerability Lets Attackers Escalate Privileges to Root",
             "link": "https://www.itsecuritynews.info/new-linux-kernel-vulnerability-lets-attackers-escalate-privileges-to-root/"
+        },
+        {
+            "title": "New Linux Kernel Vulnerability Lets Attackers Escalate Privileges to Root",
+            "link": "https://cybersecuritynews.com/linux-kernel-nftables-vulnerability/"
         }
     ],
     "CVE-2026-42271": [
@@ -131,6 +139,18 @@
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "link": "https://www.itsecuritynews.info/cisa-adds-two-known-exploited-vulnerabilities-to-catalog-37/"
+        }
+    ],
+    "CVE-2026-50752": [
+        {
+            "title": "Check Point VPN 0-day Vulnerability Exploited in the Wild to Deploy Ransomware",
+            "link": "https://cybersecuritynews.com/check-point-vpn-0-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-23278": [
+        {
+            "title": "New Linux Kernel Vulnerability Lets Attackers Escalate Privileges to Root",
+            "link": "https://cybersecuritynews.com/linux-kernel-nftables-vulnerability/"
         }
     ]
 }
