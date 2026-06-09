@@ -11,6 +11,10 @@
         {
             "title": "Linux Kernel Flaw Allows Local Attackers to Gain Root Privileges",
             "link": "https://www.itsecuritynews.info/linux-kernel-flaw-allows-local-attackers-to-gain-root-privileges/"
+        },
+        {
+            "title": "Linux Systems Exposed as Public Exploits Target One-Character Kernel Flaw",
+            "link": "https://www.itsecuritynews.info/linux-systems-exposed-as-public-exploits-target-one-character-kernel-flaw/"
         }
     ],
     "CVE-2026-42271": [
@@ -59,6 +63,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-11645",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-11645"
+        },
+        {
+            "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-three-known-exploited-vulnerabilities-to-catalog-20/"
         }
     ],
     "CVE-2026-44185": [
@@ -259,6 +267,10 @@
         {
             "title": "Check Point VPN Zero-Day Under Active Exploitation by Ransomware Operators",
             "link": "https://gbhackers.com/check-point-vpn-zero-day/"
+        },
+        {
+            "title": "Check Point Warning: Actively Exploited VPN Zero-Day Linked to Qilin Ransomware",
+            "link": "https://www.techrepublic.com/article/news-checkpoint-vpn-zero-day-ransomware/"
         }
     ],
     "CVE-2026-23278": [
@@ -487,6 +499,10 @@
         {
             "title": "Critical Veeam RCE Flaw Lets Low-Privilege Users Take Over Backup Servers",
             "link": "https://www.itsecuritynews.info/critical-veeam-rce-flaw-lets-low-privilege-users-take-over-backup-servers/"
+        },
+        {
+            "title": "Critical Veeam Vulnerability Allows RCE Attacks on Backup Servers",
+            "link": "https://www.itsecuritynews.info/critical-veeam-vulnerability-allows-rce-attacks-on-backup-servers/"
         }
     ],
     "CVE-2024-3596": [
@@ -511,6 +527,152 @@
         {
             "title": "CISA KEV Addition: CVE-2026-7473",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-7473"
+        },
+        {
+            "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-three-known-exploited-vulnerabilities-to-catalog-20/"
+        }
+    ],
+    "CVE-2026-47289": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-42913": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-49160": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-42985": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-8863": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-45586": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-44799": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2025-24990": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-48563": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-47653": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-44801": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-50507": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-42992": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-45585": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-47654": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2025-10263": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-33825": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-41091": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-42993": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2025-59230": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-42909": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
+            "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        }
+    ],
+    "CVE-2026-3886": [
+        {
+            "title": "ZDI-26-332: QEMU calc_image_hostmem Integer Overflow Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-332/"
+        }
+    ],
+    "CVE-2026-20245": [
+        {
+            "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-three-known-exploited-vulnerabilities-to-catalog-20/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-20245",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20245"
         }
     ]
 }
