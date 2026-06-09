@@ -3,6 +3,228 @@
         {
             "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
             "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html"
+        },
+        {
+            "title": "New Linux Kernel Vulnerability Enables Root Privilege Escalation",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-42271": [
+        {
+            "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+            "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html"
+        }
+    ],
+    "CVE-2026-11645": [
+        {
+            "title": "Google Patches 5th Chrome Zero-Day Exploited in 2026",
+            "link": "https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/"
+        }
+    ],
+    "CVE-2026-44185": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-34356": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-44631": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-42536": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-49975": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-44186": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-48913": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-44119": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-29167": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-34355": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-42535": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-29170": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-43951": [
+        {
+            "title": "Apache HTTP Server 2.4.68 Released With Fix For Use-After-Free, DoS, XSS, and Buffer Overflow Flaws",
+            "link": "https://cybersecuritynews.com/apache-http-server-2-4-68/"
+        },
+        {
+            "title": "Apache HTTP Server 2.4.68 Fixes Multiple Critical Security Flaws",
+            "link": "https://cyberpress.org/apache-http-server-2-4-68-fixes/"
+        }
+    ],
+    "CVE-2026-39217": [
+        {
+            "title": "21 0-Day Vulnerabilities in FFmpeg Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/21-0-day-vulnerabilities-in-ffmpeg/"
+        }
+    ],
+    "CVE-2026-39213": [
+        {
+            "title": "21 0-Day Vulnerabilities in FFmpeg Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/21-0-day-vulnerabilities-in-ffmpeg/"
+        }
+    ],
+    "CVE-2026-39212": [
+        {
+            "title": "21 0-Day Vulnerabilities in FFmpeg Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/21-0-day-vulnerabilities-in-ffmpeg/"
+        }
+    ],
+    "CVE-2026-39215": [
+        {
+            "title": "21 0-Day Vulnerabilities in FFmpeg Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/21-0-day-vulnerabilities-in-ffmpeg/"
+        }
+    ],
+    "CVE-2026-39214": [
+        {
+            "title": "21 0-Day Vulnerabilities in FFmpeg Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/21-0-day-vulnerabilities-in-ffmpeg/"
+        }
+    ],
+    "CVE-2026-39210": [
+        {
+            "title": "21 0-Day Vulnerabilities in FFmpeg Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/21-0-day-vulnerabilities-in-ffmpeg/"
+        }
+    ],
+    "CVE-2026-39216": [
+        {
+            "title": "21 0-Day Vulnerabilities in FFmpeg Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/21-0-day-vulnerabilities-in-ffmpeg/"
+        }
+    ],
+    "CVE-2026-39218": [
+        {
+            "title": "21 0-Day Vulnerabilities in FFmpeg Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/21-0-day-vulnerabilities-in-ffmpeg/"
+        }
+    ],
+    "CVE-2026-39211": [
+        {
+            "title": "21 0-Day Vulnerabilities in FFmpeg Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/21-0-day-vulnerabilities-in-ffmpeg/"
+        }
+    ],
+    "CVE-2026-50752": [
+        {
+            "title": "Check Point VPN 0-Day Exploited to Deploy Ransomware Attacks",
+            "link": "https://cyberpress.org/check-point-vpn-0-day-exploited/"
+        }
+    ],
+    "CVE-2026-50751": [
+        {
+            "title": "Check Point VPN 0-Day Exploited to Deploy Ransomware Attacks",
+            "link": "https://cyberpress.org/check-point-vpn-0-day-exploited/"
+        },
+        {
+            "title": "Check Point VPN Zero-Day Under Active Exploitation by Ransomware Operators",
+            "link": "https://www.itsecuritynews.info/check-point-vpn-zero-day-under-active-exploitation-by-ransomware-operators/"
+        }
+    ],
+    "CVE-2026-23278": [
+        {
+            "title": "New Linux Kernel Vulnerability Enables Root Privilege Escalation",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerability/"
         }
     ]
 }
