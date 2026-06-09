@@ -45,33 +45,74 @@ def extract_cves(text):
 
 def save_cve_entry(date_str, cve_id, title, link):
     print(f"Saving {cve_id} for {date_str}")
+    
+    is_itsec = "itsecuritynews.info" in link
 
-    # --- Ignore itsecuritynews if title already exists ---
-    if "itsecuritynews.info" in link:
+    if is_itsec:
         # 1. Immediately drop daily/weekly/monthly summary posts
         summaries = ["it security news daily summary", "it security news weekly summary", "it security news monthly summary"]
         if any(summary in title.lower() for summary in summaries):
             return
 
-        # 2. Drop if the exact title was already logged by another source
-        cve_year = cve_id.split('-')[1] if '-' in cve_id else "unknown"
-        cve_file = os.path.join("cves", cve_year, f"{cve_id}.json")
-        if os.path.exists(cve_file):
-            with open(cve_file, 'r') as f:
-                try:
-                    if any(item.get('title') == title for item in json.load(f)):
-                        return 
-                except Exception:
-                    pass
-    
-    """
-    Saves entries to two structures:
-    1. news/<YYYY>/<MM>/<date>.json (Dictionary keyed by CVE)
-    2. cves/<year>/<CVEID>.json (List of news sources)
-    """
+    # Prepare CVE directory and load existing CVE data early
+    # so we can check for duplicates across previous runs
+    try:
+        cve_year = cve_id.split('-')[1]
+    except (IndexError, AttributeError):
+        cve_year = "unknown"
+
+    cve_dir = os.path.join("cves", cve_year)
+    os.makedirs(cve_dir, exist_ok=True)
+    cve_file = os.path.join(cve_dir, f"{cve_id}.json")
+
+    cve_data = []
+    if os.path.exists(cve_file):
+        with open(cve_file, 'r') as f:
+            try:
+                cve_data = json.load(f)
+            except json.JSONDecodeError:
+                cve_data = []
+
+    if is_itsec:
+        # 2. If this is itsecuritynews, drop if the exact title was already logged by another source
+        if any(item.get('title') == title for item in cve_data):
+            return 
+    else:
+        # 3. If a higher-priority source comes in, retroactively remove any existing 
+        # itsecuritynews.info entries with the exact same title from previous runs.
+        entries_to_remove = [item for item in cve_data if item.get('title') == title and "itsecuritynews.info" in item.get('link', '')]
+        
+        if entries_to_remove:
+            # Filter out the old itsecuritynews entries from our working cve_data list
+            cve_data = [item for item in cve_data if item not in entries_to_remove]
+            
+            # Also remove them from their respective daily news files
+            for old_entry in entries_to_remove:
+                old_date_str = old_entry.get('date')
+                if old_date_str:
+                    old_year = old_date_str[:4]
+                    old_month = old_date_str[5:7]
+                    old_news_file = os.path.join("news", old_year, old_month, f"{old_date_str}.json")
                     
+                    if os.path.exists(old_news_file):
+                        with open(old_news_file, 'r') as f:
+                            try:
+                                old_news_data = json.load(f)
+                            except json.JSONDecodeError:
+                                old_news_data = {}
+                                
+                        if cve_id in old_news_data:
+                            # Remove the specific link from the daily file
+                            old_news_data[cve_id] = [i for i in old_news_data[cve_id] if i.get('link') != old_entry.get('link')]
+                            
+                            # Clean up the key entirely if the list becomes empty
+                            if not old_news_data[cve_id]:
+                                del old_news_data[cve_id]
+                            
+                            with open(old_news_file, 'w') as f:
+                                json.dump(old_news_data, f, indent=4)
+
     # --- 1. Structure: news/<YYYY>/<MM>/<date>.json ---
-    # date_str format is YYYY-MM-DD
     year_news = date_str[:4]
     month_news = date_str[5:7]
     
@@ -96,23 +137,6 @@ def save_cve_entry(date_str, cve_id, title, link):
             json.dump(news_data, f, indent=4)
 
     # --- 2. Structure: cves/<year>/<CVEID>.json ---
-    try:
-        cve_year = cve_id.split('-')[1]
-    except (IndexError, AttributeError):
-        cve_year = "unknown"
-
-    cve_dir = os.path.join("cves", cve_year)
-    os.makedirs(cve_dir, exist_ok=True)
-    cve_file = os.path.join(cve_dir, f"{cve_id}.json")
-
-    cve_data = []
-    if os.path.exists(cve_file):
-        with open(cve_file, 'r') as f:
-            try:
-                cve_data = json.load(f)
-            except json.JSONDecodeError:
-                cve_data = []
-
     if not any(item.get('link') == link for item in cve_data):
         cve_data.append({
             "title": title,
