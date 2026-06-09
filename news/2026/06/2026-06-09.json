@@ -674,5 +674,133 @@
             "title": "CISA KEV Addition: CVE-2026-20245",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20245"
         }
+    ],
+    "CVE-2026-47919": [
+        {
+            "title": "ZDI-26-354: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-354/"
+        }
+    ],
+    "CVE-2026-47918": [
+        {
+            "title": "ZDI-26-353: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-353/"
+        }
+    ],
+    "CVE-2026-47917": [
+        {
+            "title": "ZDI-26-352: Adobe Acrobat Pro DC AcroForm Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-352/"
+        }
+    ],
+    "CVE-2026-48292": [
+        {
+            "title": "ZDI-26-351: Adobe USD-Fileformat-plugins Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-351/"
+        }
+    ],
+    "CVE-2026-48291": [
+        {
+            "title": "ZDI-26-350: Adobe USD-Fileformat-plugins Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-350/"
+        }
+    ],
+    "CVE-2026-47915": [
+        {
+            "title": "ZDI-26-349: Adobe Acrobat Pro DC Annots.api Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-349/"
+        }
+    ],
+    "CVE-2026-47914": [
+        {
+            "title": "ZDI-26-348: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-348/"
+        }
+    ],
+    "CVE-2026-47913": [
+        {
+            "title": "ZDI-26-347: Adobe Acrobat Reader DC Multimedia Rendition Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-347/"
+        }
+    ],
+    "CVE-2026-47924": [
+        {
+            "title": "ZDI-26-346: Adobe Acrobat Reader DC Annotation Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-346/"
+        }
+    ],
+    "CVE-2026-47912": [
+        {
+            "title": "ZDI-26-345: Adobe Acrobat Reader DC Font Handling Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-345/"
+        }
+    ],
+    "CVE-2026-47923": [
+        {
+            "title": "ZDI-26-344: Adobe Acrobat Reader DC Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-344/"
+        }
+    ],
+    "CVE-2026-47911": [
+        {
+            "title": "ZDI-26-343: Adobe Acrobat Reader DC TIF File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-343/"
+        }
+    ],
+    "CVE-2026-8037": [
+        {
+            "title": "ZDI-26-342: Progress Software Kemp LoadMaster apiuser Uninitialized Memory Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-342/"
+        },
+        {
+            "title": "ZDI-26-341: Progress Software Kemp LoadMaster dolistapikeys Uninitialized Memory Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-341/"
+        },
+        {
+            "title": "ZDI-26-340: Progress Software Kemp LoadMaster dodelapikey Uninitialized Memory Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-340/"
+        }
+    ],
+    "CVE-2026-48565": [
+        {
+            "title": "ZDI-26-339: Microsoft Windows Narrator Braille Support brlapi Exposed Dangerous Function Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-339/"
+        }
+    ],
+    "CVE-2026-24162": [
+        {
+            "title": "ZDI-26-338: NVIDIA Transformers4Rec Model.load Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-338/"
+        }
+    ],
+    "CVE-2026-34003": [
+        {
+            "title": "ZDI-26-337: X.Org Server CheckKeyTypes Buffer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-337/"
+        }
+    ],
+    "CVE-2026-34002": [
+        {
+            "title": "ZDI-26-336: X.Org Server CheckKeyActions Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-336/"
+        }
+    ],
+    "CVE-2026-34001": [
+        {
+            "title": "ZDI-26-335: X.Org Server SyncAwaitFence Use-After-Free Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-335/"
+        }
+    ],
+    "CVE-2026-34000": [
+        {
+            "title": "ZDI-26-334: X.Org Server CheckSetGeom Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-334/"
+        }
+    ],
+    "CVE-2026-33999": [
+        {
+            "title": "ZDI-26-333: X.Org Server XkbSetCompatMap Integer Underflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-333/"
+        }
     ]
 }
