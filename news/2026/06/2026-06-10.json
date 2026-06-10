@@ -37,6 +37,10 @@
         {
             "title": "CISA Warns of Exploited Google Chromium 0-Day Flaw",
             "link": "https://cyberpress.org/exploited-google-chromium-0-day/"
+        },
+        {
+            "title": "CISA Warns of Google Chromium 0-Day Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/google-chromium-0-day-vulnerability-exploit/"
         }
     ],
     "CVE-2026-5027": [
@@ -67,6 +71,10 @@
         {
             "title": "Windows Translation Framework 0-Day Enables Privilege Escalation",
             "link": "https://cyberpress.org/windows-translation-framework-0-day/"
+        },
+        {
+            "title": "Windows Collaborative Translation Framework 0-Day Vulnerability Allows Privilege Escalation",
+            "link": "https://cybersecuritynews.com/windows-collaborative-framework-0-day-vulnerability/"
         }
     ],
     "CVE-2026-45585": [
@@ -79,6 +87,18 @@
         {
             "title": "Russian APTs Still Exploiting Patched WinRAR Flaw CVE-2025-8088",
             "link": "https://www.itsecuritynews.info/russian-apts-still-exploiting-patched-winrar-flaw-cve-2025-8088/"
+        }
+    ],
+    "CVE-2026-42908": [
+        {
+            "title": "Windows RDP Vulnerabilities Allow Attacker to Expose Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-45639": [
+        {
+            "title": "Windows RDP Vulnerabilities Allow Attacker to Expose Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities/"
         }
     ]
 }
