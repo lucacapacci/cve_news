@@ -7,6 +7,10 @@
         {
             "title": "Windows BitLocker 0-Day Flaw Enables Security Feature Bypass Attacks",
             "link": "https://www.itsecuritynews.info/windows-bitlocker-0-day-flaw-enables-security-feature-bypass-attacks/"
+        },
+        {
+            "title": "Windows BitLocker 0-Day Vulnerability Enables Security Bypass",
+            "link": "https://cyberpress.org/windows-bitlocker-0-day-vulnerability/"
         }
     ],
     "CVE-2026-33825": [
@@ -19,12 +23,62 @@
         {
             "title": "Fortinet FortiSandbox Vulnerability Lets Attackers Execute Unauthorized Commands",
             "link": "https://www.itsecuritynews.info/fortinet-fortisandbox-vulnerability-lets-attackers-execute-unauthorized-commands/"
+        },
+        {
+            "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
+            "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html"
         }
     ],
     "CVE-2026-11645": [
         {
             "title": "CISA Issues Alert on Actively Exploited Google Chromium Zero-Day Flaw",
             "link": "https://www.itsecuritynews.info/cisa-issues-alert-on-actively-exploited-google-chromium-zero-day-flaw/"
+        },
+        {
+            "title": "CISA Warns of Exploited Google Chromium 0-Day Flaw",
+            "link": "https://cyberpress.org/exploited-google-chromium-0-day/"
+        }
+    ],
+    "CVE-2026-5027": [
+        {
+            "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+            "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html"
+        }
+    ],
+    "CVE-2026-20245": [
+        {
+            "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+            "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html"
+        }
+    ],
+    "CVE-2026-10523": [
+        {
+            "title": "Critical Ivanti Sentry flaw allows root-level remote code execution (CVE-2026-10520)",
+            "link": "https://www.helpnetsecurity.com/2026/06/10/ivanti-sentry-cve-2026-10520-cve-2026-10523/"
+        }
+    ],
+    "CVE-2026-10520": [
+        {
+            "title": "Critical Ivanti Sentry flaw allows root-level remote code execution (CVE-2026-10520)",
+            "link": "https://www.helpnetsecurity.com/2026/06/10/ivanti-sentry-cve-2026-10520-cve-2026-10523/"
+        }
+    ],
+    "CVE-2026-45586": [
+        {
+            "title": "Windows Translation Framework 0-Day Enables Privilege Escalation",
+            "link": "https://cyberpress.org/windows-translation-framework-0-day/"
+        }
+    ],
+    "CVE-2026-45585": [
+        {
+            "title": "Windows BitLocker 0-Day Vulnerability Enables Security Bypass",
+            "link": "https://cyberpress.org/windows-bitlocker-0-day-vulnerability/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Russian APTs Still Exploiting Patched WinRAR Flaw CVE-2025-8088",
+            "link": "https://www.itsecuritynews.info/russian-apts-still-exploiting-patched-winrar-flaw-cve-2025-8088/"
         }
     ]
 }
