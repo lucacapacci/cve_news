@@ -502,7 +502,7 @@
         },
         {
             "title": "Critical Veeam Vulnerability Allows RCE Attacks on Backup Servers",
-            "link": "https://www.itsecuritynews.info/critical-veeam-vulnerability-allows-rce-attacks-on-backup-servers/"
+            "link": "https://cybersecuritynews.com/veeam-vulnerability-rce-attacks/"
         }
     ],
     "CVE-2024-3596": [
@@ -537,24 +537,40 @@
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-42913": [
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-49160": [
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-42985": [
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-8863": [
@@ -567,12 +583,20 @@
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-44799": [
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2025-24990": [
@@ -585,30 +609,50 @@
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-47653": [
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-44801": [
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-50507": [
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-42992": [
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-45585": [
@@ -621,6 +665,10 @@
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2025-10263": [
@@ -645,6 +693,10 @@
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2025-59230": [
@@ -657,6 +709,10 @@
         {
             "title": "Microsoft\u2019s June 2026 Patch Tuesday Addresses 198 CVEs ( CVE-2026-49160, CVE-2026-50507)",
             "link": "https://www.tenable.com/blog/microsofts-june-2026-patch-tuesday-addresses-198-cves-cve-2026-49160-cve-2026-50507"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-3886": [
@@ -765,6 +821,10 @@
         {
             "title": "ZDI-26-339: Microsoft Windows Narrator Braille Support brlapi Exposed Dangerous Function Local Privilege Escalation Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-339/"
+        },
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ],
     "CVE-2026-24162": [
@@ -801,6 +861,1104 @@
         {
             "title": "ZDI-26-333: X.Org Server XkbSetCompatMap Integer Underflow Privilege Escalation Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-333/"
+        }
+    ],
+    "CVE-2026-47656": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47293": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42911": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45471": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45485": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45655": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47640": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45599": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42914": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45597": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44815": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-50508": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45504": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45500": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45658": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45583": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45598": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45472": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48576": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48569": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44811": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45645": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42983": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42971": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45636": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48560": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44822": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45603": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47643": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44812": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42970": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-40409": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42910": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42977": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45482": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47637": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45501": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47291": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45468": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47288": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-34335": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45465": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47638": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-40371": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48578": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-49161": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45606": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45502": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45463": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45600": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45593": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44810": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42989": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45487": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42906": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44809": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48583": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42905": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45608": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48575": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44824": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42980": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44819": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42972": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45596": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45503": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42836": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42915": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47298": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44807": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42991": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44802": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44808": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45464": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42829": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-41098": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45458": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45647": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48574": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45650": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44820": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47648": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45643": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45635": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45454": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-40376": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47636": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-26142": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47631": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47292": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42908": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42904": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45594": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45592": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47652": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44804": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45459": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42987": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42978": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42907": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45481": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-41092": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42835": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45648": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44817": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-33113": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42986": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42902": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45467": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45639": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45644": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45461": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48562": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45601": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45654": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45490": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47284": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45605": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42968": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45640": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44813": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44821": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42837": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42912": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45641": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44823": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42974": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45453": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48573": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45604": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48566": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45637": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47635": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45486": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42903": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-33828": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45483": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44818": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45595": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-32193": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45491": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45466": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45474": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45475": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45455": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45607": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47641": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42969": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45591": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47281": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47639": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45479": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47634": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-41108": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-40404": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42981": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45469": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45588": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42979": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45638": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45653": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45657": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45462": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48568": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-47287": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45484": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45634": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45476": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42973": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44814": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45456": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45656": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45642": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42984": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45460": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45457": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-48570": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45649": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44805": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-44803": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42916": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-42828": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
+        }
+    ],
+    "CVE-2026-45602": [
+        {
+            "title": "Microsoft Patch Tuesday June 2026 \u2013 198 Vulnerabilities Fixed, Including 3 Zero-days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-june-2026/"
         }
     ]
 }

@@ -1,0 +1,24 @@
+{
+    "CVE-2026-50507": [
+        {
+            "title": "Windows BitLocker 0-Day Vulnerability Allows Attackers to Bypass Security Feature",
+            "link": "https://cybersecuritynews.com/windows-bitlocker-0-day-bypass-vulnerability/"
+        },
+        {
+            "title": "Windows BitLocker 0-Day Flaw Enables Security Feature Bypass Attacks",
+            "link": "https://www.itsecuritynews.info/windows-bitlocker-0-day-flaw-enables-security-feature-bypass-attacks/"
+        }
+    ],
+    "CVE-2026-33825": [
+        {
+            "title": "New Windows Defender 0-Day Exploit \u201cRoguePlanet\u201d Grants SYSTEM Access to Attackers",
+            "link": "https://cybersecuritynews.com/windows-defender-0-day-exploit-rogueplanet/"
+        }
+    ],
+    "CVE-2026-25089": [
+        {
+            "title": "Fortinet FortiSandbox Vulnerability Lets Attackers Execute Unauthorized Commands",
+            "link": "https://www.itsecuritynews.info/fortinet-fortisandbox-vulnerability-lets-attackers-execute-unauthorized-commands/"
+        }
+    ]
+}
