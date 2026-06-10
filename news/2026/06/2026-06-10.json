@@ -20,5 +20,11 @@
             "title": "Fortinet FortiSandbox Vulnerability Lets Attackers Execute Unauthorized Commands",
             "link": "https://www.itsecuritynews.info/fortinet-fortisandbox-vulnerability-lets-attackers-execute-unauthorized-commands/"
         }
+    ],
+    "CVE-2026-11645": [
+        {
+            "title": "CISA Issues Alert on Actively Exploited Google Chromium Zero-Day Flaw",
+            "link": "https://www.itsecuritynews.info/cisa-issues-alert-on-actively-exploited-google-chromium-zero-day-flaw/"
+        }
     ]
 }
