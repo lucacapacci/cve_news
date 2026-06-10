@@ -47,6 +47,10 @@
         {
             "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
             "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html"
+        },
+        {
+            "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/"
         }
     ],
     "CVE-2026-20245": [
@@ -99,6 +103,12 @@
         {
             "title": "Windows RDP Vulnerabilities Allow Attacker to Expose Sensitive Data",
             "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-7480": [
+        {
+            "title": "ZDI-26-328: ASUS MyASUS Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-328/"
         }
     ]
 }
