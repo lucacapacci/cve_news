@@ -110,5 +110,11 @@
             "title": "ZDI-26-328: ASUS MyASUS Origin Validation Error Local Privilege Escalation Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-328/"
         }
+    ],
+    "CVE-2026-27220": [
+        {
+            "title": "ZDI-26-355: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-355/"
+        }
     ]
 }
