@@ -1,0 +1,128 @@
+{
+    "CVE-2026-42897": [
+        {
+            "title": "Microsoft Patches Exploited Exchange Server Vulnerability",
+            "link": "https://www.securityweek.com/microsoft-patches-exploited-exchange-server-vulnerability/"
+        }
+    ],
+    "CVE-2026-10727": [
+        {
+            "title": "Ivanti Endpoint Manager Mobile Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/ivanti-endpoint-manager-mobile-vulnerability/"
+        }
+    ],
+    "CVE-2026-6973": [
+        {
+            "title": "Ivanti Endpoint Manager Mobile Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/ivanti-endpoint-manager-mobile-vulnerability/"
+        }
+    ],
+    "CVE-2026-3553": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-1500": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-6552": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-9694": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-7250": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-6269": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-6277": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-10733": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-9204": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-6976": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-8589": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-10087": [
+        {
+            "title": "GitLab Patches Multiple Flaws Enabling Account Takeover Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-multiple-flaws/"
+        }
+    ],
+    "CVE-2026-46316": [
+        {
+            "title": "Public PoC Released for Linux Kernel Guest-to-Host Escape Flaw",
+            "link": "https://cyberpress.org/poc-released-guest-to-host-escape/"
+        },
+        {
+            "title": "PoC Exploit Released for Linux Kernel Guest-to-Host Escape Vulnerability",
+            "link": "https://www.itsecuritynews.info/poc-exploit-released-for-linux-kernel-guest-to-host-escape-vulnerability/"
+        }
+    ],
+    "CVE-2026-35616": [
+        {
+            "title": "JDY Botnet Expands With 1,500 Compromised Devices Targeting Fresh Vulnerabilities",
+            "link": "https://cyberpress.org/jdy-botnet-targets-flaws/"
+        }
+    ],
+    "CVE-2026-10520": [
+        {
+            "title": "Ivanti Command Injection Flaw Actively Exploited After PoC Release",
+            "link": "https://cyberpress.org/ivanti-command-injection-flaw/"
+        },
+        {
+            "title": "Ivanti Command Injection Flaw Exploited After PoC Code Release",
+            "link": "https://www.itsecuritynews.info/ivanti-command-injection-flaw-exploited-after-poc-code-release/"
+        }
+    ],
+    "CVE-2026-10523": [
+        {
+            "title": "Ivanti Command Injection Flaw Actively Exploited After PoC Release",
+            "link": "https://cyberpress.org/ivanti-command-injection-flaw/"
+        },
+        {
+            "title": "Ivanti Command Injection Flaw Exploited After PoC Code Release",
+            "link": "https://www.itsecuritynews.info/ivanti-command-injection-flaw-exploited-after-poc-code-release/"
+        }
+    ]
+}
