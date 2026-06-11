@@ -117,6 +117,14 @@
         {
             "title": "Ivanti Command Injection Vulnerability Exploited in Attacks Following PoC Release",
             "link": "https://www.itsecuritynews.info/ivanti-command-injection-vulnerability-exploited-in-attacks-following-poc-release/"
+        },
+        {
+            "title": "CVE-2026-10520 Exploited: Ivanti Sentry Gateways Compromised Shortly After Patch Release",
+            "link": "https://www.itsecuritynews.info/cve-2026-10520-exploited-ivanti-sentry-gateways-compromised-shortly-after-patch-release/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-10520",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-10520"
         }
     ],
     "CVE-2026-10523": [
@@ -139,6 +147,10 @@
         {
             "title": "Critical Langflow Vulnerability Exploited for Malicious Code Execution",
             "link": "https://cyberpress.org/langflow-vulnerability-exploited/"
+        },
+        {
+            "title": "Critical Langflow Vulnerability Exploited to Execute Malicious Code",
+            "link": "https://www.itsecuritynews.info/critical-langflow-vulnerability-exploited-to-execute-malicious-code/"
         }
     ],
     "CVE-2025-34291": [
