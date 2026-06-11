@@ -11,6 +11,10 @@
         {
             "title": "Windows BitLocker 0-Day Vulnerability Enables Security Bypass",
             "link": "https://cyberpress.org/windows-bitlocker-0-day-vulnerability/"
+        },
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Sets New Record With Over 200 Fixes",
+            "link": "https://www.webpronews.com/microsofts-june-2026-patch-tuesday-sets-new-record-with-over-200-fixes/"
         }
     ],
     "CVE-2026-33825": [
@@ -41,6 +45,10 @@
         {
             "title": "CISA Warns of Google Chromium 0-Day Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/google-chromium-0-day-vulnerability-exploit/"
+        },
+        {
+            "title": "Google Races to Patch Fifth Chrome Zero-Day of 2026 as Attacks Mount",
+            "link": "https://www.webpronews.com/google-races-to-patch-fifth-chrome-zero-day-of-2026-as-attacks-mount/"
         }
     ],
     "CVE-2026-5027": [
@@ -79,6 +87,10 @@
         {
             "title": "Windows Collaborative Translation Framework 0-Day Vulnerability Allows Privilege Escalation",
             "link": "https://cybersecuritynews.com/windows-collaborative-framework-0-day-vulnerability/"
+        },
+        {
+            "title": "Microsoft Races to Patch Zero-Days From Feuding Researcher as Disclosure Wars Intensify",
+            "link": "https://www.webpronews.com/microsoft-races-to-patch-zero-days-from-feuding-researcher-as-disclosure-wars-intensify/"
         }
     ],
     "CVE-2026-45585": [
@@ -91,6 +103,10 @@
         {
             "title": "Russian APTs Still Exploiting Patched WinRAR Flaw CVE-2025-8088",
             "link": "https://www.itsecuritynews.info/russian-apts-still-exploiting-patched-winrar-flaw-cve-2025-8088/"
+        },
+        {
+            "title": "Russian Hackers Exploit WinRAR Flaw CVE-2025-8088 in Ukraine Attacks",
+            "link": "https://www.webpronews.com/russian-hackers-exploit-winrar-flaw-cve-2025-8088-in-ukraine-attacks/"
         }
     ],
     "CVE-2026-42908": [
@@ -115,6 +131,34 @@
         {
             "title": "ZDI-26-355: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-355/"
+        }
+    ],
+    "CVE-2025-4782": [
+        {
+            "title": "CISA Adds Critical Cisco, Chrome, and Arista Flaws to KEV Catalog",
+            "link": "https://www.webpronews.com/cisa-adds-critical-cisco-chrome-and-arista-flaws-to-kev-catalog/"
+        }
+    ],
+    "CVE-2025-6114": [
+        {
+            "title": "CISA Adds Critical Cisco, Chrome, and Arista Flaws to KEV Catalog",
+            "link": "https://www.webpronews.com/cisa-adds-critical-cisco-chrome-and-arista-flaws-to-kev-catalog/"
+        }
+    ],
+    "CVE-2025-20292": [
+        {
+            "title": "CISA Adds Critical Cisco, Chrome, and Arista Flaws to KEV Catalog",
+            "link": "https://www.webpronews.com/cisa-adds-critical-cisco-chrome-and-arista-flaws-to-kev-catalog/"
+        }
+    ],
+    "CVE-2026-49160": [
+        {
+            "title": "Microsoft\u2019s June 2026 Patch Tuesday Sets New Record With Over 200 Fixes",
+            "link": "https://www.webpronews.com/microsofts-june-2026-patch-tuesday-sets-new-record-with-over-200-fixes/"
+        },
+        {
+            "title": "Microsoft\u2019s Record 200+ Flaw Patch Tuesday Signals Growing Software Complexity",
+            "link": "https://www.webpronews.com/microsofts-record-200-flaw-patch-tuesday-signals-growing-software-complexity/"
         }
     ]
 }

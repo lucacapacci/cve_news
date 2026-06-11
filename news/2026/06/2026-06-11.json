@@ -124,5 +124,41 @@
             "title": "Ivanti Command Injection Flaw Exploited After PoC Code Release",
             "link": "https://www.itsecuritynews.info/ivanti-command-injection-flaw-exploited-after-poc-code-release/"
         }
+    ],
+    "CVE-2026-21445": [
+        {
+            "title": "Critical Langflow Vulnerability Exploited for Malicious Code Execution",
+            "link": "https://cyberpress.org/langflow-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-5027": [
+        {
+            "title": "Critical Langflow Vulnerability Exploited for Malicious Code Execution",
+            "link": "https://cyberpress.org/langflow-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2025-34291": [
+        {
+            "title": "Critical Langflow Vulnerability Exploited for Malicious Code Execution",
+            "link": "https://cyberpress.org/langflow-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-0770": [
+        {
+            "title": "Critical Langflow Vulnerability Exploited for Malicious Code Execution",
+            "link": "https://cyberpress.org/langflow-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-33017": [
+        {
+            "title": "Critical Langflow Vulnerability Exploited for Malicious Code Execution",
+            "link": "https://cyberpress.org/langflow-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-25089": [
+        {
+            "title": "Fortinet patched a new critical FortiSandbox flaw",
+            "link": "https://www.itsecuritynews.info/fortinet-patched-a-new-critical-fortisandbox-flaw/"
+        }
     ]
 }
