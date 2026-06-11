@@ -113,6 +113,10 @@
         {
             "title": "Ivanti Command Injection Flaw Exploited After PoC Code Release",
             "link": "https://www.itsecuritynews.info/ivanti-command-injection-flaw-exploited-after-poc-code-release/"
+        },
+        {
+            "title": "Ivanti Command Injection Vulnerability Exploited in Attacks Following PoC Release",
+            "link": "https://www.itsecuritynews.info/ivanti-command-injection-vulnerability-exploited-in-attacks-following-poc-release/"
         }
     ],
     "CVE-2026-10523": [
@@ -159,6 +163,22 @@
         {
             "title": "Fortinet patched a new critical FortiSandbox flaw",
             "link": "https://www.itsecuritynews.info/fortinet-patched-a-new-critical-fortisandbox-flaw/"
+        }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
+            "link": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/"
+        },
+        {
+            "title": "Oracle PeopleSoft servers under attack, Oracle pushes out-of-band security alert",
+            "link": "https://www.helpnetsecurity.com/2026/06/11/oracle-peoplesoft-under-attack-cve-2026-35273/"
+        }
+    ],
+    "CVE-2026-45585": [
+        {
+            "title": "GreatXML BitLocker 0-Day Bypass Exploited Through Defender Offline Scan",
+            "link": "https://cyberpress.org/greatxml-bitlocker-0-day-bypass-exploited/"
         }
     ]
 }
