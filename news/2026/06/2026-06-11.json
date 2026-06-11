@@ -212,5 +212,35 @@
             "title": "CISA Warns of Check Point Security Gateway Vulnerability Actively Exploited in Ransomware Attacks",
             "link": "https://cybersecuritynews.com/cisa-check-point-security-gateway-vulnerability/"
         }
+    ],
+    "CVE-2026-52849": [
+        {
+            "title": "ZDI-26-360: MATE Desktop Atril Document Viewer EPUB File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-360/"
+        }
+    ],
+    "CVE-2026-8916": [
+        {
+            "title": "ZDI-26-359: Samsung rlottie Numeric Truncation Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-359/"
+        }
+    ],
+    "CVE-2026-11443": [
+        {
+            "title": "ZDI-26-358: Allegra downloadAttachment Cross-Site Scripting Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-358/"
+        }
+    ],
+    "CVE-2026-11442": [
+        {
+            "title": "ZDI-26-357: Allegra exportReport Directory Traversal Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-357/"
+        }
+    ],
+    "CVE-2026-34032": [
+        {
+            "title": "ZDI-26-356: Apache HTTP Server mod_proxy_ajp Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-356/"
+        }
     ]
 }
