@@ -150,7 +150,7 @@
         },
         {
             "title": "Critical Langflow Vulnerability Exploited to Execute Malicious Code",
-            "link": "https://www.itsecuritynews.info/critical-langflow-vulnerability-exploited-to-execute-malicious-code/"
+            "link": "https://cybersecuritynews.com/langflow-vulnerability-exploit/"
         }
     ],
     "CVE-2025-34291": [
@@ -185,12 +185,32 @@
         {
             "title": "Oracle PeopleSoft servers under attack, Oracle pushes out-of-band security alert",
             "link": "https://www.helpnetsecurity.com/2026/06/11/oracle-peoplesoft-under-attack-cve-2026-35273/"
+        },
+        {
+            "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/"
+        },
+        {
+            "title": "ShinyHunters Targets Education Sector with Oracle PeopleSoft Exploit",
+            "link": "https://www.itsecuritynews.info/shinyhunters-targets-education-sector-with-oracle-peoplesoft-exploit/"
         }
     ],
     "CVE-2026-45585": [
         {
             "title": "GreatXML BitLocker 0-Day Bypass Exploited Through Defender Offline Scan",
             "link": "https://cyberpress.org/greatxml-bitlocker-0-day-bypass-exploited/"
+        }
+    ],
+    "CVE-2026-8934": [
+        {
+            "title": "Researcher Hacked Google Using AI and Earned $500,000 Bug Bounty",
+            "link": "https://cybersecuritynews.com/google-infrastructure-hacked-ai/"
+        }
+    ],
+    "CVE-2026-50751": [
+        {
+            "title": "CISA Warns of Check Point Security Gateway Vulnerability Actively Exploited in Ransomware Attacks",
+            "link": "https://cybersecuritynews.com/cisa-check-point-security-gateway-vulnerability/"
         }
     ]
 }
