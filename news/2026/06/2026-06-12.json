@@ -15,6 +15,14 @@
         {
             "title": "Oracle PeopleSoft Zero-Day RCE Vulnerability Exploited by ShinyHunters",
             "link": "https://www.itsecuritynews.info/oracle-peoplesoft-zero-day-rce-vulnerability-exploited-by-shinyhunters/"
+        },
+        {
+            "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day to Breach Universities and Enterprise Systems",
+            "link": "https://www.itsecuritynews.info/shinyhunters-exploits-oracle-peoplesoft-zero-day-to-breach-universities-and-enterprise-systems/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-35273",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-35273"
         }
     ],
     "CVE-2026-42835": [
