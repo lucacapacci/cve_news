@@ -118,5 +118,41 @@
             "title": "APT28 Weaponizes Outlook Zero-Click Flaw to Steal Net-NTLMv2 Hashes From NATO Targets",
             "link": "https://cyberpress.org/apt28-steals-net-ntlmv2-hashes-via-outlook-flaw/"
         }
+    ],
+    "CVE-2025-67644": [
+        {
+            "title": "Critical Vulnerability Chain in LangGraph Allows Attackers to Gain Full Server Control",
+            "link": "https://cybersecuritynews.com/vulnerability-chain-in-langgraph/"
+        },
+        {
+            "title": "Critical LangGraph Vulnerability Chain Enables Full Server Takeover",
+            "link": "https://cyberpress.org/critical-langgraph-vulnerability/"
+        }
+    ],
+    "CVE-2026-27022": [
+        {
+            "title": "Critical Vulnerability Chain in LangGraph Allows Attackers to Gain Full Server Control",
+            "link": "https://cybersecuritynews.com/vulnerability-chain-in-langgraph/"
+        },
+        {
+            "title": "Critical LangGraph Vulnerability Chain Enables Full Server Takeover",
+            "link": "https://cyberpress.org/critical-langgraph-vulnerability/"
+        }
+    ],
+    "CVE-2026-28277": [
+        {
+            "title": "Critical Vulnerability Chain in LangGraph Allows Attackers to Gain Full Server Control",
+            "link": "https://cybersecuritynews.com/vulnerability-chain-in-langgraph/"
+        },
+        {
+            "title": "Critical LangGraph Vulnerability Chain Enables Full Server Takeover",
+            "link": "https://cyberpress.org/critical-langgraph-vulnerability/"
+        }
+    ],
+    "CVE-2026-50751": [
+        {
+            "title": "Researchers release details, PoC for exploited Check Point VPN flaw (CVE-2026-50751)",
+            "link": "https://www.helpnetsecurity.com/2026/06/12/cve-2026-50751-poc-exploit/"
+        }
     ]
 }
