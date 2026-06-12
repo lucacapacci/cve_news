@@ -166,5 +166,11 @@
             "title": "Researchers release details, PoC for exploited Check Point VPN flaw (CVE-2026-50751)",
             "link": "https://www.helpnetsecurity.com/2026/06/12/cve-2026-50751-poc-exploit/"
         }
+    ],
+    "CVE-2026-10520": [
+        {
+            "title": "U.S. CISA adds Ivanti Sentry\u00a0flaw to its Known Exploited Vulnerabilities catalog and urges patching by June 14",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-ivanti-sentry-flaw-to-its-known-exploited-vulnerabilities-catalog-and-urges-patching-by-june-14/"
+        }
     ]
 }
