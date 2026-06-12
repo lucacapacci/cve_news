@@ -3,6 +3,24 @@
         {
             "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
             "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html"
+        },
+        {
+            "title": "Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters",
+            "link": "https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/"
+        },
+        {
+            "title": "Oracle PeopleSoft 0-Day RCE Vulnerability Exploited in Attacks by ShinyHunters",
+            "link": "https://cybersecuritynews.com/oracle-peoplesoft-0-day-rce-vulnerability/"
+        },
+        {
+            "title": "Oracle PeopleSoft Zero-Day RCE Vulnerability Exploited by ShinyHunters",
+            "link": "https://www.itsecuritynews.info/oracle-peoplesoft-zero-day-rce-vulnerability-exploited-by-shinyhunters/"
+        }
+    ],
+    "CVE-2026-42835": [
+        {
+            "title": "Microsoft Teams for Android Vulnerability Allows Attackers to Disclose Sensitive Data",
+            "link": "https://cybersecuritynews.com/microsoft-teams-for-android-vulnerability/"
         }
     ]
 }
