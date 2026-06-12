@@ -242,5 +242,23 @@
             "title": "ZDI-26-356: Apache HTTP Server mod_proxy_ajp Out-Of-Bounds Read Information Disclosure Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-356/"
         }
+    ],
+    "CVE-2020-1030": [
+        {
+            "title": "How the Windows Print Spooler Keeps Spoiling the Kernel",
+            "link": "https://www.webpronews.com/how-the-windows-print-spooler-keeps-spoiling-the-kernel/"
+        }
+    ],
+    "CVE-2022-22718": [
+        {
+            "title": "How the Windows Print Spooler Keeps Spoiling the Kernel",
+            "link": "https://www.webpronews.com/how-the-windows-print-spooler-keeps-spoiling-the-kernel/"
+        }
+    ],
+    "CVE-2026-23669": [
+        {
+            "title": "How the Windows Print Spooler Keeps Spoiling the Kernel",
+            "link": "https://www.webpronews.com/how-the-windows-print-spooler-keeps-spoiling-the-kernel/"
+        }
     ]
 }

@@ -22,5 +22,101 @@
             "title": "Microsoft Teams for Android Vulnerability Allows Attackers to Disclose Sensitive Data",
             "link": "https://cybersecuritynews.com/microsoft-teams-for-android-vulnerability/"
         }
+    ],
+    "CVE-2026-45456": [
+        {
+            "title": "Microsoft Outlook and Word Vulnerabilities Allow Attackers to Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/microsoft-outlook-and-word-vulnerabilities/"
+        },
+        {
+            "title": "Critical Microsoft Outlook and Word Flaws Enable Malicious Code Execution",
+            "link": "https://cyberpress.org/microsoft-outlook-and-word-flaws/"
+        }
+    ],
+    "CVE-2026-45458": [
+        {
+            "title": "Microsoft Outlook and Word Vulnerabilities Allow Attackers to Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/microsoft-outlook-and-word-vulnerabilities/"
+        },
+        {
+            "title": "Critical Microsoft Outlook and Word Flaws Enable Malicious Code Execution",
+            "link": "https://cyberpress.org/microsoft-outlook-and-word-flaws/"
+        }
+    ],
+    "CVE-2026-0273": [
+        {
+            "title": "Palo Alto PAN-OS Vulnerability Allows Attackers to Execute Arbitrary Commands as Root User",
+            "link": "https://cybersecuritynews.com/palo-alto-pan-os-vulnerability/"
+        },
+        {
+            "title": "Critical Palo Alto PAN-OS Flaw Enables Root-Level Command Execution",
+            "link": "https://cyberpress.org/critical-palo-alto-pan-os-flaw/"
+        },
+        {
+            "title": "Palo Alto PAN-OS Flaw Lets Attackers Run Arbitrary Commands With Root Privileges",
+            "link": "https://www.itsecuritynews.info/palo-alto-pan-os-flaw-lets-attackers-run-arbitrary-commands-with-root-privileges/"
+        }
+    ],
+    "CVE-2026-0272": [
+        {
+            "title": "Palo Alto PAN-OS Vulnerability Allows Attackers to Execute Arbitrary Commands as Root User",
+            "link": "https://cybersecuritynews.com/palo-alto-pan-os-vulnerability/"
+        },
+        {
+            "title": "Critical Palo Alto PAN-OS Flaw Enables Root-Level Command Execution",
+            "link": "https://cyberpress.org/critical-palo-alto-pan-os-flaw/"
+        }
+    ],
+    "CVE-2026-0269": [
+        {
+            "title": "Palo Alto PAN-OS Vulnerability Allows Attackers to Execute Arbitrary Commands as Root User",
+            "link": "https://cybersecuritynews.com/palo-alto-pan-os-vulnerability/"
+        },
+        {
+            "title": "Critical Palo Alto PAN-OS Flaw Enables Root-Level Command Execution",
+            "link": "https://cyberpress.org/critical-palo-alto-pan-os-flaw/"
+        }
+    ],
+    "CVE-2026-12009": [
+        {
+            "title": "Google Patches 28 Chrome Vulnerabilities that Allow Attackers to Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/28-chrome-vulnerabilities-patched/"
+        }
+    ],
+    "CVE-2026-12011": [
+        {
+            "title": "Google Patches 28 Chrome Vulnerabilities that Allow Attackers to Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/28-chrome-vulnerabilities-patched/"
+        }
+    ],
+    "CVE-2026-12008": [
+        {
+            "title": "Google Patches 28 Chrome Vulnerabilities that Allow Attackers to Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/28-chrome-vulnerabilities-patched/"
+        }
+    ],
+    "CVE-2026-12010": [
+        {
+            "title": "Google Patches 28 Chrome Vulnerabilities that Allow Attackers to Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/28-chrome-vulnerabilities-patched/"
+        }
+    ],
+    "CVE-2026-12007": [
+        {
+            "title": "Google Patches 28 Chrome Vulnerabilities that Allow Attackers to Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/28-chrome-vulnerabilities-patched/"
+        }
+    ],
+    "CVE-2026-47635": [
+        {
+            "title": "Critical Microsoft Outlook and Word Flaws Enable Malicious Code Execution",
+            "link": "https://cyberpress.org/microsoft-outlook-and-word-flaws/"
+        }
+    ],
+    "CVE-2023-23397": [
+        {
+            "title": "APT28 Weaponizes Outlook Zero-Click Flaw to Steal Net-NTLMv2 Hashes From NATO Targets",
+            "link": "https://cyberpress.org/apt28-steals-net-ntlmv2-hashes-via-outlook-flaw/"
+        }
     ]
 }
