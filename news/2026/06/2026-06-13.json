@@ -1,0 +1,14 @@
+{
+    "CVE-2026-35273": [
+        {
+            "title": "U.S. CISA adds Oracle PeopleSoft Enterprise PeopleTools\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-oracle-peoplesoft-enterprise-peopletools-flaw-to-its-known-exploited-vulnerabilities-catalog/"
+        }
+    ],
+    "CVE-2026-20253": [
+        {
+            "title": "Critical Splunk Enterprise Pre-Auth RCE Chain Exposes Databases",
+            "link": "https://www.itsecuritynews.info/critical-splunk-enterprise-pre-auth-rce-chain-exposes-databases/"
+        }
+    ]
+}
