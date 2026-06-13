@@ -9,6 +9,14 @@
         {
             "title": "Critical Splunk Enterprise Pre-Auth RCE Chain Exposes Databases",
             "link": "https://www.itsecuritynews.info/critical-splunk-enterprise-pre-auth-rce-chain-exposes-databases/"
+        },
+        {
+            "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+            "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html"
+        },
+        {
+            "title": "Splunk Enterprise Pre-Auth RCE Chain Exposes Database With Zero Authentication",
+            "link": "https://www.itsecuritynews.info/splunk-enterprise-pre-auth-rce-chain-exposes-database-with-zero-authentication/"
         }
     ]
 }
