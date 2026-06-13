@@ -172,5 +172,11 @@
             "title": "U.S. CISA adds Ivanti Sentry\u00a0flaw to its Known Exploited Vulnerabilities catalog and urges patching by June 14",
             "link": "https://www.itsecuritynews.info/u-s-cisa-adds-ivanti-sentry-flaw-to-its-known-exploited-vulnerabilities-catalog-and-urges-patching-by-june-14/"
         }
+    ],
+    "CVE-2026-45585": [
+        {
+            "title": "Microsoft\u2019s Nightmare Eclipse Strikes Again With Fresh BitLocker Bypass Claim",
+            "link": "https://www.webpronews.com/microsofts-nightmare-eclipse-strikes-again-with-fresh-bitlocker-bypass-claim/"
+        }
     ]
 }
