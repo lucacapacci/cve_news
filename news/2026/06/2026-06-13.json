@@ -22,5 +22,11 @@
             "title": "Critical Splunk Enterprise Flaw Enables Unauthenticated Remote Code Execution",
             "link": "https://cyberpress.org/critical-splunk-enterprise-flaw/"
         }
+    ],
+    "CVE-2026-40677": [
+        {
+            "title": "AMD Denies $10,000 Bounty to Researcher Who Exposed Flawed Auto-Updater",
+            "link": "https://www.webpronews.com/amd-denies-10000-bounty-to-researcher-who-exposed-flawed-auto-updater/"
+        }
     ]
 }
