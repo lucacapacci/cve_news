@@ -1,0 +1,52 @@
+{
+    "CVE-2026-0257": [
+        {
+            "title": "Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw",
+            "link": "https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html"
+        },
+        {
+            "title": "Palo Alto Warns of Actively Exploited GlobalProtect VPN Vulnerability",
+            "link": "https://cyberpress.org/palo-alto-warns-of-actively-exploited/"
+        },
+        {
+            "title": "Palo Alto Warns of Exploitation of VPN Bypass Exploits (CVE-2026-0257) in PAN-OS Flaw",
+            "link": "https://www.itsecuritynews.info/palo-alto-warns-of-exploitation-of-vpn-bypass-exploits-cve-2026-0257-in-pan-os-flaw/"
+        }
+    ],
+    "CVE-2026-41651": [
+        {
+            "title": "PackageKit\u2019s Long-Awaited CLI Refresh: pkgcli Arrives as pkcon\u2019s Successor",
+            "link": "https://www.webpronews.com/packagekits-long-awaited-cli-refresh-pkgcli-arrives-as-pkcons-successor/"
+        }
+    ],
+    "CVE-2026-53435": [
+        {
+            "title": "Critical Jenkins RCE Vulnerability Under Active Exploitation in the Wild",
+            "link": "https://cyberpress.org/jenkins-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-53436": [
+        {
+            "title": "Critical Jenkins RCE Vulnerability Under Active Exploitation in the Wild",
+            "link": "https://cyberpress.org/jenkins-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-53437": [
+        {
+            "title": "Critical Jenkins RCE Vulnerability Under Active Exploitation in the Wild",
+            "link": "https://cyberpress.org/jenkins-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-48062": [
+        {
+            "title": "Critical CodeIgniter File Upload Flaw Allows Validation Bypass, Risks Remote Code Execution",
+            "link": "https://cyberpress.org/critical-codeigniter-file-upload-flaw/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Hackers Abuse WinRAR NTFS Alternate Data Streams to Drop Malware via RAR Archives",
+            "link": "https://cyberpress.org/winrar-ads-malware-delivery/"
+        }
+    ]
+}
