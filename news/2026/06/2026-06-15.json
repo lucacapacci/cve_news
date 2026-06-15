@@ -53,6 +53,14 @@
         {
             "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
             "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-two-known-exploited-vulnerabilities-to-catalog-38/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-20262",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20262"
         }
     ],
     "CVE-2026-42824": [
@@ -65,6 +73,16 @@
         {
             "title": "Oracle Warns PeopleSoft Customers After Critical Zero-Day Exploited",
             "link": "https://www.techrepublic.com/article/news-oracle-peoplesoft-zero-day-shinyhunters/"
+        }
+    ],
+    "CVE-2026-54420": [
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-two-known-exploited-vulnerabilities-to-catalog-38/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-54420",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-54420"
         }
     ]
 }
