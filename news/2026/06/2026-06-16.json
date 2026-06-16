@@ -63,6 +63,10 @@
         {
             "title": "Attackers are exploiting FortiSandbox vulnerabilities",
             "link": "https://www.helpnetsecurity.com/2026/06/16/fortisandbox-vulnerabilities-cve-2026-39813-cve-2026-39808-cve-2026-25089/"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/fortinet-fortisandbox-vulnerabilities-exploit/"
         }
     ],
     "CVE-2026-39813": [
@@ -81,6 +85,10 @@
         {
             "title": "Attackers are exploiting FortiSandbox vulnerabilities",
             "link": "https://www.helpnetsecurity.com/2026/06/16/fortisandbox-vulnerabilities-cve-2026-39813-cve-2026-39808-cve-2026-25089/"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/fortinet-fortisandbox-vulnerabilities-exploit/"
         }
     ],
     "CVE-2026-25089": [
@@ -99,6 +107,10 @@
         {
             "title": "Attackers are exploiting FortiSandbox vulnerabilities",
             "link": "https://www.helpnetsecurity.com/2026/06/16/fortisandbox-vulnerabilities-cve-2026-39813-cve-2026-39808-cve-2026-25089/"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/fortinet-fortisandbox-vulnerabilities-exploit/"
         }
     ],
     "CVE-2026-20131": [
@@ -117,18 +129,30 @@
         {
             "title": "Microsoft Teams Relay Abused to Stealthily Route Malware Communications",
             "link": "https://cyberpress.org/microsoft-teams-abused-malware/"
+        },
+        {
+            "title": "Hackers Weaponize Microsoft Teams Relay to Hide Ransomware Traffic",
+            "link": "https://cybersecuritynews.com/microsoft-teams-relay-abused/"
         }
     ],
     "CVE-2023-52271": [
         {
             "title": "Microsoft Teams Relay Abused to Stealthily Route Malware Communications",
             "link": "https://cyberpress.org/microsoft-teams-abused-malware/"
+        },
+        {
+            "title": "Hackers Weaponize Microsoft Teams Relay to Hide Ransomware Traffic",
+            "link": "https://cybersecuritynews.com/microsoft-teams-relay-abused/"
         }
     ],
     "CVE-2025-1055": [
         {
             "title": "Microsoft Teams Relay Abused to Stealthily Route Malware Communications",
             "link": "https://cyberpress.org/microsoft-teams-abused-malware/"
+        },
+        {
+            "title": "Hackers Weaponize Microsoft Teams Relay to Hide Ransomware Traffic",
+            "link": "https://cybersecuritynews.com/microsoft-teams-relay-abused/"
         }
     ],
     "CVE-2025-11694": [
@@ -171,6 +195,12 @@
         {
             "title": "Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP",
             "link": "https://www.itsecuritynews.info/rockwell-automation-logix-5370-5570-controllers-vulnerable-to-denial-of-service-via-cip/"
+        }
+    ],
+    "CVE-2026-48907": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-48907",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48907"
         }
     ]
 }
