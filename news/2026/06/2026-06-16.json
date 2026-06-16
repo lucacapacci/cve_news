@@ -11,6 +11,10 @@
         {
             "title": "Cisco SD-WAN vManage Vulnerability Exploited in Zero-Day Attacks",
             "link": "https://cybersecuritynews.com/cisco-sd-wan-vmanage-vulnerability-exploit/"
+        },
+        {
+            "title": "Cisco discloses second exploited SD-WAN vulnerability in two weeks (CVE-2026-20262)",
+            "link": "https://www.helpnetsecurity.com/2026/06/16/cisco-sd-wan-cve-2026-20262-exploited/"
         }
     ],
     "CVE-2026-54420": [
@@ -21,6 +25,10 @@
         {
             "title": "LiteSpeed cPanel Plugin 0-Day Vulnerability Actively Exploited in the Wild",
             "link": "https://cybersecuritynews.com/litespeed-cpanel-plugin-0-day-vulnerability-exploit/"
+        },
+        {
+            "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/"
         }
     ],
     "CVE-2026-48558": [
@@ -33,6 +41,78 @@
         {
             "title": "Critical SearchLeak Vulnerability Lets Attackers Steal Emails, MFA Codes, and Files via Microsoft 365 Copilot",
             "link": "https://cyberpress.org/critical-searchleak-vulnerability/"
+        }
+    ],
+    "CVE-2026-39808": [
+        {
+            "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
+            "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Exploited in the Wild",
+            "link": "https://cyberpress.org/critical-fortinet-fortisandbox-vulnerabilities/"
+        },
+        {
+            "title": "Hackers Exploit Critical Fortinet FortiSandbox Flaws in Active Attacks",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-critical-fortinet-fortisandbox-flaws-in-active-attacks/"
+        }
+    ],
+    "CVE-2026-39813": [
+        {
+            "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
+            "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Exploited in the Wild",
+            "link": "https://cyberpress.org/critical-fortinet-fortisandbox-vulnerabilities/"
+        },
+        {
+            "title": "Hackers Exploit Critical Fortinet FortiSandbox Flaws in Active Attacks",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-critical-fortinet-fortisandbox-flaws-in-active-attacks/"
+        }
+    ],
+    "CVE-2026-25089": [
+        {
+            "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
+            "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html"
+        },
+        {
+            "title": "Critical Fortinet FortiSandbox Vulnerabilities Exploited in the Wild",
+            "link": "https://cyberpress.org/critical-fortinet-fortisandbox-vulnerabilities/"
+        },
+        {
+            "title": "Hackers Exploit Critical Fortinet FortiSandbox Flaws in Active Attacks",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-critical-fortinet-fortisandbox-flaws-in-active-attacks/"
+        }
+    ],
+    "CVE-2026-20131": [
+        {
+            "title": "Interlock and Rhysida Ransomware Operations Share Supper Backdoor and Malware Codebase",
+            "link": "https://cybersecuritynews.com/interlock-and-rhysida-ransomware-operations/"
+        }
+    ],
+    "CVE-2023-36036": [
+        {
+            "title": "Interlock and Rhysida Ransomware Operations Share Supper Backdoor and Malware Codebase",
+            "link": "https://cybersecuritynews.com/interlock-and-rhysida-ransomware-operations/"
+        }
+    ],
+    "CVE-2025-61155": [
+        {
+            "title": "Microsoft Teams Relay Abused to Stealthily Route Malware Communications",
+            "link": "https://cyberpress.org/microsoft-teams-abused-malware/"
+        }
+    ],
+    "CVE-2023-52271": [
+        {
+            "title": "Microsoft Teams Relay Abused to Stealthily Route Malware Communications",
+            "link": "https://cyberpress.org/microsoft-teams-abused-malware/"
+        }
+    ],
+    "CVE-2025-1055": [
+        {
+            "title": "Microsoft Teams Relay Abused to Stealthily Route Malware Communications",
+            "link": "https://cyberpress.org/microsoft-teams-abused-malware/"
         }
     ]
 }
