@@ -1,8 +1,38 @@
 {
+    "CVE-2026-20262": [
+        {
+            "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
+            "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html"
+        },
+        {
+            "title": "Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks",
+            "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/"
+        },
+        {
+            "title": "Cisco SD-WAN vManage Vulnerability Exploited in Zero-Day Attacks",
+            "link": "https://cybersecuritynews.com/cisco-sd-wan-vmanage-vulnerability-exploit/"
+        }
+    ],
+    "CVE-2026-54420": [
+        {
+            "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
+            "link": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html"
+        },
+        {
+            "title": "LiteSpeed cPanel Plugin 0-Day Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/litespeed-cpanel-plugin-0-day-vulnerability-exploit/"
+        }
+    ],
     "CVE-2026-48558": [
         {
             "title": "Nearly 14,000 SimpleHelp Servers Exposed Amid Critical Authentication Bypass Disclosure",
-            "link": "https://www.itsecuritynews.info/nearly-14000-simplehelp-servers-exposed-amid-critical-authentication-bypass-disclosure/"
+            "link": "https://cybersecuritynews.com/simplehelp-servers-exposed-authentication-bypass-disclosure/"
+        }
+    ],
+    "CVE-2026-42824": [
+        {
+            "title": "Critical SearchLeak Vulnerability Lets Attackers Steal Emails, MFA Codes, and Files via Microsoft 365 Copilot",
+            "link": "https://cyberpress.org/critical-searchleak-vulnerability/"
         }
     ]
 }
