@@ -3,6 +3,10 @@
         {
             "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
             "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html"
+        },
+        {
+            "title": "U.S. CISA adds Widget Factory Joomla Content Editor\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-widget-factory-joomla-content-editor-flaw-to-its-known-exploited-vulnerabilities-catalog/"
         }
     ],
     "CVE-2026-24228": [
