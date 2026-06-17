@@ -1,0 +1,150 @@
+{
+    "CVE-2026-48907": [
+        {
+            "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+            "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html"
+        }
+    ],
+    "CVE-2026-24228": [
+        {
+            "title": "Critical NVIDIA NeMo Vulnerability Enables OS Command Injection",
+            "link": "https://cyberpress.org/critical-nvidia-nemo-vulnerability/"
+        }
+    ],
+    "CVE-2026-24155": [
+        {
+            "title": "Critical NVIDIA NeMo Vulnerability Enables OS Command Injection",
+            "link": "https://cyberpress.org/critical-nvidia-nemo-vulnerability/"
+        }
+    ],
+    "CVE-2026-24252": [
+        {
+            "title": "Critical NVIDIA NeMo Vulnerability Enables OS Command Injection",
+            "link": "https://cyberpress.org/critical-nvidia-nemo-vulnerability/"
+        }
+    ],
+    "CVE-2026-9862": [
+        {
+            "title": "Critical Fortra Access Manager Flaw Exposes Systems to Command Injection",
+            "link": "https://cyberpress.org/critical-fortra-access-manager-flaw/"
+        },
+        {
+            "title": "Fortra Access Manager Security Flaw Exposes Systems to Command Injection",
+            "link": "https://www.itsecuritynews.info/fortra-access-manager-security-flaw-exposes-systems-to-command-injection/"
+        }
+    ],
+    "CVE-2026-12467": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12456": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12439": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12461": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12445": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12438": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12442": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12457": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12460": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12437": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12466": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12441": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12454": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12469": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12447": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12440": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-12443": [
+        {
+            "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        }
+    ],
+    "CVE-2026-49468": [
+        {
+            "title": "Critical LiteLLM Flaw Enables Authentication Bypass via Host Header Injection",
+            "link": "https://cyberpress.org/critical-litellm-flaw/"
+        }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "CISA Issues Alert on Oracle PeopleSoft Vulnerability Exploited by Ransomware Groups",
+            "link": "https://www.itsecuritynews.info/cisa-issues-alert-on-oracle-peoplesoft-vulnerability-exploited-by-ransomware-groups/"
+        }
+    ]
+}
