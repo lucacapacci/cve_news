@@ -31,120 +31,308 @@
         {
             "title": "Fortra Access Manager Security Flaw Exposes Systems to Command Injection",
             "link": "https://www.itsecuritynews.info/fortra-access-manager-security-flaw-exposes-systems-to-command-injection/"
+        },
+        {
+            "title": "Fortra Access Manager Vulnerability Enables Remote Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/fortra-access-manager-vulnerability/"
         }
     ],
     "CVE-2026-12467": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12456": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12439": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12461": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12445": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12438": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12442": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12457": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12460": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12437": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12466": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12441": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12454": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12469": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12447": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12440": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-12443": [
         {
             "title": "Critical Chrome Vulnerabilities Enable Arbitrary Code Execution Attacks",
             "link": "https://cyberpress.org/critical-chrome-vulnerabilities-4/"
+        },
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
         }
     ],
     "CVE-2026-49468": [
         {
             "title": "Critical LiteLLM Flaw Enables Authentication Bypass via Host Header Injection",
             "link": "https://cyberpress.org/critical-litellm-flaw/"
+        },
+        {
+            "title": "Critical LiteLLM Flaw Allows Authentication Bypass via Host Header Injection",
+            "link": "https://cybersecuritynews.com/litellm-vulnerability-host-header-injection/"
         }
     ],
     "CVE-2026-35273": [
         {
             "title": "CISA Issues Alert on Oracle PeopleSoft Vulnerability Exploited by Ransomware Groups",
             "link": "https://www.itsecuritynews.info/cisa-issues-alert-on-oracle-peoplesoft-vulnerability-exploited-by-ransomware-groups/"
+        },
+        {
+            "title": "CISA Warns of Oracle PeopleSoft 0-Day Vulnerability Exploited in Ransomware Attacks",
+            "link": "https://cybersecuritynews.com/oracle-peoplesoft-0-day-vulnerability-exploit/"
+        }
+    ],
+    "CVE-2026-12455": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12453": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12464": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12468": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-1246": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12449": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12465": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12446": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12459": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12462": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12452": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12463": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12450": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12458": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12451": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12444": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-12448": [
+        {
+            "title": "Critical Chrome Vulnerabilities Allow Attackers to Execute Arbitrary Code \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/chrome-vulnerabilities-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-50656": [
+        {
+            "title": "Microsoft working on patch for RoguePlanet Defender zero-day (CVE-2026-50656)",
+            "link": "https://www.helpnetsecurity.com/2026/06/17/rogueplanet-zero-day-cve-2026-50656/"
         }
     ]
 }

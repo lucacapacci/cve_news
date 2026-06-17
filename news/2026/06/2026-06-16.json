@@ -15,6 +15,10 @@
         {
             "title": "Cisco discloses second exploited SD-WAN vulnerability in two weeks (CVE-2026-20262)",
             "link": "https://www.helpnetsecurity.com/2026/06/16/cisco-sd-wan-cve-2026-20262-exploited/"
+        },
+        {
+            "title": "Cisco SD-WAN Controllers Face Fresh Root Access Assault as Patches Trail Active Exploitation",
+            "link": "https://www.webpronews.com/cisco-sd-wan-controllers-face-fresh-root-access-assault-as-patches-trail-active-exploitation/"
         }
     ],
     "CVE-2026-54420": [
@@ -201,6 +205,24 @@
         {
             "title": "CISA KEV Addition: CVE-2026-48907",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48907"
+        }
+    ],
+    "CVE-2022-20775": [
+        {
+            "title": "Cisco SD-WAN Controllers Face Fresh Root Access Assault as Patches Trail Active Exploitation",
+            "link": "https://www.webpronews.com/cisco-sd-wan-controllers-face-fresh-root-access-assault-as-patches-trail-active-exploitation/"
+        }
+    ],
+    "CVE-2026-20245": [
+        {
+            "title": "Cisco SD-WAN Controllers Face Fresh Root Access Assault as Patches Trail Active Exploitation",
+            "link": "https://www.webpronews.com/cisco-sd-wan-controllers-face-fresh-root-access-assault-as-patches-trail-active-exploitation/"
+        }
+    ],
+    "CVE-2026-20127": [
+        {
+            "title": "Cisco SD-WAN Controllers Face Fresh Root Access Assault as Patches Trail Active Exploitation",
+            "link": "https://www.webpronews.com/cisco-sd-wan-controllers-face-fresh-root-access-assault-as-patches-trail-active-exploitation/"
         }
     ]
 }
