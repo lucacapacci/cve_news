@@ -42,5 +42,263 @@
             "title": "Oracle June 2026 Critical Security Patch Update Addresses 243 CVEs (CVE-2026-35273)",
             "link": "https://www.tenable.com/blog/oracle-june-2026-critical-security-patch-update-addresses-243-cves-cve-2026-35273"
         }
+    ],
+    "CVE-2026-12289": [
+        {
+            "title": "Multiple Vulnerabilities in Firefox 152 Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/firefox-152-vulnerabilities/"
+        },
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12294": [
+        {
+            "title": "Multiple Vulnerabilities in Firefox 152 Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/firefox-152-vulnerabilities/"
+        },
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12328": [
+        {
+            "title": "Multiple Vulnerabilities in Firefox 152 Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/firefox-152-vulnerabilities/"
+        },
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12290": [
+        {
+            "title": "Multiple Vulnerabilities in Firefox 152 Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12326": [
+        {
+            "title": "Multiple Vulnerabilities in Firefox 152 Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/firefox-152-vulnerabilities/"
+        },
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12299": [
+        {
+            "title": "Multiple Vulnerabilities in Firefox 152 Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/firefox-152-vulnerabilities/"
+        },
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12297": [
+        {
+            "title": "Multiple Vulnerabilities in Firefox 152 Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/firefox-152-vulnerabilities/"
+        },
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12298": [
+        {
+            "title": "Multiple Vulnerabilities in Firefox 152 Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12291": [
+        {
+            "title": "Multiple Vulnerabilities in Firefox 152 Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/firefox-152-vulnerabilities/"
+        },
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12293": [
+        {
+            "title": "Multiple Vulnerabilities in Firefox 152 Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/firefox-152-vulnerabilities/"
+        },
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12304": [
+        {
+            "title": "Multiple Vulnerabilities in Firefox 152 Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/firefox-152-vulnerabilities/"
+        },
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20190": [
+        {
+            "title": "Critical Cisco ISE Vulnerability Allows Attacker to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/cisco-ise-rec-vulnerability/"
+        },
+        {
+            "title": "Critical Cisco ISE Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-cisco-ise-vulnerability/"
+        }
+    ],
+    "CVE-2026-20181": [
+        {
+            "title": "Critical Cisco ISE Vulnerability Allows Attacker to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/cisco-ise-rec-vulnerability/"
+        },
+        {
+            "title": "Critical Cisco ISE Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cyberpress.org/critical-cisco-ise-vulnerability/"
+        }
+    ],
+    "CVE-2026-50107": [
+        {
+            "title": "F5 Patches NGINX Vulnerability That Enables Code Execution and DoS Attacks",
+            "link": "https://cybersecuritynews.com/nginx-vulnerability-patched/"
+        },
+        {
+            "title": "Critical NGINX Flaw Fixed by F5 Allows Code Execution and Service Disruption",
+            "link": "https://cyberpress.org/critical-nginx-flaw-fixed/"
+        }
+    ],
+    "CVE-2026-42530": [
+        {
+            "title": "F5 Patches NGINX Vulnerability That Enables Code Execution and DoS Attacks",
+            "link": "https://cybersecuritynews.com/nginx-vulnerability-patched/"
+        },
+        {
+            "title": "Critical NGINX Flaw Fixed by F5 Allows Code Execution and Service Disruption",
+            "link": "https://cyberpress.org/critical-nginx-flaw-fixed/"
+        },
+        {
+            "title": "F5 Patches Critical NGINX Vulnerabilities Enabling Unauthenticated Code Execution",
+            "link": "https://www.itsecuritynews.info/f5-patches-critical-nginx-vulnerabilities-enabling-unauthenticated-code-execution/"
+        }
+    ],
+    "CVE-2026-42055": [
+        {
+            "title": "F5 Patches NGINX Vulnerability That Enables Code Execution and DoS Attacks",
+            "link": "https://cybersecuritynews.com/nginx-vulnerability-patched/"
+        },
+        {
+            "title": "Critical NGINX Flaw Fixed by F5 Allows Code Execution and Service Disruption",
+            "link": "https://cyberpress.org/critical-nginx-flaw-fixed/"
+        },
+        {
+            "title": "F5 Patches Critical NGINX Vulnerabilities Enabling Unauthenticated Code Execution",
+            "link": "https://www.itsecuritynews.info/f5-patches-critical-nginx-vulnerabilities-enabling-unauthenticated-code-execution/"
+        }
+    ],
+    "CVE-2026-48142": [
+        {
+            "title": "F5 Patches NGINX Vulnerability That Enables Code Execution and DoS Attacks",
+            "link": "https://cybersecuritynews.com/nginx-vulnerability-patched/"
+        },
+        {
+            "title": "Critical NGINX Flaw Fixed by F5 Allows Code Execution and Service Disruption",
+            "link": "https://cyberpress.org/critical-nginx-flaw-fixed/"
+        }
+    ],
+    "CVE-2026-11311": [
+        {
+            "title": "F5 Patches NGINX Vulnerability That Enables Code Execution and DoS Attacks",
+            "link": "https://cybersecuritynews.com/nginx-vulnerability-patched/"
+        },
+        {
+            "title": "Critical NGINX Flaw Fixed by F5 Allows Code Execution and Service Disruption",
+            "link": "https://cyberpress.org/critical-nginx-flaw-fixed/"
+        }
+    ],
+    "CVE-2026-32682": [
+        {
+            "title": "Critical NGINX Flaw Fixed by F5 Allows Code Execution and Service Disruption",
+            "link": "https://cyberpress.org/critical-nginx-flaw-fixed/"
+        }
+    ],
+    "CVE-2026-12302": [
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12311": [
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12315": [
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12322": [
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12296": [
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12316": [
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12320": [
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12313": [
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12319": [
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12292": [
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12295": [
+        {
+            "title": "Critical Firefox 152 Vulnerabilities Enable Remote Code Execution",
+            "link": "https://cyberpress.org/critical-firefox-152-vulnerabilities/"
+        }
+    ],
+    "CVE-2018-17144": [
+        {
+            "title": "Peter Todd Warns Zcash Privacy Tech Is Too Risky for Bitcoin Consensus Layer",
+            "link": "https://www.itsecuritynews.info/peter-todd-warns-zcash-privacy-tech-is-too-risky-for-bitcoin-consensus-layer/"
+        }
     ]
 }
