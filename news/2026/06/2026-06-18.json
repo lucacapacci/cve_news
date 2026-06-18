@@ -187,6 +187,10 @@
         {
             "title": "F5 Patches Critical NGINX Vulnerabilities Enabling Unauthenticated Code Execution",
             "link": "https://www.itsecuritynews.info/f5-patches-critical-nginx-vulnerabilities-enabling-unauthenticated-code-execution/"
+        },
+        {
+            "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
+            "link": "https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html"
         }
     ],
     "CVE-2026-42055": [
@@ -299,6 +303,28 @@
         {
             "title": "Peter Todd Warns Zcash Privacy Tech Is Too Risky for Bitcoin Consensus Layer",
             "link": "https://www.itsecuritynews.info/peter-todd-warns-zcash-privacy-tech-is-too-risky-for-bitcoin-consensus-layer/"
+        }
+    ],
+    "CVE-2026-20253": [
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-one-known-exploited-vulnerability-to-catalog-77/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-20253",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20253"
+        }
+    ],
+    "CVE-2026-50034": [
+        {
+            "title": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
+            "link": "https://www.itsecuritynews.info/apollo-pharmacy-blood-glucose-monitoring-system-apg-01-bt/"
+        }
+    ],
+    "CVE-2026-52866": [
+        {
+            "title": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
+            "link": "https://www.itsecuritynews.info/apollo-pharmacy-blood-glucose-monitoring-system-apg-01-bt/"
         }
     ]
 }
