@@ -19,6 +19,10 @@
         {
             "title": "Hackers Exploit WordPress SMTP Plugin With 100,000+ Installs",
             "link": "https://cyberpress.org/exploit-wordpress-smtp-plugin/"
+        },
+        {
+            "title": "Hackers Exploit WordPress SMTP Plugin With 100,000+ Installs to Steal Sensitive Data",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-wordpress-smtp-plugin-with-100000-installs-to-steal-sensitive-data/"
         }
     ],
     "CVE-2026-20265": [
@@ -31,6 +35,12 @@
         {
             "title": "CVE-2026-48907: How the Joomla JCE Exploit Works and What to Do About It",
             "link": "https://www.itsecuritynews.info/cve-2026-48907-how-the-joomla-jce-exploit-works-and-what-to-do-about-it/"
+        }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "Oracle June 2026 Critical Security Patch Update Addresses 243 CVEs (CVE-2026-35273)",
+            "link": "https://www.tenable.com/blog/oracle-june-2026-critical-security-patch-update-addresses-243-cves-cve-2026-35273"
         }
     ]
 }
