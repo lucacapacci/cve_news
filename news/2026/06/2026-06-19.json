@@ -14,7 +14,11 @@
         },
         {
             "title": "CISA Warns of Splunk Enterprise Critical Function Vulnerability Actively Exploited in Attacks",
-            "link": "https://www.itsecuritynews.info/cisa-warns-of-splunk-enterprise-critical-function-vulnerability-actively-exploited-in-attacks/"
+            "link": "https://cybersecuritynews.com/splunk-enterprise-vulnerability-exploit/"
+        },
+        {
+            "title": "Unauthenticated RCE in Splunk Enterprise under active attack (CVE-2026-20253)",
+            "link": "https://www.helpnetsecurity.com/2026/06/19/splunk-vulnerability-cve-2026-20253-exploited/"
         }
     ],
     "CVE-2025-20701": [
@@ -27,78 +31,130 @@
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2026-48937": [
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2026-48617": [
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2026-48930": [
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2026-48928": [
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2026-48618": [
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2026-48931": [
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2026-48936": [
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2026-48935": [
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2026-48615": [
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2026-48934": [
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2026-48933": [
         {
             "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
             "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        },
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
         }
     ],
     "CVE-2023-3519": [
         {
             "title": "INC Ransomware Uses LOLBins, RMM Tools, and rclone for Network Intrusion and Data Exfiltration",
             "link": "https://cyberpress.org/inc-ransomware-exfiltrates-data/"
+        },
+        {
+            "title": "INC Ransomware Uses Rust-Based Windows and Linux/ESXi Encryptors in New Attacks",
+            "link": "https://cybersecuritynews.com/inc-ransomware-uses-rust-based-windows/"
         }
     ],
     "CVE-2025-5777": [
@@ -111,6 +167,36 @@
         {
             "title": "INC Ransomware Uses LOLBins, RMM Tools, and rclone for Network Intrusion and Data Exfiltration",
             "link": "https://cyberpress.org/inc-ransomware-exfiltrates-data/"
+        }
+    ],
+    "CVE-2023-4966": [
+        {
+            "title": "INC Ransomware Uses Rust-Based Windows and Linux/ESXi Encryptors in New Attacks",
+            "link": "https://cybersecuritynews.com/inc-ransomware-uses-rust-based-windows/"
+        }
+    ],
+    "CVE-2024-4885": [
+        {
+            "title": "INC Ransomware Uses Rust-Based Windows and Linux/ESXi Encryptors in New Attacks",
+            "link": "https://cybersecuritynews.com/inc-ransomware-uses-rust-based-windows/"
+        }
+    ],
+    "CVE-2023-35082": [
+        {
+            "title": "INC Ransomware Uses Rust-Based Windows and Linux/ESXi Encryptors in New Attacks",
+            "link": "https://cybersecuritynews.com/inc-ransomware-uses-rust-based-windows/"
+        }
+    ],
+    "CVE-2026-21636": [
+        {
+            "title": "Node.js Fixes 12 Vulnerabilities, Including 2 High-Severity Authentication Bypasses",
+            "link": "https://cybersecuritynews.com/node-js-patches-12-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8713": [
+        {
+            "title": "Critical WordPress Plugin Bug Could Allow File Deletion Attacks on 1 Million Sites",
+            "link": "https://www.itsecuritynews.info/critical-wordpress-plugin-bug-could-allow-file-deletion-attacks-on-1-million-sites/"
         }
     ]
 }
