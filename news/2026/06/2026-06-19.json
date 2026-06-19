@@ -197,18 +197,22 @@
         {
             "title": "Critical WordPress Plugin Bug Could Allow File Deletion Attacks on 1 Million Sites",
             "link": "https://www.itsecuritynews.info/critical-wordpress-plugin-bug-could-allow-file-deletion-attacks-on-1-million-sites/"
-        }
-    ],
-    "CVE-2026-54420": [
+        },
         {
-            "title": "CISA Adds LiteSpeed cPanel Plugin Vulnerability to KEV List Following Active Exploitation",
-            "link": "https://www.itsecuritynews.info/cisa-adds-litespeed-cpanel-plugin-vulnerability-to-kev-list-following-active-exploitation/"
+            "title": "Critical WordPress Plugin Vulnerability Exposes 1 Million Sites to File Deletion Attacks",
+            "link": "https://cybersecuritynews.com/avada-wordpress-plugin-vulnerability/"
         }
     ],
     "CVE-2026-35273": [
         {
             "title": "ShinyHunters targets Oracle PeopleSoft customers through critical zero-day",
             "link": "https://www.itsecuritynews.info/shinyhunters-targets-oracle-peoplesoft-customers-through-critical-zero-day/"
+        }
+    ],
+    "CVE-2026-54420": [
+        {
+            "title": "CISA Adds LiteSpeed cPanel Plugin Vulnerability to KEV List Following Active Exploitation",
+            "link": "https://cybersecuritynews.com/litespeed-cpanel-plugin-flaw-exploit/"
         }
     ]
 }
