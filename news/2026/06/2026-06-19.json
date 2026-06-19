@@ -204,5 +204,11 @@
             "title": "CISA Adds LiteSpeed cPanel Plugin Vulnerability to KEV List Following Active Exploitation",
             "link": "https://www.itsecuritynews.info/cisa-adds-litespeed-cpanel-plugin-vulnerability-to-kev-list-following-active-exploitation/"
         }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "ShinyHunters targets Oracle PeopleSoft customers through critical zero-day",
+            "link": "https://www.itsecuritynews.info/shinyhunters-targets-oracle-peoplesoft-customers-through-critical-zero-day/"
+        }
     ]
 }
