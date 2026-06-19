@@ -3,6 +3,114 @@
         {
             "title": "Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure",
             "link": "https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Splunk Enterprise Critical Function Flaw",
+            "link": "https://cyberpress.org/cisa-actively-exploited-splunk-enterprise/"
+        },
+        {
+            "title": "CISA Issues Alert on Critical Splunk Enterprise Bug Under Active Exploitation",
+            "link": "https://www.itsecuritynews.info/cisa-issues-alert-on-critical-splunk-enterprise-bug-under-active-exploitation/"
+        },
+        {
+            "title": "CISA Warns of Splunk Enterprise Critical Function Vulnerability Actively Exploited in Attacks",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-splunk-enterprise-critical-function-vulnerability-actively-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2025-20701": [
+        {
+            "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+            "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html"
+        }
+    ],
+    "CVE-2026-48619": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2026-48937": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2026-48617": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2026-48930": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2026-48928": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2026-48618": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2026-48931": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2026-48936": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2026-48935": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2026-48615": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2026-48934": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2026-48933": [
+        {
+            "title": "Critical Node.js Security Release Patches 12 Vulnerabilities Including Authentication Bypass",
+            "link": "https://cyberpress.org/critical-node-js-security-release-patches/"
+        }
+    ],
+    "CVE-2023-3519": [
+        {
+            "title": "INC Ransomware Uses LOLBins, RMM Tools, and rclone for Network Intrusion and Data Exfiltration",
+            "link": "https://cyberpress.org/inc-ransomware-exfiltrates-data/"
+        }
+    ],
+    "CVE-2025-5777": [
+        {
+            "title": "INC Ransomware Uses LOLBins, RMM Tools, and rclone for Network Intrusion and Data Exfiltration",
+            "link": "https://cyberpress.org/inc-ransomware-exfiltrates-data/"
+        }
+    ],
+    "CVE-2023-48788": [
+        {
+            "title": "INC Ransomware Uses LOLBins, RMM Tools, and rclone for Network Intrusion and Data Exfiltration",
+            "link": "https://cyberpress.org/inc-ransomware-exfiltrates-data/"
         }
     ]
 }
