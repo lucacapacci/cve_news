@@ -1,0 +1,26 @@
+{
+    "CVE-2026-4020": [
+        {
+            "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+            "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html"
+        }
+    ],
+    "CVE-2026-25592": [
+        {
+            "title": "Microsoft Exposes AutoJack: How AI Agents Browsing the Web Can Hand Attackers Full Host Control",
+            "link": "https://www.webpronews.com/microsoft-exposes-autojack-how-ai-agents-browsing-the-web-can-hand-attackers-full-host-control/"
+        }
+    ],
+    "CVE-2026-26030": [
+        {
+            "title": "Microsoft Exposes AutoJack: How AI Agents Browsing the Web Can Hand Attackers Full Host Control",
+            "link": "https://www.webpronews.com/microsoft-exposes-autojack-how-ai-agents-browsing-the-web-can-hand-attackers-full-host-control/"
+        }
+    ],
+    "CVE-2026-2256": [
+        {
+            "title": "Microsoft Exposes AutoJack: How AI Agents Browsing the Web Can Hand Attackers Full Host Control",
+            "link": "https://www.webpronews.com/microsoft-exposes-autojack-how-ai-agents-browsing-the-web-can-hand-attackers-full-host-control/"
+        }
+    ]
+}
