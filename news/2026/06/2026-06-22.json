@@ -3,6 +3,10 @@
         {
             "title": "Beats Studio Buds Vulnerability Lets Attackers Within Bluetooth Range Access Microphone",
             "link": "https://www.itsecuritynews.info/beats-studio-buds-vulnerability-lets-attackers-within-bluetooth-range-access-microphone/"
+        },
+        {
+            "title": "Apple Beats Studio Buds Vulnerability Allows Hackers to Eavesdrop on Users",
+            "link": "https://cybersecuritynews.com/apple-beats-studio-buds-vulnerability/"
         }
     ],
     "CVE-2026-12044": [
@@ -15,6 +19,192 @@
         {
             "title": "pgAdmin 4 Released with Patches for Seven Vulnerabilities and Feature Enhancements",
             "link": "https://www.itsecuritynews.info/pgadmin-4-released-with-patches-for-seven-vulnerabilities-and-feature-enhancements/"
+        }
+    ],
+    "CVE-2016-5681": [
+        {
+            "title": "AryStinger Botnet Hijacks 4,300+ Routers to Build Global Attack Proxy Network",
+            "link": "https://cybersecuritynews.com/arystinger-botnet-hijacks-4300-routers/"
+        },
+        {
+            "title": "Hackers Exploit 13-Year-Old Router Flaws to Deploy AryStinger Botnet",
+            "link": "https://cyberpress.org/arystinger-botnet-exploits-routers/"
+        }
+    ],
+    "CVE-2025-11837": [
+        {
+            "title": "AryStinger Botnet Hijacks 4,300+ Routers to Build Global Attack Proxy Network",
+            "link": "https://cybersecuritynews.com/arystinger-botnet-hijacks-4300-routers/"
+        },
+        {
+            "title": "Hackers Exploit 13-Year-Old Router Flaws to Deploy AryStinger Botnet",
+            "link": "https://cyberpress.org/arystinger-botnet-exploits-routers/"
+        }
+    ],
+    "CVE-2013-3307": [
+        {
+            "title": "AryStinger Botnet Hijacks 4,300+ Routers to Build Global Attack Proxy Network",
+            "link": "https://cybersecuritynews.com/arystinger-botnet-hijacks-4300-routers/"
+        },
+        {
+            "title": "Hackers Exploit 13-Year-Old Router Flaws to Deploy AryStinger Botnet",
+            "link": "https://cyberpress.org/arystinger-botnet-exploits-routers/"
+        }
+    ],
+    "CVE-2026-47729": [
+        {
+            "title": "29-Year-Old \u2018Squidbleed\u2019 Vulnerability Discovered With the Aid of Claude Mythos Preview",
+            "link": "https://cybersecuritynews.com/squidbleed-vulnerability/"
+        }
+    ],
+    "CVE-2025-66281": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2025-66273": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2025-68405": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2025-62858": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2026-22899": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2026-26240": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2026-22893": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2025-59382": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2026-26241": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2026-24720": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2026-26239": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2025-66279": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2026-24724": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2025-66280": [
+        {
+            "title": "Critical QNAP Security Flaws Could Allow Arbitrary Command Execution",
+            "link": "https://cyberpress.org/critical-qnap-security-flaws/"
+        }
+    ],
+    "CVE-2026-39581": [
+        {
+            "title": "Vulnerability Summary for the Week of June 15, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-15-2026/"
+        }
+    ],
+    "CVE-2016-20071": [
+        {
+            "title": "Vulnerability Summary for the Week of June 15, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-15-2026/"
+        }
+    ],
+    "CVE-2026-39502": [
+        {
+            "title": "Vulnerability Summary for the Week of June 15, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-15-2026/"
+        }
+    ],
+    "CVE-2025-59554": [
+        {
+            "title": "Vulnerability Summary for the Week of June 15, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-15-2026/"
+        }
+    ],
+    "CVE-2026-48294": [
+        {
+            "title": "Vulnerability Summary for the Week of June 15, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-15-2026/"
+        }
+    ],
+    "CVE-2025-49403": [
+        {
+            "title": "Vulnerability Summary for the Week of June 15, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-15-2026/"
+        }
+    ],
+    "CVE-2026-40772": [
+        {
+            "title": "Vulnerability Summary for the Week of June 15, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-15-2026/"
+        }
+    ],
+    "CVE-2026-47964": [
+        {
+            "title": "Vulnerability Summary for the Week of June 15, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-15-2026/"
+        }
+    ],
+    "CVE-2026-39589": [
+        {
+            "title": "Vulnerability Summary for the Week of June 15, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-15-2026/"
+        }
+    ],
+    "CVE-2026-42661": [
+        {
+            "title": "Vulnerability Summary for the Week of June 15, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-15-2026/"
+        }
+    ],
+    "CVE-2026-25470": [
+        {
+            "title": "Vulnerability Summary for the Week of June 15, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-15-2026/"
         }
     ]
 }
