@@ -31,6 +31,46 @@
         {
             "title": "Critical libssh2 Vulnerability Lets Remote Attackers Execute Code via Crafted SSH Packets",
             "link": "https://www.itsecuritynews.info/critical-libssh2-vulnerability-lets-remote-attackers-execute-code-via-crafted-ssh-packets/"
+        },
+        {
+            "title": "Critical libssh2 Vulnerability Enables Remote Code Execution via Malicious SSH Packets",
+            "link": "https://cyberpress.org/critical-libssh2-vulnerability/"
+        }
+    ],
+    "CVE-2026-41947": [
+        {
+            "title": "1M+ App AI Platform Dify Hit by Critical Cross-Tenant Data Exposure Flaws",
+            "link": "https://cyberpress.org/1m-app-dify-cross-tenant/"
+        }
+    ],
+    "CVE-2026-41948": [
+        {
+            "title": "1M+ App AI Platform Dify Hit by Critical Cross-Tenant Data Exposure Flaws",
+            "link": "https://cyberpress.org/1m-app-dify-cross-tenant/"
+        }
+    ],
+    "CVE-2026-41949": [
+        {
+            "title": "1M+ App AI Platform Dify Hit by Critical Cross-Tenant Data Exposure Flaws",
+            "link": "https://cyberpress.org/1m-app-dify-cross-tenant/"
+        }
+    ],
+    "CVE-2026-41950": [
+        {
+            "title": "1M+ App AI Platform Dify Hit by Critical Cross-Tenant Data Exposure Flaws",
+            "link": "https://cyberpress.org/1m-app-dify-cross-tenant/"
+        }
+    ],
+    "CVE-2024-5846": [
+        {
+            "title": "1M+ App AI Platform Dify Hit by Critical Cross-Tenant Data Exposure Flaws",
+            "link": "https://cyberpress.org/1m-app-dify-cross-tenant/"
+        }
+    ],
+    "CVE-2025-55182": [
+        {
+            "title": "AWS Shows How Egress Controls Stop Compromised Workloads and AI Agents From Leaking Data",
+            "link": "https://cyberpress.org/egress-controls-stop-leaks/"
         }
     ]
 }
