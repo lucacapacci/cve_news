@@ -77,24 +77,58 @@
         {
             "title": "CISA KEV Addition: CVE-2025-67038",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-67038"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-four-known-exploited-vulnerabilities-to-catalog-12/"
         }
     ],
     "CVE-2026-34910": [
         {
             "title": "CISA KEV Addition: CVE-2026-34910",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34910"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-four-known-exploited-vulnerabilities-to-catalog-12/"
         }
     ],
     "CVE-2026-34909": [
         {
             "title": "CISA KEV Addition: CVE-2026-34909",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34909"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-four-known-exploited-vulnerabilities-to-catalog-12/"
         }
     ],
     "CVE-2026-34908": [
         {
             "title": "CISA KEV Addition: CVE-2026-34908",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34908"
+        },
+        {
+            "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-four-known-exploited-vulnerabilities-to-catalog-12/"
+        }
+    ],
+    "CVE-2026-20230": [
+        {
+            "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2025-15467": [
+        {
+            "title": "Siemens Products using OpenSSL",
+            "link": "https://www.itsecuritynews.info/siemens-products-using-openssl/"
+        }
+    ],
+    "CVE-2026-1840": [
+        {
+            "title": "Hubbell Aclara Metrum Cellular Web Interface",
+            "link": "https://www.itsecuritynews.info/hubbell-aclara-metrum-cellular-web-interface/"
         }
     ]
 }
