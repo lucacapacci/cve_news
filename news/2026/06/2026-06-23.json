@@ -1,0 +1,14 @@
+{
+    "CVE-2026-47729": [
+        {
+            "title": "29-Year-Old Squid Proxy Vulnerability Exposes Authorization Headers and API Keys",
+            "link": "https://www.itsecuritynews.info/29-year-old-squid-proxy-vulnerability-exposes-authorization-headers-and-api-keys/"
+        }
+    ],
+    "CVE-2024-40766": [
+        {
+            "title": "CVE-2024-40766: The Patch Fixed the Bug. Nobody Fixed the Configuration., (Tue, Jun 23rd)",
+            "link": "https://www.itsecuritynews.info/cve-2024-40766-the-patch-fixed-the-bug-nobody-fixed-the-configuration-tue-jun-23rd/"
+        }
+    ]
+}
