@@ -72,5 +72,29 @@
             "title": "AWS Shows How Egress Controls Stop Compromised Workloads and AI Agents From Leaking Data",
             "link": "https://cyberpress.org/egress-controls-stop-leaks/"
         }
+    ],
+    "CVE-2025-67038": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-67038",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-67038"
+        }
+    ],
+    "CVE-2026-34910": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-34910",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34910"
+        }
+    ],
+    "CVE-2026-34909": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-34909",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34909"
+        }
+    ],
+    "CVE-2026-34908": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-34908",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34908"
+        }
     ]
 }
