@@ -130,5 +130,11 @@
             "title": "Hubbell Aclara Metrum Cellular Web Interface",
             "link": "https://www.itsecuritynews.info/hubbell-aclara-metrum-cellular-web-interface/"
         }
+    ],
+    "CVE-2026-20971": [
+        {
+            "title": "Samsung KNOX Kernel UAF Exposes Millions of Galaxy Devices",
+            "link": "https://www.itsecuritynews.info/samsung-knox-kernel-uaf-exposes-millions-of-galaxy-devices/"
+        }
     ]
 }
