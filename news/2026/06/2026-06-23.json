@@ -10,5 +10,27 @@
             "title": "CVE-2024-40766: The Patch Fixed the Bug. Nobody Fixed the Configuration., (Tue, Jun 23rd)",
             "link": "https://www.itsecuritynews.info/cve-2024-40766-the-patch-fixed-the-bug-nobody-fixed-the-configuration-tue-jun-23rd/"
         }
+    ],
+    "CVE-2019-3568": [
+        {
+            "title": "The WhatsApp Encryption Puzzle: Math, Metadata and Mounting Legal Pressure",
+            "link": "https://www.webpronews.com/the-whatsapp-encryption-puzzle-math-metadata-and-mounting-legal-pressure/"
+        }
+    ],
+    "CVE-2026-8461": [
+        {
+            "title": "Critical FFmpeg Vulnerability Allows Attackers to Weaponize Media Files",
+            "link": "https://www.itsecuritynews.info/critical-ffmpeg-vulnerability-allows-attackers-to-weaponize-media-files/"
+        }
+    ],
+    "CVE-2026-55200": [
+        {
+            "title": "Critical libssh2 Vulnerability Allows Attackers to Execute Remote Code Via Malicious SSH packets",
+            "link": "https://www.itsecuritynews.info/critical-libssh2-vulnerability-allows-attackers-to-execute-remote-code-via-malicious-ssh-packets/"
+        },
+        {
+            "title": "Critical libssh2 Vulnerability Lets Remote Attackers Execute Code via Crafted SSH Packets",
+            "link": "https://www.itsecuritynews.info/critical-libssh2-vulnerability-lets-remote-attackers-execute-code-via-crafted-ssh-packets/"
+        }
     ]
 }
