@@ -245,12 +245,232 @@
         {
             "title": "Hackers Exploiting Cisco Catalyst SD-WAN Manager 0-Day Flaw to Gain Root-Level Access",
             "link": "https://www.itsecuritynews.info/hackers-exploiting-cisco-catalyst-sd-wan-manager-0-day-flaw-to-gain-root-level-access/"
+        },
+        {
+            "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
+            "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/"
         }
     ],
     "CVE-2025-67038": [
         {
             "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
             "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html"
+        }
+    ],
+    "CVE-2026-50263": [
+        {
+            "title": "ZDI-26-397: X.Org Server CreateSaverWindow Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-397/"
+        }
+    ],
+    "CVE-2026-50262": [
+        {
+            "title": "ZDI-26-396: X.Org Server ChangeDrawableAttributes Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-396/"
+        }
+    ],
+    "CVE-2026-50261": [
+        {
+            "title": "ZDI-26-395: X.Org Server SyncChangeCounter Use-After-Free Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-395/"
+        }
+    ],
+    "CVE-2026-50260": [
+        {
+            "title": "ZDI-26-394: X.Org Server FreeCounter Use-After-Free Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-394/"
+        }
+    ],
+    "CVE-2026-50259": [
+        {
+            "title": "ZDI-26-393: X.Org Server SetMap Request Stack-based Buffer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-393/"
+        }
+    ],
+    "CVE-2026-50258": [
+        {
+            "title": "ZDI-26-392: X.Org Server Xkb Key Types Stack-based Buffer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-392/"
+        }
+    ],
+    "CVE-2026-50257": [
+        {
+            "title": "ZDI-26-391: X.Org Server miSyncDestroyFence Use-After-Free Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-391/"
+        }
+    ],
+    "CVE-2026-50256": [
+        {
+            "title": "ZDI-26-390: X.Org Server Font Alias Stack-based Buffer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-390/"
+        }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "ZDI-26-389: Oracle PeopleSoft ExecuteProcessActivityCommand External Control of File Path Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-389/"
+        },
+        {
+            "title": "ZDI-26-388: Oracle PeopleSoft HubMBeanPersistance Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-388/"
+        },
+        {
+            "title": "ZDI-26-387: Oracle PeopleSoft HttpListeningConnector Server-Side Request Forgery Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-387/"
+        }
+    ],
+    "CVE-2026-9773": [
+        {
+            "title": "ZDI-26-386: Unraid Web Server ToggleState Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-386/"
+        }
+    ],
+    "CVE-2026-9772": [
+        {
+            "title": "ZDI-26-385: Unraid Web Server FileUpload Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-385/"
+        }
+    ],
+    "CVE-2026-10043": [
+        {
+            "title": "ZDI-26-384: MosaicML Composer Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-384/"
+        }
+    ],
+    "CVE-2026-9779": [
+        {
+            "title": "ZDI-26-383: ATEN Unizon doCryptoHugeFileToFile Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-383/"
+        }
+    ],
+    "CVE-2026-9778": [
+        {
+            "title": "ZDI-26-382: ATEN Unizon ImportDeviceList Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-382/"
+        }
+    ],
+    "CVE-2026-9777": [
+        {
+            "title": "ZDI-26-381: ATEN Unizon restoreDB Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-381/"
+        }
+    ],
+    "CVE-2026-9776": [
+        {
+            "title": "ZDI-26-380: ATEN Unizon writeFileToHttpServletResponse Directory Traversal Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-380/"
+        }
+    ],
+    "CVE-2026-9775": [
+        {
+            "title": "ZDI-26-379: ATEN Unizon uploadSSL Directory Traversal Arbitrary File Deletion Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-379/"
+        }
+    ],
+    "CVE-2026-9774": [
+        {
+            "title": "ZDI-26-378: ATEN Unizon updateLicense Directory Traversal Arbitrary File Deletion Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-378/"
+        }
+    ],
+    "CVE-2026-7569": [
+        {
+            "title": "ZDI-26-377: Quest NetVault Backup viewclient Cross-Site Scripting Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-377/"
+        }
+    ],
+    "CVE-2026-9787": [
+        {
+            "title": "ZDI-26-376: Quest NetVault Backup NVBULogDaemon Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-376/"
+        }
+    ],
+    "CVE-2026-9786": [
+        {
+            "title": "ZDI-26-375: Quest NetVault Backup NVBUDashboard SQL Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-375/"
+        }
+    ],
+    "CVE-2026-9785": [
+        {
+            "title": "ZDI-26-374: Quest NetVault Backup NVBULibrarySlot SQL Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-374/"
+        }
+    ],
+    "CVE-2026-9784": [
+        {
+            "title": "ZDI-26-373: Quest NetVault Backup NVBULibraryPort SQL Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-373/"
+        }
+    ],
+    "CVE-2026-9783": [
+        {
+            "title": "ZDI-26-372: Quest NetVault Backup NVBURemovableMedia SQL Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-372/"
+        }
+    ],
+    "CVE-2026-9782": [
+        {
+            "title": "ZDI-26-371: Quest NetVault Backup NVBUDeviceDrive SQL Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-371/"
+        }
+    ],
+    "CVE-2026-9781": [
+        {
+            "title": "ZDI-26-370: Quest NetVault Backup NVBURASDevice SQL Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-370/"
+        }
+    ],
+    "CVE-2026-9780": [
+        {
+            "title": "ZDI-26-369: Quest NetVault Backup addclient3 Cross-Site Scripting Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-369/"
+        }
+    ],
+    "CVE-2026-7570": [
+        {
+            "title": "ZDI-26-368: Quest NetVault Backup NVBUDashboard SQL Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-368/"
+        }
+    ],
+    "CVE-2026-8108": [
+        {
+            "title": "ZDI-26-367: Fuji Electric Tellus pcid64 Driver Registry APIs Exposed Dangerous Method Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-367/"
+        },
+        {
+            "title": "ZDI-26-366: Fuji Electric Tellus pcid64 Driver File APIs Exposed Dangerous Method Arbitrary File Deletion Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-366/"
+        }
+    ],
+    "CVE-2026-41137": [
+        {
+            "title": "ZDI-26-365: FlowiseAI Flowise CSV Agent customReadCSV Code Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-365/"
+        }
+    ],
+    "CVE-2026-41264": [
+        {
+            "title": "ZDI-26-364: FlowiseAI Flowise CSV Agent  Prompt Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-364/"
+        }
+    ],
+    "CVE-2026-55887": [
+        {
+            "title": "ZDI-26-363: Docker MCP Plugin OCI Image Label Parsing Argument Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-363/"
+        }
+    ],
+    "CVE-2026-46873": [
+        {
+            "title": "ZDI-26-362: Oracle VirtualBox VMSVGA Stack-based Buffer Overflow Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-362/"
+        }
+    ],
+    "CVE-2026-27278": [
+        {
+            "title": "ZDI-26-361: Adobe Acrobat Reader DC Field signatureInfo Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-361/"
         }
     ]
 }
