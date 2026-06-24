@@ -246,5 +246,11 @@
             "title": "Hackers Exploiting Cisco Catalyst SD-WAN Manager 0-Day Flaw to Gain Root-Level Access",
             "link": "https://www.itsecuritynews.info/hackers-exploiting-cisco-catalyst-sd-wan-manager-0-day-flaw-to-gain-root-level-access/"
         }
+    ],
+    "CVE-2025-67038": [
+        {
+            "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+            "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html"
+        }
     ]
 }
