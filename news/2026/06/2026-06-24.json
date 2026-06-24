@@ -240,5 +240,11 @@
             "title": "Red-Team AI Tool Vulnerabilities Let Attackers Exfiltrate API Keys and Compromise Operators\u2019 Systems",
             "link": "https://cybersecuritynews.com/red-team-ai-tool-vulnerabilities/"
         }
+    ],
+    "CVE-2026-20245": [
+        {
+            "title": "Hackers Exploiting Cisco Catalyst SD-WAN Manager 0-Day Flaw to Gain Root-Level Access",
+            "link": "https://www.itsecuritynews.info/hackers-exploiting-cisco-catalyst-sd-wan-manager-0-day-flaw-to-gain-root-level-access/"
+        }
     ]
 }
