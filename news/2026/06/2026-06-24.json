@@ -1,0 +1,50 @@
+{
+    "CVE-2026-20230": [
+        {
+            "title": "Hackers Exploiting Cisco Unified CM Vulnerability",
+            "link": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/"
+        }
+    ],
+    "CVE-2025-11371": [
+        {
+            "title": "Microsoft DART Uncovers Multiple Attackers Operating Inside Same Compromised Network",
+            "link": "https://cyberpress.org/multiple-attackers-one-network/"
+        }
+    ],
+    "CVE-2026-34909": [
+        {
+            "title": "CISA Warns of Critical UniFi OS Flaws Exploited for Command Injection Attacks",
+            "link": "https://cyberpress.org/cisa-unifi-os-flaws-exploited/"
+        },
+        {
+            "title": "CISA Adds Ubiquiti UniFi OS Flaws to KEV Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-ubiquiti-unifi-os-flaws-to-kev-catalog/"
+        }
+    ],
+    "CVE-2026-34908": [
+        {
+            "title": "CISA Warns of Critical UniFi OS Flaws Exploited for Command Injection Attacks",
+            "link": "https://cyberpress.org/cisa-unifi-os-flaws-exploited/"
+        },
+        {
+            "title": "CISA Adds Ubiquiti UniFi OS Flaws to KEV Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-ubiquiti-unifi-os-flaws-to-kev-catalog/"
+        }
+    ],
+    "CVE-2026-34910": [
+        {
+            "title": "CISA Warns of Critical UniFi OS Flaws Exploited for Command Injection Attacks",
+            "link": "https://cyberpress.org/cisa-unifi-os-flaws-exploited/"
+        },
+        {
+            "title": "CISA Adds Ubiquiti UniFi OS Flaws to KEV Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-ubiquiti-unifi-os-flaws-to-kev-catalog/"
+        }
+    ],
+    "CVE-2026-20971": [
+        {
+            "title": "Samsung KNOX Kernel Flaw Exposes Galaxy Devices to Memory Corruption Attacks",
+            "link": "https://www.itsecuritynews.info/samsung-knox-kernel-flaw-exposes-galaxy-devices-to-memory-corruption-attacks/"
+        }
+    ]
+}
