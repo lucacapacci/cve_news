@@ -97,6 +97,10 @@
         {
             "title": "Critical Webmin Stored XSS Vulnerability Lets Untrusted Users Exploit Root Accounts",
             "link": "https://cyberpress.org/critical-webmin-stored-xss-vulnerability/"
+        },
+        {
+            "title": "Critical Webmin Vulnerabilities Allow Attackers to Impersonate as Any User",
+            "link": "https://cybersecuritynews.com/webmin-vulnerabilities-impersonate-user/"
         }
     ],
     "CVE-2026-22678": [
@@ -107,24 +111,40 @@
         {
             "title": "Webmin Stored XSS Vulnerability Lets Attackers Exploit Root Users",
             "link": "https://www.itsecuritynews.info/webmin-stored-xss-vulnerability-lets-attackers-exploit-root-users/"
+        },
+        {
+            "title": "Critical Webmin Vulnerabilities Allow Attackers to Impersonate as Any User",
+            "link": "https://cybersecuritynews.com/webmin-vulnerabilities-impersonate-user/"
         }
     ],
     "CVE-2026-49103": [
         {
             "title": "Critical Webmin Stored XSS Vulnerability Lets Untrusted Users Exploit Root Accounts",
             "link": "https://cyberpress.org/critical-webmin-stored-xss-vulnerability/"
+        },
+        {
+            "title": "Critical Webmin Vulnerabilities Allow Attackers to Impersonate as Any User",
+            "link": "https://cybersecuritynews.com/webmin-vulnerabilities-impersonate-user/"
         }
     ],
     "CVE-2026-49102": [
         {
             "title": "Critical Webmin Stored XSS Vulnerability Lets Untrusted Users Exploit Root Accounts",
             "link": "https://cyberpress.org/critical-webmin-stored-xss-vulnerability/"
+        },
+        {
+            "title": "Critical Webmin Vulnerabilities Allow Attackers to Impersonate as Any User",
+            "link": "https://cybersecuritynews.com/webmin-vulnerabilities-impersonate-user/"
         }
     ],
     "CVE-2026-56022": [
         {
             "title": "Critical Webmin Stored XSS Vulnerability Lets Untrusted Users Exploit Root Accounts",
             "link": "https://cyberpress.org/critical-webmin-stored-xss-vulnerability/"
+        },
+        {
+            "title": "Critical Webmin Vulnerabilities Allow Attackers to Impersonate as Any User",
+            "link": "https://cybersecuritynews.com/webmin-vulnerabilities-impersonate-user/"
         }
     ],
     "CVE-2021-44228": [
@@ -155,6 +175,70 @@
         {
             "title": "Hackers Exploit Unpatched SharePoint Servers to Deploy Ransomware and Custom Backdoors",
             "link": "https://cybersecuritynews.com/hackers-exploit-unpatched-sharepoint-servers/"
+        }
+    ],
+    "CVE-2026-45504": [
+        {
+            "title": "PoC Exploit Released for Microsoft Exchange Server Elevation of Privilege Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-exploit-released-exchange-vulnerability/"
+        }
+    ],
+    "CVE-2025-54068": [
+        {
+            "title": "Laravel Livewire Applications Compromised to Steal Credentials Exploiting RCE Vulnerability",
+            "link": "https://cybersecuritynews.com/laravel-livewire-app-exploiting-rce-flaw/"
+        },
+        {
+            "title": "Critical Laravel Livewire RCE Flaw Exploited to Steal Credentials From 6,000+ Apps",
+            "link": "https://cyberpress.org/critical-laravel-livewire-rce-flaw-exploited/"
+        }
+    ],
+    "CVE-2025-61541": [
+        {
+            "title": "Critical Webmin Vulnerabilities Allow Attackers to Impersonate as Any User",
+            "link": "https://cybersecuritynews.com/webmin-vulnerabilities-impersonate-user/"
+        }
+    ],
+    "CVE-2026-56020": [
+        {
+            "title": "Critical Webmin Vulnerabilities Allow Attackers to Impersonate as Any User",
+            "link": "https://cybersecuritynews.com/webmin-vulnerabilities-impersonate-user/"
+        }
+    ],
+    "CVE-2025-67738": [
+        {
+            "title": "Critical Webmin Vulnerabilities Allow Attackers to Impersonate as Any User",
+            "link": "https://cybersecuritynews.com/webmin-vulnerabilities-impersonate-user/"
+        }
+    ],
+    "CVE-2026-55200": [
+        {
+            "title": "PoC Exploit Released for libssh2 Remote Code Execution Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-exploit-libssh2-rce-vulnerability/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "GhostShell Malware Uses mTLS Implant and Telegram Dead-Drop to Target Ukrainian Drone Operations",
+            "link": "https://cybersecuritynews.com/ghostshell-malware-uses-mtls-implant-and-telegram-dead-drop/"
+        }
+    ],
+    "CVE-2025-6218": [
+        {
+            "title": "GhostShell Malware Uses mTLS Implant and Telegram Dead-Drop to Target Ukrainian Drone Operations",
+            "link": "https://cybersecuritynews.com/ghostshell-malware-uses-mtls-implant-and-telegram-dead-drop/"
+        }
+    ],
+    "CVE-2026-25592": [
+        {
+            "title": "Red-Team AI Tool Vulnerabilities Let Attackers Exfiltrate API Keys and Compromise Operators\u2019 Systems",
+            "link": "https://cybersecuritynews.com/red-team-ai-tool-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-26030": [
+        {
+            "title": "Red-Team AI Tool Vulnerabilities Let Attackers Exfiltrate API Keys and Compromise Operators\u2019 Systems",
+            "link": "https://cybersecuritynews.com/red-team-ai-tool-vulnerabilities/"
         }
     ]
 }
