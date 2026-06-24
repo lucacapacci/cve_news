@@ -3,6 +3,22 @@
         {
             "title": "Hackers Exploiting Cisco Unified CM Vulnerability",
             "link": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/"
+        },
+        {
+            "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+            "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html"
+        },
+        {
+            "title": "Critical Cisco Unified CM and SME Flaw Enables Remote Attacker to Launch SSRF Attacks",
+            "link": "https://cybersecuritynews.com/cisco-unified-cm-and-sme-flaw-ssrf-attacks/"
+        },
+        {
+            "title": "Critical Cisco Unified Communications Manager SSRF Flaw Lets Attackers Elevate to Root",
+            "link": "https://cyberpress.org/cisco-communications-manager-ssrf/"
+        },
+        {
+            "title": "Cisco Unified Communications Manager Flaw Exposes Systems to SSRF Attacks and Root Access",
+            "link": "https://www.itsecuritynews.info/cisco-unified-communications-manager-flaw-exposes-systems-to-ssrf-attacks-and-root-access/"
         }
     ],
     "CVE-2025-11371": [
@@ -19,6 +35,10 @@
         {
             "title": "CISA Adds Ubiquiti UniFi OS Flaws to KEV Catalog",
             "link": "https://www.itsecuritynews.info/cisa-adds-ubiquiti-unifi-os-flaws-to-kev-catalog/"
+        },
+        {
+            "title": "CISA Warns of Ubiquiti UniFi OS Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-ubiquiti-unifi-os-vulnerability/"
         }
     ],
     "CVE-2026-34908": [
@@ -29,6 +49,10 @@
         {
             "title": "CISA Adds Ubiquiti UniFi OS Flaws to KEV Catalog",
             "link": "https://www.itsecuritynews.info/cisa-adds-ubiquiti-unifi-os-flaws-to-kev-catalog/"
+        },
+        {
+            "title": "CISA Warns of Ubiquiti UniFi OS Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-ubiquiti-unifi-os-vulnerability/"
         }
     ],
     "CVE-2026-34910": [
@@ -39,12 +63,60 @@
         {
             "title": "CISA Adds Ubiquiti UniFi OS Flaws to KEV Catalog",
             "link": "https://www.itsecuritynews.info/cisa-adds-ubiquiti-unifi-os-flaws-to-kev-catalog/"
+        },
+        {
+            "title": "CISA Warns of Ubiquiti UniFi OS Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-ubiquiti-unifi-os-vulnerability/"
         }
     ],
     "CVE-2026-20971": [
         {
             "title": "Samsung KNOX Kernel Flaw Exposes Galaxy Devices to Memory Corruption Attacks",
             "link": "https://www.itsecuritynews.info/samsung-knox-kernel-flaw-exposes-galaxy-devices-to-memory-corruption-attacks/"
+        }
+    ],
+    "CVE-2026-45502": [
+        {
+            "title": "PoC Released for Microsoft Exchange EWS SSRF Flaw Targeting Internal Services",
+            "link": "https://cyberpress.org/microsoft-exchange-ews-ssrf-fl/"
+        },
+        {
+            "title": "PoC Released for Microsoft Exchange Server EWS InstallApp SSRF Vulnerability",
+            "link": "https://www.itsecuritynews.info/poc-released-for-microsoft-exchange-server-ews-installapp-ssrf-vulnerability/"
+        }
+    ],
+    "CVE-2026-42210": [
+        {
+            "title": "Critical Webmin Stored XSS Vulnerability Lets Untrusted Users Exploit Root Accounts",
+            "link": "https://cyberpress.org/critical-webmin-stored-xss-vulnerability/"
+        }
+    ],
+    "CVE-2026-22678": [
+        {
+            "title": "Critical Webmin Stored XSS Vulnerability Lets Untrusted Users Exploit Root Accounts",
+            "link": "https://cyberpress.org/critical-webmin-stored-xss-vulnerability/"
+        },
+        {
+            "title": "Webmin Stored XSS Vulnerability Lets Attackers Exploit Root Users",
+            "link": "https://www.itsecuritynews.info/webmin-stored-xss-vulnerability-lets-attackers-exploit-root-users/"
+        }
+    ],
+    "CVE-2026-49103": [
+        {
+            "title": "Critical Webmin Stored XSS Vulnerability Lets Untrusted Users Exploit Root Accounts",
+            "link": "https://cyberpress.org/critical-webmin-stored-xss-vulnerability/"
+        }
+    ],
+    "CVE-2026-49102": [
+        {
+            "title": "Critical Webmin Stored XSS Vulnerability Lets Untrusted Users Exploit Root Accounts",
+            "link": "https://cyberpress.org/critical-webmin-stored-xss-vulnerability/"
+        }
+    ],
+    "CVE-2026-56022": [
+        {
+            "title": "Critical Webmin Stored XSS Vulnerability Lets Untrusted Users Exploit Root Accounts",
+            "link": "https://cyberpress.org/critical-webmin-stored-xss-vulnerability/"
         }
     ]
 }
