@@ -427,12 +427,20 @@
         {
             "title": "CISA KEV Addition: CVE-2026-20230",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20230"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-two-known-exploited-vulnerabilities-to-catalog-39/"
         }
     ],
     "CVE-2026-12569": [
         {
             "title": "CISA KEV Addition: CVE-2026-12569",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-12569"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-two-known-exploited-vulnerabilities-to-catalog-39/"
         }
     ]
 }
