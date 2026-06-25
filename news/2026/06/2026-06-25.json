@@ -376,5 +376,47 @@
             "title": "Langflow RCE Flaw Lets Attackers Execute Arbitrary Python Code Without Authentication",
             "link": "https://www.itsecuritynews.info/langflow-rce-flaw-lets-attackers-execute-arbitrary-python-code-without-authentication/"
         }
+    ],
+    "CVE-2026-56445": [
+        {
+            "title": "pydicom pynetdicom Library",
+            "link": "https://www.itsecuritynews.info/pydicom-pynetdicom-library/"
+        }
+    ],
+    "CVE-2026-56414": [
+        {
+            "title": "H.VIEW HV-500S6 IP Camera",
+            "link": "https://www.itsecuritynews.info/h-view-hv-500s6-ip-camera/"
+        }
+    ],
+    "CVE-2026-55975": [
+        {
+            "title": "H.VIEW HV-500S6 IP Camera",
+            "link": "https://www.itsecuritynews.info/h-view-hv-500s6-ip-camera/"
+        }
+    ],
+    "CVE-2026-12473": [
+        {
+            "title": "OHIF Viewers DICOM",
+            "link": "https://www.itsecuritynews.info/ohif-viewers-dicom/"
+        }
+    ],
+    "CVE-2026-12578": [
+        {
+            "title": "Delta Electronics DTM Soft",
+            "link": "https://www.itsecuritynews.info/delta-electronics-dtm-soft-2/"
+        }
+    ],
+    "CVE-2026-28701": [
+        {
+            "title": "Daktronics Controller Firmware",
+            "link": "https://www.itsecuritynews.info/daktronics-controller-firmware/"
+        }
+    ],
+    "CVE-2026-33560": [
+        {
+            "title": "Daktronics Controller Firmware",
+            "link": "https://www.itsecuritynews.info/daktronics-controller-firmware/"
+        }
     ]
 }
