@@ -247,12 +247,16 @@
     ],
     "CVE-2026-20245": [
         {
-            "title": "Hackers Exploiting Cisco Catalyst SD-WAN Manager 0-Day Flaw to Gain Root-Level Access",
-            "link": "https://www.itsecuritynews.info/hackers-exploiting-cisco-catalyst-sd-wan-manager-0-day-flaw-to-gain-root-level-access/"
-        },
-        {
             "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
             "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/"
+        },
+        {
+            "title": "Hackers Exploiting Cisco Catalyst SD-WAN Manager 0-Day Flaw to Gain Root-Level Access",
+            "link": "https://cybersecuritynews.com/cisco-catalyst-sd-wan-manager-0-day/"
+        },
+        {
+            "title": "Cisco SD-WAN Zero-Day Chain Exposes Root Access at Service Providers",
+            "link": "https://www.webpronews.com/cisco-sd-wan-zero-day-chain-exposes-root-access-at-service-providers/"
         }
     ],
     "CVE-2025-67038": [
@@ -475,6 +479,26 @@
         {
             "title": "ZDI-26-361: Adobe Acrobat Reader DC Field signatureInfo Use-After-Free Remote Code Execution Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-361/"
+        }
+    ],
+    "CVE-2026-20182": [
+        {
+            "title": "Hackers Exploiting Cisco Catalyst SD-WAN Manager 0-Day Flaw to Gain Root-Level Access",
+            "link": "https://cybersecuritynews.com/cisco-catalyst-sd-wan-manager-0-day/"
+        },
+        {
+            "title": "Cisco SD-WAN Zero-Day Chain Exposes Root Access at Service Providers",
+            "link": "https://www.webpronews.com/cisco-sd-wan-zero-day-chain-exposes-root-access-at-service-providers/"
+        }
+    ],
+    "CVE-2026-20127": [
+        {
+            "title": "Hackers Exploiting Cisco Catalyst SD-WAN Manager 0-Day Flaw to Gain Root-Level Access",
+            "link": "https://cybersecuritynews.com/cisco-catalyst-sd-wan-manager-0-day/"
+        },
+        {
+            "title": "Cisco SD-WAN Zero-Day Chain Exposes Root Access at Service Providers",
+            "link": "https://www.webpronews.com/cisco-sd-wan-zero-day-chain-exposes-root-access-at-service-providers/"
         }
     ]
 }

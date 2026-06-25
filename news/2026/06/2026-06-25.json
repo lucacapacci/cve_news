@@ -11,6 +11,10 @@
         {
             "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access via Malicious CSV Upload",
             "link": "https://www.itsecuritynews.info/cisco-catalyst-sd-wan-manager-zero-day-exploited-to-gain-root-access-via-malicious-csv-upload/"
+        },
+        {
+            "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access",
+            "link": "https://cyberpress.org/cisco-catalyst-sd-wan-manager-zero-day-exploited/"
         }
     ],
     "CVE-2025-67038": [
@@ -35,6 +39,132 @@
         {
             "title": "CVE-2025-54068 Laravel Livewire Credential Theft Campaign: 6,000+ Applications Compromised",
             "link": "https://www.itsecuritynews.info/cve-2025-54068-laravel-livewire-credential-theft-campaign-6000-applications-compromised/"
+        }
+    ],
+    "CVE-2026-13028": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13021": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13025": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13033": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13038": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13026": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13029": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13024": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13027": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13022": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13035": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13036": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13030": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13031": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13032": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13037": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13023": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-13034": [
+        {
+            "title": "Chrome 149 Security Update \u2014 Patch for Critical Flaws that Enable Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-149-security-update/"
+        }
+    ],
+    "CVE-2026-20182": [
+        {
+            "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access",
+            "link": "https://cyberpress.org/cisco-catalyst-sd-wan-manager-zero-day-exploited/"
+        }
+    ],
+    "CVE-2026-20127": [
+        {
+            "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access",
+            "link": "https://cyberpress.org/cisco-catalyst-sd-wan-manager-zero-day-exploited/"
+        }
+    ],
+    "CVE-2026-45585": [
+        {
+            "title": "Microsoft WinRE Weakness Exposes Devices to UEFI Password Bypass Attacks",
+            "link": "https://cyberpress.org/microsoft-winre-uefi-password-attacks/"
         }
     ]
 }
