@@ -21,6 +21,10 @@
         {
             "title": "Ubiquiti UniFi OS Flaw Under Active Exploitation CISA Alerts Users",
             "link": "https://www.itsecuritynews.info/ubiquiti-unifi-os-flaw-under-active-exploitation-cisa-alerts-users/"
+        },
+        {
+            "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
+            "link": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/"
         }
     ],
     "CVE-2026-4909": [
@@ -165,6 +169,136 @@
         {
             "title": "Microsoft WinRE Weakness Exposes Devices to UEFI Password Bypass Attacks",
             "link": "https://cyberpress.org/microsoft-winre-uefi-password-attacks/"
+        }
+    ],
+    "CVE-2026-10536": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8926": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11564": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11352": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-9547": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-9079": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-9545": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8927": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-9546": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8924": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8925": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11586": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8932": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-9080": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8458": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12064": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11856": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8286": [
+        {
+            "title": "curl Patches 18 Vulnerabilities Including Password Leak and WebSocket Memory Bugs",
+            "link": "https://cyberpress.org/curl-patches-18-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11374": [
+        {
+            "title": "ManageEngine AD360 Flaw Lets Unauthenticated Attackers Take Over User Accounts",
+            "link": "https://cyberpress.org/manageengine-ad360-flaw/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "Langflow AI Pipeline RCE Exploited Within 20 Hours to Steal Keys and Credentials",
+            "link": "https://cyberpress.org/langflow-ai-pipeline-rce-exploited/"
+        }
+    ],
+    "CVE-2026-33017": [
+        {
+            "title": "Langflow AI Pipeline RCE Exploited Within 20 Hours to Steal Keys and Credentials",
+            "link": "https://cyberpress.org/langflow-ai-pipeline-rce-exploited/"
+        },
+        {
+            "title": "Langflow RCE Flaw Lets Attackers Execute Arbitrary Python Code Without Authentication",
+            "link": "https://www.itsecuritynews.info/langflow-rce-flaw-lets-attackers-execute-arbitrary-python-code-without-authentication/"
         }
     ]
 }
