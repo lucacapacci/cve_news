@@ -1,0 +1,40 @@
+{
+    "CVE-2026-20245": [
+        {
+            "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+            "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html"
+        },
+        {
+            "title": "Cisco SD-WAN Zero-Day Exploited Months Before Patching",
+            "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/"
+        },
+        {
+            "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access via Malicious CSV Upload",
+            "link": "https://www.itsecuritynews.info/cisco-catalyst-sd-wan-manager-zero-day-exploited-to-gain-root-access-via-malicious-csv-upload/"
+        }
+    ],
+    "CVE-2025-67038": [
+        {
+            "title": "Ubiquiti UniFi OS Flaw Under Active Exploitation CISA Alerts Users",
+            "link": "https://www.itsecuritynews.info/ubiquiti-unifi-os-flaw-under-active-exploitation-cisa-alerts-users/"
+        }
+    ],
+    "CVE-2026-4909": [
+        {
+            "title": "Ubiquiti UniFi OS Flaw Under Active Exploitation CISA Alerts Users",
+            "link": "https://www.itsecuritynews.info/ubiquiti-unifi-os-flaw-under-active-exploitation-cisa-alerts-users/"
+        }
+    ],
+    "CVE-2026-34910": [
+        {
+            "title": "Ubiquiti UniFi OS Flaw Under Active Exploitation CISA Alerts Users",
+            "link": "https://www.itsecuritynews.info/ubiquiti-unifi-os-flaw-under-active-exploitation-cisa-alerts-users/"
+        }
+    ],
+    "CVE-2025-54068": [
+        {
+            "title": "CVE-2025-54068 Laravel Livewire Credential Theft Campaign: 6,000+ Applications Compromised",
+            "link": "https://www.itsecuritynews.info/cve-2025-54068-laravel-livewire-credential-theft-campaign-6000-applications-compromised/"
+        }
+    ]
+}
