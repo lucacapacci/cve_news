@@ -418,5 +418,21 @@
             "title": "Daktronics Controller Firmware",
             "link": "https://www.itsecuritynews.info/daktronics-controller-firmware/"
         }
+    ],
+    "CVE-2026-20230": [
+        {
+            "title": "Cisco Unified CM SSRF Flaw Is Being Exploited to Drop Webshells",
+            "link": "https://www.itsecuritynews.info/cisco-unified-cm-ssrf-flaw-is-being-exploited-to-drop-webshells/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-20230",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20230"
+        }
+    ],
+    "CVE-2026-12569": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-12569",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-12569"
+        }
     ]
 }
