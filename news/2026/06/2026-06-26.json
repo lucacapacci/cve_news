@@ -1,0 +1,14 @@
+{
+    "CVE-2026-12569": [
+        {
+            "title": "First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild",
+            "link": "https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/"
+        }
+    ],
+    "CVE-2026-20230": [
+        {
+            "title": "CISA Adds Actively Exploited Cisco Unified CM Flaws to KEV Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-actively-exploited-cisco-unified-cm-flaws-to-kev-catalog/"
+        }
+    ]
+}
