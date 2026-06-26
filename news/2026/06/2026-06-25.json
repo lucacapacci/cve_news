@@ -15,6 +15,10 @@
         {
             "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access",
             "link": "https://cyberpress.org/cisco-catalyst-sd-wan-manager-zero-day-exploited/"
+        },
+        {
+            "title": "Cisco\u2019s Vulnerability Streak Persists as Attackers Target Unified CM and SD-WAN",
+            "link": "https://www.webpronews.com/ciscos-vulnerability-streak-persists-as-attackers-target-unified-cm-and-sd-wan/"
         }
     ],
     "CVE-2025-67038": [
@@ -157,12 +161,20 @@
         {
             "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access",
             "link": "https://cyberpress.org/cisco-catalyst-sd-wan-manager-zero-day-exploited/"
+        },
+        {
+            "title": "Cisco\u2019s Vulnerability Streak Persists as Attackers Target Unified CM and SD-WAN",
+            "link": "https://www.webpronews.com/ciscos-vulnerability-streak-persists-as-attackers-target-unified-cm-and-sd-wan/"
         }
     ],
     "CVE-2026-20127": [
         {
             "title": "Cisco Catalyst SD-WAN Manager Zero-Day Exploited to Gain Root Access",
             "link": "https://cyberpress.org/cisco-catalyst-sd-wan-manager-zero-day-exploited/"
+        },
+        {
+            "title": "Cisco\u2019s Vulnerability Streak Persists as Attackers Target Unified CM and SD-WAN",
+            "link": "https://www.webpronews.com/ciscos-vulnerability-streak-persists-as-attackers-target-unified-cm-and-sd-wan/"
         }
     ],
     "CVE-2026-45585": [
@@ -431,6 +443,10 @@
         {
             "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
             "link": "https://www.itsecuritynews.info/cisa-adds-two-known-exploited-vulnerabilities-to-catalog-39/"
+        },
+        {
+            "title": "Cisco\u2019s Vulnerability Streak Persists as Attackers Target Unified CM and SD-WAN",
+            "link": "https://www.webpronews.com/ciscos-vulnerability-streak-persists-as-attackers-target-unified-cm-and-sd-wan/"
         }
     ],
     "CVE-2026-12569": [

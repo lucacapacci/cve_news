@@ -10,5 +10,23 @@
             "title": "CISA Adds Actively Exploited Cisco Unified CM Flaws to KEV Catalog",
             "link": "https://www.itsecuritynews.info/cisa-adds-actively-exploited-cisco-unified-cm-flaws-to-kev-catalog/"
         }
+    ],
+    "CVE-2026-13136": [
+        {
+            "title": "Synology issues critical fix for MailPlus Server vulnerabilities",
+            "link": "https://www.helpnetsecurity.com/2026/06/26/synology-mailplus-server-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-15660": [
+        {
+            "title": "Synology issues critical fix for MailPlus Server vulnerabilities",
+            "link": "https://www.helpnetsecurity.com/2026/06/26/synology-mailplus-server-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13135": [
+        {
+            "title": "Synology issues critical fix for MailPlus Server vulnerabilities",
+            "link": "https://www.helpnetsecurity.com/2026/06/26/synology-mailplus-server-vulnerabilities/"
+        }
     ]
 }
