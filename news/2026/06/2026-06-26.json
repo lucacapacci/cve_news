@@ -37,6 +37,10 @@
         {
             "title": "New Linux pedit COW Exploit Allows Attackers to Gain System Root Access",
             "link": "https://cybersecuritynews.com/linux-pedit-cow-exploit/"
+        },
+        {
+            "title": "New DirtyClone Linux Vulnerability Allows Attackers to Gain Root Access Via Cloned Packets",
+            "link": "https://cybersecuritynews.com/dirtyclone-linux-vulnerability/"
         }
     ],
     "CVE-2026-12957": [
@@ -56,7 +60,7 @@
         },
         {
             "title": "New DirtyClone Linux Vulnerability Allows Attackers to Gain Root Access Via Cloned Packets",
-            "link": "https://www.itsecuritynews.info/new-dirtyclone-linux-vulnerability-allows-attackers-to-gain-root-access-via-cloned-packets/"
+            "link": "https://cybersecuritynews.com/dirtyclone-linux-vulnerability/"
         }
     ],
     "CVE-2026-21852": [
@@ -87,24 +91,52 @@
         {
             "title": "New Linux pedit COW Exploit Allows Attackers to Gain System Root Access",
             "link": "https://cybersecuritynews.com/linux-pedit-cow-exploit/"
+        },
+        {
+            "title": "New DirtyClone Linux Vulnerability Allows Attackers to Gain Root Access Via Cloned Packets",
+            "link": "https://cybersecuritynews.com/dirtyclone-linux-vulnerability/"
         }
     ],
     "CVE-2026-43500": [
         {
             "title": "New Linux pedit COW Exploit Allows Attackers to Gain System Root Access",
             "link": "https://cybersecuritynews.com/linux-pedit-cow-exploit/"
+        },
+        {
+            "title": "New DirtyClone Linux Vulnerability Allows Attackers to Gain Root Access Via Cloned Packets",
+            "link": "https://cybersecuritynews.com/dirtyclone-linux-vulnerability/"
         }
     ],
     "CVE-2026-31431": [
         {
             "title": "New Linux pedit COW Exploit Allows Attackers to Gain System Root Access",
             "link": "https://cybersecuritynews.com/linux-pedit-cow-exploit/"
+        },
+        {
+            "title": "New DirtyClone Linux Vulnerability Allows Attackers to Gain Root Access Via Cloned Packets",
+            "link": "https://cybersecuritynews.com/dirtyclone-linux-vulnerability/"
         }
     ],
     "CVE-2026-43284": [
         {
             "title": "New Linux pedit COW Exploit Allows Attackers to Gain System Root Access",
             "link": "https://cybersecuritynews.com/linux-pedit-cow-exploit/"
+        },
+        {
+            "title": "New DirtyClone Linux Vulnerability Allows Attackers to Gain Root Access Via Cloned Packets",
+            "link": "https://cybersecuritynews.com/dirtyclone-linux-vulnerability/"
+        }
+    ],
+    "CVE-2026-28496": [
+        {
+            "title": "Critical FOSSBilling SSTI Flaw Enables Information Disclosure and Remote Code Execution",
+            "link": "https://cyberpress.org/critical-fossbilling-ssti-flaw/"
+        }
+    ],
+    "CVE-2023-38831": [
+        {
+            "title": "WinRAR ADS Path Traversal Lets UAC-0226 Deploy GIFTEDCROOK Against Ukrainian Targets",
+            "link": "https://cyberpress.org/winrar-flaw-deploys-giftedcrook/"
         }
     ]
 }
