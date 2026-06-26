@@ -53,6 +53,10 @@
         {
             "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
             "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html"
+        },
+        {
+            "title": "New DirtyClone Linux Vulnerability Allows Attackers to Gain Root Access Via Cloned Packets",
+            "link": "https://www.itsecuritynews.info/new-dirtyclone-linux-vulnerability-allows-attackers-to-gain-root-access-via-cloned-packets/"
         }
     ],
     "CVE-2026-21852": [
