@@ -90,5 +90,11 @@
             "title": "DirtyClone Linux Kernel LPE Flaw Lets Local Users Gain Root Access",
             "link": "https://cyberpress.org/dirtyclone-linux-kernel-lpe-flaw/"
         }
+    ],
+    "CVE-2026-20230": [
+        {
+            "title": "CISA Orders Immediate Patch for Actively Exploited Cisco Unified CM SSRF Flaw",
+            "link": "https://www.itsecuritynews.info/cisa-orders-immediate-patch-for-actively-exploited-cisco-unified-cm-ssrf-flaw/"
+        }
     ]
 }
