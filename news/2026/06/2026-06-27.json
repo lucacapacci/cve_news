@@ -3,6 +3,10 @@
         {
             "title": "Linux Kernel DirtyClone Vulnerability Lets Local Attackers Gain Root Privileges",
             "link": "https://www.itsecuritynews.info/linux-kernel-dirtyclone-vulnerability-lets-local-attackers-gain-root-privileges/"
+        },
+        {
+            "title": "DirtyClone: Fourth Linux Kernel Flaw in Six Weeks Escalates to Root",
+            "link": "https://www.itsecuritynews.info/dirtyclone-fourth-linux-kernel-flaw-in-six-weeks-escalates-to-root/"
         }
     ],
     "CVE-2026-12958": [
@@ -15,6 +19,12 @@
         {
             "title": "Amazon Q Developer Vulnerability Allows Code Execution via Malicious Repositories",
             "link": "https://www.itsecuritynews.info/amazon-q-developer-vulnerability-allows-code-execution-via-malicious-repositories/"
+        }
+    ],
+    "CVE-2026-46331": [
+        {
+            "title": "Critical Linux Kernel Flaw Allows Unprivileged Users to Gain Full Root Access",
+            "link": "https://www.itsecuritynews.info/critical-linux-kernel-flaw-allows-unprivileged-users-to-gain-full-root-access/"
         }
     ]
 }
