@@ -1,0 +1,20 @@
+{
+    "CVE-2026-43503": [
+        {
+            "title": "Linux Kernel DirtyClone Vulnerability Lets Local Attackers Gain Root Privileges",
+            "link": "https://www.itsecuritynews.info/linux-kernel-dirtyclone-vulnerability-lets-local-attackers-gain-root-privileges/"
+        }
+    ],
+    "CVE-2026-12958": [
+        {
+            "title": "Amazon Q Developer Vulnerability Allows Code Execution via Malicious Repositories",
+            "link": "https://www.itsecuritynews.info/amazon-q-developer-vulnerability-allows-code-execution-via-malicious-repositories/"
+        }
+    ],
+    "CVE-2026-12957": [
+        {
+            "title": "Amazon Q Developer Vulnerability Allows Code Execution via Malicious Repositories",
+            "link": "https://www.itsecuritynews.info/amazon-q-developer-vulnerability-allows-code-execution-via-malicious-repositories/"
+        }
+    ]
+}
