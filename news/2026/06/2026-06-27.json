@@ -96,5 +96,11 @@
             "title": "CISA Orders Immediate Patch for Actively Exploited Cisco Unified CM SSRF Flaw",
             "link": "https://www.itsecuritynews.info/cisa-orders-immediate-patch-for-actively-exploited-cisco-unified-cm-ssrf-flaw/"
         }
+    ],
+    "CVE-2026-55200": [
+        {
+            "title": "GitHub\u2019s Exploitarium Drops Ready-to-Run Code for Critical Flaws in libssh2, Gitea and More",
+            "link": "https://www.webpronews.com/githubs-exploitarium-drops-ready-to-run-code-for-critical-flaws-in-libssh2-gitea-and-more/"
+        }
     ]
 }
