@@ -1,0 +1,48 @@
+{
+    "CVE-2026-55200": [
+        {
+            "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+            "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html"
+        }
+    ],
+    "CVE-2026-41120": [
+        {
+            "title": "Dell Wyse Management Suite Flaws Let Remote Attackers Execute Code",
+            "link": "https://cyberpress.org/dell-wyse-management-suite-flaws/"
+        }
+    ],
+    "CVE-2026-49506": [
+        {
+            "title": "Dell Wyse Management Suite Flaws Let Remote Attackers Execute Code",
+            "link": "https://cyberpress.org/dell-wyse-management-suite-flaws/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "GIFTEDCROOK Payload Targets Chrome, Firefox, KeePass, OpenVPN, and Sensitive Documents",
+            "link": "https://cyberpress.org/giftedcrook-steals-sensitive-data/"
+        }
+    ],
+    "CVE-2025-6218": [
+        {
+            "title": "GIFTEDCROOK Payload Targets Chrome, Firefox, KeePass, OpenVPN, and Sensitive Documents",
+            "link": "https://cyberpress.org/giftedcrook-steals-sensitive-data/"
+        }
+    ],
+    "CVE-2025-60727": [
+        {
+            "title": "Microsoft 365 Apps Security Update Fixes High-Severity Excel RCE Vulnerability",
+            "link": "https://cyberpress.org/microsoft-365-apps-security-update/"
+        },
+        {
+            "title": "Microsoft 365 Apps RCE Vulnerability Lets Attackers Execute Code via Malicious Excel Files",
+            "link": "https://www.itsecuritynews.info/microsoft-365-apps-rce-vulnerability-lets-attackers-execute-code-via-malicious-excel-files/"
+        }
+    ],
+    "CVE-2026-12537": [
+        {
+            "title": "Critical Google Gemini CLI Flaw Lets Attackers Execute Code on Headless CI Platforms",
+            "link": "https://www.itsecuritynews.info/critical-google-gemini-cli-flaw-lets-attackers-execute-code-on-headless-ci-platforms/"
+        }
+    ]
+}
