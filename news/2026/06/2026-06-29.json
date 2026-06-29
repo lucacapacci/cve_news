@@ -21,6 +21,14 @@
         {
             "title": "GIFTEDCROOK Payload Targets Chrome, Firefox, KeePass, OpenVPN, and Sensitive Documents",
             "link": "https://cyberpress.org/giftedcrook-steals-sensitive-data/"
+        },
+        {
+            "title": "Russia-Linked Turla Uses Compromised Infrastructure to Deploy STOCKSTAY in Ukraine Operations",
+            "link": "https://cybersecuritynews.com/russia-linked-turla-uses-compromised-infrastructure/"
+        },
+        {
+            "title": "Turla Hackers Use STOCKSTAY .NET Backdoor to Spy on Ukrainian Government and Military Targets",
+            "link": "https://cyberpress.org/turla-stockstay-targets-ukraine/"
         }
     ],
     "CVE-2025-6218": [
@@ -43,6 +51,34 @@
         {
             "title": "Critical Google Gemini CLI Flaw Lets Attackers Execute Code on Headless CI Platforms",
             "link": "https://www.itsecuritynews.info/critical-google-gemini-cli-flaw-lets-attackers-execute-code-on-headless-ci-platforms/"
+        },
+        {
+            "title": "Critical Gemini CLI Vulnerability Exposes CI Workflows to Command Injection Attacks",
+            "link": "https://cyberpress.org/critical-gemini-cli-vulnerability/"
+        }
+    ],
+    "CVE-2026-50160": [
+        {
+            "title": "Critical Hoppscotch Flaw Lets Unauthenticated Attackers Overwrite JWT Secrets",
+            "link": "https://cyberpress.org/critical-hoppscotch-flaw/"
+        }
+    ],
+    "CVE-2026-33017": [
+        {
+            "title": "Langflow RCE Flaw Exploited to Deploy Monero Cryptominer on AI Servers",
+            "link": "https://cyberpress.org/langflow-rce-flaw/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "Langflow RCE Flaw Exploited to Deploy Monero Cryptominer on AI Servers",
+            "link": "https://cyberpress.org/langflow-rce-flaw/"
+        }
+    ],
+    "CVE-2026-20251": [
+        {
+            "title": "Splunk Secure Gateway RCE Vulnerability Lets Low-Privileged Attackers Execute Arbitrary Code",
+            "link": "https://www.itsecuritynews.info/splunk-secure-gateway-rce-vulnerability-lets-low-privileged-attackers-execute-arbitrary-code/"
         }
     ]
 }
