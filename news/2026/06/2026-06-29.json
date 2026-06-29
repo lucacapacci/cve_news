@@ -113,6 +113,10 @@
         {
             "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
             "link": "https://www.itsecuritynews.info/cisa-adds-one-known-exploited-vulnerability-to-catalog-78/"
+        },
+        {
+            "title": "'Djinn' Stealer Targets Cloud, AI Credentials",
+            "link": "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials"
         }
     ],
     "CVE-2026-46817": [
@@ -135,6 +139,66 @@
         {
             "title": "JSP webshells being dropped on unpatched PTC Windchill instances",
             "link": "https://www.helpnetsecurity.com/2026/06/29/ptc-windchill-cve-2026-12569-exploited/"
+        }
+    ],
+    "CVE-2026-57667": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-56044": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-12242": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-54824": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-56054": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-10711": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-57643": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-12100": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2020-9695": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2026-54846": [
+        {
+            "title": "Vulnerability Summary for the Week of June 22, 2026",
+            "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
         }
     ]
 }
