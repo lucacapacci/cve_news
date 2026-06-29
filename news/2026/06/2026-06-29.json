@@ -105,6 +105,10 @@
         {
             "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
             "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-48558",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48558"
         }
     ],
     "CVE-2026-46817": [
