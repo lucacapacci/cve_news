@@ -9,12 +9,20 @@
         {
             "title": "Dell Wyse Management Suite Flaws Let Remote Attackers Execute Code",
             "link": "https://cyberpress.org/dell-wyse-management-suite-flaws/"
+        },
+        {
+            "title": "Critical Dell Wyse Vulnerabilities Enable Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/dell-wyse-vulnerabilities/"
         }
     ],
     "CVE-2026-49506": [
         {
             "title": "Dell Wyse Management Suite Flaws Let Remote Attackers Execute Code",
             "link": "https://cyberpress.org/dell-wyse-management-suite-flaws/"
+        },
+        {
+            "title": "Critical Dell Wyse Vulnerabilities Enable Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/dell-wyse-vulnerabilities/"
         }
     ],
     "CVE-2025-8088": [
@@ -45,6 +53,10 @@
         {
             "title": "Microsoft 365 Apps RCE Vulnerability Lets Attackers Execute Code via Malicious Excel Files",
             "link": "https://www.itsecuritynews.info/microsoft-365-apps-rce-vulnerability-lets-attackers-execute-code-via-malicious-excel-files/"
+        },
+        {
+            "title": "Microsoft 365 Apps RCE Vulnerability Exploited Using a Malicious Excel File",
+            "link": "https://cybersecuritynews.com/microsoft-365-apps-rce-vulnerability-exploit/"
         }
     ],
     "CVE-2026-12537": [
@@ -55,6 +67,10 @@
         {
             "title": "Critical Gemini CLI Vulnerability Exposes CI Workflows to Command Injection Attacks",
             "link": "https://cyberpress.org/critical-gemini-cli-vulnerability/"
+        },
+        {
+            "title": "Critical Gemini CLI Vulnerability Lets Attackers Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/critical-gemini-cli-vulnerability/"
         }
     ],
     "CVE-2026-50160": [
@@ -79,6 +95,38 @@
         {
             "title": "Splunk Secure Gateway RCE Vulnerability Lets Low-Privileged Attackers Execute Arbitrary Code",
             "link": "https://www.itsecuritynews.info/splunk-secure-gateway-rce-vulnerability-lets-low-privileged-attackers-execute-arbitrary-code/"
+        },
+        {
+            "title": "Public PoC Released for Deserialization RCE Vulnerability in Splunk Secure Gateway",
+            "link": "https://cybersecuritynews.com/splunk-secure-gateway-deserialization-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-48558": [
+        {
+            "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/"
+        }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/"
+        },
+        {
+            "title": "Hackers Exploiting Critical Oracle E-Business Suite Vulnerability Actively in Attacks",
+            "link": "https://cybersecuritynews.com/oracle-e-business-flaw-actively-exploited/"
+        }
+    ],
+    "CVE-2026-20253": [
+        {
+            "title": "Public PoC Released for Deserialization RCE Vulnerability in Splunk Secure Gateway",
+            "link": "https://cybersecuritynews.com/splunk-secure-gateway-deserialization-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-12569": [
+        {
+            "title": "JSP webshells being dropped on unpatched PTC Windchill instances",
+            "link": "https://www.helpnetsecurity.com/2026/06/29/ptc-windchill-cve-2026-12569-exploited/"
         }
     ]
 }
