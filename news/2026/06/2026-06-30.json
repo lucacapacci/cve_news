@@ -56,7 +56,7 @@
         },
         {
             "title": "Critical Progress Kemp LoadMaster Vulnerability Enables Pre-Auth Remote Code Execution",
-            "link": "https://www.itsecuritynews.info/critical-progress-kemp-loadmaster-vulnerability-enables-pre-auth-remote-code-execution/"
+            "link": "https://cybersecuritynews.com/critical-progress-kemp-loadmaster-vulnerability/"
         }
     ],
     "CVE-2026-12957": [
@@ -69,6 +69,18 @@
         {
             "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
             "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/"
+        }
+    ],
+    "CVE-2026-33017": [
+        {
+            "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
+            "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html"
+        }
+    ],
+    "CVE-2026-55200": [
+        {
+            "title": "libssh2 CVE-2026-55200 Shows Why Outbound SSH Is an Attack Surface",
+            "link": "https://www.itsecuritynews.info/libssh2-cve-2026-55200-shows-why-outbound-ssh-is-an-attack-surface/"
         }
     ]
 }
