@@ -1,0 +1,34 @@
+{
+    "CVE-2026-43707": [
+        {
+            "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+            "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html"
+        }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+            "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html"
+        },
+        {
+            "title": "Critical Oracle E-Business Suite Bug Lets Attackers Hijack Enterprise Systems",
+            "link": "https://cyberpress.org/critical-oracle-e-business-suite-bug/"
+        }
+    ],
+    "CVE-2025-61882": [
+        {
+            "title": "Nissan Confirms Data Breach Following Oracle PeopleSoft 0-Day Attacks",
+            "link": "https://cybersecuritynews.com/nissan-confirms-data-breach/"
+        }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "Nissan Confirms Data Breach Following Oracle PeopleSoft 0-Day Attacks",
+            "link": "https://cybersecuritynews.com/nissan-confirms-data-breach/"
+        },
+        {
+            "title": "Nissan Confirms Employee Records Accessed Through Oracle PeopleSoft Attack",
+            "link": "https://cyberpress.org/nissan-employee-records-oracle-peoplesoft/"
+        }
+    ]
+}

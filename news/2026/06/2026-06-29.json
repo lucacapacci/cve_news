@@ -99,6 +99,10 @@
         {
             "title": "Public PoC Released for Deserialization RCE Vulnerability in Splunk Secure Gateway",
             "link": "https://cybersecuritynews.com/splunk-secure-gateway-deserialization-rce-vulnerability/"
+        },
+        {
+            "title": "Splunk Secure Gateway RCE Flaw Lets Low-Privileged Users Execute OS Commands",
+            "link": "https://cyberpress.org/splunk-secure-gateway-rce-flaw/"
         }
     ],
     "CVE-2026-48558": [
@@ -199,6 +203,12 @@
         {
             "title": "Vulnerability Summary for the Week of June 22, 2026",
             "link": "https://www.itsecuritynews.info/vulnerability-summary-for-the-week-of-june-22-2026/"
+        }
+    ],
+    "CVE-2025-55284": [
+        {
+            "title": "New Claude Code Attack Allows Attackers to Take Full Control of Developers\u2019 Systems",
+            "link": "https://cybersecuritynews.com/new-claude-code-attack/"
         }
     ]
 }
