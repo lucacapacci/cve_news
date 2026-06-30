@@ -86,5 +86,11 @@
             "title": "libssh2 CVE-2026-55200 Shows Why Outbound SSH Is an Attack Surface",
             "link": "https://www.itsecuritynews.info/libssh2-cve-2026-55200-shows-why-outbound-ssh-is-an-attack-surface/"
         }
+    ],
+    "CVE-2026-8451": [
+        {
+            "title": "CVE-2026-8451: Citrix NetScaler Vulnerability Leaks Memory",
+            "link": "https://www.itsecuritynews.info/cve-2026-8451-citrix-netscaler-vulnerability-leaks-memory/"
+        }
     ]
 }
