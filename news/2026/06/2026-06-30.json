@@ -33,6 +33,10 @@
         {
             "title": "Nissan Confirms Employee Records Accessed Through Oracle PeopleSoft Attack",
             "link": "https://cyberpress.org/nissan-employee-records-oracle-peoplesoft/"
+        },
+        {
+            "title": "Nissan Americas Hit in Global Oracle PeopleSoft Data Breach",
+            "link": "https://www.itsecuritynews.info/nissan-americas-hit-in-global-oracle-peoplesoft-data-breach/"
         }
     ],
     "CVE-2026-48558": [
