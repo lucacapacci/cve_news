@@ -30,5 +30,27 @@
             "title": "Nissan Confirms Employee Records Accessed Through Oracle PeopleSoft Attack",
             "link": "https://cyberpress.org/nissan-employee-records-oracle-peoplesoft/"
         }
+    ],
+    "CVE-2026-48558": [
+        {
+            "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+            "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html"
+        },
+        {
+            "title": "SimpleHelp vulnerability exploited to deliver mighty Djinn Stealer (CVE-2026-48558)",
+            "link": "https://www.helpnetsecurity.com/2026/06/30/simplehelp-vulnerability-exploited-cve-2026-48558/"
+        }
+    ],
+    "CVE-2026-8037": [
+        {
+            "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+            "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-12957": [
+        {
+            "title": "Amazon Q\u2019s MCP Flaw Is an Industry Warning: AI Tools Still Lack Workspace Trust Standards",
+            "link": "https://www.itsecuritynews.info/amazon-qs-mcp-flaw-is-an-industry-warning-ai-tools-still-lack-workspace-trust-standards/"
+        }
     ]
 }
