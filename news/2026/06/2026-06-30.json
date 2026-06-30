@@ -13,6 +13,10 @@
         {
             "title": "Critical Oracle E-Business Suite Bug Lets Attackers Hijack Enterprise Systems",
             "link": "https://cyberpress.org/critical-oracle-e-business-suite-bug/"
+        },
+        {
+            "title": "Oracle E-Business Suite Payments flaw under attack (CVE-2026-46817)",
+            "link": "https://www.helpnetsecurity.com/2026/06/30/oracle-payments-cve-2026-46817-exploitation/"
         }
     ],
     "CVE-2025-61882": [
@@ -45,12 +49,22 @@
         {
             "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
             "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html"
+        },
+        {
+            "title": "Critical Progress Kemp LoadMaster Vulnerability Enables Pre-Auth Remote Code Execution",
+            "link": "https://www.itsecuritynews.info/critical-progress-kemp-loadmaster-vulnerability-enables-pre-auth-remote-code-execution/"
         }
     ],
     "CVE-2026-12957": [
         {
             "title": "Amazon Q\u2019s MCP Flaw Is an Industry Warning: AI Tools Still Lack Workspace Trust Standards",
             "link": "https://www.itsecuritynews.info/amazon-qs-mcp-flaw-is-an-industry-warning-ai-tools-still-lack-workspace-trust-standards/"
+        }
+    ],
+    "CVE-2026-33825": [
+        {
+            "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
+            "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/"
         }
     ]
 }

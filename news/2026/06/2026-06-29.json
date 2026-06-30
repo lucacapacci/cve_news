@@ -210,5 +210,11 @@
             "title": "New Claude Code Attack Allows Attackers to Take Full Control of Developers\u2019 Systems",
             "link": "https://cybersecuritynews.com/new-claude-code-attack/"
         }
+    ],
+    "CVE-2026-43707": [
+        {
+            "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+            "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html"
+        }
     ]
 }
