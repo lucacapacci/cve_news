@@ -51,6 +51,10 @@
         {
             "title": "U.S. CISA adds SimpleHelp\u00a0flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://www.itsecuritynews.info/u-s-cisa-adds-simplehelp-flaw-to-its-known-exploited-vulnerabilities-catalog-2/"
+        },
+        {
+            "title": "SimpleHelp OIDC Bypass Lets Attackers Gain Technician Session and Deploy Malware",
+            "link": "https://cyberpress.org/simplehelp-oidc-bypass/"
         }
     ],
     "CVE-2026-8037": [
@@ -91,6 +95,132 @@
         {
             "title": "CVE-2026-8451: Citrix NetScaler Vulnerability Leaks Memory",
             "link": "https://www.itsecuritynews.info/cve-2026-8451-citrix-netscaler-vulnerability-leaks-memory/"
+        }
+    ],
+    "CVE-2026-39951": [
+        {
+            "title": "Critical Cacti Vulnerabilities Expose Servers to Pre-Auth SQL Injection Attacks",
+            "link": "https://cyberpress.org/critical-cacti-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-39938": [
+        {
+            "title": "Critical Cacti Vulnerabilities Expose Servers to Pre-Auth SQL Injection Attacks",
+            "link": "https://cyberpress.org/critical-cacti-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-39893": [
+        {
+            "title": "Critical Cacti Vulnerabilities Expose Servers to Pre-Auth SQL Injection Attacks",
+            "link": "https://cyberpress.org/critical-cacti-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-39955": [
+        {
+            "title": "Critical Cacti Vulnerabilities Expose Servers to Pre-Auth SQL Injection Attacks",
+            "link": "https://cyberpress.org/critical-cacti-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6091": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55958": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11999": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55960": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11310": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55964": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-5501": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-5194": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6291": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6679": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-10592": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6731": [
+        {
+            "title": "Multiple\u00a0wolfSSL Vulnerabilities Expose Applications to Certificate Chain Bypass Attacks",
+            "link": "https://cyberpress.org/multiple-wolfssl-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-24294": [
+        {
+            "title": "Windows Authentication Reflection Bypass Lets Attackers Gain SYSTEM Shells",
+            "link": "https://cyberpress.org/windows-authentication-reflection-bypass-lets-attackers-gain-system-shells/"
+        }
+    ],
+    "CVE-2025-33073": [
+        {
+            "title": "Windows Authentication Reflection Bypass Lets Attackers Gain SYSTEM Shells",
+            "link": "https://cyberpress.org/windows-authentication-reflection-bypass-lets-attackers-gain-system-shells/"
+        }
+    ],
+    "CVE-2026-13135": [
+        {
+            "title": "Critical Synology MailPlus Server Bugs Enable File Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/critical-synology-mailplus-server-bug/"
+        }
+    ],
+    "CVE-2026-13136": [
+        {
+            "title": "Critical Synology MailPlus Server Bugs Enable File Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/critical-synology-mailplus-server-bug/"
+        }
+    ],
+    "CVE-2025-15660": [
+        {
+            "title": "Critical Synology MailPlus Server Bugs Enable File Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/critical-synology-mailplus-server-bug/"
         }
     ]
 }
