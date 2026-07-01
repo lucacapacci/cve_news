@@ -1,0 +1,20 @@
+{
+    "CVE-2026-8451": [
+        {
+            "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+            "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html"
+        }
+    ],
+    "CVE-2026-55956": [
+        {
+            "title": "Multiple Apache Tomcat Vulnerabilities Allow Attackers to Bypass Authentication",
+            "link": "https://cybersecuritynews.com/multiple-apache-tomcat-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55957": [
+        {
+            "title": "Multiple Apache Tomcat Vulnerabilities Allow Attackers to Bypass Authentication",
+            "link": "https://cybersecuritynews.com/multiple-apache-tomcat-vulnerabilities/"
+        }
+    ]
+}
