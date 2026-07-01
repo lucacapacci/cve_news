@@ -11,6 +11,10 @@
         {
             "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
             "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
         }
     ],
     "CVE-2026-55956": [
@@ -183,6 +187,10 @@
         {
             "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
             "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
         }
     ],
     "CVE-2026-10817": [
@@ -193,6 +201,10 @@
         {
             "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
             "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
         }
     ],
     "CVE-2026-8655": [
@@ -203,6 +215,10 @@
         {
             "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
             "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
         }
     ],
     "CVE-2026-8452": [
@@ -213,6 +229,10 @@
         {
             "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
             "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
         }
     ],
     "CVE-2026-10816": [
@@ -223,6 +243,10 @@
         {
             "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
             "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        },
+        {
+            "title": "Multiple Citrix NetScaler ADC and Gateway Vulnerabilities Enables DoS and Memory Overflow Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-citrix-netscaler-adc-and-gateway-vulnerabilities-enables-dos-and-memory-overflow-attacks/"
         }
     ],
     "CVE-2026-13790": [
@@ -397,6 +421,10 @@
         {
             "title": "CISA Adds Actively Exploited SimpleHelp Authentication Bypass Flaw to KEV Catalog",
             "link": "https://cyberpress.org/cisa-exploited-simplehelp-authentication/"
+        },
+        {
+            "title": "CISA Adds Actively Exploited SimpleHelp Vulnerability to KEV Catalog",
+            "link": "https://www.itsecuritynews.info/cisa-adds-actively-exploited-simplehelp-vulnerability-to-kev-catalog/"
         }
     ],
     "CVE-2026-55407": [
