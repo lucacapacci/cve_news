@@ -454,7 +454,7 @@
         },
         {
             "title": "Critical Cursor IDE RCE Vulnerabilities Enable Prompt Injection in Zero-Click",
-            "link": "https://www.itsecuritynews.info/critical-cursor-ide-rce-vulnerabilities-enable-prompt-injection-in-zero-click/"
+            "link": "https://cybersecuritynews.com/cursor-ide-rce-vulnerabilities/"
         }
     ],
     "CVE-2026-50549": [
@@ -464,97 +464,157 @@
         },
         {
             "title": "Critical Cursor IDE RCE Vulnerabilities Enable Prompt Injection in Zero-Click",
-            "link": "https://www.itsecuritynews.info/critical-cursor-ide-rce-vulnerabilities-enable-prompt-injection-in-zero-click/"
+            "link": "https://cybersecuritynews.com/cursor-ide-rce-vulnerabilities/"
         }
     ],
     "CVE-2026-44160": [
         {
             "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
             "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        },
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
         }
     ],
     "CVE-2026-44024": [
         {
             "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
             "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        },
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
         }
     ],
     "CVE-2026-44161": [
         {
             "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
             "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        },
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
         }
     ],
     "CVE-2026-44025": [
         {
             "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
             "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        },
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
         }
     ],
     "CVE-2026-48307": [
         {
             "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
             "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
         }
     ],
     "CVE-2026-48283": [
         {
             "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
             "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
         }
     ],
     "CVE-2026-48281": [
         {
             "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
             "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
         }
     ],
     "CVE-2026-48313": [
         {
             "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
             "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
         }
     ],
     "CVE-2026-48285": [
         {
             "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
             "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
         }
     ],
     "CVE-2026-48276": [
         {
             "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
             "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
         }
     ],
     "CVE-2026-48315": [
         {
             "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
             "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
         }
     ],
     "CVE-2026-48314": [
         {
             "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
             "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
         }
     ],
     "CVE-2026-48316": [
         {
             "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
             "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
         }
     ],
     "CVE-2026-48277": [
         {
             "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
             "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
         }
     ],
     "CVE-2026-48282": [
         {
             "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
             "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        },
+        {
+            "title": "Critical Multiple Adobe ColdFusion Vulnerabilities Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/multiple-adobe-coldfusion-vulnerabilities/"
         }
     ],
     "CVE-2026-31928": [
@@ -579,6 +639,24 @@
         {
             "title": "BlueHammer Microsoft Defender Vulnerability Linked to Ransomware Attacks After CISA Confirms Active Exploitation",
             "link": "https://www.itsecuritynews.info/bluehammer-microsoft-defender-vulnerability-linked-to-ransomware-attacks-after-cisa-confirms-active-exploitation/"
+        }
+    ],
+    "CVE-2021-41186": [
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
+        }
+    ],
+    "CVE-2022-39379": [
+        {
+            "title": "Multiple Fluentd Vulnerabilities Let Attackers Execution Arbitrary Code Remotely",
+            "link": "https://cybersecuritynews.com/fluentd-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-45659": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-45659",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-45659"
         }
     ]
 }
