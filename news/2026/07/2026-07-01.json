@@ -435,12 +435,150 @@
         {
             "title": "Anthropic\u2019s Buffa Rust Library 0-Day Vulnerability Enables DoS Attack",
             "link": "https://www.itsecuritynews.info/anthropics-buffa-rust-library-0-day-vulnerability-enables-dos-attack/"
+        },
+        {
+            "title": "Anthropic buffa Library Hit by Zero-Day DoS Flaw in Rust Protobuf Decoder",
+            "link": "https://cyberpress.org/anthropic-buffa-library-flaw/"
         }
     ],
     "CVE-2026-8037": [
         {
             "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
             "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html"
+        }
+    ],
+    "CVE-2026-50548": [
+        {
+            "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+            "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html"
+        },
+        {
+            "title": "Critical Cursor IDE RCE Vulnerabilities Enable Prompt Injection in Zero-Click",
+            "link": "https://www.itsecuritynews.info/critical-cursor-ide-rce-vulnerabilities-enable-prompt-injection-in-zero-click/"
+        }
+    ],
+    "CVE-2026-50549": [
+        {
+            "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+            "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html"
+        },
+        {
+            "title": "Critical Cursor IDE RCE Vulnerabilities Enable Prompt Injection in Zero-Click",
+            "link": "https://www.itsecuritynews.info/critical-cursor-ide-rce-vulnerabilities-enable-prompt-injection-in-zero-click/"
+        }
+    ],
+    "CVE-2026-44160": [
+        {
+            "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
+            "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        }
+    ],
+    "CVE-2026-44024": [
+        {
+            "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
+            "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        }
+    ],
+    "CVE-2026-44161": [
+        {
+            "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
+            "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        }
+    ],
+    "CVE-2026-44025": [
+        {
+            "title": "Fluentd Patches Critical RCE, SSRF, DoS, and Sensitive Data Exposure Flaws",
+            "link": "https://cyberpress.org/critical-fluentd-flaws-patches/"
+        }
+    ],
+    "CVE-2026-48307": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        }
+    ],
+    "CVE-2026-48283": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        }
+    ],
+    "CVE-2026-48281": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        }
+    ],
+    "CVE-2026-48313": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        }
+    ],
+    "CVE-2026-48285": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        }
+    ],
+    "CVE-2026-48276": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        }
+    ],
+    "CVE-2026-48315": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        }
+    ],
+    "CVE-2026-48314": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        }
+    ],
+    "CVE-2026-48316": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        }
+    ],
+    "CVE-2026-48277": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        }
+    ],
+    "CVE-2026-48282": [
+        {
+            "title": "Adobe ColdFusion Critical Flaws Enable Arbitrary Code Execution and File Read Attacks",
+            "link": "https://cyberpress.org/adobe-coldfusion-critical-flaws/"
+        }
+    ],
+    "CVE-2026-31928": [
+        {
+            "title": "Remote Exploits Target Controller Flaws in Highway Signs and Digital Billboards",
+            "link": "https://www.itsecuritynews.info/remote-exploits-target-controller-flaws-in-highway-signs-and-digital-billboards/"
+        }
+    ],
+    "CVE-2026-33560": [
+        {
+            "title": "Remote Exploits Target Controller Flaws in Highway Signs and Digital Billboards",
+            "link": "https://www.itsecuritynews.info/remote-exploits-target-controller-flaws-in-highway-signs-and-digital-billboards/"
+        }
+    ],
+    "CVE-2026-28701": [
+        {
+            "title": "Remote Exploits Target Controller Flaws in Highway Signs and Digital Billboards",
+            "link": "https://www.itsecuritynews.info/remote-exploits-target-controller-flaws-in-highway-signs-and-digital-billboards/"
+        }
+    ],
+    "CVE-2026-33825": [
+        {
+            "title": "BlueHammer Microsoft Defender Vulnerability Linked to Ransomware Attacks After CISA Confirms Active Exploitation",
+            "link": "https://www.itsecuritynews.info/bluehammer-microsoft-defender-vulnerability-linked-to-ransomware-attacks-after-cisa-confirms-active-exploitation/"
         }
     ]
 }
