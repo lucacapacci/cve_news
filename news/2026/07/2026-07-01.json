@@ -658,5 +658,11 @@
             "title": "CISA KEV Addition: CVE-2026-45659",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-45659"
         }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "Oracle E-Business Suite Flaw Under Active Attack, 950 Systems Exposed",
+            "link": "https://www.itsecuritynews.info/oracle-e-business-suite-flaw-under-active-attack-950-systems-exposed/"
+        }
     ]
 }
