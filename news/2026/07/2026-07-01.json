@@ -431,6 +431,16 @@
         {
             "title": "Anthropic buffa Library Zero-Day Lets Attackers Trigger Memory-Amplification DoS",
             "link": "https://www.itsecuritynews.info/anthropic-buffa-library-zero-day-lets-attackers-trigger-memory-amplification-dos/"
+        },
+        {
+            "title": "Anthropic\u2019s Buffa Rust Library 0-Day Vulnerability Enables DoS Attack",
+            "link": "https://www.itsecuritynews.info/anthropics-buffa-rust-library-0-day-vulnerability-enables-dos-attack/"
+        }
+    ],
+    "CVE-2026-8037": [
+        {
+            "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+            "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html"
         }
     ]
 }
