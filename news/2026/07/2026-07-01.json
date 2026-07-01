@@ -3,6 +3,14 @@
         {
             "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
             "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
         }
     ],
     "CVE-2026-55956": [
@@ -15,6 +23,386 @@
         {
             "title": "Multiple Apache Tomcat Vulnerabilities Allow Attackers to Bypass Authentication",
             "link": "https://cybersecuritynews.com/multiple-apache-tomcat-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13777": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13786": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13781": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13775": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13779": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13787": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13784": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13785": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13776": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13774": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13780": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13783": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13778": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13788": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13782": [
+        {
+            "title": "Chrome Update Patches 382 Vulnerabilities Including 15 Critical One\u2019s that Enables Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/chrome-update-fixes-382-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13474": [
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        }
+    ],
+    "CVE-2026-10817": [
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        }
+    ],
+    "CVE-2026-8655": [
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        }
+    ],
+    "CVE-2026-8452": [
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        }
+    ],
+    "CVE-2026-10816": [
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Expose Appliances to DoS and File Read Attacks",
+            "link": "https://cyberpress.org/citrix-netscaler-adc-and-gateway-flaws/"
+        },
+        {
+            "title": "Citrix NetScaler ADC and Gateway Flaws Let Attackers Trigger Memory Overread and Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/citrix-netscaler-adc-and-gateway-flaws-let-attackers-trigger-memory-overread-and-denial-of-service/"
+        }
+    ],
+    "CVE-2026-13790": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13795": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13859": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13856": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13845": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13844": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13789": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13832": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13870": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13830": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13827": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13853": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13840": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13794": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13860": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13793": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13791": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13792": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13846": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13861": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13848": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13869": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13854": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13831": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13855": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13858": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13857": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-13862": [
+        {
+            "title": "Google Chrome Update Fixes 382 Security Flaws, Including Critical UAF Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-update/"
+        }
+    ],
+    "CVE-2026-48558": [
+        {
+            "title": "CISA Adds Actively Exploited SimpleHelp Authentication Bypass Flaw to KEV Catalog",
+            "link": "https://cyberpress.org/cisa-exploited-simplehelp-authentication/"
+        }
+    ],
+    "CVE-2026-55407": [
+        {
+            "title": "Anthropic buffa Library Zero-Day Lets Attackers Trigger Memory-Amplification DoS",
+            "link": "https://www.itsecuritynews.info/anthropic-buffa-library-zero-day-lets-attackers-trigger-memory-amplification-dos/"
         }
     ]
 }
