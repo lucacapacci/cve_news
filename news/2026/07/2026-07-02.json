@@ -17,6 +17,10 @@
         {
             "title": "CISA Warns of Microsoft SharePoint Server Code Execution Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/sharepoint-server-code-execution-vulnerability-exploited/"
+        },
+        {
+            "title": "CISA Warns Actively Exploited Microsoft SharePoint RCE Flaw Requires Urgent Patch",
+            "link": "https://cyberpress.org/cisa-microsoft-sharepoint-rce/"
         }
     ],
     "CVE-2026-14191": [
@@ -59,6 +63,94 @@
         {
             "title": "Critical Cursor IDE Flaws Let Attackers Execute Code via Zero-Click Prompt Injection",
             "link": "https://www.itsecuritynews.info/critical-cursor-ide-flaws-let-attackers-execute-code-via-zero-click-prompt-injection/"
+        }
+    ],
+    "CVE-2026-49367": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-33392": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-56142": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-53915": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-49366": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-56141": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-50242": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-49373": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-44413": [
+        {
+            "title": "JetBrains Patches Authentication Bypass and Code Execution Attacks in YouTrack and Kotlin",
+            "link": "https://cyberpress.org/jetbrains-patches-authentication-bypass-code-execution/"
+        }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "950 Oracle E-Business Suite Instances Exposed as Critical Flaw Faces Exploitation",
+            "link": "https://cyberpress.org/950-oracle-e-business-suite-exposed/"
+        },
+        {
+            "title": "950 Oracle E-Business Suite Instances Exposed as CVE-2026-46817 Attacks Observed in the Wild",
+            "link": "https://www.itsecuritynews.info/950-oracle-e-business-suite-instances-exposed-as-cve-2026-46817-attacks-observed-in-the-wild/"
+        }
+    ],
+    "CVE-2023-29298": [
+        {
+            "title": "Threat Actor Uses Steganographic Webshell and Defence Impairment Before Mimikatz Execution",
+            "link": "https://cyberpress.org/steganographic-webshell-mimikatz-execution/"
+        }
+    ],
+    "CVE-2023-29300": [
+        {
+            "title": "Threat Actor Uses Steganographic Webshell and Defence Impairment Before Mimikatz Execution",
+            "link": "https://cyberpress.org/steganographic-webshell-mimikatz-execution/"
+        }
+    ],
+    "CVE-2023-26360": [
+        {
+            "title": "Threat Actor Uses Steganographic Webshell and Defence Impairment Before Mimikatz Execution",
+            "link": "https://cyberpress.org/steganographic-webshell-mimikatz-execution/"
+        }
+    ],
+    "CVE-2026-8451": [
+        {
+            "title": "NetScaler Memory Overread Flaw Revives CitrixBleed Fears",
+            "link": "https://www.itsecuritynews.info/netscaler-memory-overread-flaw-revives-citrixbleed-fears/"
         }
     ]
 }
