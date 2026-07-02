@@ -4,5 +4,53 @@
             "title": "CISA Warns of SimpleHelp Authentication Bypass Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/simplehelp-auth-vulnerability-exploited/"
         }
+    ],
+    "CVE-2026-45659": [
+        {
+            "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+            "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html"
+        }
+    ],
+    "CVE-2026-14191": [
+        {
+            "title": "WinRAR 7.23 Fixes Heap Overflow Vulnerability that Leads to Application Crashes",
+            "link": "https://cybersecuritynews.com/winrar-7-23-fixes-heap-overflow-vulnerability/"
+        }
+    ],
+    "CVE-2025-62554": [
+        {
+            "title": "Critical Flaws Double as Elevation of Privilege Dominates the Cyber Threats \u2013 Analysis of Microsoft Vulnerabilities Report 2026",
+            "link": "https://cybersecuritynews.com/microsoft-vulnerabilities-report-2026/"
+        }
+    ],
+    "CVE-2025-55241": [
+        {
+            "title": "Critical Flaws Double as Elevation of Privilege Dominates the Cyber Threats \u2013 Analysis of Microsoft Vulnerabilities Report 2026",
+            "link": "https://cybersecuritynews.com/microsoft-vulnerabilities-report-2026/"
+        }
+    ],
+    "CVE-2025-62557": [
+        {
+            "title": "Critical Flaws Double as Elevation of Privilege Dominates the Cyber Threats \u2013 Analysis of Microsoft Vulnerabilities Report 2026",
+            "link": "https://cybersecuritynews.com/microsoft-vulnerabilities-report-2026/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "JADEPUFFER Agentic Ransomware Uses LLM to Automate Database Extortion",
+            "link": "https://www.itsecuritynews.info/jadepuffer-agentic-ransomware-uses-llm-to-automate-database-extortion/"
+        }
+    ],
+    "CVE-2026-50548": [
+        {
+            "title": "Critical Cursor IDE Flaws Let Attackers Execute Code via Zero-Click Prompt Injection",
+            "link": "https://www.itsecuritynews.info/critical-cursor-ide-flaws-let-attackers-execute-code-via-zero-click-prompt-injection/"
+        }
+    ],
+    "CVE-2026-50549": [
+        {
+            "title": "Critical Cursor IDE Flaws Let Attackers Execute Code via Zero-Click Prompt Injection",
+            "link": "https://www.itsecuritynews.info/critical-cursor-ide-flaws-let-attackers-execute-code-via-zero-click-prompt-injection/"
+        }
     ]
 }
