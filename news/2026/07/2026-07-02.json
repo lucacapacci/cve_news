@@ -9,6 +9,14 @@
         {
             "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
             "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
+            "link": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Microsoft SharePoint Server Code Execution Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/sharepoint-server-code-execution-vulnerability-exploited/"
         }
     ],
     "CVE-2026-14191": [
