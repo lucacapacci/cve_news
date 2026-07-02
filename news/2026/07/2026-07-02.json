@@ -21,6 +21,10 @@
         {
             "title": "CISA Warns Actively Exploited Microsoft SharePoint RCE Flaw Requires Urgent Patch",
             "link": "https://cyberpress.org/cisa-microsoft-sharepoint-rce/"
+        },
+        {
+            "title": "U.S. CISA adds a Microsoft SharePoint Server flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-a-microsoft-sharepoint-server-flaw-to-its-known-exploited-vulnerabilities-catalog/"
         }
     ],
     "CVE-2026-14191": [
@@ -151,6 +155,10 @@
         {
             "title": "NetScaler Memory Overread Flaw Revives CitrixBleed Fears",
             "link": "https://www.itsecuritynews.info/netscaler-memory-overread-flaw-revives-citrixbleed-fears/"
+        },
+        {
+            "title": "CitrixBleed Vulnerability Exploited by Hackers Within 24 Hours of Public Disclosure",
+            "link": "https://www.itsecuritynews.info/citrixbleed-vulnerability-exploited-by-hackers-within-24-hours-of-public-disclosure/"
         }
     ]
 }
