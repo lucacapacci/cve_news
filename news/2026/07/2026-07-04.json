@@ -1,0 +1,8 @@
+{
+    "CVE-2026-46242": [
+        {
+            "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+            "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html"
+        }
+    ]
+}
