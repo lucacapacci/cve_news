@@ -25,6 +25,10 @@
         {
             "title": "Microsoft Exchange SSRF Vulnerability Details Released Along With Public PoC Exploit",
             "link": "https://www.itsecuritynews.info/microsoft-exchange-ssrf-vulnerability-details-released-along-with-public-poc-exploit/"
+        },
+        {
+            "title": "PoC Released for Microsoft Exchange SSRF Flaw That Lets Low-Privileged Users Read Files",
+            "link": "https://cyberpress.org/microsoft-exchange-ssrf-flaw/"
         }
     ],
     "CVE-2026-53917": [
@@ -49,24 +53,46 @@
         {
             "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
             "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        },
+        {
+            "title": "FBI Warns TeamPCP Supply Chain Campaign Puts Developer Environments and Cloud Credentials at Risk",
+            "link": "https://cyberpress.org/teampcp-supply-chain-risk/"
         }
     ],
     "CVE-2026-48027": [
         {
             "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
             "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        },
+        {
+            "title": "FBI Warns TeamPCP Supply Chain Campaign Puts Developer Environments and Cloud Credentials at Risk",
+            "link": "https://cyberpress.org/teampcp-supply-chain-risk/"
         }
     ],
     "CVE-2026-33634": [
         {
             "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
             "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        },
+        {
+            "title": "FBI Warns TeamPCP Supply Chain Campaign Puts Developer Environments and Cloud Credentials at Risk",
+            "link": "https://cyberpress.org/teampcp-supply-chain-risk/"
         }
     ],
     "CVE-2025-55182": [
         {
             "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
             "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        },
+        {
+            "title": "FBI Warns TeamPCP Supply Chain Campaign Puts Developer Environments and Cloud Credentials at Risk",
+            "link": "https://cyberpress.org/teampcp-supply-chain-risk/"
+        }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "Nissan Confirms Employee Data Breach Following Oracle PeopleSoft Zero-Day Cyberattack",
+            "link": "https://www.itsecuritynews.info/nissan-confirms-employee-data-breach-following-oracle-peoplesoft-zero-day-cyberattack/"
         }
     ]
 }
