@@ -26,5 +26,47 @@
             "title": "Microsoft Exchange SSRF Vulnerability Details Released Along With Public PoC Exploit",
             "link": "https://www.itsecuritynews.info/microsoft-exchange-ssrf-vulnerability-details-released-along-with-public-poc-exploit/"
         }
+    ],
+    "CVE-2026-53917": [
+        {
+            "title": "Multiple Apache ActiveMQ Vulnerabilities Enable DoS Attacks and Lead to Crashes",
+            "link": "https://cybersecuritynews.com/apache-activemq-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-49877": [
+        {
+            "title": "Multiple Apache ActiveMQ Vulnerabilities Enable DoS Attacks and Lead to Crashes",
+            "link": "https://cybersecuritynews.com/apache-activemq-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54475": [
+        {
+            "title": "Multiple Apache ActiveMQ Vulnerabilities Enable DoS Attacks and Lead to Crashes",
+            "link": "https://cybersecuritynews.com/apache-activemq-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-45321": [
+        {
+            "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
+            "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        }
+    ],
+    "CVE-2026-48027": [
+        {
+            "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
+            "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        }
+    ],
+    "CVE-2026-33634": [
+        {
+            "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
+            "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        }
+    ],
+    "CVE-2025-55182": [
+        {
+            "title": "FBI Warns TeamPCP Hackers Compromise Developer Tools in Large-Scale Supply Chain Attacks",
+            "link": "https://cybersecuritynews.com/fbi-warns-teampcp-hackers-compromise-developer-tools/"
+        }
     ]
 }
