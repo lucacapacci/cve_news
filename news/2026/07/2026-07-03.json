@@ -4,5 +4,27 @@
             "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
             "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html"
         }
+    ],
+    "CVE-2025-53770": [
+        {
+            "title": "Microsoft\u2019s \u2018Less Likely\u2019 SharePoint Bug Becomes CISA Priority as Exploitation Confirmed",
+            "link": "https://www.webpronews.com/microsofts-less-likely-sharepoint-bug-becomes-cisa-priority-as-exploitation-confirmed/"
+        }
+    ],
+    "CVE-2026-45659": [
+        {
+            "title": "Microsoft\u2019s \u2018Less Likely\u2019 SharePoint Bug Becomes CISA Priority as Exploitation Confirmed",
+            "link": "https://www.webpronews.com/microsofts-less-likely-sharepoint-bug-becomes-cisa-priority-as-exploitation-confirmed/"
+        }
+    ],
+    "CVE-2026-45504": [
+        {
+            "title": "Microsoft Exchange SSRF Vulnerability Lets Low-Privileged Attackers Read Arbitrary Files",
+            "link": "https://www.itsecuritynews.info/microsoft-exchange-ssrf-vulnerability-lets-low-privileged-attackers-read-arbitrary-files/"
+        },
+        {
+            "title": "Microsoft Exchange SSRF Vulnerability Details Released Along With Public PoC Exploit",
+            "link": "https://www.itsecuritynews.info/microsoft-exchange-ssrf-vulnerability-details-released-along-with-public-poc-exploit/"
+        }
     ]
 }
