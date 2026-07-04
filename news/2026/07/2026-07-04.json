@@ -5,12 +5,60 @@
             "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html"
         },
         {
-            "title": "New \u201cBad Epoll\u201d 0-Day Vulnerability Allows Root Access on Linux Servers and Android Devices",
-            "link": "https://www.itsecuritynews.info/new-bad-epoll-0-day-vulnerability-allows-root-access-on-linux-servers-and-android-devices/"
-        },
-        {
             "title": "\u201cBad Epoll\u201d Linux Kernel Bug Lets Any User Grab Root",
             "link": "https://www.itsecuritynews.info/bad-epoll-linux-kernel-bug-lets-any-user-grab-root/"
+        },
+        {
+            "title": "New \u201cBad Epoll\u201d 0-Day Vulnerability Allows Root Access on Linux Servers and Android Devices",
+            "link": "https://cybersecuritynews.com/bad-epoll-0-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-6686": [
+        {
+            "title": "Multiple FatFs Vulnerabilities Expose Millions of Embedded Devices to Cyber Risks",
+            "link": "https://cybersecuritynews.com/fatfs-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6682": [
+        {
+            "title": "Multiple FatFs Vulnerabilities Expose Millions of Embedded Devices to Cyber Risks",
+            "link": "https://cybersecuritynews.com/fatfs-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6683": [
+        {
+            "title": "Multiple FatFs Vulnerabilities Expose Millions of Embedded Devices to Cyber Risks",
+            "link": "https://cybersecuritynews.com/fatfs-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6685": [
+        {
+            "title": "Multiple FatFs Vulnerabilities Expose Millions of Embedded Devices to Cyber Risks",
+            "link": "https://cybersecuritynews.com/fatfs-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6688": [
+        {
+            "title": "Multiple FatFs Vulnerabilities Expose Millions of Embedded Devices to Cyber Risks",
+            "link": "https://cybersecuritynews.com/fatfs-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6687": [
+        {
+            "title": "Multiple FatFs Vulnerabilities Expose Millions of Embedded Devices to Cyber Risks",
+            "link": "https://cybersecuritynews.com/fatfs-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-6684": [
+        {
+            "title": "Multiple FatFs Vulnerabilities Expose Millions of Embedded Devices to Cyber Risks",
+            "link": "https://cybersecuritynews.com/fatfs-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-43074": [
+        {
+            "title": "New \u201cBad Epoll\u201d 0-Day Vulnerability Allows Root Access on Linux Servers and Android Devices",
+            "link": "https://cybersecuritynews.com/bad-epoll-0-day-vulnerability/"
         }
     ]
 }
