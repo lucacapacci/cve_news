@@ -100,5 +100,17 @@
             "title": "New \u201cBad Epoll\u201d Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
             "link": "https://www.itsecuritynews.info/new-bad-epoll-linux-kernel-flaw-lets-unprivileged-users-gain-root-hits-android/"
         }
+    ],
+    "CVE-2021-29441": [
+        {
+            "title": "AI Agent JadePuffer Pulls Off First Full Ransomware Operation Solo",
+            "link": "https://www.webpronews.com/ai-agent-jadepuffer-pulls-off-first-full-ransomware-operation-solo/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "AI Agent JadePuffer Pulls Off First Full Ransomware Operation Solo",
+            "link": "https://www.webpronews.com/ai-agent-jadepuffer-pulls-off-first-full-ransomware-operation-solo/"
+        }
     ]
 }
