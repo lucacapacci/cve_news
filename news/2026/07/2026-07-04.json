@@ -3,6 +3,10 @@
         {
             "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
             "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html"
+        },
+        {
+            "title": "New \u201cBad Epoll\u201d 0-Day Vulnerability Allows Root Access on Linux Servers and Android Devices",
+            "link": "https://www.itsecuritynews.info/new-bad-epoll-0-day-vulnerability-allows-root-access-on-linux-servers-and-android-devices/"
         }
     ]
 }
