@@ -94,5 +94,11 @@
             "title": "Nissan Confirms Employee Data Breach Following Oracle PeopleSoft Zero-Day Cyberattack",
             "link": "https://www.itsecuritynews.info/nissan-confirms-employee-data-breach-following-oracle-peoplesoft-zero-day-cyberattack/"
         }
+    ],
+    "CVE-2026-46242": [
+        {
+            "title": "New \u201cBad Epoll\u201d Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+            "link": "https://www.itsecuritynews.info/new-bad-epoll-linux-kernel-flaw-lets-unprivileged-users-gain-root-hits-android/"
+        }
     ]
 }
