@@ -10,5 +10,23 @@
             "title": "How Helpful AI Coders Like Claude Open Hidden Doors to Attackers",
             "link": "https://www.webpronews.com/how-helpful-ai-coders-like-claude-open-hidden-doors-to-attackers/"
         }
+    ],
+    "CVE-2026-43074": [
+        {
+            "title": "New Bad Epoll Bug Impacts Android and Linux, Allows Root Access",
+            "link": "https://www.itsecuritynews.info/new-bad-epoll-bug-impacts-android-and-linux-allows-root-access/"
+        }
+    ],
+    "CVE-2026-46242": [
+        {
+            "title": "New Bad Epoll Bug Impacts Android and Linux, Allows Root Access",
+            "link": "https://www.itsecuritynews.info/new-bad-epoll-bug-impacts-android-and-linux-allows-root-access/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "JadePuffer Uses AI to Streamline End to End Ransomware Operations",
+            "link": "https://www.itsecuritynews.info/jadepuffer-uses-ai-to-streamline-end-to-end-ransomware-operations/"
+        }
     ]
 }
