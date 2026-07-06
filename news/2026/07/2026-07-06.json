@@ -34,5 +34,41 @@
             "title": "ModSecurity Security Flaws Enable WAF Rule Evasion With Crafted HTTP Requests",
             "link": "https://www.itsecuritynews.info/modsecurity-security-flaws-enable-waf-rule-evasion-with-crafted-http-requests/"
         }
+    ],
+    "CVE-2026-57992": [
+        {
+            "title": "Microsoft Edge Vulnerability Allows Remote Attacker to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/microsoft-edge-flaw-code-execution/"
+        }
+    ],
+    "CVE-2026-11595": [
+        {
+            "title": "Multiple IBM WebSphere Vulnerabilities Enable XSS and Path Traversal Attacks",
+            "link": "https://cybersecuritynews.com/ibm-websphere-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11712": [
+        {
+            "title": "Multiple IBM WebSphere Vulnerabilities Enable XSS and Path Traversal Attacks",
+            "link": "https://cybersecuritynews.com/ibm-websphere-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-11708": [
+        {
+            "title": "Multiple IBM WebSphere Vulnerabilities Enable XSS and Path Traversal Attacks",
+            "link": "https://cybersecuritynews.com/ibm-websphere-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-14355": [
+        {
+            "title": "Multiple PHP Vulnerabilities Enable DoS and Memory Corruption Attacks",
+            "link": "https://cybersecuritynews.com/multiple-php-vulnerabilities-dos/"
+        }
+    ],
+    "CVE-2026-12184": [
+        {
+            "title": "Multiple PHP Vulnerabilities Enable DoS and Memory Corruption Attacks",
+            "link": "https://cybersecuritynews.com/multiple-php-vulnerabilities-dos/"
+        }
     ]
 }
