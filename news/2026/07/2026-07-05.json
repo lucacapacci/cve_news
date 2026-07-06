@@ -40,5 +40,11 @@
             "title": "Cyber Security News Bulletin Weekly \u2013 Mythos is Back, WhatsApp Username, Kali Linux 2026.2, +20 Stories",
             "link": "https://cybersecuritynews.com/cyber-security-news-bulletin-weekly/"
         }
+    ],
+    "CVE-2025-48595": [
+        {
+            "title": "Google\u2019s June Android Patches Close 124 Holes as One Zero-Day Sees Active Attacks",
+            "link": "https://www.webpronews.com/googles-june-android-patches-close-124-holes-as-one-zero-day-sees-active-attacks/"
+        }
     ]
 }
