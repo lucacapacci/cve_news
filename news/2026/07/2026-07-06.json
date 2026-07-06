@@ -82,5 +82,17 @@
             "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
             "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html"
         }
+    ],
+    "CVE-2025-23006": [
+        {
+            "title": "Top 10 Best Next-Generation Firewall (NGFW) Solutions in 2026",
+            "link": "https://cybersecuritynews.com/best-next-generation-firewall/"
+        }
+    ],
+    "CVE-2025-40602": [
+        {
+            "title": "Top 10 Best Next-Generation Firewall (NGFW) Solutions in 2026",
+            "link": "https://cybersecuritynews.com/best-next-generation-firewall/"
+        }
     ]
 }
