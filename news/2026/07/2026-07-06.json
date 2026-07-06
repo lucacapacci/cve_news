@@ -94,5 +94,47 @@
             "title": "Top 10 Best Next-Generation Firewall (NGFW) Solutions in 2026",
             "link": "https://cybersecuritynews.com/best-next-generation-firewall/"
         }
+    ],
+    "CVE-2025-48984": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2024-40711": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2025-48983": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2025-23120": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2025-23121": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2026-44963": [
+        {
+            "title": "Veeam Backup RCE Flaw Lets Low-Privileged Domain Users Gain SYSTEM Access",
+            "link": "https://cyberpress.org/veeam-backup-rce-flaw/"
+        }
+    ],
+    "CVE-2026-48282": [
+        {
+            "title": "Adobe ColdFusion flaw CVE-2026-48282 now exploited in the wild",
+            "link": "https://www.itsecuritynews.info/adobe-coldfusion-flaw-cve-2026-48282-now-exploited-in-the-wild/"
+        }
     ]
 }
