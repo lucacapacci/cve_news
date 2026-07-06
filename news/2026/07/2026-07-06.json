@@ -16,5 +16,23 @@
             "title": "AI-Run Ransomware, New Oracle Critical Flaw, NetNut busted",
             "link": "https://www.itsecuritynews.info/ai-run-ransomware-new-oracle-critical-flaw-netnut-busted/"
         }
+    ],
+    "CVE-2026-46242": [
+        {
+            "title": "Bad Epoll Linux Kernel UAF Flaw Lets Unprivileged Attackers Gain Root on Linux and Android",
+            "link": "https://www.itsecuritynews.info/bad-epoll-linux-kernel-uaf-flaw-lets-unprivileged-attackers-gain-root-on-linux-and-android/"
+        }
+    ],
+    "CVE-2026-52747": [
+        {
+            "title": "ModSecurity Security Flaws Enable WAF Rule Evasion With Crafted HTTP Requests",
+            "link": "https://www.itsecuritynews.info/modsecurity-security-flaws-enable-waf-rule-evasion-with-crafted-http-requests/"
+        }
+    ],
+    "CVE-2026-52761": [
+        {
+            "title": "ModSecurity Security Flaws Enable WAF Rule Evasion With Crafted HTTP Requests",
+            "link": "https://www.itsecuritynews.info/modsecurity-security-flaws-enable-waf-rule-evasion-with-crafted-http-requests/"
+        }
     ]
 }
