@@ -135,6 +135,10 @@
         {
             "title": "Adobe ColdFusion flaw CVE-2026-48282 now exploited in the wild",
             "link": "https://www.itsecuritynews.info/adobe-coldfusion-flaw-cve-2026-48282-now-exploited-in-the-wild/"
+        },
+        {
+            "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/"
         }
     ]
 }
