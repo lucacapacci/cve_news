@@ -17,6 +17,10 @@
         {
             "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
             "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Patches Four Vulnerabilities in Remote Support and PRA",
+            "link": "https://www.itsecuritynews.info/beyondtrust-patches-four-vulnerabilities-in-remote-support-and-pra/"
         }
     ],
     "CVE-2025-14179": [
@@ -43,6 +47,10 @@
         {
             "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
             "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Patches Four Vulnerabilities in Remote Support and PRA",
+            "link": "https://www.itsecuritynews.info/beyondtrust-patches-four-vulnerabilities-in-remote-support-and-pra/"
         }
     ],
     "CVE-2026-40140": [
@@ -53,6 +61,10 @@
         {
             "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
             "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Patches Four Vulnerabilities in Remote Support and PRA",
+            "link": "https://www.itsecuritynews.info/beyondtrust-patches-four-vulnerabilities-in-remote-support-and-pra/"
         }
     ],
     "CVE-2026-40141": [
@@ -63,6 +75,10 @@
         {
             "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
             "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Patches Four Vulnerabilities in Remote Support and PRA",
+            "link": "https://www.itsecuritynews.info/beyondtrust-patches-four-vulnerabilities-in-remote-support-and-pra/"
         }
     ],
     "CVE-2026-57992": [
@@ -99,6 +115,10 @@
         {
             "title": "16-Year-Old Linux KVM Vulnerability Allows Malicious Guest to Corrupt Host Kernel Memory",
             "link": "https://cybersecuritynews.com/16-year-old-linux-kvm-vulnerability/"
+        },
+        {
+            "title": "Januscape Linux VM Escape Flaw Affects Intel and AMD Systems",
+            "link": "https://www.itsecuritynews.info/januscape-linux-vm-escape-flaw-affects-intel-and-amd-systems/"
         }
     ],
     "CVE-2026-48282": [
@@ -109,6 +129,10 @@
         {
             "title": "Attackers exploit critical Adobe ColdFusion vulnerability (CVE-2026-48282)",
             "link": "https://www.helpnetsecurity.com/2026/07/07/adobe-coldfusion-cve-2026-48282-exploitation-detected/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-48282",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48282"
         }
     ],
     "CVE-2026-25289": [
@@ -127,6 +151,30 @@
         {
             "title": "OpenAI Codex Desktop App for macOS Vulnerability Allows Attackers to Inject Indirect Prompt",
             "link": "https://cybersecuritynews.com/codex-desktop-app-for-macos-vulnerability/"
+        }
+    ],
+    "CVE-2026-20896": [
+        {
+            "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
+            "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/"
+        }
+    ],
+    "CVE-2026-48908": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-48908",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48908"
+        }
+    ],
+    "CVE-2026-55255": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-55255",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-55255"
+        }
+    ],
+    "CVE-2026-56290": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-56290",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-56290"
         }
     ]
 }
