@@ -13,6 +13,10 @@
         {
             "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
             "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        },
+        {
+            "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
+            "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
         }
     ],
     "CVE-2025-14179": [
@@ -35,18 +39,30 @@
         {
             "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
             "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        },
+        {
+            "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
+            "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
         }
     ],
     "CVE-2026-40140": [
         {
             "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
             "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        },
+        {
+            "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
+            "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
         }
     ],
     "CVE-2026-40141": [
         {
             "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
             "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        },
+        {
+            "title": "Critical BeyondTrust Flaws Let Attackers Bypass Access Controls and Gain Unauthorized Access",
+            "link": "https://cybersecuritynews.com/beyondtrust-vulnerabilities/"
         }
     ],
     "CVE-2026-57992": [
@@ -69,12 +85,48 @@
         {
             "title": "Hidden Tenda Router Backdoor Grants Admin Access, No Patch Available",
             "link": "https://www.itsecuritynews.info/hidden-tenda-router-backdoor-grants-admin-access-no-patch-available/"
+        },
+        {
+            "title": "Tenda Authentication Backdoor Grants Attackers Full Administrative Access",
+            "link": "https://cybersecuritynews.com/tenda-authentication-backdoor-grants-access/"
         }
     ],
     "CVE-2026-53359": [
         {
             "title": "16-Year-Old Linux KVM Vulnerability Allows Malicious Guests to Corrupt Host Kernel Memory",
             "link": "https://cyberpress.org/16-year-old-linux-kvm-vulnerability/"
+        },
+        {
+            "title": "16-Year-Old Linux KVM Vulnerability Allows Malicious Guest to Corrupt Host Kernel Memory",
+            "link": "https://cybersecuritynews.com/16-year-old-linux-kvm-vulnerability/"
+        }
+    ],
+    "CVE-2026-48282": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/"
+        },
+        {
+            "title": "Attackers exploit critical Adobe ColdFusion vulnerability (CVE-2026-48282)",
+            "link": "https://www.helpnetsecurity.com/2026/07/07/adobe-coldfusion-cve-2026-48282-exploitation-detected/"
+        }
+    ],
+    "CVE-2026-25289": [
+        {
+            "title": "Critical PHP PDO Driver Bugs Expose Firebird SQL Injection and PostgreSQL DoS Risks",
+            "link": "https://cybersecuritynews.com/critical-php-pdo-driver-bugs-expose-firebird-sql-injection/"
+        }
+    ],
+    "CVE-2026-25290": [
+        {
+            "title": "Critical PHP PDO Driver Bugs Expose Firebird SQL Injection and PostgreSQL DoS Risks",
+            "link": "https://cybersecuritynews.com/critical-php-pdo-driver-bugs-expose-firebird-sql-injection/"
+        }
+    ],
+    "CVE-2026-14898": [
+        {
+            "title": "OpenAI Codex Desktop App for macOS Vulnerability Allows Attackers to Inject Indirect Prompt",
+            "link": "https://cybersecuritynews.com/codex-desktop-app-for-macos-vulnerability/"
         }
     ]
 }
