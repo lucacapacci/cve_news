@@ -157,6 +157,10 @@
         {
             "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
             "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/"
+        },
+        {
+            "title": "Critical Gitea Docker Bug Under Active Exploitation Exposes Repositories and Secrets",
+            "link": "https://www.itsecuritynews.info/critical-gitea-docker-bug-under-active-exploitation-exposes-repositories-and-secrets/"
         }
     ],
     "CVE-2026-48908": [
