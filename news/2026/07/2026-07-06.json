@@ -81,6 +81,10 @@
         {
             "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
             "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html"
+        },
+        {
+            "title": "Gitea Docker Images Ship Critical Authentication Bypass by Default",
+            "link": "https://www.webpronews.com/gitea-docker-images-ship-critical-authentication-bypass-by-default/"
         }
     ],
     "CVE-2025-23006": [
@@ -139,6 +143,18 @@
         {
             "title": "Max severity Adobe ColdFusion flaw now exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-27771": [
+        {
+            "title": "Gitea Docker Images Ship Critical Authentication Bypass by Default",
+            "link": "https://www.webpronews.com/gitea-docker-images-ship-critical-authentication-bypass-by-default/"
+        }
+    ],
+    "CVE-2026-58053": [
+        {
+            "title": "Gitea Docker Images Ship Critical Authentication Bypass by Default",
+            "link": "https://www.webpronews.com/gitea-docker-images-ship-critical-authentication-bypass-by-default/"
         }
     ]
 }

@@ -25,6 +25,10 @@
         {
             "title": "PDO PostgreSQL Bug Triggers NULL Pointer Dereference and Crashes PHP Worker Processes",
             "link": "https://cyberpress.org/postgresql-bug-crashes-php/"
+        },
+        {
+            "title": "PHP PDO Emulated Prepares Expose pdo_pgsql to NULL Pointer Dereference Crash",
+            "link": "https://www.itsecuritynews.info/php-pdo-emulated-prepares-expose-pdo_pgsql-to-null-pointer-dereference-crash/"
         }
     ],
     "CVE-2026-40139": [
@@ -49,6 +53,28 @@
         {
             "title": "Microsoft Edge Use-After-Free Flaw Lets Attackers Execute Code Remotely",
             "link": "https://cyberpress.org/microsoft-edge-use-after-free-flaw/"
+        }
+    ],
+    "CVE-2024-42009": [
+        {
+            "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+            "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html"
+        }
+    ],
+    "CVE-2026-11405": [
+        {
+            "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+            "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html"
+        },
+        {
+            "title": "Hidden Tenda Router Backdoor Grants Admin Access, No Patch Available",
+            "link": "https://www.itsecuritynews.info/hidden-tenda-router-backdoor-grants-admin-access-no-patch-available/"
+        }
+    ],
+    "CVE-2026-53359": [
+        {
+            "title": "16-Year-Old Linux KVM Vulnerability Allows Malicious Guests to Corrupt Host Kernel Memory",
+            "link": "https://cyberpress.org/16-year-old-linux-kvm-vulnerability/"
         }
     ]
 }
