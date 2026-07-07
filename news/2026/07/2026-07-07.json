@@ -4,5 +4,51 @@
             "title": "Fast-mcp-telegram Vulnerability Allow Attackers to Access Sensitive Files",
             "link": "https://www.itsecuritynews.info/fast-mcp-telegram-vulnerability-allow-attackers-to-access-sensitive-files/"
         }
+    ],
+    "CVE-2026-40138": [
+        {
+            "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+            "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html"
+        },
+        {
+            "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
+            "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        }
+    ],
+    "CVE-2025-14179": [
+        {
+            "title": "PDO PostgreSQL Bug Triggers NULL Pointer Dereference and Crashes PHP Worker Processes",
+            "link": "https://cyberpress.org/postgresql-bug-crashes-php/"
+        }
+    ],
+    "CVE-2025-14180": [
+        {
+            "title": "PDO PostgreSQL Bug Triggers NULL Pointer Dereference and Crashes PHP Worker Processes",
+            "link": "https://cyberpress.org/postgresql-bug-crashes-php/"
+        }
+    ],
+    "CVE-2026-40139": [
+        {
+            "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
+            "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        }
+    ],
+    "CVE-2026-40140": [
+        {
+            "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
+            "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        }
+    ],
+    "CVE-2026-40141": [
+        {
+            "title": "BeyondTrust Patches Critical Remote Support and Privileged Remote Access Flaws",
+            "link": "https://cyberpress.org/beyondtrust-remote-support-privileged-access/"
+        }
+    ],
+    "CVE-2026-57992": [
+        {
+            "title": "Microsoft Edge Use-After-Free Flaw Lets Attackers Execute Code Remotely",
+            "link": "https://cyberpress.org/microsoft-edge-use-after-free-flaw/"
+        }
     ]
 }
