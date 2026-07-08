@@ -113,6 +113,10 @@
         {
             "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
             "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html"
+        },
+        {
+            "title": "Ubiquiti Patches Critical UniFi OS Flaws Allowing Command Injection and Privilege Escalation",
+            "link": "https://www.itsecuritynews.info/ubiquiti-patches-critical-unifi-os-flaws-allowing-command-injection-and-privilege-escalation/"
         }
     ],
     "CVE-2026-55255": [
