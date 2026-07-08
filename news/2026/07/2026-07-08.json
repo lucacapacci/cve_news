@@ -9,12 +9,72 @@
         {
             "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
             "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html"
+        },
+        {
+            "title": "15-year-old GhostLock Kernel Flaw Enables Privilege Escalation in Major Linux Distributions",
+            "link": "https://cybersecuritynews.com/15-year-old-ghostlock-linux-kernel-vulnerability/"
+        },
+        {
+            "title": "15-Year-Old GhostLock Linux Kernel Flaw Lets Attackers Gain Root Access",
+            "link": "https://cyberpress.org/15-year-old-ghostlock-linux-kernel-flaw/"
+        },
+        {
+            "title": "15-Year-Old GhostLock Linux Kernel Vulnerability Enables Root Access and Container Escape",
+            "link": "https://www.itsecuritynews.info/15-year-old-ghostlock-linux-kernel-vulnerability-enables-root-access-and-container-escape/"
         }
     ],
     "CVE-2026-48282": [
         {
             "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
             "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Adobe ColdFusion Vulnerability",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-actively-exploited-adobe-coldfusion-vulnerability/"
+        }
+    ],
+    "CVE-2025-49113": [
+        {
+            "title": "Hackers Exploit Roundcube N-Day Flaws to Steal Credentials and Deploy VShell",
+            "link": "https://cybersecuritynews.com/hackers-exploit-roundcube-n-day-flaws/"
+        },
+        {
+            "title": "China-Aligned Hackers Treat Roundcube Mailservers as Edge Devices for Network Pivoting",
+            "link": "https://cyberpress.org/hackers-pivot-through-roundcube/"
+        }
+    ],
+    "CVE-2024-42009": [
+        {
+            "title": "Hackers Exploit Roundcube N-Day Flaws to Steal Credentials and Deploy VShell",
+            "link": "https://cybersecuritynews.com/hackers-exploit-roundcube-n-day-flaws/"
+        },
+        {
+            "title": "China-Aligned Hackers Treat Roundcube Mailservers as Edge Devices for Network Pivoting",
+            "link": "https://cyberpress.org/hackers-pivot-through-roundcube/"
+        }
+    ],
+    "CVE-2025-2492": [
+        {
+            "title": "China-Linked APT Uses Ruckus and ASUS Router Flaws to Expand ORB Infrastructure",
+            "link": "https://cyberpress.org/china-apt-expands-orb/"
+        }
+    ],
+    "CVE-2023-25717": [
+        {
+            "title": "China-Linked APT Uses Ruckus and ASUS Router Flaws to Expand ORB Infrastructure",
+            "link": "https://cyberpress.org/china-apt-expands-orb/"
+        }
+    ],
+    "CVE-2020-22653": [
+        {
+            "title": "China-Linked APT Uses Ruckus and ASUS Router Flaws to Expand ORB Infrastructure",
+            "link": "https://cyberpress.org/china-apt-expands-orb/"
+        }
+    ],
+    "CVE-2020-22658": [
+        {
+            "title": "China-Linked APT Uses Ruckus and ASUS Router Flaws to Expand ORB Infrastructure",
+            "link": "https://cyberpress.org/china-apt-expands-orb/"
         }
     ]
 }
