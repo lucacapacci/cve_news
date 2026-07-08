@@ -446,5 +446,11 @@
             "title": "Public PoC Released for SharePoint Remote Code Execution Vulnerability",
             "link": "https://cyberpress.org/sharepoint-rce-vulnerablility/"
         }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "AI Ransomware That Ran Itself Still Relied on Human Setup",
+            "link": "https://www.webpronews.com/ai-ransomware-that-ran-itself-still-relied-on-human-setup/"
+        }
     ]
 }
