@@ -108,5 +108,17 @@
             "title": "PoC and Technical Details Released for SharePoint Remote Code Execution Vulnerability",
             "link": "https://cybersecuritynews.com/poc-sharepoint-rce-vulnerability/"
         }
+    ],
+    "CVE-2026-50746": [
+        {
+            "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+            "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html"
+        }
+    ],
+    "CVE-2026-55255": [
+        {
+            "title": "Attackers using Langflow flaw for credential harvesting (CVE-2026-55255)",
+            "link": "https://www.helpnetsecurity.com/2026/07/08/langflow-vulnerability-cve-2026-55255-exploited/"
+        }
     ]
 }
