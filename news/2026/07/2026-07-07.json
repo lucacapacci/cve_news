@@ -184,5 +184,267 @@
             "title": "CISA KEV Addition: CVE-2026-56290",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-56290"
         }
+    ],
+    "CVE-2026-42824": [
+        {
+            "title": "Critical Vulnerability in GCP Dialogflow Allows Attackers to Inject Malicious Code",
+            "link": "https://cybersecuritynews.com/gcp-dialogflow-vulnerability/"
+        }
+    ],
+    "CVE-2025-7771": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2025-33073": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2025-32433": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2023-27532": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2024-55591": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2024-37085": [
+        {
+            "title": "The Gentlemen Ransomware With Custom EDR/AV Killers Scaling Faster to Attack Industries Worldwide",
+            "link": "https://cybersecuritynews.com/gentlemen-ransomware-global-attacks/"
+        }
+    ],
+    "CVE-2026-33634": [
+        {
+            "title": "VECT and TeamPCP Reverse Ransomware Kill Chain With Supply Chain Credential Theft",
+            "link": "https://cybersecuritynews.com/vect-and-teampcp-reverse-ransomware-kill-chain/"
+        }
+    ],
+    "CVE-2026-50748": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55113": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-55115": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54403": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-56841": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55110": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-50747": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55118": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-54404": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54400": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-54407": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54402": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54408": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54409": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-54405": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54401": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-50746": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55119": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-55114": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-56842": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        },
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Including Injection and DoS Flaws",
+            "link": "https://cyberpress.org/ubiquiti-25-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55112": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-55117": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-54406": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-55111": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2026-55116": [
+        {
+            "title": "Ubiquiti Disclosed 25 Security Vulnerabilities Across the UniFi Ecosystem",
+            "link": "https://cybersecuritynews.com/ubiquiti-disclosed-25-flaws/"
+        }
+    ],
+    "CVE-2025-53770": [
+        {
+            "title": "Public PoC Released for SharePoint Remote Code Execution Vulnerability",
+            "link": "https://cyberpress.org/sharepoint-rce-vulnerablility/"
+        }
+    ],
+    "CVE-2026-33112": [
+        {
+            "title": "Public PoC Released for SharePoint Remote Code Execution Vulnerability",
+            "link": "https://cyberpress.org/sharepoint-rce-vulnerablility/"
+        }
     ]
 }
