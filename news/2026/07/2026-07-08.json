@@ -96,5 +96,17 @@
             "title": "Mycelium Botnet Uses Stolen AI API Keys and Local LLMs for Distributed AI Inference",
             "link": "https://cyberpress.org/mycelium-powers-distributed-ai/"
         }
+    ],
+    "CVE-2026-33112": [
+        {
+            "title": "PoC and Technical Details Released for SharePoint Remote Code Execution Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-sharepoint-rce-vulnerability/"
+        }
+    ],
+    "CVE-2025-53770": [
+        {
+            "title": "PoC and Technical Details Released for SharePoint Remote Code Execution Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-sharepoint-rce-vulnerability/"
+        }
     ]
 }
