@@ -4,5 +4,17 @@
             "title": "Scattered Spider squashed, Rogue Agent AI flaw, 16 year-old Linux bug and new phish hunts marketers",
             "link": "https://www.itsecuritynews.info/scattered-spider-squashed-rogue-agent-ai-flaw-16-year-old-linux-bug-and-new-phish-hunts-marketers/"
         }
+    ],
+    "CVE-2026-43499": [
+        {
+            "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+            "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html"
+        }
+    ],
+    "CVE-2026-48282": [
+        {
+            "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+            "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html"
+        }
     ]
 }
