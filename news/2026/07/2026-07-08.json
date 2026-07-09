@@ -124,5 +124,11 @@
             "title": "Attackers using Langflow flaw for credential harvesting (CVE-2026-55255)",
             "link": "https://www.helpnetsecurity.com/2026/07/08/langflow-vulnerability-cve-2026-55255-exploited/"
         }
+    ],
+    "CVE-2026-57589": [
+        {
+            "title": "OpenBSD Kernel Flaw Exposes Root Access Through Ancient Semaphore Code",
+            "link": "https://www.webpronews.com/openbsd-kernel-flaw-exposes-root-access-through-ancient-semaphore-code/"
+        }
     ]
 }
