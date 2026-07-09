@@ -1,0 +1,230 @@
+{
+    "CVE-2026-11405": [
+        {
+            "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
+            "link": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/"
+        }
+    ],
+    "CVE-2026-12958": [
+        {
+            "title": "GhostApproval Flaw Lets AI Coding Assistants Write Files Outside Workspace Sandbox",
+            "link": "https://cyberpress.org/ghostapproval-flaw-ai-coding-assistants/"
+        }
+    ],
+    "CVE-2026-15124": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15112": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15132": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15126": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15131": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15117": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15111": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15119": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15107": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15130": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15113": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15115": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15128": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15108": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15123": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15127": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15133": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15118": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15110": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15114": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15109": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15122": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15116": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15129": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15121": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15125": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-15120": [
+        {
+            "title": "Google Chrome Update Fixes 27 Security Flaws, Including Critical UAF Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-27-security-flaws/"
+        }
+    ],
+    "CVE-2025-12506": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        }
+    ],
+    "CVE-2026-6352": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        }
+    ],
+    "CVE-2026-13151": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        }
+    ],
+    "CVE-2026-6896": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        }
+    ],
+    "CVE-2026-13320": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        }
+    ],
+    "CVE-2026-11827": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        }
+    ],
+    "CVE-2026-8472": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        }
+    ],
+    "CVE-2026-7492": [
+        {
+            "title": "GitLab Patch Release Fixes Affecting CE and EE Installations",
+            "link": "https://cyberpress.org/gitlab-patch-release/"
+        }
+    ],
+    "CVE-2026-0288": [
+        {
+            "title": "Palo Alto PAN-OS Vulnerability Allows Arbitrary Code Execution Through Malicious Network Traffic",
+            "link": "https://www.itsecuritynews.info/palo-alto-pan-os-vulnerability-allows-arbitrary-code-execution-through-malicious-network-traffic/"
+        }
+    ]
+}
