@@ -385,6 +385,10 @@
         {
             "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
             "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        },
+        {
+            "title": "Foxit Patches Multiple PDF Reader and Editor Vulnerabilities in 2026.1.2 Update",
+            "link": "https://cyberpress.org/foxit-patches-pdf-reader-editor-vulnerabilities/"
         }
     ],
     "CVE-2026-57260": [
@@ -457,6 +461,10 @@
         {
             "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
             "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        },
+        {
+            "title": "Foxit Patches Multiple PDF Reader and Editor Vulnerabilities in 2026.1.2 Update",
+            "link": "https://cyberpress.org/foxit-patches-pdf-reader-editor-vulnerabilities/"
         }
     ],
     "CVE-2026-57247": [
@@ -499,6 +507,100 @@
         {
             "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
             "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-46215": [
+        {
+            "title": "PoC and Technical Details Released for Linux Kernel Privilege Escalation Vulnerability",
+            "link": "https://cyberpress.org/linux-kernel-privilege-escalation-vulnerability/"
+        }
+    ],
+    "CVE-2026-14544": [
+        {
+            "title": "HPLIP Integer Overflow Flaw Opens Door to Privilege Escalation and Code Execution",
+            "link": "https://cyberpress.org/hplip-integer-overflow-flaw/"
+        },
+        {
+            "title": "HP Linux Printing Software Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
+            "link": "https://www.itsecuritynews.info/hp-linux-printing-software-vulnerability-allows-remote-attackers-to-execute-arbitrary-code/"
+        }
+    ],
+    "CVE-2026-8631": [
+        {
+            "title": "HPLIP Integer Overflow Flaw Opens Door to Privilege Escalation and Code Execution",
+            "link": "https://cyberpress.org/hplip-integer-overflow-flaw/"
+        }
+    ],
+    "CVE-2026-1969": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2025-7443": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2025-12057": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2026-3844": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2025-13486": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2026-0740": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2025-34085": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2020-36847": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2026-31843": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2025-7852": [
+        {
+            "title": "Hackers Scan CMS Websites Globally to Deploy Webshells and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-cms-websites/"
+        }
+    ],
+    "CVE-2026-57259": [
+        {
+            "title": "Foxit Patches Multiple PDF Reader and Editor Vulnerabilities in 2026.1.2 Update",
+            "link": "https://cyberpress.org/foxit-patches-pdf-reader-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57239": [
+        {
+            "title": "Foxit Patches Multiple PDF Reader and Editor Vulnerabilities in 2026.1.2 Update",
+            "link": "https://cyberpress.org/foxit-patches-pdf-reader-editor-vulnerabilities/"
         }
     ]
 }
