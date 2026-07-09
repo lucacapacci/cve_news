@@ -513,6 +513,10 @@
         {
             "title": "PoC and Technical Details Released for Linux Kernel Privilege Escalation Vulnerability",
             "link": "https://cyberpress.org/linux-kernel-privilege-escalation-vulnerability/"
+        },
+        {
+            "title": "Linux Kernel Vulnerability Enables Passwordless Root Through DRM Render Nodes",
+            "link": "https://cybersecuritynews.com/linux-kernel-bug-passwordless-root/"
         }
     ],
     "CVE-2026-14544": [
@@ -522,13 +526,17 @@
         },
         {
             "title": "HP Linux Printing Software Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
-            "link": "https://www.itsecuritynews.info/hp-linux-printing-software-vulnerability-allows-remote-attackers-to-execute-arbitrary-code/"
+            "link": "https://cybersecuritynews.com/hp-linux-printing-software-vulnerability/"
         }
     ],
     "CVE-2026-8631": [
         {
             "title": "HPLIP Integer Overflow Flaw Opens Door to Privilege Escalation and Code Execution",
             "link": "https://cyberpress.org/hplip-integer-overflow-flaw/"
+        },
+        {
+            "title": "HP Linux Printing Software Vulnerability Allows Remote Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/hp-linux-printing-software-vulnerability/"
         }
     ],
     "CVE-2026-1969": [
@@ -601,6 +609,18 @@
         {
             "title": "Foxit Patches Multiple PDF Reader and Editor Vulnerabilities in 2026.1.2 Update",
             "link": "https://cyberpress.org/foxit-patches-pdf-reader-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-54432": [
+        {
+            "title": "RoundCube 0-Click Vulnerability Enables Stored XSS Attack via MIME Type Attachment",
+            "link": "https://cybersecuritynews.com/roundcube-0-click-vulnerability/"
+        }
+    ],
+    "CVE-2026-54433": [
+        {
+            "title": "RoundCube 0-Click Vulnerability Enables Stored XSS Attack via MIME Type Attachment",
+            "link": "https://cybersecuritynews.com/roundcube-0-click-vulnerability/"
         }
     ]
 }
