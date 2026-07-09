@@ -375,6 +375,130 @@
         {
             "title": "Microsoft fixed Defender flaw RoguePlanet (CVE-2026-50656)",
             "link": "https://www.itsecuritynews.info/microsoft-fixed-defender-flaw-rogueplanet-cve-2026-50656/"
+        },
+        {
+            "title": "Microsoft releases fix for RoguePlanet Defender flaw (CVE-2026-50656)",
+            "link": "https://www.helpnetsecurity.com/2026/07/09/microsoft-releases-fix-for-rogueplanet-defender-flaw-cve-2026-50656/"
+        }
+    ],
+    "CVE-2026-57256": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57260": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57250": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57245": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57252": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57240": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57251": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13128": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57254": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57248": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57237": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57244": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13126": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57247": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13129": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57238": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57242": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57249": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13127": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57246": [
+        {
+            "title": "20 Remote Code Execution Vulnerabilities Patched in Foxit PDF Reader and Editor",
+            "link": "https://cybersecuritynews.com/foxit-pdf-reader-and-editor-vulnerabilities/"
         }
     ]
 }
