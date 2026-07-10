@@ -9,6 +9,10 @@
         {
             "title": "GhostApproval Flaw Lets AI Coding Assistants Write Files Outside Workspace Sandbox",
             "link": "https://cyberpress.org/ghostapproval-flaw-ai-coding-assistants/"
+        },
+        {
+            "title": "GhostApproval Exposes Old Symlink Tricks in AI Coding Agents",
+            "link": "https://www.webpronews.com/ghostapproval-exposes-old-symlink-tricks-in-ai-coding-agents/"
         }
     ],
     "CVE-2026-15124": [
@@ -621,6 +625,12 @@
         {
             "title": "RoundCube 0-Click Vulnerability Enables Stored XSS Attack via MIME Type Attachment",
             "link": "https://cybersecuritynews.com/roundcube-0-click-vulnerability/"
+        }
+    ],
+    "CVE-2026-50549": [
+        {
+            "title": "GhostApproval Exposes Old Symlink Tricks in AI Coding Agents",
+            "link": "https://www.webpronews.com/ghostapproval-exposes-old-symlink-tricks-in-ai-coding-agents/"
         }
     ]
 }

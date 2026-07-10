@@ -1,0 +1,26 @@
+{
+    "CVE-2026-50656": [
+        {
+            "title": "Researcher \u2018Chaotic Eclipse\u2019 Claims RoguePlanet Defender Patch May Leak Data and Exhaust Disk Space",
+            "link": "https://cybersecuritynews.com/rogueplanet-defender-patch-claim/"
+        }
+    ],
+    "CVE-2026-1207": [
+        {
+            "title": "Django SQL Injection Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/django-sql-injection-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-31694": [
+        {
+            "title": "Linux FUSE Page Cache Overflow Lets Local Attackers Gain Root Access",
+            "link": "https://cyberpress.org/linux-fuse-page-cache-overflow/"
+        }
+    ],
+    "CVE-2025-5777": [
+        {
+            "title": "Hackers Abuse CitrixBleed 2 to Steal Session Tokens and Bypass MFA Protections",
+            "link": "https://cyberpress.org/citrixbleed-2-bypasses-mfa/"
+        }
+    ]
+}
