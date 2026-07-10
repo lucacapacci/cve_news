@@ -15,12 +15,28 @@
         {
             "title": "Linux FUSE Page Cache Overflow Lets Local Attackers Gain Root Access",
             "link": "https://cyberpress.org/linux-fuse-page-cache-overflow/"
+        },
+        {
+            "title": "Linux FUSE Vulnerability Allows Unprivileged Users to Pop a Root Shell",
+            "link": "https://www.itsecuritynews.info/linux-fuse-vulnerability-allows-unprivileged-users-to-pop-a-root-shell/"
+        },
+        {
+            "title": "Linux Kernel FUSE Vulnerability Lets Attackers Gain Root Privileges",
+            "link": "https://www.itsecuritynews.info/linux-kernel-fuse-vulnerability-lets-attackers-gain-root-privileges/"
         }
     ],
     "CVE-2025-5777": [
         {
             "title": "Hackers Abuse CitrixBleed 2 to Steal Session Tokens and Bypass MFA Protections",
             "link": "https://cyberpress.org/citrixbleed-2-bypasses-mfa/"
+        },
+        {
+            "title": "Hackers Exploit CitrixBleed 2 to Hijack MFA-Protected Sessions and Deploy DragonForce Ransomware",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-citrixbleed-2-to-hijack-mfa-protected-sessions-and-deploy-dragonforce-ransomware/"
+        },
+        {
+            "title": "Hackers Can Go From CitrixBleed 2 Exploitation to Ransomware in Under an Hour",
+            "link": "https://www.itsecuritynews.info/hackers-can-go-from-citrixbleed-2-exploitation-to-ransomware-in-under-an-hour/"
         }
     ]
 }
