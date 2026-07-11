@@ -22,7 +22,7 @@
         },
         {
             "title": "Linux Kernel FUSE Vulnerability Lets Attackers Gain Root Privileges",
-            "link": "https://www.itsecuritynews.info/linux-kernel-fuse-vulnerability-lets-attackers-gain-root-privileges/"
+            "link": "https://cybersecuritynews.com/linux-kernel-fuse-vulnerability/"
         }
     ],
     "CVE-2025-5777": [
@@ -36,7 +36,7 @@
         },
         {
             "title": "Hackers Can Go From CitrixBleed 2 Exploitation to Ransomware in Under an Hour",
-            "link": "https://www.itsecuritynews.info/hackers-can-go-from-citrixbleed-2-exploitation-to-ransomware-in-under-an-hour/"
+            "link": "https://cybersecuritynews.com/hackers-can-go-from-citrixbleed-2-exploitation/"
         }
     ],
     "CVE-2026-56291": [
@@ -49,6 +49,30 @@
         {
             "title": "CISA KEV Addition: CVE-2026-48939",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48939"
+        }
+    ],
+    "CVE-2026-2701": [
+        {
+            "title": "Progress Urges ShareFile Admins to Shut Down Servers Over Credible Security Threat",
+            "link": "https://cybersecuritynews.com/progress-sharefile-admins-shut-down-servers/"
+        }
+    ],
+    "CVE-2026-2699": [
+        {
+            "title": "Progress Urges ShareFile Admins to Shut Down Servers Over Credible Security Threat",
+            "link": "https://cybersecuritynews.com/progress-sharefile-admins-shut-down-servers/"
+        }
+    ],
+    "CVE-2025-23006": [
+        {
+            "title": "Top 10 Best Unified Threat Management (UTM) Solutions in 2026",
+            "link": "https://cybersecuritynews.com/best-unified-threat-management-solutions/"
+        }
+    ],
+    "CVE-2025-40602": [
+        {
+            "title": "Top 10 Best Unified Threat Management (UTM) Solutions in 2026",
+            "link": "https://cybersecuritynews.com/best-unified-threat-management-solutions/"
         }
     ]
 }
