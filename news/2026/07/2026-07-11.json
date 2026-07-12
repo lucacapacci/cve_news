@@ -12,5 +12,47 @@
             "title": "Dell BIOS Flaw Lets Attackers Recover Passwords From SPI Flash",
             "link": "https://cyberpress.org/dell-bios-recover-passwords-spi-flash/"
         }
+    ],
+    "CVE-2026-29008": [
+        {
+            "title": "U-Boot\u2019s Signature Check Cracks Open: Six Flaws Expose Boot Process to Early Attacks",
+            "link": "https://www.webpronews.com/u-boots-signature-check-cracks-open-six-flaws-expose-boot-process-to-early-attacks/"
+        }
+    ],
+    "CVE-2026-46728": [
+        {
+            "title": "U-Boot\u2019s Signature Check Cracks Open: Six Flaws Expose Boot Process to Early Attacks",
+            "link": "https://www.webpronews.com/u-boots-signature-check-cracks-open-six-flaws-expose-boot-process-to-early-attacks/"
+        }
+    ],
+    "CVE-2026-2699": [
+        {
+            "title": "Progress Orders ShareFile Customers to Power Down Servers Amid Credible Threat",
+            "link": "https://www.webpronews.com/progress-orders-sharefile-customers-to-power-down-servers-amid-credible-threat/"
+        }
+    ],
+    "CVE-2023-24489": [
+        {
+            "title": "Progress Orders ShareFile Customers to Power Down Servers Amid Credible Threat",
+            "link": "https://www.webpronews.com/progress-orders-sharefile-customers-to-power-down-servers-amid-credible-threat/"
+        }
+    ],
+    "CVE-2026-2701": [
+        {
+            "title": "Progress Orders ShareFile Customers to Power Down Servers Amid Credible Threat",
+            "link": "https://www.webpronews.com/progress-orders-sharefile-customers-to-power-down-servers-amid-credible-threat/"
+        }
+    ],
+    "CVE-2026-43499": [
+        {
+            "title": "GhostLock\u2019s 15-Year Shadow: How One Kernel Flaw Powered a One-Click Android Root",
+            "link": "https://www.webpronews.com/ghostlocks-15-year-shadow-how-one-kernel-flaw-powered-a-one-click-android-root/"
+        }
+    ],
+    "CVE-2026-10702": [
+        {
+            "title": "GhostLock\u2019s 15-Year Shadow: How One Kernel Flaw Powered a One-Click Android Root",
+            "link": "https://www.webpronews.com/ghostlocks-15-year-shadow-how-one-kernel-flaw-powered-a-one-click-android-root/"
+        }
     ]
 }
