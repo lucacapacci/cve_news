@@ -64,5 +64,11 @@
             "title": "Cyber Security Newsletter and Bulletin Weekly \u2013 16-Year-Old Linux, Ubiquiti Flaws, Accenture Breach, Android 17 Exploit +20 Stories",
             "link": "https://cybersecuritynews.com/cyber-security-news-bulletin-weekly-july/"
         }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "JadePuffer: First AI-Agent Ransomware Automates Entire Attack",
+            "link": "https://www.itsecuritynews.info/jadepuffer-first-ai-agent-ransomware-automates-entire-attack/"
+        }
     ]
 }
