@@ -134,5 +134,35 @@
             "title": "Debian 13.6 Released With Major Security Fixes and Secure Boot Updates",
             "link": "https://cyberpress.org/debian-13-6-released-security-fixes-secure-boot/"
         }
+    ],
+    "CVE-2023-50224": [
+        {
+            "title": "NSA Urges Organizations to Disable Cisco Smart Install as Russian Hackers Target Routers",
+            "link": "https://cybersecuritynews.com/nsa-disable-cisco-smart/"
+        }
+    ],
+    "CVE-2018-0171": [
+        {
+            "title": "NSA Urges Organizations to Disable Cisco Smart Install as Russian Hackers Target Routers",
+            "link": "https://cybersecuritynews.com/nsa-disable-cisco-smart/"
+        }
+    ],
+    "CVE-2025-27915": [
+        {
+            "title": "Zimbra Urges Immediate Update to Fix Critical Classic Web Client XSS Vulnerability",
+            "link": "https://www.itsecuritynews.info/zimbra-urges-immediate-update-to-fix-critical-classic-web-client-xss-vulnerability/"
+        }
+    ],
+    "CVE-2023-37580": [
+        {
+            "title": "Zimbra Urges Immediate Update to Fix Critical Classic Web Client XSS Vulnerability",
+            "link": "https://www.itsecuritynews.info/zimbra-urges-immediate-update-to-fix-critical-classic-web-client-xss-vulnerability/"
+        }
+    ],
+    "CVE-2024-27443": [
+        {
+            "title": "Zimbra Urges Immediate Update to Fix Critical Classic Web Client XSS Vulnerability",
+            "link": "https://www.itsecuritynews.info/zimbra-urges-immediate-update-to-fix-critical-classic-web-client-xss-vulnerability/"
+        }
     ]
 }
