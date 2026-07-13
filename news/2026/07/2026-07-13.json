@@ -174,5 +174,11 @@
             "title": "U.S. CISA adds a Cisco IOS flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://www.itsecuritynews.info/u-s-cisa-adds-a-cisco-ios-flaw-to-its-known-exploited-vulnerabilities-catalog/"
         }
+    ],
+    "CVE-2026-15681": [
+        {
+            "title": "ZDI-26-400: (0Day) AnyDesk Screen Recording Link Following Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-400/"
+        }
     ]
 }

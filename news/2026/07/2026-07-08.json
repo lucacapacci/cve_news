@@ -130,5 +130,35 @@
             "title": "OpenBSD Kernel Flaw Exposes Root Access Through Ancient Semaphore Code",
             "link": "https://www.webpronews.com/openbsd-kernel-flaw-exposes-root-access-through-ancient-semaphore-code/"
         }
+    ],
+    "CVE-2026-15685": [
+        {
+            "title": "ZDI-26-403: (0Day) Ollama downloadBlob Improper Validation of Array Index Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-403/"
+        }
+    ],
+    "CVE-2026-15684": [
+        {
+            "title": "ZDI-26-402: (0Day) Glarysoft Glary Utilities Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-402/"
+        }
+    ],
+    "CVE-2026-15682": [
+        {
+            "title": "ZDI-26-401: (0Day) AnyDesk Support Information Link Following Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-401/"
+        }
+    ],
+    "CVE-2026-15683": [
+        {
+            "title": "ZDI-26-399: (0Day) (Pwn2Own) Lorex 2K Indoor Wi-Fi Security Camera Device Management Server Improper Certificate Validation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-399/"
+        }
+    ],
+    "CVE-2026-15680": [
+        {
+            "title": "ZDI-26-398: (0Day) (Pwn2Own) Lorex 2K Indoor Wi-Fi Security Camera CDeviceOperator Format String Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-398/"
+        }
     ]
 }
