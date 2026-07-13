@@ -31,12 +31,12 @@
             "link": "https://cyberpress.org/citrixbleed-2-bypasses-mfa/"
         },
         {
-            "title": "Hackers Exploit CitrixBleed 2 to Hijack MFA-Protected Sessions and Deploy DragonForce Ransomware",
-            "link": "https://www.itsecuritynews.info/hackers-exploit-citrixbleed-2-to-hijack-mfa-protected-sessions-and-deploy-dragonforce-ransomware/"
-        },
-        {
             "title": "Hackers Can Go From CitrixBleed 2 Exploitation to Ransomware in Under an Hour",
             "link": "https://cybersecuritynews.com/hackers-can-go-from-citrixbleed-2-exploitation/"
+        },
+        {
+            "title": "Hackers Exploit CitrixBleed 2 to Hijack MFA-Protected Sessions and Deploy DragonForce Ransomware",
+            "link": "https://gbhackers.com/citrixbleed-2-to-hijack-mfa/"
         }
     ],
     "CVE-2026-56291": [

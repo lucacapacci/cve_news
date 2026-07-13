@@ -5,12 +5,12 @@
             "link": "https://cybersecuritynews.com/dell-bios-flaw-admin-passwords/"
         },
         {
-            "title": "Dell BIOS Flaw Lets Attackers Extract Plaintext Passwords Without Brute Force",
-            "link": "https://www.itsecuritynews.info/dell-bios-flaw-lets-attackers-extract-plaintext-passwords-without-brute-force/"
-        },
-        {
             "title": "Dell BIOS Flaw Lets Attackers Recover Passwords From SPI Flash",
             "link": "https://cyberpress.org/dell-bios-recover-passwords-spi-flash/"
+        },
+        {
+            "title": "Dell BIOS Flaw Lets Attackers Extract Plaintext Passwords Without Brute Force",
+            "link": "https://gbhackers.com/dell-bios-flaw-extract-plaintext-password-brute-force/"
         }
     ],
     "CVE-2026-29008": [
