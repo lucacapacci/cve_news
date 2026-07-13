@@ -1,0 +1,14 @@
+{
+    "CVE-2026-48939": [
+        {
+            "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+            "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html"
+        }
+    ],
+    "CVE-2026-57807": [
+        {
+            "title": "Critical WordPress OAuth SSO Plugin Flaw Allows Unauthenticated Attackers to Gain Admin Access",
+            "link": "https://gbhackers.com/critical-wordpress-oauth-sso-plugin-flaw/"
+        }
+    ]
+}
