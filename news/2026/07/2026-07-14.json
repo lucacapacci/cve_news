@@ -317,6 +317,10 @@
         {
             "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
             "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        },
+        {
+            "title": "Microsoft Patch Tuesday for July 2026 \u2014 Snort rules and prominent vulnerabilities",
+            "link": "https://www.itsecuritynews.info/microsoft-patch-tuesday-for-july-2026-snort-rules-and-prominent-vulnerabilities/"
         }
     ],
     "CVE-2026-56164": [
