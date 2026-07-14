@@ -13,12 +13,20 @@
         {
             "title": "SAP Security Update July 2026 \u2013 Patch for Critical SAP NetWeaver Flaw that Enables Memory Corruption",
             "link": "https://cybersecuritynews.com/sap-security-update-july-2026/"
+        },
+        {
+            "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver and AppRouter Flaws",
+            "link": "https://cyberpress.org/sap-july-2026-patch-day-fixes/"
         }
     ],
     "CVE-2026-27690": [
         {
             "title": "SAP Security Update July 2026 \u2013 Patch for Critical SAP NetWeaver Flaw that Enables Memory Corruption",
             "link": "https://cybersecuritynews.com/sap-security-update-july-2026/"
+        },
+        {
+            "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver and AppRouter Flaws",
+            "link": "https://cyberpress.org/sap-july-2026-patch-day-fixes/"
         }
     ],
     "CVE-2026-44745": [
@@ -31,6 +39,10 @@
         {
             "title": "SAP Security Update July 2026 \u2013 Patch for Critical SAP NetWeaver Flaw that Enables Memory Corruption",
             "link": "https://cybersecuritynews.com/sap-security-update-july-2026/"
+        },
+        {
+            "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver and AppRouter Flaws",
+            "link": "https://cyberpress.org/sap-july-2026-patch-day-fixes/"
         }
     ],
     "CVE-2026-43515": [
@@ -43,6 +55,10 @@
         {
             "title": "SAP Security Update July 2026 \u2013 Patch for Critical SAP NetWeaver Flaw that Enables Memory Corruption",
             "link": "https://cybersecuritynews.com/sap-security-update-july-2026/"
+        },
+        {
+            "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver and AppRouter Flaws",
+            "link": "https://cyberpress.org/sap-july-2026-patch-day-fixes/"
         }
     ],
     "CVE-2026-44760": [
@@ -55,6 +71,10 @@
         {
             "title": "SAP Security Update July 2026 \u2013 Patch for Critical SAP NetWeaver Flaw that Enables Memory Corruption",
             "link": "https://cybersecuritynews.com/sap-security-update-july-2026/"
+        },
+        {
+            "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver and AppRouter Flaws",
+            "link": "https://cyberpress.org/sap-july-2026-patch-day-fixes/"
         }
     ],
     "CVE-2026-44752": [
@@ -77,6 +97,10 @@
         {
             "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver, Approuter, and Commerce Cloud Vulnerabilities",
             "link": "https://gbhackers.com/sap-july-2026-patch-day-fixes-vulnerabilities/"
+        },
+        {
+            "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver and AppRouter Flaws",
+            "link": "https://cyberpress.org/sap-july-2026-patch-day-fixes/"
         }
     ],
     "CVE-2026-44769": [
@@ -95,12 +119,20 @@
         {
             "title": "SAP Security Update July 2026 \u2013 Patch for Critical SAP NetWeaver Flaw that Enables Memory Corruption",
             "link": "https://cybersecuritynews.com/sap-security-update-july-2026/"
+        },
+        {
+            "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver and AppRouter Flaws",
+            "link": "https://cyberpress.org/sap-july-2026-patch-day-fixes/"
         }
     ],
     "CVE-2026-40860": [
         {
             "title": "SAP Security Update July 2026 \u2013 Patch for Critical SAP NetWeaver Flaw that Enables Memory Corruption",
             "link": "https://cybersecuritynews.com/sap-security-update-july-2026/"
+        },
+        {
+            "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver and AppRouter Flaws",
+            "link": "https://cyberpress.org/sap-july-2026-patch-day-fixes/"
         }
     ],
     "CVE-2026-44753": [
@@ -125,12 +157,20 @@
         {
             "title": "SAP Security Update July 2026 \u2013 Patch for Critical SAP NetWeaver Flaw that Enables Memory Corruption",
             "link": "https://cybersecuritynews.com/sap-security-update-july-2026/"
+        },
+        {
+            "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver and AppRouter Flaws",
+            "link": "https://cyberpress.org/sap-july-2026-patch-day-fixes/"
         }
     ],
     "CVE-2026-40128": [
         {
             "title": "SAP Security Update July 2026 \u2013 Patch for Critical SAP NetWeaver Flaw that Enables Memory Corruption",
             "link": "https://cybersecuritynews.com/sap-security-update-july-2026/"
+        },
+        {
+            "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver and AppRouter Flaws",
+            "link": "https://cyberpress.org/sap-july-2026-patch-day-fixes/"
         }
     ],
     "CVE-2026-44768": [
@@ -161,6 +201,20 @@
         {
             "title": "WinFsp Race Condition Flaw Allows Attackers to Gain SYSTEM-Level Access on Windows",
             "link": "https://gbhackers.com/winfsp-race-condition-flaw/"
+        },
+        {
+            "title": "WinFsp Race Condition Flaw Lets Local Attackers Gain SYSTEM Access",
+            "link": "https://cyberpress.org/winfsp-race-condition-flaw/"
+        }
+    ],
+    "CVE-2008-4128": [
+        {
+            "title": "CISA Adds Cisco IOS CSRF Flaw Enabling Arbitrary Command Execution to KEV Catalog",
+            "link": "https://gbhackers.com/cisa-adds-cisco-ios-csrf-flaw/"
+        },
+        {
+            "title": "CISA Warns 18-Year-Old Cisco IOS Vulnerability Exploited for Arbitrary Command Execution",
+            "link": "https://cyberpress.org/18-year-old-cisco-ios-vulnerability-exploited/"
         }
     ]
 }
