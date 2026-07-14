@@ -215,6 +215,10 @@
         {
             "title": "CISA Warns 18-Year-Old Cisco IOS Vulnerability Exploited for Arbitrary Command Execution",
             "link": "https://cyberpress.org/18-year-old-cisco-ios-vulnerability-exploited/"
+        },
+        {
+            "title": "CISA Warns of Decades-Old Cisco IOS Vulnerability Actively Exploited in Attacks",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-decades-old-cisco-ios-vulnerability-actively-exploited-in-attacks/"
         }
     ]
 }
