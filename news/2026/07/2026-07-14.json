@@ -285,6 +285,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-15409",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-15409"
+        },
+        {
+            "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+            "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/"
         }
     ],
     "CVE-2026-15410": [
@@ -295,6 +299,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-15410",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-15410"
+        },
+        {
+            "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+            "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/"
         }
     ],
     "CVE-2026-56155": [
