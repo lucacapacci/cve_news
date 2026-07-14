@@ -225,6 +225,10 @@
         {
             "title": "FortiSandbox Vulnerability Exposes VNC Server to Unauthenticated Attackers",
             "link": "https://cybersecuritynews.com/fortisandbox-vulnerability-vnc-server/"
+        },
+        {
+            "title": "FortiSandbox Vulnerability Allows Attackers to Access VNC Servers of VMs",
+            "link": "https://www.itsecuritynews.info/fortisandbox-vulnerability-allows-attackers-to-access-vnc-servers-of-vms/"
         }
     ],
     "CVE-2026-25089": [
