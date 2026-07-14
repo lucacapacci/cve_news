@@ -101,6 +101,10 @@
         {
             "title": "SAP July 2026 Patch Day Fixes Critical NetWeaver and AppRouter Flaws",
             "link": "https://cyberpress.org/sap-july-2026-patch-day-fixes/"
+        },
+        {
+            "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
+            "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html"
         }
     ],
     "CVE-2026-44769": [
@@ -227,8 +231,8 @@
             "link": "https://cybersecuritynews.com/fortisandbox-vulnerability-vnc-server/"
         },
         {
-            "title": "FortiSandbox Vulnerability Allows Attackers to Access VNC Servers of VMs",
-            "link": "https://www.itsecuritynews.info/fortisandbox-vulnerability-allows-attackers-to-access-vnc-servers-of-vms/"
+            "title": "Fortinet Patches Seven Vulnerabilities Across FortiOS, FortiProxy, FortiPAM, and FortiSandbox",
+            "link": "https://cybersecuritynews.com/fortinet-patches-seven-vulnerabilities/"
         }
     ],
     "CVE-2026-25089": [
@@ -277,24 +281,3634 @@
         {
             "title": "SonicWall SMA appliances targeted in zero-day attacks (CVE-2026-15409, CVE-2026-15410)",
             "link": "https://www.helpnetsecurity.com/2026/07/14/sonicwall-sma-attacks-via-cve-2026-15409-cve-2026-15410/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-15409",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-15409"
         }
     ],
     "CVE-2026-15410": [
         {
             "title": "SonicWall SMA appliances targeted in zero-day attacks (CVE-2026-15409, CVE-2026-15410)",
             "link": "https://www.helpnetsecurity.com/2026/07/14/sonicwall-sma-attacks-via-cve-2026-15409-cve-2026-15410/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-15410",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-15410"
         }
     ],
     "CVE-2026-56155": [
         {
             "title": "CISA KEV Addition: CVE-2026-56155",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-56155"
+        },
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
         }
     ],
     "CVE-2026-56164": [
         {
             "title": "CISA KEV Addition: CVE-2026-56164",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-56164"
+        },
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49173": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50484": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50370": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50685": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55944": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50397": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50332": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50507": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        }
+    ],
+    "CVE-2026-50478": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49167": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54128": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49798": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50423": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50477": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50518": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50661": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50354": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-48564": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58532": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50683": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50436": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49160": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        }
+    ],
+    "CVE-2026-50390": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50377": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50399": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56159": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54132": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49181": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49795": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58627": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50459": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49808": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50673": [
+        {
+            "title": "Microsoft\u2019s July 2026 Patch Tuesday Addresses 569 CVEs (CVE-2026-56155, CVE-2026-56164)",
+            "link": "https://www.tenable.com/blog/microsofts-july-2026-patch-tuesday-addresses-569-cves-cve-2026-56155-cve-2026-56164"
+        },
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54988": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50328": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50496": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50670": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50386": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58634": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50445": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50326": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50466": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49791": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50372": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55053": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50339": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49166": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58613": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50396": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50651": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55049": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58538": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57107": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58595": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-47290": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55023": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50646": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50421": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54124": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50364": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50520": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50504": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49172": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57094": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50460": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50506": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50316": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50405": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55016": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55011": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50442": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58614": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-40422": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50457": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56649": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57982": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58638": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55145": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54997": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50410": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55030": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50378": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50439": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49168": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50696": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58609": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49787": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58633": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50401": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50325": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55001": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50303": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50293": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50427": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50456": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55128": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49793": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55947": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50324": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50668": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50415": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55017": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50454": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55035": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50524": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50371": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50489": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50411": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50486": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55031": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55058": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50663": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50374": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50315": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50412": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58543": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55134": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55130": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58537": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58547": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50318": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55138": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49792": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55899": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54992": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50647": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50528": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50367": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50322": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54116": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58533": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50321": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50452": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55038": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55039": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50294": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55120": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50385": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50335": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55055": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49803": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56190": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54991": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58647": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56178": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54107": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50499": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49177": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56175": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55021": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-42982": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50470": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58529": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50408": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50526": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50334": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50447": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50441": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50417": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56193": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50350": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54995": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50655": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55037": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49176": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57108": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50527": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56644": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49794": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50480": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49801": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50688": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50677": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50648": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50298": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-48581": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-42990": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58610": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55123": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50490": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-48572": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56648": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57101": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50358": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50657": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49800": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50666": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58542": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50344": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56187": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50462": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55127": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58636": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58617": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-34348": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55032": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54115": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57973": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55005": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50678": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55144": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50295": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49174": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50500": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55054": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50407": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50448": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-45496": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50669": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50384": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50347": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55132": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54983": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50337": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-48580": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50366": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55126": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58526": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55048": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50465": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49788": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56181": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57102": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57097": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50525": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55121": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50406": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55036": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55056": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54112": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50482": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55052": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58541": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56185": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50312": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50373": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50391": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50375": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56647": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56170": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50422": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50369": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49789": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50392": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50467": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-47300": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50425": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55949": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50471": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54987": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50387": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50681": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55142": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58635": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50400": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55018": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-34349": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55041": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55034": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50424": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55003": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49175": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55057": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57089": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54119": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56184": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50495": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58601": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50498": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58602": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-47303": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50301": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55137": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50330": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50431": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50409": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50381": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49784": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55131": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49796": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50314": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58640": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55125": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50329": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50403": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50341": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50413": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57092": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55050": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55008": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50649": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50394": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50360": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50376": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50689": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58546": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50687": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54982": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-41109": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50343": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49799": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57095": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50675": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55010": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50461": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50338": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54993": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57979": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55006": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50450": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50429": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56195": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-47296": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58530": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56186": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57096": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57083": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50348": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49162": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50455": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56192": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54131": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56196": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54117": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56642": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50488": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50346": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50362": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55898": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58637": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56197": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50473": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55025": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55026": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50300": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56188": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50509": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56650": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58628": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50304": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50310": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55009": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54121": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50502": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50309": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-47304": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56189": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50414": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50658": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50302": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50652": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50419": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58545": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50380": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50331": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-47295": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55046": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56643": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50359": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-41087": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55027": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-45646": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50501": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57087": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50686": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50357": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56173": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-34346": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50690": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55004": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50505": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54986": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56182": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50305": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55044": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49178": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-42975": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50420": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58540": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58644": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55043": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58528": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50453": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50451": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50296": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58539": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50361": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50469": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-47282": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50679": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50352": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50389": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50323": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58535": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57085": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50659": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49790": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55948": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58527": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56183": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50491": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50327": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55022": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50306": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49165": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50684": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50503": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50438": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50342": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49171": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55012": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50697": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58279": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50492": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49806": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54999": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50299": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50682": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50382": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50692": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57969": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55139": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49184": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-47632": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56176": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50368": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54990": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50665": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54111": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-44800": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50432": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-45585": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50313": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55020": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-33842": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58531": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50449": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-44806": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50437": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50676": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58618": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50355": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49805": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50463": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50485": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58619": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50388": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50398": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54118": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-40378": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54127": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50522": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50433": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55028": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58631": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50404": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55042": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55136": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58626": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50475": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50333": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57093": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50510": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50476": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50393": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50311": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49170": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50430": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49169": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50379": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57976": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50674": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55124": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55047": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55002": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50479": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-48571": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58544": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-34328": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56168": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55135": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57090": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55129": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54125": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57088": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55133": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54126": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54109": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56157": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55000": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58608": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50351": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49807": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55019": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55014": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50680": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49797": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50317": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50444": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50672": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50493": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55033": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-40400": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50474": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50383": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58277": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50428": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58632": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58594": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49802": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55141": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50650": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50458": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50353": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50340": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55024": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50494": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50487": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50497": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50694": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55029": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50363": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50297": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50418": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55122": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55140": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-48561": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58629": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50695": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50434": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50416": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54996": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-42900": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50345": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49180": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50426": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50356": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55045": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49164": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50435": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54989": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58534": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-55051": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50653": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49783": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57091": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50440": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-47642": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54114": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-58536": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-47302": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50483": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49183": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56169": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54108": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50308": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57968": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56156": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54129": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50365": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50402": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50307": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-54122": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-47305": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50336": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-56194": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-57084": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50468": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-49804": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-50667": [
+        {
+            "title": "Massive Microsoft Patch Tuesday Update: 570 Vulnerabilities Fixed, Including 3 Zero-Days",
+            "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-july-2026/"
+        }
+    ],
+    "CVE-2026-23573": [
+        {
+            "title": "Fortinet Patches Seven Vulnerabilities Across FortiOS, FortiProxy, FortiPAM, and FortiSandbox",
+            "link": "https://cybersecuritynews.com/fortinet-patches-seven-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-43892": [
+        {
+            "title": "Fortinet Patches Seven Vulnerabilities Across FortiOS, FortiProxy, FortiPAM, and FortiSandbox",
+            "link": "https://cybersecuritynews.com/fortinet-patches-seven-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-62675": [
+        {
+            "title": "Fortinet Patches Seven Vulnerabilities Across FortiOS, FortiProxy, FortiPAM, and FortiSandbox",
+            "link": "https://cybersecuritynews.com/fortinet-patches-seven-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-62826": [
+        {
+            "title": "Fortinet Patches Seven Vulnerabilities Across FortiOS, FortiProxy, FortiPAM, and FortiSandbox",
+            "link": "https://cybersecuritynews.com/fortinet-patches-seven-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59839": [
+        {
+            "title": "Fortinet Patches Seven Vulnerabilities Across FortiOS, FortiProxy, FortiPAM, and FortiSandbox",
+            "link": "https://cybersecuritynews.com/fortinet-patches-seven-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59837": [
+        {
+            "title": "Fortinet Patches Seven Vulnerabilities Across FortiOS, FortiProxy, FortiPAM, and FortiSandbox",
+            "link": "https://cybersecuritynews.com/fortinet-patches-seven-vulnerabilities/"
         }
     ]
 }
