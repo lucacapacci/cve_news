@@ -272,5 +272,29 @@
             "title": "VMware Avi Load Balancer Vulnerabilities Let Attackers Bypass Authentication",
             "link": "https://cybersecuritynews.com/vmware-avi-load-balancer-vulnerabilities/"
         }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "SonicWall SMA appliances targeted in zero-day attacks (CVE-2026-15409, CVE-2026-15410)",
+            "link": "https://www.helpnetsecurity.com/2026/07/14/sonicwall-sma-attacks-via-cve-2026-15409-cve-2026-15410/"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "SonicWall SMA appliances targeted in zero-day attacks (CVE-2026-15409, CVE-2026-15410)",
+            "link": "https://www.helpnetsecurity.com/2026/07/14/sonicwall-sma-attacks-via-cve-2026-15409-cve-2026-15410/"
+        }
+    ],
+    "CVE-2026-56155": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-56155",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-56155"
+        }
+    ],
+    "CVE-2026-56164": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-56164",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-56164"
+        }
     ]
 }
