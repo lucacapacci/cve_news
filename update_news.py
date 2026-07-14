@@ -49,10 +49,15 @@ def save_cve_entry(date_str, cve_id, title, link):
     is_itsec = "itsecuritynews.info" in link
 
     # 1. Immediately drop daily/weekly/monthly summary posts
+
+    # itsecuritynews.info
     if is_itsec:
         summaries = ["it security news hourly summary", "it security news daily summary", "it security news weekly summary", "it security news monthly summary"]
         if any(summary in title.lower() for summary in summaries):
             return
+    # cybersecuritynews.com
+    if "cybersecuritynews.com" in link and "news-bulletin-weekly" in link:
+        return
 
     # Load existing CVE data early so we can check it regardless of the incoming source
     try:
