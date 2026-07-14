@@ -220,5 +220,53 @@
             "title": "CISA Warns of Decades-Old Cisco IOS Vulnerability Actively Exploited in Attacks",
             "link": "https://www.itsecuritynews.info/cisa-warns-of-decades-old-cisco-ios-vulnerability-actively-exploited-in-attacks/"
         }
+    ],
+    "CVE-2026-59835": [
+        {
+            "title": "FortiSandbox Vulnerability Exposes VNC Server to Unauthenticated Attackers",
+            "link": "https://cybersecuritynews.com/fortisandbox-vulnerability-vnc-server/"
+        }
+    ],
+    "CVE-2026-25089": [
+        {
+            "title": "FortiSandbox Vulnerability Exposes VNC Server to Unauthenticated Attackers",
+            "link": "https://cybersecuritynews.com/fortisandbox-vulnerability-vnc-server/"
+        }
+    ],
+    "CVE-2026-8863": [
+        {
+            "title": "11-Year-Old Linux UEFI Shim Bootloaders Let Attackers Bypass Secure Boot",
+            "link": "https://cybersecuritynews.com/11-year-old-linux-uef-bootloaders/"
+        }
+    ],
+    "CVE-2026-10797": [
+        {
+            "title": "11-Year-Old Linux UEFI Shim Bootloaders Let Attackers Bypass Secure Boot",
+            "link": "https://cybersecuritynews.com/11-year-old-linux-uef-bootloaders/"
+        }
+    ],
+    "CVE-2024-22266": [
+        {
+            "title": "VMware Avi Load Balancer Vulnerabilities Let Attackers Bypass Authentication",
+            "link": "https://cybersecuritynews.com/vmware-avi-load-balancer-vulnerabilities/"
+        }
+    ],
+    "CVE-2024-22264": [
+        {
+            "title": "VMware Avi Load Balancer Vulnerabilities Let Attackers Bypass Authentication",
+            "link": "https://cybersecuritynews.com/vmware-avi-load-balancer-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-22217": [
+        {
+            "title": "VMware Avi Load Balancer Vulnerabilities Let Attackers Bypass Authentication",
+            "link": "https://cybersecuritynews.com/vmware-avi-load-balancer-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-41233": [
+        {
+            "title": "VMware Avi Load Balancer Vulnerabilities Let Attackers Bypass Authentication",
+            "link": "https://cybersecuritynews.com/vmware-avi-load-balancer-vulnerabilities/"
+        }
     ]
 }
