@@ -1,0 +1,8 @@
+{
+    "CVE-2026-6875": [
+        {
+            "title": "Critical ServiceNow AI Platform Flaw Allows Unauthenticated Attackers to Escape Sandbox and Execute Remote Code",
+            "link": "https://gbhackers.com/critical-servicenow-ai-platform-flaw/"
+        }
+    ]
+}
