@@ -858,5 +858,29 @@
             "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
             "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
         }
+    ],
+    "CVE-2026-57221": [
+        {
+            "title": "RabbitMQ Flaw Exposes OAuth Secrets, Risks Full Broker Takeover",
+            "link": "https://www.itsecuritynews.info/rabbitmq-flaw-exposes-oauth-secrets-risks-full-broker-takeover/"
+        }
+    ],
+    "CVE-2026-57219": [
+        {
+            "title": "RabbitMQ Flaw Exposes OAuth Secrets, Risks Full Broker Takeover",
+            "link": "https://www.itsecuritynews.info/rabbitmq-flaw-exposes-oauth-secrets-risks-full-broker-takeover/"
+        }
+    ],
+    "CVE-2026-46817": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-46817",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-46817"
+        }
+    ],
+    "CVE-2023-4346": [
+        {
+            "title": "CISA KEV Addition: CVE-2023-4346",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-4346"
+        }
     ]
 }
