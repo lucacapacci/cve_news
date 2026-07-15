@@ -29,6 +29,10 @@
         {
             "title": "SonicWall SMA1000 Flaws Actively Exploited for SSRF and Remote Code Execution",
             "link": "https://cyberpress.org/sonicwall-sma1000-flaws/"
+        },
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
         }
     ],
     "CVE-2026-15410": [
@@ -43,6 +47,10 @@
         {
             "title": "SonicWall SMA1000 Flaws Actively Exploited for SSRF and Remote Code Execution",
             "link": "https://cyberpress.org/sonicwall-sma1000-flaws/"
+        },
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
         }
     ],
     "CVE-2026-58546": [
@@ -881,6 +889,48 @@
         {
             "title": "CISA KEV Addition: CVE-2023-4346",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-4346"
+        }
+    ],
+    "CVE-2025-40602": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2021-20038": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2019-7483": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2019-7481": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2025-23006": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2024-40766": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
+        }
+    ],
+    "CVE-2021-20016": [
+        {
+            "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
+            "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
         }
     ]
 }
