@@ -13,6 +13,10 @@
         {
             "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
             "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/"
+        },
+        {
+            "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+            "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html"
         }
     ],
     "CVE-2026-15410": [
@@ -265,6 +269,10 @@
         {
             "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
             "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        },
+        {
+            "title": "Microsoft Active Directory Services 0-Day Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/active-directory-services-0-day-exploited/"
         }
     ],
     "CVE-2026-58287": [
@@ -511,6 +519,24 @@
         {
             "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
             "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-57233": [
+        {
+            "title": "Multiple Notepad++ Vulnerabilities Enable PowerShell Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/notepad-vulnerabilities-command-injection/"
+        }
+    ],
+    "CVE-2026-54758": [
+        {
+            "title": "Multiple Notepad++ Vulnerabilities Enable PowerShell Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/notepad-vulnerabilities-command-injection/"
+        }
+    ],
+    "CVE-2026-52886": [
+        {
+            "title": "Multiple Notepad++ Vulnerabilities Enable PowerShell Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/notepad-vulnerabilities-command-injection/"
         }
     ]
 }
