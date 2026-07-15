@@ -3,6 +3,514 @@
         {
             "title": "Windows BitLocker 0\u2011Day Vulnerability Allows Hackers to Bypass Security Feature",
             "link": "https://cybersecuritynews.com/windows-bitlocker-0-day-vulnerability-2/"
+        },
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
+            "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
+            "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/"
+        }
+    ],
+    "CVE-2026-58546": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58618": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58525": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58614": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58297": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54114": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58526": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58635": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58633": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58619": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58628": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58594": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58296": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58530": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58529": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58295": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54116": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58533": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58544": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58626": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58545": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58300": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58547": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54107": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58610": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58299": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58597": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58293": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58286": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58294": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58298": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58613": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54111": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-50697": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58292": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58290": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58595": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58631": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58532": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58636": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-56155": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58287": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58531": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58540": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58291": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-50696": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58543": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58538": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58534": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58647": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58627": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58535": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58537": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54112": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54109": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-56164": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58522": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58542": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58289": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58629": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54115": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58609": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58640": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58539": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58634": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58644": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58617": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58541": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58528": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58527": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58601": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58637": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58632": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58288": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-54108": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58638": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58608": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58536": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58524": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58602": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58523": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        }
+    ],
+    "CVE-2026-58596": [
+        {
+            "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
+            "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
         }
     ]
 }
