@@ -7,6 +7,10 @@
         {
             "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
             "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        },
+        {
+            "title": "AI-driven bug hunting fuels record Microsoft Patch Tuesday",
+            "link": "https://www.helpnetsecurity.com/2026/07/15/microsoft-patch-tuesday-sharepoint-cve-2026-56164/"
         }
     ],
     "CVE-2026-15409": [
@@ -17,12 +21,20 @@
         {
             "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
             "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html"
+        },
+        {
+            "title": "Critical SonicWall Firewall 0-Day Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/sonicwall-firewall-0-day-vulnerabilities-exploited/"
         }
     ],
     "CVE-2026-15410": [
         {
             "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
             "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/"
+        },
+        {
+            "title": "Critical SonicWall Firewall 0-Day Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/sonicwall-firewall-0-day-vulnerabilities-exploited/"
         }
     ],
     "CVE-2026-58546": [
@@ -273,6 +285,10 @@
         {
             "title": "Microsoft Active Directory Services 0-Day Vulnerability Actively Exploited in the Wild",
             "link": "https://cybersecuritynews.com/active-directory-services-0-day-exploited/"
+        },
+        {
+            "title": "AI-driven bug hunting fuels record Microsoft Patch Tuesday",
+            "link": "https://www.helpnetsecurity.com/2026/07/15/microsoft-patch-tuesday-sharepoint-cve-2026-56164/"
         }
     ],
     "CVE-2026-58287": [
@@ -363,6 +379,10 @@
         {
             "title": "Microsoft July Patch Tuesday Fixes Record 570 Vulnerabilities and Three Exploited Zero-Days",
             "link": "https://cyberpress.org/microsoft-july-patch-tuesday/"
+        },
+        {
+            "title": "AI-driven bug hunting fuels record Microsoft Patch Tuesday",
+            "link": "https://www.helpnetsecurity.com/2026/07/15/microsoft-patch-tuesday-sharepoint-cve-2026-56164/"
         }
     ],
     "CVE-2026-58522": [
@@ -537,6 +557,116 @@
         {
             "title": "Multiple Notepad++ Vulnerabilities Enable PowerShell Command Injection Attacks",
             "link": "https://cybersecuritynews.com/notepad-vulnerabilities-command-injection/"
+        }
+    ],
+    "CVE-2026-15765": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome 150 Update Fixes 15 Security Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://gbhackers.com/google-chrome-150-update-fixes-15-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15771": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15776": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15770": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15775": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15778": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15769": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15764": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome 150 Update Fixes 15 Security Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://gbhackers.com/google-chrome-150-update-fixes-15-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15772": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15766": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15773": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15777": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15774": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15767": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-15768": [
+        {
+            "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
+            "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        }
+    ],
+    "CVE-2026-53481": [
+        {
+            "title": "Dell Warns of Critical PowerProtect Data Domain Flaws Allowing Remote Attackers to Take Complete Control",
+            "link": "https://gbhackers.com/dell-warns-of-critical-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-53483": [
+        {
+            "title": "Dell Warns of Critical PowerProtect Data Domain Flaws Allowing Remote Attackers to Take Complete Control",
+            "link": "https://gbhackers.com/dell-warns-of-critical-powerprotect-data-domain-flaws/"
         }
     ]
 }
