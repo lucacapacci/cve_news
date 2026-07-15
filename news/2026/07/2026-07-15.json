@@ -932,5 +932,223 @@
             "title": "CVE-2026-15409, CVE-2026-15410: SonicWall SMA 1000 zero-day vulnerabilities exploited in the wild",
             "link": "https://www.tenable.com/blog/cve-2026-15409-cve-2026-15410-sonicwall-sma-1000-zero-day-vulnerabilities-exploited-in-the"
         }
+    ],
+    "CVE-2026-2291": [
+        {
+            "title": "ZDI-26-441: dnsmasq DNS Response Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-441/"
+        }
+    ],
+    "CVE-2026-8108": [
+        {
+            "title": "ZDI-26-440: Fuji Electric Tellus pcid64 Driver Untrusted Pointer Dereference Denial of Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-440/"
+        },
+        {
+            "title": "ZDI-26-439: Fuji Electric Tellus pcid64 Driver Exposed Dangerous Method Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-439/"
+        }
+    ],
+    "CVE-2026-6071": [
+        {
+            "title": "ZDI-26-438: Rockwell Automation Arena Simulation DOE File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-438/"
+        }
+    ],
+    "CVE-2026-13308": [
+        {
+            "title": "ZDI-26-437: (Pwn2Own) Autel MaxiCharger AC Elite Home WebSockets Integer Underflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-437/"
+        }
+    ],
+    "CVE-2026-13307": [
+        {
+            "title": "ZDI-26-436: (Pwn2Own) Autel MaxiCharger AC Elite Home USB Heap-based Buffer Overflow Arbitrary Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-436/"
+        }
+    ],
+    "CVE-2026-13309": [
+        {
+            "title": "ZDI-26-435: (Pwn2Own) Autel MaxiCharger AC Elite Home NFC Stack-based Buffer Overflow Arbitrary Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-435/"
+        }
+    ],
+    "CVE-2026-13306": [
+        {
+            "title": "ZDI-26-434: (Pwn2Own) Autel MaxiCharger AC Elite Home USB Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-434/"
+        }
+    ],
+    "CVE-2026-13305": [
+        {
+            "title": "ZDI-26-433: (Pwn2Own) Autel MaxiCharger AC Elite Home Software Update Improper Verification of Cryptographic Signature Arbitrary Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-433/"
+        }
+    ],
+    "CVE-2026-13268": [
+        {
+            "title": "ZDI-26-432: G DATA Total Security Backup Service Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-432/"
+        }
+    ],
+    "CVE-2026-8921": [
+        {
+            "title": "ZDI-26-431: ASUS Business Manager Service Client-Side Authentication Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-431/"
+        }
+    ],
+    "CVE-2026-6102": [
+        {
+            "title": "ZDI-26-430: MSI Center NTIOLib_X64 Origin Validation Error Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-430/"
+        }
+    ],
+    "CVE-2026-24157": [
+        {
+            "title": "ZDI-26-429: NVIDIA NeMo Framework Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-429/"
+        }
+    ],
+    "CVE-2026-8247": [
+        {
+            "title": "ZDI-26-428: WatchGuard FireWare OS admd Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-428/"
+        }
+    ],
+    "CVE-2026-13084": [
+        {
+            "title": "ZDI-26-427: WatchGuard FireWare OS iked ike2_hmac Null Pointer Dereference Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-427/"
+        }
+    ],
+    "CVE-2026-42771": [
+        {
+            "title": "ZDI-26-426: OpenSSL X.509 Email Validation Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-426/"
+        }
+    ],
+    "CVE-2026-35188": [
+        {
+            "title": "ZDI-26-425: OpenSSL OCSP Stapling Verification Double Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-425/"
+        }
+    ],
+    "CVE-2026-13135": [
+        {
+            "title": "ZDI-26-424: Synology DiskStation DS925+ MailPlus Improper Restriction of Communication Channel to Intended Endpoints Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-424/"
+        }
+    ],
+    "CVE-2025-15660": [
+        {
+            "title": "ZDI-26-423: Synology DiskStation DS925+ MailPlus Redis Weak Cryptography for Passwords Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-423/"
+        }
+    ],
+    "CVE-2026-15551": [
+        {
+            "title": "ZDI-26-422: Samsung rlottie Numeric Truncation Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-422/"
+        }
+    ],
+    "CVE-2026-20146": [
+        {
+            "title": "ZDI-26-421: Cisco Identity Services Engine validFileNameOrPath Directory Traversal Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-421/"
+        }
+    ],
+    "CVE-2026-48344": [
+        {
+            "title": "ZDI-26-420: Adobe Creative Cloud AGSService Incorrect Permission Assignment Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-420/"
+        }
+    ],
+    "CVE-2026-48272": [
+        {
+            "title": "ZDI-26-419: Adobe Creative Cloud AdobeUpdateService Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-419/"
+        }
+    ],
+    "CVE-2026-55126": [
+        {
+            "title": "ZDI-26-418: Microsoft SharePoint SPFieldMultiLineText Cross-Site Scripting Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-418/"
+        }
+    ],
+    "CVE-2026-50311": [
+        {
+            "title": "ZDI-26-417: Microsoft Windows ServerManager Exposed Dangerous Method Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-417/"
+        }
+    ],
+    "CVE-2026-54129": [
+        {
+            "title": "ZDI-26-416: Microsoft Hyper-V netvsc Out-Of-Bounds Read Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-416/"
+        }
+    ],
+    "CVE-2026-49805": [
+        {
+            "title": "ZDI-26-415: Microsoft Windows WMI Providers Incorrect Authorization Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-415/"
+        }
+    ],
+    "CVE-2026-40400": [
+        {
+            "title": "ZDI-26-414: Microsoft PowerShell Help Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-414/"
+        }
+    ],
+    "CVE-2026-50522": [
+        {
+            "title": "ZDI-26-413: (Pwn2Own) Microsoft SharePoint Improper Verification of Cryptographic Signature Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-413/"
+        },
+        {
+            "title": "ZDI-26-412: (Pwn2Own) Microsoft SharePoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-412/"
+        }
+    ],
+    "CVE-2026-24237": [
+        {
+            "title": "ZDI-26-411: NVIDIA NVTabular Pickle File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-411/"
+        }
+    ],
+    "CVE-2026-24228": [
+        {
+            "title": "ZDI-26-410: NVIDIA NeMo Framework Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-410/"
+        }
+    ],
+    "CVE-2026-55999": [
+        {
+            "title": "ZDI-26-409: X.Org Server Glamor Font Heap-based Buffer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-409/"
+        }
+    ],
+    "CVE-2026-56003": [
+        {
+            "title": "ZDI-26-408: X.Org Server ComputeScaledProperties Heap-based Buffer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-408/"
+        }
+    ],
+    "CVE-2026-56002": [
+        {
+            "title": "ZDI-26-407: X.Org Server PCF Font Parsing Heap-based Buffer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-407/"
+        }
+    ],
+    "CVE-2026-56001": [
+        {
+            "title": "ZDI-26-406: X.Org Server BitmapScaleBitmaps Integer Overflow Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-406/"
+        }
+    ],
+    "CVE-2026-56000": [
+        {
+            "title": "ZDI-26-405: X.Org Server GLX Extension Use-After-Free Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-405/"
+        }
     ]
 }
