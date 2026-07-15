@@ -25,6 +25,10 @@
         {
             "title": "Critical SonicWall Firewall 0-Day Vulnerabilities Actively Exploited in Attacks",
             "link": "https://cybersecuritynews.com/sonicwall-firewall-0-day-vulnerabilities-exploited/"
+        },
+        {
+            "title": "SonicWall SMA1000 Flaws Actively Exploited for SSRF and Remote Code Execution",
+            "link": "https://cyberpress.org/sonicwall-sma1000-flaws/"
         }
     ],
     "CVE-2026-15410": [
@@ -35,6 +39,10 @@
         {
             "title": "Critical SonicWall Firewall 0-Day Vulnerabilities Actively Exploited in Attacks",
             "link": "https://cybersecuritynews.com/sonicwall-firewall-0-day-vulnerabilities-exploited/"
+        },
+        {
+            "title": "SonicWall SMA1000 Flaws Actively Exploited for SSRF and Remote Code Execution",
+            "link": "https://cyberpress.org/sonicwall-sma1000-flaws/"
         }
     ],
     "CVE-2026-58546": [
@@ -289,6 +297,10 @@
         {
             "title": "AI-driven bug hunting fuels record Microsoft Patch Tuesday",
             "link": "https://www.helpnetsecurity.com/2026/07/15/microsoft-patch-tuesday-sharepoint-cve-2026-56164/"
+        },
+        {
+            "title": "Microsoft Active Directory FS Privilege Escalation Flaw Exploited in Active Attacks",
+            "link": "https://cyberpress.org/microsoft-ad-fs-privilege-escalation-flaw/"
         }
     ],
     "CVE-2026-58287": [
@@ -386,7 +398,7 @@
         },
         {
             "title": "CISA Warns of Microsoft SharePoint Server Vulnerability Actively Exploited in Attacks",
-            "link": "https://www.itsecuritynews.info/cisa-warns-of-microsoft-sharepoint-server-vulnerability-actively-exploited-in-attacks/"
+            "link": "https://cybersecuritynews.com/sharepoint-server-vulnerability-exploited/"
         }
     ],
     "CVE-2026-58522": [
@@ -571,42 +583,70 @@
         {
             "title": "Google Chrome 150 Update Fixes 15 Security Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
             "link": "https://gbhackers.com/google-chrome-150-update-fixes-15-security-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15771": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15776": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15770": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15775": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15778": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15769": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15764": [
@@ -617,60 +657,108 @@
         {
             "title": "Google Chrome 150 Update Fixes 15 Security Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
             "link": "https://gbhackers.com/google-chrome-150-update-fixes-15-security-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15772": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15766": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15773": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15777": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15774": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15767": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-15768": [
         {
             "title": "Chrome 150 Security Update Patches 15 Flaws, Including Two Critical Code Execution Ones",
             "link": "https://cybersecuritynews.com/chrome-150-security-update/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 15 Security Flaws, Including Critical Ozone UAF Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-15-security-flaws/"
         }
     ],
     "CVE-2026-53481": [
         {
             "title": "Dell Warns of Critical PowerProtect Data Domain Flaws Allowing Remote Attackers to Take Complete Control",
             "link": "https://gbhackers.com/dell-warns-of-critical-powerprotect-data-domain-flaws/"
+        },
+        {
+            "title": "Multiple Dell PowerProtect Vulnerabilities Allow Hackers to Gain Full System Access Remotely",
+            "link": "https://cybersecuritynews.com/multiple-dell-powerprotect-vulnerabilites/"
+        },
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
         }
     ],
     "CVE-2026-53483": [
         {
             "title": "Dell Warns of Critical PowerProtect Data Domain Flaws Allowing Remote Attackers to Take Complete Control",
             "link": "https://gbhackers.com/dell-warns-of-critical-powerprotect-data-domain-flaws/"
+        },
+        {
+            "title": "Multiple Dell PowerProtect Vulnerabilities Allow Hackers to Gain Full System Access Remotely",
+            "link": "https://cybersecuritynews.com/multiple-dell-powerprotect-vulnerabilites/"
+        },
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
         }
     ],
     "CVE-2026-15719": [
@@ -689,6 +777,86 @@
         {
             "title": "ZDI-26-404: Delta Electronics DTM Soft Project File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-404/"
+        }
+    ],
+    "CVE-2026-55003": [
+        {
+            "title": "Multiple Windows RDP Vulnerabilities Allow Attackers to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Patches Multiple Windows RDP Flaws That Expose Sensitive Data",
+            "link": "https://cyberpress.org/microsoft-patches-multiple-windows-rdp-flaws/"
+        }
+    ],
+    "CVE-2026-50445": [
+        {
+            "title": "Multiple Windows RDP Vulnerabilities Allow Attackers to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Patches Multiple Windows RDP Flaws That Expose Sensitive Data",
+            "link": "https://cyberpress.org/microsoft-patches-multiple-windows-rdp-flaws/"
+        }
+    ],
+    "CVE-2026-57982": [
+        {
+            "title": "Multiple Windows RDP Vulnerabilities Allow Attackers to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Patches Multiple Windows RDP Flaws That Expose Sensitive Data",
+            "link": "https://cyberpress.org/microsoft-patches-multiple-windows-rdp-flaws/"
+        }
+    ],
+    "CVE-2026-57979": [
+        {
+            "title": "Multiple Windows RDP Vulnerabilities Allow Attackers to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Patches Multiple Windows RDP Flaws That Expose Sensitive Data",
+            "link": "https://cyberpress.org/microsoft-patches-multiple-windows-rdp-flaws/"
+        }
+    ],
+    "CVE-2026-50497": [
+        {
+            "title": "Multiple Windows RDP Vulnerabilities Allow Attackers to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/windows-remote-desktop-protocol-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Patches Multiple Windows RDP Flaws That Expose Sensitive Data",
+            "link": "https://cyberpress.org/microsoft-patches-multiple-windows-rdp-flaws/"
+        }
+    ],
+    "CVE-2026-41122": [
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-53482": [
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-53479": [
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-56086": [
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-53478": [
+        {
+            "title": "Dell PowerProtect Data Domain Flaws Enable Unauthenticated System Takeover",
+            "link": "https://cyberpress.org/dell-powerprotect-data-domain-flaws/"
         }
     ]
 }
