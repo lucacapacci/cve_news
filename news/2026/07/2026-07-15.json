@@ -1150,5 +1150,11 @@
             "title": "ZDI-26-405: X.Org Server GLX Extension Use-After-Free Privilege Escalation Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-405/"
         }
+    ],
+    "CVE-2026-14266": [
+        {
+            "title": "ZDI-26-444: 7-Zip XZ Decompression Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-444/"
+        }
     ]
 }
