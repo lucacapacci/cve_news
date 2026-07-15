@@ -383,6 +383,10 @@
         {
             "title": "AI-driven bug hunting fuels record Microsoft Patch Tuesday",
             "link": "https://www.helpnetsecurity.com/2026/07/15/microsoft-patch-tuesday-sharepoint-cve-2026-56164/"
+        },
+        {
+            "title": "CISA Warns of Microsoft SharePoint Server Vulnerability Actively Exploited in Attacks",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-microsoft-sharepoint-server-vulnerability-actively-exploited-in-attacks/"
         }
     ],
     "CVE-2026-58522": [
@@ -667,6 +671,24 @@
         {
             "title": "Dell Warns of Critical PowerProtect Data Domain Flaws Allowing Remote Attackers to Take Complete Control",
             "link": "https://gbhackers.com/dell-warns-of-critical-powerprotect-data-domain-flaws/"
+        }
+    ],
+    "CVE-2026-15719": [
+        {
+            "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+            "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
+        }
+    ],
+    "CVE-2026-15718": [
+        {
+            "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+            "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html"
+        }
+    ],
+    "CVE-2026-12578": [
+        {
+            "title": "ZDI-26-404: Delta Electronics DTM Soft Project File Parsing Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-404/"
         }
     ]
 }
