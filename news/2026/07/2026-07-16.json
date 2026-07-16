@@ -1,0 +1,44 @@
+{
+    "CVE-2026-42533": [
+        {
+            "title": "F5 Patches Multiple NGINX Vulnerabilities Enabling Heap Buffer Overflow and Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/f5-patches-multiple-nginx-vulnerabilities/"
+        },
+        {
+            "title": "F5 Fixes 3 NGINX Flaws Enabling Potential Remote Code Execution, Memory Disclosure, and DoS Attacks",
+            "link": "https://gbhackers.com/f5-fixes-3-nginx-flaws/"
+        },
+        {
+            "title": "F5 Fixes NGINX Flaws Enabling Code Execution, Memory Leaks and DoS Attacks",
+            "link": "https://cyberpress.org/f5-fixes-nginx-flaws-enabling-code-execution/"
+        }
+    ],
+    "CVE-2026-56434": [
+        {
+            "title": "F5 Patches Multiple NGINX Vulnerabilities Enabling Heap Buffer Overflow and Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/f5-patches-multiple-nginx-vulnerabilities/"
+        },
+        {
+            "title": "F5 Fixes 3 NGINX Flaws Enabling Potential Remote Code Execution, Memory Disclosure, and DoS Attacks",
+            "link": "https://gbhackers.com/f5-fixes-3-nginx-flaws/"
+        },
+        {
+            "title": "F5 Fixes NGINX Flaws Enabling Code Execution, Memory Leaks and DoS Attacks",
+            "link": "https://cyberpress.org/f5-fixes-nginx-flaws-enabling-code-execution/"
+        }
+    ],
+    "CVE-2026-60005": [
+        {
+            "title": "F5 Patches Multiple NGINX Vulnerabilities Enabling Heap Buffer Overflow and Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/f5-patches-multiple-nginx-vulnerabilities/"
+        },
+        {
+            "title": "F5 Fixes 3 NGINX Flaws Enabling Potential Remote Code Execution, Memory Disclosure, and DoS Attacks",
+            "link": "https://gbhackers.com/f5-fixes-3-nginx-flaws/"
+        },
+        {
+            "title": "F5 Fixes NGINX Flaws Enabling Code Execution, Memory Leaks and DoS Attacks",
+            "link": "https://cyberpress.org/f5-fixes-nginx-flaws-enabling-code-execution/"
+        }
+    ]
+}
