@@ -1156,5 +1156,23 @@
             "title": "ZDI-26-444: 7-Zip XZ Decompression Heap-based Buffer Overflow Remote Code Execution Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-444/"
         }
+    ],
+    "CVE-2026-41287": [
+        {
+            "title": "Microsoft Fixes Record 622 Vulnerabilities in Patch Tuesday Update",
+            "link": "https://www.webpronews.com/microsoft-fixes-record-622-vulnerabilities-in-patch-tuesday-update/"
+        }
+    ],
+    "CVE-2015-5381": [
+        {
+            "title": "Microsoft Secure Boot Flaw Exposes 13 Years of Silent Vulnerability in PC Firmware",
+            "link": "https://www.webpronews.com/microsoft-secure-boot-flaw-exposes-13-years-of-silent-vulnerability-in-pc-firmware/"
+        }
+    ],
+    "CVE-2026-47865": [
+        {
+            "title": "Google Cloud\u2019s VMware Engine Stumbles on a Bad Config Change",
+            "link": "https://www.webpronews.com/google-clouds-vmware-engine-stumbles-on-a-bad-config-change/"
+        }
     ]
 }
