@@ -158,7 +158,7 @@
         },
         {
             "title": "Hackers Actively Exploiting SonicWall SMA1000 0-Day Vulnerability in the Wild",
-            "link": "https://www.itsecuritynews.info/hackers-actively-exploiting-sonicwall-sma1000-0-day-vulnerability-in-the-wild/"
+            "link": "https://cybersecuritynews.com/sonicwall-sma1000-0-day-vulnerability-2/"
         }
     ],
     "CVE-2026-15409": [
@@ -168,19 +168,17 @@
         },
         {
             "title": "Hackers Actively Exploiting SonicWall SMA1000 0-Day Vulnerability in the Wild",
-            "link": "https://www.itsecuritynews.info/hackers-actively-exploiting-sonicwall-sma1000-0-day-vulnerability-in-the-wild/"
-        }
-    ],
-    "CVE-2026-15682": [
-        {
-            "title": "AnyDesk 0-Day Vulnerability Lets Attackers Trigger Denial-of-Service",
-            "link": "https://www.itsecuritynews.info/anydesk-0-day-vulnerability-lets-attackers-trigger-denial-of-service/"
+            "link": "https://cybersecuritynews.com/sonicwall-sma1000-0-day-vulnerability-2/"
         }
     ],
     "CVE-2026-58644": [
         {
             "title": "CISA KEV Addition: CVE-2026-58644",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-58644"
+        },
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
         }
     ],
     "CVE-2026-25089": [
@@ -193,6 +191,102 @@
         {
             "title": "CISA KEV Addition: CVE-2026-39808",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-39808"
+        }
+    ],
+    "CVE-2026-56155": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2023-24955": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2020-1147": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-45659": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-20963": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2025-49719": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2025-49706": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-32201": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2025-53770": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2025-49704": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2023-29357": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2019-0604": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2024-38094": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-56164": [
+        {
+            "title": "CVE-2026-32201, CVE-2026-45659, CVE-2026-56164: Frequently Asked Questions About Active Exploitation of Microsoft SharePoint Server Vulnerabilities",
+            "link": "https://www.tenable.com/blog/cve-2026-32201-cve-2026-45659-cve-2026-56164-faq-sharepoint-server-exploitation"
+        }
+    ],
+    "CVE-2026-15682": [
+        {
+            "title": "AnyDesk 0-Day Vulnerability Lets Attackers Trigger Denial-of-Service",
+            "link": "https://cybersecuritynews.com/anydesk-0-day-vulnerability/"
         }
     ]
 }
