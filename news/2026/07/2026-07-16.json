@@ -155,12 +155,20 @@
         {
             "title": "Critical SonicWall SSRF Zero-Day Opens WebSocket Tunnel to Internal Services",
             "link": "https://cyberpress.org/critical-sonicwall-ssrf-zero-day/"
+        },
+        {
+            "title": "Hackers Actively Exploiting SonicWall SMA1000 0-Day Vulnerability in the Wild",
+            "link": "https://www.itsecuritynews.info/hackers-actively-exploiting-sonicwall-sma1000-0-day-vulnerability-in-the-wild/"
         }
     ],
     "CVE-2026-15409": [
         {
             "title": "Critical SonicWall SSRF Zero-Day Opens WebSocket Tunnel to Internal Services",
             "link": "https://cyberpress.org/critical-sonicwall-ssrf-zero-day/"
+        },
+        {
+            "title": "Hackers Actively Exploiting SonicWall SMA1000 0-Day Vulnerability in the Wild",
+            "link": "https://www.itsecuritynews.info/hackers-actively-exploiting-sonicwall-sma1000-0-day-vulnerability-in-the-wild/"
         }
     ]
 }
