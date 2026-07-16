@@ -48,31 +48,119 @@
         },
         {
             "title": "Zoom Desktop Client for Windows Flaw Enables Account Takeover via Network Access",
-            "link": "https://www.itsecuritynews.info/zoom-desktop-client-for-windows-flaw-enables-account-takeover-via-network-access/"
+            "link": "https://cybersecuritynews.com/zoom-desktop-client-windows-flaw/"
+        },
+        {
+            "title": "Critical Zoom Workplace Flaw Lets Unauthenticated Attackers Take Over Accounts Remotely",
+            "link": "https://gbhackers.com/critical-zoom-workplace-flaw/"
+        },
+        {
+            "title": "Critical Zoom Workplace Flaw Lets Unauthenticated Attackers Take Over Accounts",
+            "link": "https://cyberpress.org/critical-zoom-workplace-flaw/"
         }
     ],
     "CVE-2026-20298": [
         {
+            "title": "Multiple Splunk Enterprise Vulnerabilities Enable Path Traversal and Information Disclosure Attacks",
+            "link": "https://cybersecuritynews.com/multiple-splunk-enterprise-vulnerabilities-patched/"
+        },
+        {
             "title": "Splunk Enterprise Flaws Expose Stored Credentials and Allow Arbitrary SPL Searches",
-            "link": "https://www.itsecuritynews.info/splunk-enterprise-flaws-expose-stored-credentials-and-allow-arbitrary-spl-searches/"
+            "link": "https://gbhackers.com/splunk-enterprise-flaws-expose-stored-credentials/"
+        },
+        {
+            "title": "Splunk Enterprise Flaws Enable Credential Theft, Path Traversal, and SPL Abuse",
+            "link": "https://cyberpress.org/splunk-enterprise-flaws/"
         }
     ],
     "CVE-2026-20296": [
         {
+            "title": "Multiple Splunk Enterprise Vulnerabilities Enable Path Traversal and Information Disclosure Attacks",
+            "link": "https://cybersecuritynews.com/multiple-splunk-enterprise-vulnerabilities-patched/"
+        },
+        {
             "title": "Splunk Enterprise Flaws Expose Stored Credentials and Allow Arbitrary SPL Searches",
-            "link": "https://www.itsecuritynews.info/splunk-enterprise-flaws-expose-stored-credentials-and-allow-arbitrary-spl-searches/"
+            "link": "https://gbhackers.com/splunk-enterprise-flaws-expose-stored-credentials/"
+        },
+        {
+            "title": "Splunk Enterprise Flaws Enable Credential Theft, Path Traversal, and SPL Abuse",
+            "link": "https://cyberpress.org/splunk-enterprise-flaws/"
         }
     ],
     "CVE-2026-20297": [
         {
+            "title": "Multiple Splunk Enterprise Vulnerabilities Enable Path Traversal and Information Disclosure Attacks",
+            "link": "https://cybersecuritynews.com/multiple-splunk-enterprise-vulnerabilities-patched/"
+        },
+        {
             "title": "Splunk Enterprise Flaws Expose Stored Credentials and Allow Arbitrary SPL Searches",
-            "link": "https://www.itsecuritynews.info/splunk-enterprise-flaws-expose-stored-credentials-and-allow-arbitrary-spl-searches/"
+            "link": "https://gbhackers.com/splunk-enterprise-flaws-expose-stored-credentials/"
+        },
+        {
+            "title": "Splunk Enterprise Flaws Enable Credential Theft, Path Traversal, and SPL Abuse",
+            "link": "https://cyberpress.org/splunk-enterprise-flaws/"
         }
     ],
     "CVE-2026-46817": [
         {
             "title": "CISA Warns of Oracle E-Business Suite Vulnerability Actively Exploited in Attacks",
             "link": "https://www.itsecuritynews.info/cisa-warns-of-oracle-e-business-suite-vulnerability-actively-exploited-in-attacks/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Oracle E-Business Suite Flaw",
+            "link": "https://gbhackers.com/cisa-warns-of-actively-exploited-oracle-e-business-suite-flaw/"
+        },
+        {
+            "title": "CISA Adds Actively Exploited Oracle E-Business Suite Takeover Flaw to KEV",
+            "link": "https://cyberpress.org/cisa-oracle-e-business-suite-takeover-flaw/"
+        }
+    ],
+    "CVE-2026-59793": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59794": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59791": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59792": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59795": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59796": [
+        {
+            "title": "JetBrains Patched 6 Vulnerabilities Across TeamCity, YouTrack and IntelliJ IDEA",
+            "link": "https://cybersecuritynews.com/jetbrains-patched-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "Critical SonicWall SSRF Zero-Day Opens WebSocket Tunnel to Internal Services",
+            "link": "https://cyberpress.org/critical-sonicwall-ssrf-zero-day/"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "Critical SonicWall SSRF Zero-Day Opens WebSocket Tunnel to Internal Services",
+            "link": "https://cyberpress.org/critical-sonicwall-ssrf-zero-day/"
         }
     ]
 }
