@@ -170,5 +170,29 @@
             "title": "Hackers Actively Exploiting SonicWall SMA1000 0-Day Vulnerability in the Wild",
             "link": "https://www.itsecuritynews.info/hackers-actively-exploiting-sonicwall-sma1000-0-day-vulnerability-in-the-wild/"
         }
+    ],
+    "CVE-2026-15682": [
+        {
+            "title": "AnyDesk 0-Day Vulnerability Lets Attackers Trigger Denial-of-Service",
+            "link": "https://www.itsecuritynews.info/anydesk-0-day-vulnerability-lets-attackers-trigger-denial-of-service/"
+        }
+    ],
+    "CVE-2026-58644": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-58644",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-58644"
+        }
+    ],
+    "CVE-2026-25089": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-25089",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-25089"
+        }
+    ],
+    "CVE-2026-39808": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-39808",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-39808"
+        }
     ]
 }
