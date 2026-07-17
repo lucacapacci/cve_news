@@ -84,5 +84,17 @@
             "title": "CISA Warns of Two Fortinet FortiSandbox Flaws Exploited to Execute Commands",
             "link": "https://cyberpress.org/cisa-fortinet-fortisandbox-flaws-exploited/"
         }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "PSA: WordPress Core Patched Unauthenticated Remote Code Execution Vulnerability Chain",
+            "link": "https://www.itsecuritynews.info/psa-wordpress-core-patched-unauthenticated-remote-code-execution-vulnerability-chain/"
+        }
+    ],
+    "CVE-2026-63030": [
+        {
+            "title": "PSA: WordPress Core Patched Unauthenticated Remote Code Execution Vulnerability Chain",
+            "link": "https://www.itsecuritynews.info/psa-wordpress-core-patched-unauthenticated-remote-code-execution-vulnerability-chain/"
+        }
     ]
 }
