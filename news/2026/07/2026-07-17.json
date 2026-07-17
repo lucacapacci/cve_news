@@ -14,5 +14,23 @@
             "title": "AnyDesk Zero-Day Flaw Allows Local Attackers to Trigger System-Wide Denial-of-Service",
             "link": "https://gbhackers.com/anydesk-zero-day-flaw/"
         }
+    ],
+    "CVE-2026-58644": [
+        {
+            "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+            "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
+        }
+    ],
+    "CVE-2026-25089": [
+        {
+            "title": "CISA Warns of Fortinet FortiSandbox OS Injection Vulnerabilities Exploited in Attacks",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-fortinet-fortisandbox-os-injection-vulnerabilities-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-39808": [
+        {
+            "title": "CISA Warns of Fortinet FortiSandbox OS Injection Vulnerabilities Exploited in Attacks",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-fortinet-fortisandbox-os-injection-vulnerabilities-exploited-in-attacks/"
+        }
     ]
 }
