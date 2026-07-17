@@ -13,24 +13,76 @@
         {
             "title": "AnyDesk Zero-Day Flaw Allows Local Attackers to Trigger System-Wide Denial-of-Service",
             "link": "https://gbhackers.com/anydesk-zero-day-flaw/"
+        },
+        {
+            "title": "AnyDesk Zero-Day Flaw Lets Low-Privileged Attackers Trigger Denial-of-Service",
+            "link": "https://cyberpress.org/anydesk-zero-day-flaw/"
         }
     ],
     "CVE-2026-58644": [
         {
             "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
             "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html"
+        },
+        {
+            "title": "CISA Warns of Microsoft SharePoint Code Execution Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-sharepoint-code-execution-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-9770": [
+        {
+            "title": "Multiple TP-Link Cameras Vulnerability Allows Hackers to Launch MitM Attacks",
+            "link": "https://cybersecuritynews.com/tp-link-cameras-vulnerability/"
+        },
+        {
+            "title": "TP-Link Kasa Camera Flaws Let Attackers Steal Admin Credentials and Geolocation Data",
+            "link": "https://gbhackers.com/tp-link-kasa-camera-flaws/"
+        },
+        {
+            "title": "TP-Link Kasa Camera Flaws Let Attackers Steal Admin Credentials and Location Data",
+            "link": "https://cyberpress.org/tp-link-kasa-camera-flaws/"
+        }
+    ],
+    "CVE-2026-13230": [
+        {
+            "title": "Multiple TP-Link Cameras Vulnerability Allows Hackers to Launch MitM Attacks",
+            "link": "https://cybersecuritynews.com/tp-link-cameras-vulnerability/"
+        },
+        {
+            "title": "TP-Link Kasa Camera Flaws Let Attackers Steal Admin Credentials and Geolocation Data",
+            "link": "https://gbhackers.com/tp-link-kasa-camera-flaws/"
+        },
+        {
+            "title": "TP-Link Kasa Camera Flaws Let Attackers Steal Admin Credentials and Location Data",
+            "link": "https://cyberpress.org/tp-link-kasa-camera-flaws/"
         }
     ],
     "CVE-2026-25089": [
         {
             "title": "CISA Warns of Fortinet FortiSandbox OS Injection Vulnerabilities Exploited in Attacks",
-            "link": "https://www.itsecuritynews.info/cisa-warns-of-fortinet-fortisandbox-os-injection-vulnerabilities-exploited-in-attacks/"
+            "link": "https://cybersecuritynews.com/fortisandbox-vulnerabilities-exploited/"
+        },
+        {
+            "title": "CISA Warns of Two Fortinet FortiSandbox Flaws Exploited to Execute Commands",
+            "link": "https://gbhackers.com/cisa-warns-of-two-fortinet-fortisandbox-flaws/"
+        },
+        {
+            "title": "CISA Warns of Two Fortinet FortiSandbox Flaws Exploited to Execute Commands",
+            "link": "https://cyberpress.org/cisa-fortinet-fortisandbox-flaws-exploited/"
         }
     ],
     "CVE-2026-39808": [
         {
             "title": "CISA Warns of Fortinet FortiSandbox OS Injection Vulnerabilities Exploited in Attacks",
-            "link": "https://www.itsecuritynews.info/cisa-warns-of-fortinet-fortisandbox-os-injection-vulnerabilities-exploited-in-attacks/"
+            "link": "https://cybersecuritynews.com/fortisandbox-vulnerabilities-exploited/"
+        },
+        {
+            "title": "CISA Warns of Two Fortinet FortiSandbox Flaws Exploited to Execute Commands",
+            "link": "https://gbhackers.com/cisa-warns-of-two-fortinet-fortisandbox-flaws/"
+        },
+        {
+            "title": "CISA Warns of Two Fortinet FortiSandbox Flaws Exploited to Execute Commands",
+            "link": "https://cyberpress.org/cisa-fortinet-fortisandbox-flaws-exploited/"
         }
     ]
 }
