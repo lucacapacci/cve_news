@@ -1,0 +1,18 @@
+{
+    "CVE-2026-14266": [
+        {
+            "title": "7-Zip Vulnerability Exposes Millions of Users to Remote Code Execution Risk",
+            "link": "https://cybersecuritynews.com/7-zip-vulnerability-code-execution/"
+        },
+        {
+            "title": "7-Zip Vulnerability Lets Attackers Trigger Heap Buffer Overflow Using Malicious Files",
+            "link": "https://gbhackers.com/7-zip-vulnerability-lets-attackers-trigger-heap-buffer-overflow/"
+        }
+    ],
+    "CVE-2026-15682": [
+        {
+            "title": "AnyDesk Zero-Day Flaw Allows Local Attackers to Trigger System-Wide Denial-of-Service",
+            "link": "https://gbhackers.com/anydesk-zero-day-flaw/"
+        }
+    ]
+}
