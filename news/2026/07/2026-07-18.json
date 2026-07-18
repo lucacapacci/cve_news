@@ -11,6 +11,10 @@
         {
             "title": "WP2Shell: Why Millions of WordPress Sites Are at Risk | CVE-2026-63030",
             "link": "https://www.itsecuritynews.info/wp2shell-why-millions-of-wordpress-sites-are-at-risk-cve-2026-63030/"
+        },
+        {
+            "title": "wp2shell \u2013 Code Trace Deep Dive",
+            "link": "https://www.itsecuritynews.info/wp2shell-code-trace-deep-dive/"
         }
     ],
     "CVE-2026-60137": [
@@ -21,6 +25,10 @@
         {
             "title": "Critical WordPress wp2shell Flaw Lets Anonymous Attackers Execute Remote Code",
             "link": "https://cyberpress.org/critical-wordpress-wp2shell-flaw/"
+        },
+        {
+            "title": "wp2shell \u2013 Code Trace Deep Dive",
+            "link": "https://www.itsecuritynews.info/wp2shell-code-trace-deep-dive/"
         }
     ],
     "CVE-2026-53565": [
