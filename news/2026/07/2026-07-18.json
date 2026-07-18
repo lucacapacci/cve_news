@@ -15,6 +15,10 @@
         {
             "title": "wp2shell \u2013 Code Trace Deep Dive",
             "link": "https://www.itsecuritynews.info/wp2shell-code-trace-deep-dive/"
+        },
+        {
+            "title": "Two new high severity WordPress vulnerabilities, patch immediately!",
+            "link": "https://www.helpnetsecurity.com/2026/07/18/wordpress-vulnerabilities-wp2shell-cve-2026-60137-cve-2026-60137/"
         }
     ],
     "CVE-2026-60137": [
