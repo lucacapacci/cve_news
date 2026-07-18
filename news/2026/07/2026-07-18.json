@@ -10,5 +10,11 @@
             "title": "New wp2shell RCE Vulnerability Hits Millions of WordPress Sites, Emergency Patch Released",
             "link": "https://cybersecuritynews.com/wp2shell-rce-vulnerability/"
         }
+    ],
+    "CVE-2026-53565": [
+        {
+            "title": "Citrix Secure Access Client Flaw Lets Low-Privileged Windows Users Gain SYSTEM Privileges",
+            "link": "https://www.itsecuritynews.info/citrix-secure-access-client-flaw-lets-low-privileged-windows-users-gain-system-privileges/"
+        }
     ]
 }
