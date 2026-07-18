@@ -3,18 +3,48 @@
         {
             "title": "New wp2shell RCE Vulnerability Hits Millions of WordPress Sites, Emergency Patch Released",
             "link": "https://cybersecuritynews.com/wp2shell-rce-vulnerability/"
+        },
+        {
+            "title": "Critical WordPress wp2shell Flaw Lets Anonymous Attackers Execute Remote Code",
+            "link": "https://cyberpress.org/critical-wordpress-wp2shell-flaw/"
+        },
+        {
+            "title": "WP2Shell: Why Millions of WordPress Sites Are at Risk | CVE-2026-63030",
+            "link": "https://www.itsecuritynews.info/wp2shell-why-millions-of-wordpress-sites-are-at-risk-cve-2026-63030/"
         }
     ],
     "CVE-2026-60137": [
         {
             "title": "New wp2shell RCE Vulnerability Hits Millions of WordPress Sites, Emergency Patch Released",
             "link": "https://cybersecuritynews.com/wp2shell-rce-vulnerability/"
+        },
+        {
+            "title": "Critical WordPress wp2shell Flaw Lets Anonymous Attackers Execute Remote Code",
+            "link": "https://cyberpress.org/critical-wordpress-wp2shell-flaw/"
         }
     ],
     "CVE-2026-53565": [
         {
+            "title": "Citrix Secure Access and Endpoint Client for Windows Vulnerability Enables Privilege Escalation",
+            "link": "https://cybersecuritynews.com/citrix-secure-access-and-endpoint-vulnerability/"
+        },
+        {
             "title": "Citrix Secure Access Client Flaw Lets Low-Privileged Windows Users Gain SYSTEM Privileges",
-            "link": "https://www.itsecuritynews.info/citrix-secure-access-client-flaw-lets-low-privileged-windows-users-gain-system-privileges/"
+            "link": "https://gbhackers.com/citrix-secure-access-client-flaw/"
+        },
+        {
+            "title": "Citrix Secure Access Client Flaw Lets Low-Privileged Users Gain SYSTEM Privileges",
+            "link": "https://cyberpress.org/citrix-secure-access-client-flaw/"
+        }
+    ],
+    "CVE-2026-53566": [
+        {
+            "title": "Citrix Secure Access and Endpoint Client for Windows Vulnerability Enables Privilege Escalation",
+            "link": "https://cybersecuritynews.com/citrix-secure-access-and-endpoint-vulnerability/"
+        },
+        {
+            "title": "Citrix Secure Access Client Flaw Lets Low-Privileged Users Gain SYSTEM Privileges",
+            "link": "https://cyberpress.org/citrix-secure-access-client-flaw/"
         }
     ]
 }
