@@ -1,0 +1,14 @@
+{
+    "CVE-2026-63030": [
+        {
+            "title": "New wp2shell RCE Vulnerability Hits Millions of WordPress Sites, Emergency Patch Released",
+            "link": "https://cybersecuritynews.com/wp2shell-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "New wp2shell RCE Vulnerability Hits Millions of WordPress Sites, Emergency Patch Released",
+            "link": "https://cybersecuritynews.com/wp2shell-rce-vulnerability/"
+        }
+    ]
+}
