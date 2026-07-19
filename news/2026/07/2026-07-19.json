@@ -3,6 +3,16 @@
         {
             "title": "Imperva Customers Protected Against \u201cwp2shell\u201d Pre-Authentication RCE in WordPress Core",
             "link": "https://www.itsecuritynews.info/imperva-customers-protected-against-wp2shell-pre-authentication-rce-in-wordpress-core/"
+        },
+        {
+            "title": "Attackers Can Take Over WordPress Sites Using Newly Released wp2shell Exploits",
+            "link": "https://www.itsecuritynews.info/attackers-can-take-over-wordpress-sites-using-newly-released-wp2shell-exploits/"
+        }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "Attackers Can Take Over WordPress Sites Using Newly Released wp2shell Exploits",
+            "link": "https://www.itsecuritynews.info/attackers-can-take-over-wordpress-sites-using-newly-released-wp2shell-exploits/"
         }
     ]
 }
