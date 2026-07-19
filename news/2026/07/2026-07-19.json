@@ -7,12 +7,32 @@
         {
             "title": "Attackers Can Take Over WordPress Sites Using Newly Released wp2shell Exploits",
             "link": "https://www.itsecuritynews.info/attackers-can-take-over-wordpress-sites-using-newly-released-wp2shell-exploits/"
+        },
+        {
+            "title": "Weekly Cyber Security Newsletter Bulletin \u2013 EY Breach, Wpzshell Exploit, Notepad++ Flaws +20 Stories",
+            "link": "https://cybersecuritynews.com/weekly-cyber-security-newsletter-bulletin/"
         }
     ],
     "CVE-2026-60137": [
         {
             "title": "Attackers Can Take Over WordPress Sites Using Newly Released wp2shell Exploits",
             "link": "https://www.itsecuritynews.info/attackers-can-take-over-wordpress-sites-using-newly-released-wp2shell-exploits/"
+        },
+        {
+            "title": "Weekly Cyber Security Newsletter Bulletin \u2013 EY Breach, Wpzshell Exploit, Notepad++ Flaws +20 Stories",
+            "link": "https://cybersecuritynews.com/weekly-cyber-security-newsletter-bulletin/"
+        }
+    ],
+    "CVE-2026-56155": [
+        {
+            "title": "Weekly Cyber Security Newsletter Bulletin \u2013 EY Breach, Wpzshell Exploit, Notepad++ Flaws +20 Stories",
+            "link": "https://cybersecuritynews.com/weekly-cyber-security-newsletter-bulletin/"
+        }
+    ],
+    "CVE-2026-56164": [
+        {
+            "title": "Weekly Cyber Security Newsletter Bulletin \u2013 EY Breach, Wpzshell Exploit, Notepad++ Flaws +20 Stories",
+            "link": "https://cybersecuritynews.com/weekly-cyber-security-newsletter-bulletin/"
         }
     ]
 }
