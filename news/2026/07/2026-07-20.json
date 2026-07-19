@@ -1,0 +1,8 @@
+{
+    "CVE-2026-42533": [
+        {
+            "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+            "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html"
+        }
+    ]
+}
