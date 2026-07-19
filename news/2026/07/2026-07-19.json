@@ -1,0 +1,8 @@
+{
+    "CVE-2026-63030": [
+        {
+            "title": "Imperva Customers Protected Against \u201cwp2shell\u201d Pre-Authentication RCE in WordPress Core",
+            "link": "https://www.itsecuritynews.info/imperva-customers-protected-against-wp2shell-pre-authentication-rce-in-wordpress-core/"
+        }
+    ]
+}
