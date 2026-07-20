@@ -29,6 +29,10 @@
         {
             "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
             "link": "https://www.itsecuritynews.info/wordpress-exploitation-underway-cve-2026-63030-mon-jul-20th/"
+        },
+        {
+            "title": "CVE-2026-63030 and CVE-2026-60137: Mitigating a Critical Unauthenticated RCE Chain in WordPress",
+            "link": "https://www.itsecuritynews.info/cve-2026-63030-and-cve-2026-60137-mitigating-a-critical-unauthenticated-rce-chain-in-wordpress/"
         }
     ],
     "CVE-2026-60137": [
@@ -43,6 +47,10 @@
         {
             "title": "Critical wp2shell RCE Vulnerability \u2013 Complete Coverage Including PoC and Active Exploitation Details",
             "link": "https://cybersecuritynews.com/critical-wp2shell-rce-vulnerability/"
+        },
+        {
+            "title": "CVE-2026-63030 and CVE-2026-60137: Mitigating a Critical Unauthenticated RCE Chain in WordPress",
+            "link": "https://www.itsecuritynews.info/cve-2026-63030-and-cve-2026-60137-mitigating-a-critical-unauthenticated-rce-chain-in-wordpress/"
         }
     ],
     "CVE-2026-11405": [
