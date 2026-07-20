@@ -4,5 +4,29 @@
             "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
             "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html"
         }
+    ],
+    "CVE-2026-63030": [
+        {
+            "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
+            "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/"
+        }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
+            "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/"
+        }
+    ],
+    "CVE-2026-11405": [
+        {
+            "title": "Unpatched Backdoor Identified in Firmware of Multiple Wi-Fi Routers",
+            "link": "https://www.itsecuritynews.info/unpatched-backdoor-identified-in-firmware-of-multiple-wi-fi-routers/"
+        }
+    ],
+    "CVE-2026-52824": [
+        {
+            "title": "Kimai Docker Vulnerability Exposes Default APP_SECRET, Enabling Account Takeover",
+            "link": "https://www.itsecuritynews.info/kimai-docker-vulnerability-exposes-default-app_secret-enabling-account-takeover/"
+        }
     ]
 }
