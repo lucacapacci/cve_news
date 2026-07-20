@@ -33,6 +33,10 @@
         {
             "title": "CVE-2026-63030 and CVE-2026-60137: Mitigating a Critical Unauthenticated RCE Chain in WordPress",
             "link": "https://www.itsecuritynews.info/cve-2026-63030-and-cve-2026-60137-mitigating-a-critical-unauthenticated-rce-chain-in-wordpress/"
+        },
+        {
+            "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
+            "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover"
         }
     ],
     "CVE-2026-60137": [
@@ -51,6 +55,10 @@
         {
             "title": "CVE-2026-63030 and CVE-2026-60137: Mitigating a Critical Unauthenticated RCE Chain in WordPress",
             "link": "https://www.itsecuritynews.info/cve-2026-63030-and-cve-2026-60137-mitigating-a-critical-unauthenticated-rce-chain-in-wordpress/"
+        },
+        {
+            "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
+            "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover"
         }
     ],
     "CVE-2026-11405": [
