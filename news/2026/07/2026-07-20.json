@@ -17,12 +17,28 @@
         {
             "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
             "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/"
+        },
+        {
+            "title": "wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about remote code execution chain in WordPress Core",
+            "link": "https://www.tenable.com/blog/wp2shell-cve-2026-63030-cve-2026-60137-frequently-asked-questions-about-remote-code-execution"
+        },
+        {
+            "title": "Critical wp2shell RCE Vulnerability \u2013 Complete Coverage Including PoC and Active Exploitation Details",
+            "link": "https://cybersecuritynews.com/critical-wp2shell-rce-vulnerability/"
         }
     ],
     "CVE-2026-60137": [
         {
             "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
             "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/"
+        },
+        {
+            "title": "wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about remote code execution chain in WordPress Core",
+            "link": "https://www.tenable.com/blog/wp2shell-cve-2026-63030-cve-2026-60137-frequently-asked-questions-about-remote-code-execution"
+        },
+        {
+            "title": "Critical wp2shell RCE Vulnerability \u2013 Complete Coverage Including PoC and Active Exploitation Details",
+            "link": "https://cybersecuritynews.com/critical-wp2shell-rce-vulnerability/"
         }
     ],
     "CVE-2026-11405": [
@@ -107,6 +123,10 @@
         {
             "title": "Critical ServiceNow code execution flaw now exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/"
+        },
+        {
+            "title": "ServiceNow pre-auth RCE exploited in the wild (CVE-2026-6875)",
+            "link": "https://www.helpnetsecurity.com/2026/07/20/servicenow-cve-2026-6875-exploited/"
         }
     ],
     "CVE-2026-9256": [
@@ -131,6 +151,42 @@
         {
             "title": "15-Year-Old NGINX Vulnerability Lets Attackers Crash Workers and Achieve Remote Code Execution",
             "link": "https://cybersecuritynews.com/15-year-old-nginx-vulnerability/"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
+            "link": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
+            "link": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/"
+        }
+    ],
+    "CVE-2020-11738": [
+        {
+            "title": "wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about remote code execution chain in WordPress Core",
+            "link": "https://www.tenable.com/blog/wp2shell-cve-2026-63030-cve-2026-60137-frequently-asked-questions-about-remote-code-execution"
+        }
+    ],
+    "CVE-2020-25213": [
+        {
+            "title": "wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about remote code execution chain in WordPress Core",
+            "link": "https://www.tenable.com/blog/wp2shell-cve-2026-63030-cve-2026-60137-frequently-asked-questions-about-remote-code-execution"
+        }
+    ],
+    "CVE-2026-41940": [
+        {
+            "title": "wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about remote code execution chain in WordPress Core",
+            "link": "https://www.tenable.com/blog/wp2shell-cve-2026-63030-cve-2026-60137-frequently-asked-questions-about-remote-code-execution"
+        }
+    ],
+    "CVE-2019-9978": [
+        {
+            "title": "wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about remote code execution chain in WordPress Core",
+            "link": "https://www.tenable.com/blog/wp2shell-cve-2026-63030-cve-2026-60137-frequently-asked-questions-about-remote-code-execution"
         }
     ]
 }
