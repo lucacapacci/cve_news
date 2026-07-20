@@ -45,6 +45,10 @@
         {
             "title": "Critical Kimai Docker Flaw Lets Hackers Forge Cookies and Hijack Admin Accounts",
             "link": "https://cyberpress.org/critical-kimai-docker-flaw/"
+        },
+        {
+            "title": "Kimai Docker Flaw Lets Unauthenticated Attackers Forge Cookies and Take Over Accounts",
+            "link": "https://cybersecuritynews.com/kimai-docker-flaw/"
         }
     ],
     "CVE-2026-45659": [
@@ -99,6 +103,10 @@
         {
             "title": "Public PoC released for Critical ServiceNow Sandbox RCE Vulnerability",
             "link": "https://cybersecuritynews.com/poc-for-servicenow-sandbox-rce-vulnerability/"
+        },
+        {
+            "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/"
         }
     ],
     "CVE-2026-9256": [
