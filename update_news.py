@@ -56,8 +56,11 @@ def save_cve_entry(date_str, cve_id, title, link):
         if any(summary in title.lower() for summary in summaries):
             return
     # cybersecuritynews.com
-    if "cybersecuritynews.com" in link and "news-bulletin-weekly" in link:
-        return
+    if "cybersecuritynews.com" in link:
+        summary_links = ["news-bulletin-weekly", "newsletter-bulletin"]
+        for summary_link in summary_links:
+            if summary_link in link:
+                return
 
     # Load existing CVE data early so we can check it regardless of the incoming source
     try:
