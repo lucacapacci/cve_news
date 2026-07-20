@@ -25,6 +25,10 @@
         {
             "title": "Critical wp2shell RCE Vulnerability \u2013 Complete Coverage Including PoC and Active Exploitation Details",
             "link": "https://cybersecuritynews.com/critical-wp2shell-rce-vulnerability/"
+        },
+        {
+            "title": "WordPress Exploitation Underway (CVE-2026-63030), (Mon, Jul 20th)",
+            "link": "https://www.itsecuritynews.info/wordpress-exploitation-underway-cve-2026-63030-mon-jul-20th/"
         }
     ],
     "CVE-2026-60137": [
