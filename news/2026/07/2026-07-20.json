@@ -3,6 +3,10 @@
         {
             "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
             "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html"
+        },
+        {
+            "title": "CVE-2026-42533: Critical NGINX Bug Could Turn HTTP Requests Into Server Takeovers",
+            "link": "https://www.itsecuritynews.info/cve-2026-42533-critical-nginx-bug-could-turn-http-requests-into-server-takeovers/"
         }
     ],
     "CVE-2026-63030": [
@@ -23,10 +27,56 @@
             "link": "https://www.itsecuritynews.info/unpatched-backdoor-identified-in-firmware-of-multiple-wi-fi-routers/"
         }
     ],
+    "CVE-2026-14266": [
+        {
+            "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+            "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html"
+        }
+    ],
     "CVE-2026-52824": [
         {
             "title": "Kimai Docker Vulnerability Exposes Default APP_SECRET, Enabling Account Takeover",
-            "link": "https://www.itsecuritynews.info/kimai-docker-vulnerability-exposes-default-app_secret-enabling-account-takeover/"
+            "link": "https://gbhackers.com/kimai-docker-vulnerability-exposes-default-app_secret/"
+        },
+        {
+            "title": "Critical Kimai Docker Flaw Lets Hackers Forge Cookies and Hijack Admin Accounts",
+            "link": "https://cyberpress.org/critical-kimai-docker-flaw/"
+        }
+    ],
+    "CVE-2026-45659": [
+        {
+            "title": "Actively Exploited SharePoint Flaws Let Hackers Deploy Web Shells and Steal IIS Machine Keys",
+            "link": "https://cyberpress.org/sharepoint-flaws-enable-webshell-attacks/"
+        }
+    ],
+    "CVE-2026-50522": [
+        {
+            "title": "Actively Exploited SharePoint Flaws Let Hackers Deploy Web Shells and Steal IIS Machine Keys",
+            "link": "https://cyberpress.org/sharepoint-flaws-enable-webshell-attacks/"
+        }
+    ],
+    "CVE-2026-56164": [
+        {
+            "title": "Actively Exploited SharePoint Flaws Let Hackers Deploy Web Shells and Steal IIS Machine Keys",
+            "link": "https://cyberpress.org/sharepoint-flaws-enable-webshell-attacks/"
+        }
+    ],
+    "CVE-2026-32201": [
+        {
+            "title": "Actively Exploited SharePoint Flaws Let Hackers Deploy Web Shells and Steal IIS Machine Keys",
+            "link": "https://cyberpress.org/sharepoint-flaws-enable-webshell-attacks/"
+        }
+    ],
+    "CVE-2026-58644": [
+        {
+            "title": "Actively Exploited SharePoint Flaws Let Hackers Deploy Web Shells and Steal IIS Machine Keys",
+            "link": "https://cyberpress.org/sharepoint-flaws-enable-webshell-attacks/"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "Actively Exploited SharePoint Flaws Let Hackers Deploy Web Shells and Steal IIS Machine Keys",
+            "link": "https://cyberpress.org/sharepoint-flaws-enable-webshell-attacks/"
         }
     ]
 }

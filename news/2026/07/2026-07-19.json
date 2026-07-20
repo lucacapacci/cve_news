@@ -34,5 +34,11 @@
             "title": "Weekly Cyber Security Newsletter Bulletin \u2013 EY Breach, Wpzshell Exploit, Notepad++ Flaws +20 Stories",
             "link": "https://cybersecuritynews.com/weekly-cyber-security-newsletter-bulletin/"
         }
+    ],
+    "CVE-2026-34268": [
+        {
+            "title": "Java\u2019s Near-Death Moment: How a Three-Day Thread Rewrite Saved the Language on Stage",
+            "link": "https://www.webpronews.com/javas-near-death-moment-how-a-three-day-thread-rewrite-saved-the-language-on-stage/"
+        }
     ]
 }
