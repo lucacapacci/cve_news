@@ -260,5 +260,17 @@
             "title": "CISA KEV Addition: CVE-2021-27137",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-27137"
         }
+    ],
+    "CVE-2026-50297": [
+        {
+            "title": "ZDI-26-446: Microsoft Windows WMI Providers Incorrect Authorization Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-446/"
+        }
+    ],
+    "CVE-2026-50325": [
+        {
+            "title": "ZDI-26-445: Microsoft Windows WMI Providers Incorrect Authorization Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-445/"
+        }
     ]
 }
