@@ -227,6 +227,10 @@
         {
             "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
             "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/"
+        },
+        {
+            "title": "Public PoC triggers active exploitation of critical SharePoint RCE vulnerability CVE-2026-50522",
+            "link": "https://www.itsecuritynews.info/public-poc-triggers-active-exploitation-of-critical-sharepoint-rce-vulnerability-cve-2026-50522/"
         }
     ],
     "CVE-2026-58644": [
