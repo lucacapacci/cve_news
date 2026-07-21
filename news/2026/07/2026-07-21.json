@@ -1,0 +1,12 @@
+{
+    "CVE-2026-0257": [
+        {
+            "title": "Hackers Exploiting Palo Alto\u2019s PAN-OS Vulnerability to Deploy Qilin Ransomware",
+            "link": "https://cybersecuritynews.com/cve-2026-0257-qilin-ransomware/"
+        },
+        {
+            "title": "Hackers Exploit Palo Alto PAN-OS Flaw to Deploy Qilin Ransomware",
+            "link": "https://gbhackers.com/palo-alto-pan-os-flaw-to-deploy-qilin-ransomware/"
+        }
+    ]
+}
