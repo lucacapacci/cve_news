@@ -28,7 +28,7 @@
         },
         {
             "title": "Hackers Exploit ServiceNow AI Platform Flaw to Gain Unauthenticated Remote Code Execution",
-            "link": "https://www.itsecuritynews.info/hackers-exploit-servicenow-ai-platform-flaw-to-gain-unauthenticated-remote-code-execution/"
+            "link": "https://gbhackers.com/hackers-exploit-servicenow-ai-platform-flaw-to-gain-unauthenticated-remote-code-execution/"
         }
     ],
     "CVE-2026-58443": [
@@ -42,7 +42,7 @@
         },
         {
             "title": "Critical Gitea Vulnerability Enables Private Repository Writes and Actions Workflow Triggers",
-            "link": "https://www.itsecuritynews.info/critical-gitea-vulnerability-enables-private-repository-writes-and-actions-workflow-triggers/"
+            "link": "https://cybersecuritynews.com/gitea-vulnerability/"
         }
     ],
     "CVE-2026-63030": [
@@ -61,24 +61,40 @@
         {
             "title": "SonicWall SMA zero-days were exploited weeks before disclosure",
             "link": "https://www.helpnetsecurity.com/2026/07/21/sonicwall-sma-zero-days-exploited-cve-2026-15409-cve-2026-15410/"
+        },
+        {
+            "title": "SonicWall 0-day Vulnerabilities Exploited in the Wild to Deploy Custom Malware",
+            "link": "https://cybersecuritynews.com/sonicwall-0-day-vulnerabilities-exploited/"
         }
     ],
     "CVE-2026-15410": [
         {
             "title": "SonicWall SMA zero-days were exploited weeks before disclosure",
             "link": "https://www.helpnetsecurity.com/2026/07/21/sonicwall-sma-zero-days-exploited-cve-2026-15409-cve-2026-15410/"
+        },
+        {
+            "title": "SonicWall 0-day Vulnerabilities Exploited in the Wild to Deploy Custom Malware",
+            "link": "https://cybersecuritynews.com/sonicwall-0-day-vulnerabilities-exploited/"
         }
     ],
     "CVE-2025-3248": [
         {
             "title": "Agentic Hacker Exploits Langflow RCE to Encrypt AI and Machine-Learning Infrastructure",
             "link": "https://cyberpress.org/agentic-hacker-encrypts-ai-infrastructure/"
+        },
+        {
+            "title": "Agentic JADEPUFFER Exploits Langflow Flaw to Deploy ENCFORGE AI Ransomware",
+            "link": "https://cybersecuritynews.com/agentic-jadepuffer-langflow-flaw/"
         }
     ],
     "CVE-2026-64187": [
         {
             "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
             "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        },
+        {
+            "title": "Linux Patches 400+ Kernel Vulnerabilities in 24 Hours With AI-Powered Detection",
+            "link": "https://cybersecuritynews.com/linux-patches-400-kernel-vulnerabilities/"
         }
     ],
     "CVE-2026-64207": [
@@ -103,6 +119,10 @@
         {
             "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
             "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        },
+        {
+            "title": "Linux Patches 400+ Kernel Vulnerabilities in 24 Hours With AI-Powered Detection",
+            "link": "https://cybersecuritynews.com/linux-patches-400-kernel-vulnerabilities/"
         }
     ],
     "CVE-2026-64189": [
@@ -121,6 +141,10 @@
         {
             "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
             "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        },
+        {
+            "title": "Linux Patches 400+ Kernel Vulnerabilities in 24 Hours With AI-Powered Detection",
+            "link": "https://cybersecuritynews.com/linux-patches-400-kernel-vulnerabilities/"
         }
     ],
     "CVE-2026-64074": [
@@ -133,6 +157,10 @@
         {
             "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
             "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        },
+        {
+            "title": "Linux Patches 400+ Kernel Vulnerabilities in 24 Hours With AI-Powered Detection",
+            "link": "https://cybersecuritynews.com/linux-patches-400-kernel-vulnerabilities/"
         }
     ],
     "CVE-2026-64190": [
@@ -145,6 +173,18 @@
         {
             "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
             "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-33053": [
+        {
+            "title": "One Security Alert Exposed a GenAI-Powered Malware Factory Containing More Than 1,000 Attack Files",
+            "link": "https://cybersecuritynews.com/one-security-alert-exposed-a-genai-powered-malware-factory/"
+        }
+    ],
+    "CVE-2026-64122": [
+        {
+            "title": "Linux Patches 400+ Kernel Vulnerabilities in 24 Hours With AI-Powered Detection",
+            "link": "https://cybersecuritynews.com/linux-patches-400-kernel-vulnerabilities/"
         }
     ]
 }
