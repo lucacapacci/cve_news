@@ -208,5 +208,11 @@
             "title": "wp2shell (CVE-2026-63030, CVE-2026-60137): Frequently asked questions about remote code execution chain in WordPress Core",
             "link": "https://www.tenable.com/blog/wp2shell-cve-2026-63030-cve-2026-60137-frequently-asked-questions-about-remote-code-execution"
         }
+    ],
+    "CVE-2025-32711": [
+        {
+            "title": "AI Agents Meet External APIs: How Connectors Quietly Explode Enterprise Attack Surfaces",
+            "link": "https://www.webpronews.com/ai-agents-meet-external-apis-how-connectors-quietly-explode-enterprise-attack-surfaces/"
+        }
     ]
 }

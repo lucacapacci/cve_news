@@ -17,12 +17,134 @@
         {
             "title": "Attackers Exploit Critical ServiceNow RCE Flaw CVE-2026-6875",
             "link": "https://www.itsecuritynews.info/attackers-exploit-critical-servicenow-rce-flaw-cve-2026-6875/"
+        },
+        {
+            "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
+            "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/"
+        },
+        {
+            "title": "Hackers Exploit ServiceNow Sandbox Escape Flaw for Pre-Auth Remote Code Execution",
+            "link": "https://cyberpress.org/hackers-exploit-servicenow-sandbox-escape-flaw/"
+        },
+        {
+            "title": "Hackers Exploit ServiceNow AI Platform Flaw to Gain Unauthenticated Remote Code Execution",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-servicenow-ai-platform-flaw-to-gain-unauthenticated-remote-code-execution/"
         }
     ],
     "CVE-2026-58443": [
         {
             "title": "Critical Gitea Flaw Lets Public-Only Tokens Write to Private Repositories and Trigger Actions Workflows",
             "link": "https://www.itsecuritynews.info/critical-gitea-flaw-lets-public-only-tokens-write-to-private-repositories-and-trigger-actions-workflows/"
+        },
+        {
+            "title": "Critical Gitea Vulnerability Lets Public Repository Tokens Trigger Private Workflows",
+            "link": "https://cyberpress.org/critical-gitea-vulnerability/"
+        },
+        {
+            "title": "Critical Gitea Vulnerability Enables Private Repository Writes and Actions Workflow Triggers",
+            "link": "https://www.itsecuritynews.info/critical-gitea-vulnerability-enables-private-repository-writes-and-actions-workflow-triggers/"
+        }
+    ],
+    "CVE-2026-63030": [
+        {
+            "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+            "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html"
+        }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+            "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "SonicWall SMA zero-days were exploited weeks before disclosure",
+            "link": "https://www.helpnetsecurity.com/2026/07/21/sonicwall-sma-zero-days-exploited-cve-2026-15409-cve-2026-15410/"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "SonicWall SMA zero-days were exploited weeks before disclosure",
+            "link": "https://www.helpnetsecurity.com/2026/07/21/sonicwall-sma-zero-days-exploited-cve-2026-15409-cve-2026-15410/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "Agentic Hacker Exploits Langflow RCE to Encrypt AI and Machine-Learning Infrastructure",
+            "link": "https://cyberpress.org/agentic-hacker-encrypts-ai-infrastructure/"
+        }
+    ],
+    "CVE-2026-64187": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64207": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64191": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64205": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64188": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64189": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64120": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64206": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64074": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64192": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64190": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-53358": [
+        {
+            "title": "New Linux Kernel Vulnerabilities Cause Deadlocks, Livelocks, and NULL Pointer Crashes",
+            "link": "https://cyberpress.org/new-linux-kernel-vulnerabilities/"
         }
     ]
 }
