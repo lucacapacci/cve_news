@@ -11,6 +11,10 @@
         {
             "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
             "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html"
+        },
+        {
+            "title": "Qilin Ransomware Affiliates Abuse CVE-2026-0257 to Gain Unauthorized VPN Access",
+            "link": "https://www.itsecuritynews.info/qilin-ransomware-affiliates-abuse-cve-2026-0257-to-gain-unauthorized-vpn-access/"
         }
     ],
     "CVE-2026-6875": [
@@ -53,12 +57,20 @@
         {
             "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
             "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-63030",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-63030"
         }
     ],
     "CVE-2026-60137": [
         {
             "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
             "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-60137",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-60137"
         }
     ],
     "CVE-2026-15409": [
@@ -195,6 +207,58 @@
         {
             "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
             "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html"
+        },
+        {
+            "title": "Critical SharePoint Remote Code Execution Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/sharepoint-rce-exploited-in-the-wild/"
+        }
+    ],
+    "CVE-2026-58644": [
+        {
+            "title": "Critical SharePoint Remote Code Execution Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/sharepoint-rce-exploited-in-the-wild/"
+        }
+    ],
+    "CVE-2017-8570": [
+        {
+            "title": "Top 10 Malware Used by Hackers Last Week to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/malware-used-by-hackers-last-week/"
+        }
+    ],
+    "CVE-2022-30190": [
+        {
+            "title": "Top 10 Malware Used by Hackers Last Week to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/malware-used-by-hackers-last-week/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Top 10 Malware Used by Hackers Last Week to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/malware-used-by-hackers-last-week/"
+        }
+    ],
+    "CVE-2017-11882": [
+        {
+            "title": "Top 10 Malware Used by Hackers Last Week to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/malware-used-by-hackers-last-week/"
+        }
+    ],
+    "CVE-2017-0199": [
+        {
+            "title": "Top 10 Malware Used by Hackers Last Week to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/malware-used-by-hackers-last-week/"
+        }
+    ],
+    "CVE-2026-0770": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-0770",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-0770"
+        }
+    ],
+    "CVE-2021-27137": [
+        {
+            "title": "CISA KEV Addition: CVE-2021-27137",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-27137"
         }
     ]
 }
