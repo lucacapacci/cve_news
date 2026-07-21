@@ -65,6 +65,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-63030",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-63030"
+        },
+        {
+            "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/"
         }
     ],
     "CVE-2026-60137": [
@@ -75,6 +79,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-60137",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-60137"
+        },
+        {
+            "title": "Critical wp2shell WordPress flaws exploited to install webshells",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/"
         }
     ],
     "CVE-2026-15409": [
@@ -215,6 +223,10 @@
         {
             "title": "Critical SharePoint Remote Code Execution Vulnerability Actively Exploited in the Wild",
             "link": "https://cybersecuritynews.com/sharepoint-rce-exploited-in-the-wild/"
+        },
+        {
+            "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/"
         }
     ],
     "CVE-2026-58644": [
