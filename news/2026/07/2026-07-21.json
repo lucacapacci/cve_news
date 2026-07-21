@@ -7,6 +7,10 @@
         {
             "title": "Hackers Exploit Palo Alto PAN-OS Flaw to Deploy Qilin Ransomware",
             "link": "https://gbhackers.com/palo-alto-pan-os-flaw-to-deploy-qilin-ransomware/"
+        },
+        {
+            "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+            "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html"
         }
     ],
     "CVE-2026-6875": [
@@ -185,6 +189,12 @@
         {
             "title": "Linux Patches 400+ Kernel Vulnerabilities in 24 Hours With AI-Powered Detection",
             "link": "https://cybersecuritynews.com/linux-patches-400-kernel-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-50522": [
+        {
+            "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+            "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html"
         }
     ]
 }
