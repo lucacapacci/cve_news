@@ -8,5 +8,21 @@
             "title": "Hackers Exploit Palo Alto PAN-OS Flaw to Deploy Qilin Ransomware",
             "link": "https://gbhackers.com/palo-alto-pan-os-flaw-to-deploy-qilin-ransomware/"
         }
+    ],
+    "CVE-2026-6875": [
+        {
+            "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+            "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html"
+        },
+        {
+            "title": "Attackers Exploit Critical ServiceNow RCE Flaw CVE-2026-6875",
+            "link": "https://www.itsecuritynews.info/attackers-exploit-critical-servicenow-rce-flaw-cve-2026-6875/"
+        }
+    ],
+    "CVE-2026-58443": [
+        {
+            "title": "Critical Gitea Flaw Lets Public-Only Tokens Write to Private Repositories and Trigger Actions Workflows",
+            "link": "https://www.itsecuritynews.info/critical-gitea-flaw-lets-public-only-tokens-write-to-private-repositories-and-trigger-actions-workflows/"
+        }
     ]
 }
