@@ -219,6 +219,10 @@
         {
             "title": "Adobe Acrobat Extension Flaw Lets Attackers Steal WhatsApp Chats From 329 Million Users",
             "link": "https://cybersecuritynews.com/acrobat-extension-flaw-whatsapp-chats/"
+        },
+        {
+            "title": "Adobe Acrobat Chrome extension bug enabled silent WhatsApp data theft",
+            "link": "https://www.itsecuritynews.info/adobe-acrobat-chrome-extension-bug-enabled-silent-whatsapp-data-theft/"
         }
     ],
     "CVE-2026-64600": [
