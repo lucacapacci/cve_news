@@ -262,5 +262,11 @@
             "title": "Public PoC Released for Windows NT OS Kernel Privilege Escalation Vulnerability",
             "link": "https://cybersecuritynews.com/poc-windows-nt-os-kernel/"
         }
+    ],
+    "CVE-2026-25253": [
+        {
+            "title": "OpenClaw security best practices for CISOs",
+            "link": "https://www.itsecuritynews.info/openclaw-security-best-practices-for-cisos/"
+        }
     ]
 }
