@@ -25,12 +25,20 @@
         {
             "title": "CISA Warns WordPress Core SQL Injection Vulnerability Is Actively Exploited in Attacks",
             "link": "https://gbhackers.com/cisa-warns-wordpress-core-sql-injection-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited WordPress Flaws Enabling Pre-Auth RCE",
+            "link": "https://cyberpress.org/cisa-actively-exploited-wordpress-flaw/"
         }
     ],
     "CVE-2026-63030": [
         {
             "title": "CISA Warns of WordPress Core SQL Injection Vulnerability Actively Exploited in the Wild",
             "link": "https://cybersecuritynews.com/cisa-wordpress-core-sql-injection/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited WordPress Flaws Enabling Pre-Auth RCE",
+            "link": "https://cyberpress.org/cisa-actively-exploited-wordpress-flaw/"
         }
     ],
     "CVE-2026-55200": [
@@ -43,6 +51,10 @@
         {
             "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
             "link": "https://gbhackers.com/critical-asus-router-flaw/"
+        },
+        {
+            "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
+            "link": "https://cyberpress.org/critical-asus-router-flaw-2/"
         }
     ],
     "CVE-2026-50522": [
@@ -161,6 +173,24 @@
         {
             "title": "Security Advisory \u2013 Action Required \u2013 July 2026 Security Update",
             "link": "https://www.itsecuritynews.info/security-advisory-action-required-july-2026-security-update/"
+        }
+    ],
+    "CVE-2026-4295": [
+        {
+            "title": "AWS Kiro IDE Flaw Lets Hidden Web Prompts Execute Code on Developer Machines",
+            "link": "https://cyberpress.org/aws-kiro-ide-flaw/"
+        }
+    ],
+    "CVE-2026-11851": [
+        {
+            "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
+            "link": "https://cyberpress.org/critical-asus-router-flaw-2/"
+        }
+    ],
+    "CVE-2026-12960": [
+        {
+            "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
+            "link": "https://cyberpress.org/critical-asus-router-flaw-2/"
         }
     ]
 }
