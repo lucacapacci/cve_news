@@ -69,6 +69,10 @@
         {
             "title": "Critical wp2shell WordPress flaws exploited to install webshells",
             "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/"
+        },
+        {
+            "title": "WordPress Under Siege: Attackers Chain Core Flaws for Rapid Site Takeovers",
+            "link": "https://www.webpronews.com/wordpress-under-siege-attackers-chain-core-flaws-for-rapid-site-takeovers/"
         }
     ],
     "CVE-2026-60137": [
@@ -83,6 +87,10 @@
         {
             "title": "Critical wp2shell WordPress flaws exploited to install webshells",
             "link": "https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/"
+        },
+        {
+            "title": "WordPress Under Siege: Attackers Chain Core Flaws for Rapid Site Takeovers",
+            "link": "https://www.webpronews.com/wordpress-under-siege-attackers-chain-core-flaws-for-rapid-site-takeovers/"
         }
     ],
     "CVE-2026-15409": [

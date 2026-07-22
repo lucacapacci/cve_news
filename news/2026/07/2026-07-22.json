@@ -16,5 +16,29 @@
             "title": "WordPress Feeding Frenzy, Another Healthcare Supply Chain Breach, Qillin Targets Palo Alto Bug",
             "link": "https://www.itsecuritynews.info/wordpress-feeding-frenzy-another-healthcare-supply-chain-breach-qillin-targets-palo-alto-bug/"
         }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "CISA Warns of WordPress Core SQL Injection Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/cisa-wordpress-core-sql-injection/"
+        }
+    ],
+    "CVE-2026-63030": [
+        {
+            "title": "CISA Warns of WordPress Core SQL Injection Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/cisa-wordpress-core-sql-injection/"
+        }
+    ],
+    "CVE-2026-55200": [
+        {
+            "title": "Anonymous Researcher Dumps 204 0-Day Exploit Files Before Vendors Can Patch Them",
+            "link": "https://cybersecuritynews.com/researcher-dumps-0-day-exploit-files/"
+        }
+    ],
+    "CVE-2026-13385": [
+        {
+            "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
+            "link": "https://gbhackers.com/critical-asus-router-flaw/"
+        }
     ]
 }
