@@ -55,6 +55,10 @@
         {
             "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
             "link": "https://cyberpress.org/critical-asus-router-flaw-2/"
+        },
+        {
+            "title": "ASUS Patches Critical Router Vulnerability Enabling Remote Command Execution",
+            "link": "https://cybersecuritynews.com/asus-patches-router-vulnerability/"
         }
     ],
     "CVE-2026-50522": [
@@ -65,6 +69,10 @@
         {
             "title": "Another SharePoint RCE exploited: Patch, then rotate your machine keys (CVE-2026-50522)",
             "link": "https://www.helpnetsecurity.com/2026/07/22/sharepoint-cve-2026-50522-exploited/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-50522",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-50522"
         }
     ],
     "CVE-2026-29059": [
@@ -173,6 +181,10 @@
         {
             "title": "Security Advisory \u2013 Action Required \u2013 July 2026 Security Update",
             "link": "https://www.itsecuritynews.info/security-advisory-action-required-july-2026-security-update/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-16232",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-16232"
         }
     ],
     "CVE-2026-4295": [
@@ -191,6 +203,64 @@
         {
             "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
             "link": "https://cyberpress.org/critical-asus-router-flaw-2/"
+        }
+    ],
+    "CVE-2026-8933": [
+        {
+            "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+            "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html"
+        }
+    ],
+    "CVE-2026-48294": [
+        {
+            "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+            "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html"
+        },
+        {
+            "title": "Adobe Acrobat Extension Flaw Lets Attackers Steal WhatsApp Chats From 329 Million Users",
+            "link": "https://cybersecuritynews.com/acrobat-extension-flaw-whatsapp-chats/"
+        }
+    ],
+    "CVE-2026-64600": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-46333": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-43284": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-43500": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-43503": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-31431": [
+        {
+            "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-42980": [
+        {
+            "title": "Public PoC Released for Windows NT OS Kernel Privilege Escalation Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-windows-nt-os-kernel/"
         }
     ]
 }
