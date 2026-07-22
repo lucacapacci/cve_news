@@ -21,6 +21,10 @@
         {
             "title": "CISA Warns of WordPress Core SQL Injection Vulnerability Actively Exploited in the Wild",
             "link": "https://cybersecuritynews.com/cisa-wordpress-core-sql-injection/"
+        },
+        {
+            "title": "CISA Warns WordPress Core SQL Injection Vulnerability Is Actively Exploited in Attacks",
+            "link": "https://gbhackers.com/cisa-warns-wordpress-core-sql-injection-vulnerability/"
         }
     ],
     "CVE-2026-63030": [
@@ -39,6 +43,16 @@
         {
             "title": "Critical ASUS Router Flaw Lets Remote MITM Attackers Execute Arbitrary Commands",
             "link": "https://gbhackers.com/critical-asus-router-flaw/"
+        }
+    ],
+    "CVE-2026-50522": [
+        {
+            "title": "Fourth SharePoint Vulnerability Exploited in Past Month\u2019s Wave of Attacks",
+            "link": "https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/"
+        },
+        {
+            "title": "Another SharePoint RCE exploited: Patch, then rotate your machine keys (CVE-2026-50522)",
+            "link": "https://www.helpnetsecurity.com/2026/07/22/sharepoint-cve-2026-50522-exploited/"
         }
     ]
 }
