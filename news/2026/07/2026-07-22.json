@@ -54,5 +54,113 @@
             "title": "Another SharePoint RCE exploited: Patch, then rotate your machine keys (CVE-2026-50522)",
             "link": "https://www.helpnetsecurity.com/2026/07/22/sharepoint-cve-2026-50522-exploited/"
         }
+    ],
+    "CVE-2026-29059": [
+        {
+            "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+            "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html"
+        }
+    ],
+    "CVE-2026-28313": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28308": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28302": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28304": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28306": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28312": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28305": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28321": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28311": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28317": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28307": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28316": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28314": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28309": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28315": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-28310": [
+        {
+            "title": "SolarWinds Patches 15 Critical Serv-U Flaws That Could Hand Attackers Root Access",
+            "link": "https://cybersecuritynews.com/solarwinds-patches-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-16232": [
+        {
+            "title": "Security Advisory \u2013 Action Required \u2013 July 2026 Security Update",
+            "link": "https://www.itsecuritynews.info/security-advisory-action-required-july-2026-security-update/"
+        }
     ]
 }
