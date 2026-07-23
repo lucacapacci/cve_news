@@ -1,0 +1,14 @@
+{
+    "CVE-2026-64600": [
+        {
+            "title": "Critical RefluXFS Linux Kernel Flaw Lets Local Attackers Gain Root Access",
+            "link": "https://www.itsecuritynews.info/critical-refluxfs-linux-kernel-flaw-lets-local-attackers-gain-root-access/"
+        }
+    ],
+    "CVE-2026-48294": [
+        {
+            "title": "Critical Adobe Acrobat Chrome Extension Flaw \u201cHermeticReader\u201d Lets Hackers Hijack WhatsApp Chats of 300M+ Users",
+            "link": "https://www.itsecuritynews.info/critical-adobe-acrobat-chrome-extension-flaw-hermeticreader-lets-hackers-hijack-whatsapp-chats-of-300m-users/"
+        }
+    ]
+}
