@@ -109,6 +109,10 @@
         {
             "title": "GitHub Actions Abuse Exploits cPanel CVE-2026-41940 to Steal Server Credentials",
             "link": "https://cyberpress.org/github-actions-cpanel-credential-theft/"
+        },
+        {
+            "title": "Hackers Abuse GitHub Actions to Exploit cPanel and WHM Servers and Steal Cloud Credentials",
+            "link": "https://cybersecuritynews.com/hackers-abuse-github-actions-to-exploit-cpanel/"
         }
     ],
     "CVE-2026-46333": [
@@ -145,6 +149,102 @@
         {
             "title": "Kimi K3 AI Agent Finds Redis RCE Vulnerabilities in Just 27 Minutes",
             "link": "https://cyberpress.org/kimi-k3-ai-agent-finds-redis-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12921": [
+        {
+            "title": "ZDI-26-450: AzeoTech DAQFactory CTL File Parsing Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-450/"
+        }
+    ],
+    "CVE-2026-12390": [
+        {
+            "title": "ZDI-26-449: AzeoTech DAQFactory CTL File Parsing Type Confusion Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-449/"
+        }
+    ],
+    "CVE-2026-6851": [
+        {
+            "title": "ZDI-26-448: Bitdefender Total Security Shredder Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-448/"
+        }
+    ],
+    "CVE-2026-12357": [
+        {
+            "title": "ZDI-26-447: Heimdall Data Database Proxy generateFileContent CRLF Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-447/"
+        }
+    ],
+    "CVE-2025-56383": [
+        {
+            "title": "Hackers Abuse Notepad++ Plugins to Compromise Your System Silently",
+            "link": "https://cybersecuritynews.com/hackers-abuse-notepad-plugins/"
+        }
+    ],
+    "CVE-2026-64647": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64642": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64641": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64646": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64649": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64643": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64648": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64644": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-64645": [
+        {
+            "title": "Next.js Patches Nine Security Flaws Enabling SSRF, Authentication Bypass, and DoS Attacks",
+            "link": "https://cybersecuritynews.com/next-js-patches-nine-security-flaws/"
+        }
+    ],
+    "CVE-2026-50458": [
+        {
+            "title": "Windows 11 and Server 2025 Exposed to High-Severity Brokering File System Vulnerability",
+            "link": "https://cybersecuritynews.com/windows-brokering-file-system-vulnerability/"
+        }
+    ],
+    "CVE-2025-66376": [
+        {
+            "title": "Russian TA488 Exploits Zimbra CVE-2025-66376 to Target Government Mail Servers",
+            "link": "https://www.itsecuritynews.info/russian-ta488-exploits-zimbra-cve-2025-66376-to-target-government-mail-servers/"
         }
     ]
 }
