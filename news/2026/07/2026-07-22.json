@@ -209,6 +209,10 @@
         {
             "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
             "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html"
+        },
+        {
+            "title": "CVE-2026-8933: Ubuntu security flaw breaks Snap sandbox protections",
+            "link": "https://www.itsecuritynews.info/cve-2026-8933-ubuntu-security-flaw-breaks-snap-sandbox-protections/"
         }
     ],
     "CVE-2026-48294": [
