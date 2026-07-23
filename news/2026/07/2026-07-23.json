@@ -3,12 +3,80 @@
         {
             "title": "Critical RefluXFS Linux Kernel Flaw Lets Local Attackers Gain Root Access",
             "link": "https://www.itsecuritynews.info/critical-refluxfs-linux-kernel-flaw-lets-local-attackers-gain-root-access/"
+        },
+        {
+            "title": "Critical XFS Race Condition Enables Linux Privilege Escalation to Root",
+            "link": "https://cyberpress.org/critical-xfs-race-condition/"
         }
     ],
     "CVE-2026-48294": [
         {
             "title": "Critical Adobe Acrobat Chrome Extension Flaw \u201cHermeticReader\u201d Lets Hackers Hijack WhatsApp Chats of 300M+ Users",
             "link": "https://www.itsecuritynews.info/critical-adobe-acrobat-chrome-extension-flaw-hermeticreader-lets-hackers-hijack-whatsapp-chats-of-300m-users/"
+        },
+        {
+            "title": "Adobe Acrobat Extension Flaw Lets Attackers Steal WhatsApp Chats With One Click",
+            "link": "https://cyberpress.org/adobe-acrobat-extension-flaw/"
+        }
+    ],
+    "CVE-2026-16232": [
+        {
+            "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
+            "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html"
+        },
+        {
+            "title": "New Check Point Zero-Day Vulnerability Exploited in the Wild",
+            "link": "https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/"
+        },
+        {
+            "title": "Critical Check Point Flaw Lets Attackers Bypass SmartConsole Authentication",
+            "link": "https://cyberpress.org/critical-check-point-flaw/"
+        },
+        {
+            "title": "CISA Warns of Check Point Authentication Vulnerability Actively Exploited in the Wild",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-check-point-authentication-vulnerability-actively-exploited-in-the-wild/"
+        }
+    ],
+    "CVE-2026-62145": [
+        {
+            "title": "Critical Check Point Flaw Lets Attackers Bypass SmartConsole Authentication",
+            "link": "https://cyberpress.org/critical-check-point-flaw/"
+        }
+    ],
+    "CVE-2026-62144": [
+        {
+            "title": "Critical Check Point Flaw Lets Attackers Bypass SmartConsole Authentication",
+            "link": "https://cyberpress.org/critical-check-point-flaw/"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "Dell, F5, Fortinet, and SonicWall Flaws Put Enterprise Network Infrastructure at Risk",
+            "link": "https://cyberpress.org/enterprise-network-devices-exposed/"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "Dell, F5, Fortinet, and SonicWall Flaws Put Enterprise Network Infrastructure at Risk",
+            "link": "https://cyberpress.org/enterprise-network-devices-exposed/"
+        }
+    ],
+    "CVE-2026-39808": [
+        {
+            "title": "Dell, F5, Fortinet, and SonicWall Flaws Put Enterprise Network Infrastructure at Risk",
+            "link": "https://cyberpress.org/enterprise-network-devices-exposed/"
+        }
+    ],
+    "CVE-2026-25089": [
+        {
+            "title": "Dell, F5, Fortinet, and SonicWall Flaws Put Enterprise Network Infrastructure at Risk",
+            "link": "https://cyberpress.org/enterprise-network-devices-exposed/"
+        }
+    ],
+    "CVE-2026-31431": [
+        {
+            "title": "Dell, F5, Fortinet, and SonicWall Flaws Put Enterprise Network Infrastructure at Risk",
+            "link": "https://cyberpress.org/enterprise-network-devices-exposed/"
         }
     ]
 }
