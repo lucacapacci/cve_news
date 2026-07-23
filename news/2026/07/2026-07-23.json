@@ -7,6 +7,10 @@
         {
             "title": "Critical XFS Race Condition Enables Linux Privilege Escalation to Root",
             "link": "https://cyberpress.org/critical-xfs-race-condition/"
+        },
+        {
+            "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+            "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html"
         }
     ],
     "CVE-2026-48294": [
@@ -35,6 +39,14 @@
         {
             "title": "CISA Warns of Check Point Authentication Vulnerability Actively Exploited in the Wild",
             "link": "https://www.itsecuritynews.info/cisa-warns-of-check-point-authentication-vulnerability-actively-exploited-in-the-wild/"
+        },
+        {
+            "title": "Critical Check Point SmartConsole Flaw Exploited in the Wild to Bypass Authentication",
+            "link": "https://gbhackers.com/critical-check-point-smartconsole-flaw/"
+        },
+        {
+            "title": "Attackers exploit critical Check Point flaw to take over firewall management (CVE-2026-16232)",
+            "link": "https://www.helpnetsecurity.com/2026/07/23/check-point-vulnerability-cve-2026-16232/"
         }
     ],
     "CVE-2026-62145": [
@@ -77,6 +89,28 @@
         {
             "title": "Dell, F5, Fortinet, and SonicWall Flaws Put Enterprise Network Infrastructure at Risk",
             "link": "https://cyberpress.org/enterprise-network-devices-exposed/"
+        }
+    ],
+    "CVE-2026-8933": [
+        {
+            "title": "Ubuntu Snap-Confine Vulnerability Allows Unprivileged Users to Execute Code as Root",
+            "link": "https://gbhackers.com/ubuntu-snap-confine-vulnerability/"
+        },
+        {
+            "title": "Ubuntu snap-confine Flaw Lets Any Local User Gain Full Root Access",
+            "link": "https://cyberpress.org/ubuntu-snap-confine-flaw/"
+        }
+    ],
+    "CVE-2026-41940": [
+        {
+            "title": "GitHub Actions Abuse Exploits cPanel CVE-2026-41940 to Steal Server Credentials",
+            "link": "https://cyberpress.org/github-actions-cpanel-credential-theft/"
+        }
+    ],
+    "CVE-2026-46333": [
+        {
+            "title": "Ubuntu snap-confine Flaw Lets Any Local User Gain Full Root Access",
+            "link": "https://cyberpress.org/ubuntu-snap-confine-flaw/"
         }
     ]
 }
