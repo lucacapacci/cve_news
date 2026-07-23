@@ -116,5 +116,35 @@
             "title": "Ubuntu snap-confine Flaw Lets Any Local User Gain Full Root Access",
             "link": "https://cyberpress.org/ubuntu-snap-confine-flaw/"
         }
+    ],
+    "CVE-2026-25243": [
+        {
+            "title": "Kimi K3 AI Agent Finds Redis RCE Vulnerabilities in Just 27 Minutes",
+            "link": "https://cyberpress.org/kimi-k3-ai-agent-finds-redis-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-23631": [
+        {
+            "title": "Kimi K3 AI Agent Finds Redis RCE Vulnerabilities in Just 27 Minutes",
+            "link": "https://cyberpress.org/kimi-k3-ai-agent-finds-redis-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-25589": [
+        {
+            "title": "Kimi K3 AI Agent Finds Redis RCE Vulnerabilities in Just 27 Minutes",
+            "link": "https://cyberpress.org/kimi-k3-ai-agent-finds-redis-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-25588": [
+        {
+            "title": "Kimi K3 AI Agent Finds Redis RCE Vulnerabilities in Just 27 Minutes",
+            "link": "https://cyberpress.org/kimi-k3-ai-agent-finds-redis-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-23479": [
+        {
+            "title": "Kimi K3 AI Agent Finds Redis RCE Vulnerabilities in Just 27 Minutes",
+            "link": "https://cyberpress.org/kimi-k3-ai-agent-finds-redis-rce-vulnerabilities/"
+        }
     ]
 }
