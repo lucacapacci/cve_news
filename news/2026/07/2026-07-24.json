@@ -3,18 +3,30 @@
         {
             "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
             "link": "https://cyberpress.org/apache-syncope-flaws/"
+        },
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
         }
     ],
     "CVE-2026-63071": [
         {
             "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
             "link": "https://cyberpress.org/apache-syncope-flaws/"
+        },
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
         }
     ],
     "CVE-2026-62418": [
         {
             "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
             "link": "https://cyberpress.org/apache-syncope-flaws/"
+        },
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
         }
     ],
     "CVE-2026-62183": [
@@ -25,18 +37,30 @@
         {
             "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
             "link": "https://gbhackers.com/apache-syncope-flaws/"
+        },
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
         }
     ],
     "CVE-2026-53421": [
         {
             "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
             "link": "https://cyberpress.org/apache-syncope-flaws/"
+        },
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
         }
     ],
     "CVE-2026-57308": [
         {
             "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
             "link": "https://cyberpress.org/apache-syncope-flaws/"
+        },
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
         }
     ],
     "CVE-2026-16807": [
@@ -123,12 +147,20 @@
         {
             "title": "Cl0p Exploits PTC Windchill Zero-Day to Deploy Webshells and Steal Data",
             "link": "https://cyberpress.org/cl0p-exploits-ptc-windchill-zero-day/"
+        },
+        {
+            "title": "Cl0p Hackers Exploit Windchill Servers to Steal Companies\u2019 Secret Product Designs",
+            "link": "https://cybersecuritynews.com/cl0p-hackers-exploit-windchill/"
         }
     ],
     "CVE-2026-64814": [
         {
             "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
             "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        },
+        {
+            "title": "JetBrains Fixes Critical IntelliJ IDEA Code Execution Flaw and Four TeamCity Vulnerabilities",
+            "link": "https://cybersecuritynews.com/jetbrains-fixes-critical-vulnerabilities/"
         }
     ],
     "CVE-2026-64810": [
@@ -165,30 +197,134 @@
         {
             "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
             "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        },
+        {
+            "title": "JetBrains Fixes Critical IntelliJ IDEA Code Execution Flaw and Four TeamCity Vulnerabilities",
+            "link": "https://cybersecuritynews.com/jetbrains-fixes-critical-vulnerabilities/"
         }
     ],
     "CVE-2026-64813": [
         {
             "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
             "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        },
+        {
+            "title": "JetBrains Fixes Critical IntelliJ IDEA Code Execution Flaw and Four TeamCity Vulnerabilities",
+            "link": "https://cybersecuritynews.com/jetbrains-fixes-critical-vulnerabilities/"
         }
     ],
     "CVE-2026-59794": [
         {
             "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
             "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        },
+        {
+            "title": "JetBrains Fixes Critical IntelliJ IDEA Code Execution Flaw and Four TeamCity Vulnerabilities",
+            "link": "https://cybersecuritynews.com/jetbrains-fixes-critical-vulnerabilities/"
         }
     ],
     "CVE-2026-59793": [
         {
             "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
             "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        },
+        {
+            "title": "JetBrains Fixes Critical IntelliJ IDEA Code Execution Flaw and Four TeamCity Vulnerabilities",
+            "link": "https://cybersecuritynews.com/jetbrains-fixes-critical-vulnerabilities/"
         }
     ],
     "CVE-2026-59792": [
         {
             "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
             "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        },
+        {
+            "title": "JetBrains Fixes Critical IntelliJ IDEA Code Execution Flaw and Four TeamCity Vulnerabilities",
+            "link": "https://cybersecuritynews.com/jetbrains-fixes-critical-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-32194": [
+        {
+            "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
+            "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html"
+        }
+    ],
+    "CVE-2026-23795": [
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
+        }
+    ],
+    "CVE-2025-65998": [
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
+        }
+    ],
+    "CVE-2026-42797": [
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
+        }
+    ],
+    "CVE-2026-42782": [
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
+        }
+    ],
+    "CVE-2026-23794": [
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
+        }
+    ],
+    "CVE-2024-38503": [
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
+        }
+    ],
+    "CVE-2024-45031": [
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
+        }
+    ],
+    "CVE-2025-57738": [
+        {
+            "title": "Apache Syncope Release Patches for Multiple RCE and SQL Injection Vulnerabilities",
+            "link": "https://cybersecuritynews.com/apache-syncope-release-patches/"
+        }
+    ],
+    "CVE-2026-49366": [
+        {
+            "title": "JetBrains Fixes Critical IntelliJ IDEA Code Execution Flaw and Four TeamCity Vulnerabilities",
+            "link": "https://cybersecuritynews.com/jetbrains-fixes-critical-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65906": [
+        {
+            "title": "JetBrains Fixes Critical IntelliJ IDEA Code Execution Flaw and Four TeamCity Vulnerabilities",
+            "link": "https://cybersecuritynews.com/jetbrains-fixes-critical-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65907": [
+        {
+            "title": "JetBrains Fixes Critical IntelliJ IDEA Code Execution Flaw and Four TeamCity Vulnerabilities",
+            "link": "https://cybersecuritynews.com/jetbrains-fixes-critical-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-49367": [
+        {
+            "title": "JetBrains Fixes Critical IntelliJ IDEA Code Execution Flaw and Four TeamCity Vulnerabilities",
+            "link": "https://cybersecuritynews.com/jetbrains-fixes-critical-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-57239": [
+        {
+            "title": "Foxit PDF Reader Flaw Lets Local Attackers Gain SYSTEM Privileges via DLL Sideloading",
+            "link": "https://gbhackers.com/foxit-pdf-reader-flaw/"
         }
     ]
 }
