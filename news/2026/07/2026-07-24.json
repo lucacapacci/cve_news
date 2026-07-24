@@ -1,0 +1,80 @@
+{
+    "CVE-2026-53405": [
+        {
+            "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
+            "link": "https://cyberpress.org/apache-syncope-flaws/"
+        }
+    ],
+    "CVE-2026-63071": [
+        {
+            "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
+            "link": "https://cyberpress.org/apache-syncope-flaws/"
+        }
+    ],
+    "CVE-2026-62418": [
+        {
+            "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
+            "link": "https://cyberpress.org/apache-syncope-flaws/"
+        }
+    ],
+    "CVE-2026-62183": [
+        {
+            "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
+            "link": "https://cyberpress.org/apache-syncope-flaws/"
+        }
+    ],
+    "CVE-2026-53421": [
+        {
+            "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
+            "link": "https://cyberpress.org/apache-syncope-flaws/"
+        }
+    ],
+    "CVE-2026-57308": [
+        {
+            "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
+            "link": "https://cyberpress.org/apache-syncope-flaws/"
+        }
+    ],
+    "CVE-2026-16807": [
+        {
+            "title": "Chrome Security Update Fixes Out-of-Bounds Write and Use-After-Free Flaws",
+            "link": "https://cyberpress.org/chrome-security-update-2/"
+        }
+    ],
+    "CVE-2026-16806": [
+        {
+            "title": "Chrome Security Update Fixes Out-of-Bounds Write and Use-After-Free Flaws",
+            "link": "https://cyberpress.org/chrome-security-update-2/"
+        }
+    ],
+    "CVE-2026-16805": [
+        {
+            "title": "Chrome Security Update Fixes Out-of-Bounds Write and Use-After-Free Flaws",
+            "link": "https://cyberpress.org/chrome-security-update-2/"
+        }
+    ],
+    "CVE-2026-16804": [
+        {
+            "title": "Chrome Security Update Fixes Out-of-Bounds Write and Use-After-Free Flaws",
+            "link": "https://cyberpress.org/chrome-security-update-2/"
+        }
+    ],
+    "CVE-2025-66376": [
+        {
+            "title": "Russian LAUNDRY BEAR Hackers Exploit Zimbra Zero-Day to Steal 90 Days of Emails",
+            "link": "https://cyberpress.org/russian-laundry-bear-hackers-exploit/"
+        }
+    ],
+    "CVE-2026-46331": [
+        {
+            "title": "Claude Cowork SharedRoot Sandbox Escape Exposes Mac Files and Cloud Credentials",
+            "link": "https://cyberpress.org/claude-cowork-sharedroot-sandbox-escape/"
+        }
+    ],
+    "CVE-2025-56383": [
+        {
+            "title": "Hackers Weaponize Notepad++ 8.8.3 to Silently Install MATCHBOIL.V2 Malware",
+            "link": "https://cyberpress.org/hackers-weaponize-notepad-8-8-3/"
+        }
+    ]
+}
