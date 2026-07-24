@@ -366,5 +366,11 @@
             "title": "Bing Images Vulnerability Lets Attackers Execute Remote Code on Microsoft Servers",
             "link": "https://cybersecuritynews.com/bing-images-vulnerability/"
         }
+    ],
+    "CVE-2026-16723": [
+        {
+            "title": "Imperva Customers Protected Against CVE-2026-16723: Critical FastJson 1.x Zero-Day RCE",
+            "link": "https://www.itsecuritynews.info/imperva-customers-protected-against-cve-2026-16723-critical-fastjson-1-x-zero-day-rce/"
+        }
     ]
 }
