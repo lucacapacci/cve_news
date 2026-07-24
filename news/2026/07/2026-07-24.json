@@ -247,6 +247,10 @@
         {
             "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
             "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html"
+        },
+        {
+            "title": "Bing Images Vulnerability Lets Attackers Execute Remote Code on Microsoft Servers",
+            "link": "https://cybersecuritynews.com/bing-images-vulnerability/"
         }
     ],
     "CVE-2026-23795": [
@@ -325,6 +329,42 @@
         {
             "title": "Foxit PDF Reader Flaw Lets Local Attackers Gain SYSTEM Privileges via DLL Sideloading",
             "link": "https://gbhackers.com/foxit-pdf-reader-flaw/"
+        }
+    ],
+    "CVE-2026-25724": [
+        {
+            "title": "Tego AI Discloses Second Claude Flaw in a Week: Hidden Link Silently Sends Files to Attackers",
+            "link": "https://cybersecuritynews.com/tego-ai-discloses-second-claude-flaw-in-a-week-hidden-link-silently-sends-files-to-attackers/"
+        }
+    ],
+    "CVE-2025-59829": [
+        {
+            "title": "Tego AI Discloses Second Claude Flaw in a Week: Hidden Link Silently Sends Files to Attackers",
+            "link": "https://cybersecuritynews.com/tego-ai-discloses-second-claude-flaw-in-a-week-hidden-link-silently-sends-files-to-attackers/"
+        }
+    ],
+    "CVE-2026-54121": [
+        {
+            "title": "Certighost Active Directory CS Exploit Allows Low-Privileged Users to Compromise Domain",
+            "link": "https://cybersecuritynews.com/certighost-active-directory-cs-flaw/"
+        }
+    ],
+    "CVE-2026-32191": [
+        {
+            "title": "Bing Images Vulnerability Lets Attackers Execute Remote Code on Microsoft Servers",
+            "link": "https://cybersecuritynews.com/bing-images-vulnerability/"
+        }
+    ],
+    "CVE-2026-32091": [
+        {
+            "title": "Bing Images Vulnerability Lets Attackers Execute Remote Code on Microsoft Servers",
+            "link": "https://cybersecuritynews.com/bing-images-vulnerability/"
+        }
+    ],
+    "CVE-2026-21536": [
+        {
+            "title": "Bing Images Vulnerability Lets Attackers Execute Remote Code on Microsoft Servers",
+            "link": "https://cybersecuritynews.com/bing-images-vulnerability/"
         }
     ]
 }
