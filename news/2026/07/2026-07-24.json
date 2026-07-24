@@ -21,6 +21,10 @@
         {
             "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
             "link": "https://cyberpress.org/apache-syncope-flaws/"
+        },
+        {
+            "title": "Apache Syncope Flaws Let Users Gain Admin Roles and Execute Remote Code",
+            "link": "https://gbhackers.com/apache-syncope-flaws/"
         }
     ],
     "CVE-2026-53421": [
@@ -79,6 +83,10 @@
         {
             "title": "Russian LAUNDRY BEAR Hackers Exploit Zimbra Zero-Day to Steal 90 Days of Emails",
             "link": "https://cyberpress.org/russian-laundry-bear-hackers-exploit/"
+        },
+        {
+            "title": "Russian hackers exploit unpatched Zimbra servers to steal emails",
+            "link": "https://www.helpnetsecurity.com/2026/07/24/laundry-bear-zimbra-vulnerability-cve-2025-66376/"
         }
     ],
     "CVE-2026-46331": [
@@ -109,6 +117,78 @@
         {
             "title": "New HTTP/2 Vulnerability Lets Hackers Crash Servers With Memory Exhaustion Attacks",
             "link": "https://cybersecuritynews.com/http-2-flaw-crash-servers/"
+        }
+    ],
+    "CVE-2026-12569": [
+        {
+            "title": "Cl0p Exploits PTC Windchill Zero-Day to Deploy Webshells and Steal Data",
+            "link": "https://cyberpress.org/cl0p-exploits-ptc-windchill-zero-day/"
+        }
+    ],
+    "CVE-2026-64814": [
+        {
+            "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
+            "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-64810": [
+        {
+            "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
+            "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-64811": [
+        {
+            "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
+            "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-59796": [
+        {
+            "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
+            "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-59795": [
+        {
+            "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
+            "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-64815": [
+        {
+            "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
+            "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-64812": [
+        {
+            "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
+            "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-64813": [
+        {
+            "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
+            "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-59794": [
+        {
+            "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
+            "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-59793": [
+        {
+            "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
+            "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-59792": [
+        {
+            "title": "Critical IntelliJ IDEA Path Traversal Flaw Enables Code Execution",
+            "link": "https://cyberpress.org/critical-intellij-idea-path-traversal-flaw/"
         }
     ]
 }
