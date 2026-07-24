@@ -39,24 +39,40 @@
         {
             "title": "Chrome Security Update Fixes Out-of-Bounds Write and Use-After-Free Flaws",
             "link": "https://cyberpress.org/chrome-security-update-2/"
+        },
+        {
+            "title": "Google Rolls Out Emergency Chrome Update for Four High-Severity Security Flaws",
+            "link": "https://cybersecuritynews.com/emergency-chrome-update/"
         }
     ],
     "CVE-2026-16806": [
         {
             "title": "Chrome Security Update Fixes Out-of-Bounds Write and Use-After-Free Flaws",
             "link": "https://cyberpress.org/chrome-security-update-2/"
+        },
+        {
+            "title": "Google Rolls Out Emergency Chrome Update for Four High-Severity Security Flaws",
+            "link": "https://cybersecuritynews.com/emergency-chrome-update/"
         }
     ],
     "CVE-2026-16805": [
         {
             "title": "Chrome Security Update Fixes Out-of-Bounds Write and Use-After-Free Flaws",
             "link": "https://cyberpress.org/chrome-security-update-2/"
+        },
+        {
+            "title": "Google Rolls Out Emergency Chrome Update for Four High-Severity Security Flaws",
+            "link": "https://cybersecuritynews.com/emergency-chrome-update/"
         }
     ],
     "CVE-2026-16804": [
         {
             "title": "Chrome Security Update Fixes Out-of-Bounds Write and Use-After-Free Flaws",
             "link": "https://cyberpress.org/chrome-security-update-2/"
+        },
+        {
+            "title": "Google Rolls Out Emergency Chrome Update for Four High-Severity Security Flaws",
+            "link": "https://cybersecuritynews.com/emergency-chrome-update/"
         }
     ],
     "CVE-2025-66376": [
@@ -75,6 +91,24 @@
         {
             "title": "Hackers Weaponize Notepad++ 8.8.3 to Silently Install MATCHBOIL.V2 Malware",
             "link": "https://cyberpress.org/hackers-weaponize-notepad-8-8-3/"
+        }
+    ],
+    "CVE-2026-59173": [
+        {
+            "title": "New HTTP/2 Vulnerability Lets Hackers Crash Servers With Memory Exhaustion Attacks",
+            "link": "https://cybersecuritynews.com/http-2-flaw-crash-servers/"
+        }
+    ],
+    "CVE-2026-44909": [
+        {
+            "title": "New HTTP/2 Vulnerability Lets Hackers Crash Servers With Memory Exhaustion Attacks",
+            "link": "https://cybersecuritynews.com/http-2-flaw-crash-servers/"
+        }
+    ],
+    "CVE-2026-59762": [
+        {
+            "title": "New HTTP/2 Vulnerability Lets Hackers Crash Servers With Memory Exhaustion Attacks",
+            "link": "https://cybersecuritynews.com/http-2-flaw-crash-servers/"
         }
     ]
 }

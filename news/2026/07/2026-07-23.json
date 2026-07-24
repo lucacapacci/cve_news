@@ -103,6 +103,10 @@
         {
             "title": "Ubuntu snap-confine Flaw Lets Any Local User Gain Full Root Access",
             "link": "https://cyberpress.org/ubuntu-snap-confine-flaw/"
+        },
+        {
+            "title": "Ubuntu Snap Flaws Expose Longstanding Risks in Canonical\u2019s Package System",
+            "link": "https://www.webpronews.com/ubuntu-snap-flaws-expose-longstanding-risks-in-canonicals-package-system/"
         }
     ],
     "CVE-2026-41940": [
@@ -245,6 +249,96 @@
         {
             "title": "Russian TA488 Exploits Zimbra CVE-2025-66376 to Target Government Mail Servers",
             "link": "https://www.itsecuritynews.info/russian-ta488-exploits-zimbra-cve-2025-66376-to-target-government-mail-servers/"
+        }
+    ],
+    "CVE-2025-4382": [
+        {
+            "title": "Linux Encryption Tool Scrambles to Adapt as Kernel Axes Long-Reliable Crypto Path",
+            "link": "https://www.webpronews.com/linux-encryption-tool-scrambles-to-adapt-as-kernel-axes-long-reliable-crypto-path/"
+        }
+    ],
+    "CVE-2021-44731": [
+        {
+            "title": "Ubuntu Snap Flaws Expose Longstanding Risks in Canonical\u2019s Package System",
+            "link": "https://www.webpronews.com/ubuntu-snap-flaws-expose-longstanding-risks-in-canonicals-package-system/"
+        }
+    ],
+    "CVE-2026-15226": [
+        {
+            "title": "Ubuntu Snap Flaws Expose Longstanding Risks in Canonical\u2019s Package System",
+            "link": "https://www.webpronews.com/ubuntu-snap-flaws-expose-longstanding-risks-in-canonicals-package-system/"
+        }
+    ],
+    "CVE-2024-5300": [
+        {
+            "title": "Ubuntu Snap Flaws Expose Longstanding Risks in Canonical\u2019s Package System",
+            "link": "https://www.webpronews.com/ubuntu-snap-flaws-expose-longstanding-risks-in-canonicals-package-system/"
+        }
+    ],
+    "CVE-2026-3888": [
+        {
+            "title": "Ubuntu Snap Flaws Expose Longstanding Risks in Canonical\u2019s Package System",
+            "link": "https://www.webpronews.com/ubuntu-snap-flaws-expose-longstanding-risks-in-canonicals-package-system/"
+        }
+    ],
+    "CVE-2026-58644": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-56164": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-56155": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-50522": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-50518": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-47642": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-57092": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2025-49719": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-40400": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
+        }
+    ],
+    "CVE-2026-55032": [
+        {
+            "title": "Microsoft\u2019s Record July Patch Avalanche: 575 Flaws Expose AI\u2019s Growing Role in Bug Discovery",
+            "link": "https://www.webpronews.com/microsofts-record-july-patch-avalanche-575-flaws-expose-ais-growing-role-in-bug-discovery/"
         }
     ]
 }
