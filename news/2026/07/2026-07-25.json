@@ -45,6 +45,10 @@
         {
             "title": "Russian State-Supported Cyber Actors Conduct Phishing Campaign Targeting Users of Zimbra Collaboration Suite",
             "link": "https://www.itsecuritynews.info/russian-state-supported-cyber-actors-conduct-phishing-campaign-targeting-users-of-zimbra-collaboration-suite/"
+        },
+        {
+            "title": "Russian Cyber Spies Exploited Critical Zimbra Flaw to Access Emails and 2FA Codes",
+            "link": "https://www.itsecuritynews.info/russian-cyber-spies-exploited-critical-zimbra-flaw-to-access-emails-and-2fa-codes/"
         }
     ],
     "CVE-2026-11917": [
