@@ -10,5 +10,47 @@
             "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
             "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html"
         }
+    ],
+    "CVE-2026-50103": [
+        {
+            "title": "MZ Automation libIEC61850",
+            "link": "https://www.itsecuritynews.info/mz-automation-libiec61850/"
+        }
+    ],
+    "CVE-2026-50032": [
+        {
+            "title": "MZ Automation libIEC61850",
+            "link": "https://www.itsecuritynews.info/mz-automation-libiec61850/"
+        }
+    ],
+    "CVE-2026-50039": [
+        {
+            "title": "MZ Automation libIEC61850",
+            "link": "https://www.itsecuritynews.info/mz-automation-libiec61850/"
+        }
+    ],
+    "CVE-2026-49035": [
+        {
+            "title": "MZ Automation libIEC61850",
+            "link": "https://www.itsecuritynews.info/mz-automation-libiec61850/"
+        }
+    ],
+    "CVE-2026-34490": [
+        {
+            "title": "Johnson Controls XAAP Android",
+            "link": "https://www.itsecuritynews.info/johnson-controls-xaap-android/"
+        }
+    ],
+    "CVE-2025-66376": [
+        {
+            "title": "Russian State-Supported Cyber Actors Conduct Phishing Campaign Targeting Users of Zimbra Collaboration Suite",
+            "link": "https://www.itsecuritynews.info/russian-state-supported-cyber-actors-conduct-phishing-campaign-targeting-users-of-zimbra-collaboration-suite/"
+        }
+    ],
+    "CVE-2026-11917": [
+        {
+            "title": "Rockwell Automation ThinManager",
+            "link": "https://www.itsecuritynews.info/rockwell-automation-thinmanager-2/"
+        }
     ]
 }
