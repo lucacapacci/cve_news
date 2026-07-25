@@ -4,5 +4,11 @@
             "title": "Foxit Updater Vulnerability Gives Standard Users SYSTEM-Level Control of Windows Devices",
             "link": "https://cybersecuritynews.com/foxit-updater-vulnerability/"
         }
+    ],
+    "CVE-2026-16723": [
+        {
+            "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+            "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html"
+        }
     ]
 }
