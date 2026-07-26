@@ -56,5 +56,23 @@
             "title": "Rockwell Automation ThinManager",
             "link": "https://www.itsecuritynews.info/rockwell-automation-thinmanager-2/"
         }
+    ],
+    "CVE-2026-9740": [
+        {
+            "title": "Percona Arms MongoDB Users With Instant CVE Alerts Through SBOMs",
+            "link": "https://www.webpronews.com/percona-arms-mongodb-users-with-instant-cve-alerts-through-sboms/"
+        }
+    ],
+    "CVE-2025-14847": [
+        {
+            "title": "Percona Arms MongoDB Users With Instant CVE Alerts Through SBOMs",
+            "link": "https://www.webpronews.com/percona-arms-mongodb-users-with-instant-cve-alerts-through-sboms/"
+        }
+    ],
+    "CVE-2026-11933": [
+        {
+            "title": "Percona Arms MongoDB Users With Instant CVE Alerts Through SBOMs",
+            "link": "https://www.webpronews.com/percona-arms-mongodb-users-with-instant-cve-alerts-through-sboms/"
+        }
     ]
 }
