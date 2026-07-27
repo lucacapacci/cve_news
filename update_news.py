@@ -57,7 +57,7 @@ def save_cve_entry(date_str, cve_id, title, link):
             return
     # cybersecuritynews.com
     if "cybersecuritynews.com" in link:
-        summary_links = ["news-bulletin-weekly", "newsletter-bulletin"]
+        summary_links = ["news-bulletin-weekly", "newsletter-bulletin", "-newsletter-"]
         for summary_link in summary_links:
             if summary_link in link:
                 return
