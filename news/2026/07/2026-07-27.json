@@ -134,7 +134,7 @@
         },
         {
             "title": "Critical vBulletin Flaw Lets Unauthenticated Attackers Execute PHP Code Remotely",
-            "link": "https://www.itsecuritynews.info/critical-vbulletin-flaw-lets-unauthenticated-attackers-execute-php-code-remotely/"
+            "link": "https://cybersecuritynews.com/vbulletin-flaw-execute-php-code/"
         }
     ],
     "CVE-2026-27577": [
@@ -153,6 +153,18 @@
         {
             "title": "CISA KEV Addition: CVE-2025-68686",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-68686"
+        }
+    ],
+    "CVE-2026-41511": [
+        {
+            "title": "Critical vBulletin Flaw Lets Unauthenticated Attackers Execute PHP Code Remotely",
+            "link": "https://cybersecuritynews.com/vbulletin-flaw-execute-php-code/"
+        }
+    ],
+    "CVE-2026-16812": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-16812",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-16812"
         }
     ]
 }
