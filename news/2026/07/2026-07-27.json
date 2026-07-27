@@ -21,6 +21,10 @@
         {
             "title": "Claude Code Symlink Flaw Silently Exfiltrates Sensitive Files Without Approval",
             "link": "https://cyberpress.org/claude-code-symlink-flaw/"
+        },
+        {
+            "title": "Claude Code Symlink Import Lets Malicious Repositories Silently Exfiltrate Local Files",
+            "link": "https://cybersecuritynews.com/claude-code-symlink-import-malicious-repositories/"
         }
     ],
     "CVE-2026-21852": [
@@ -33,6 +37,92 @@
         {
             "title": "Claude Code Symlink Flaw Silently Exfiltrates Sensitive Files Without Approval",
             "link": "https://cyberpress.org/claude-code-symlink-flaw/"
+        },
+        {
+            "title": "Claude Code Symlink Import Lets Malicious Repositories Silently Exfiltrate Local Files",
+            "link": "https://cybersecuritynews.com/claude-code-symlink-import-malicious-repositories/"
+        }
+    ],
+    "CVE-2026-49176": [
+        {
+            "title": "WalletService Privilege Escalation Flaw Allows Attackers Full Control of Windows Systems",
+            "link": "https://cybersecuritynews.com/walletservice-privilege-escalation-flaw/"
+        },
+        {
+            "title": "Windows WalletService Flaw Lets Standard Users Gain SYSTEM Privileges",
+            "link": "https://gbhackers.com/windows-walletservice-flaw/"
+        }
+    ],
+    "CVE-2017-11882": [
+        {
+            "title": "Top 10 Malware Used by Hackers Between July 20-26, 2026, to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/top-10-malware-used-by-hackers/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Top 10 Malware Used by Hackers Between July 20-26, 2026, to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/top-10-malware-used-by-hackers/"
+        }
+    ],
+    "CVE-2018-0802": [
+        {
+            "title": "Top 10 Malware Used by Hackers Between July 20-26, 2026, to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/top-10-malware-used-by-hackers/"
+        }
+    ],
+    "CVE-2017-8570": [
+        {
+            "title": "Top 10 Malware Used by Hackers Between July 20-26, 2026, to Launch Cyberattacks",
+            "link": "https://cybersecuritynews.com/top-10-malware-used-by-hackers/"
+        }
+    ],
+    "CVE-2026-50751": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2023-4966": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2025-5777": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2026-8451": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2026-50752": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2026-3055": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Ransomware Gangs Attack Palo Alto, Fortinet, Citrix, and Check Point VPNs to Target Corporate Networks",
+            "link": "https://cybersecuritynews.com/ransomware-gangs-attack-vpn/"
+        }
+    ],
+    "CVE-2026-61511": [
+        {
+            "title": "vBulletin Pre-Auth RCE Flaw Allows Remote PHP Code Execution",
+            "link": "https://gbhackers.com/vbulletin-pre-auth-rce-flaw/"
         }
     ]
 }
