@@ -51,6 +51,10 @@
         {
             "title": "Windows WalletService Flaw Lets Standard Users Gain SYSTEM Privileges",
             "link": "https://gbhackers.com/windows-walletservice-flaw/"
+        },
+        {
+            "title": "Windows WalletService Flaw Lets Local Attackers Gain SYSTEM Privileges",
+            "link": "https://cyberpress.org/windows-walletservice-flaw/"
         }
     ],
     "CVE-2017-11882": [
@@ -123,6 +127,22 @@
         {
             "title": "vBulletin Pre-Auth RCE Flaw Allows Remote PHP Code Execution",
             "link": "https://gbhackers.com/vbulletin-pre-auth-rce-flaw/"
+        },
+        {
+            "title": "Critical vBulletin Vulnerability Lets Unauthenticated Attackers Execute Remote PHP Code",
+            "link": "https://cyberpress.org/critical-vbulletin-vulnerability/"
+        }
+    ],
+    "CVE-2026-27577": [
+        {
+            "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+            "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html"
+        }
+    ],
+    "CVE-2026-54121": [
+        {
+            "title": "PoC exploit released for critical AD CS domain-takeover flaw (CVE-2026-54121)",
+            "link": "https://www.helpnetsecurity.com/2026/07/27/certighost-cve-2026-54121-poc-exploit-released/"
         }
     ]
 }
