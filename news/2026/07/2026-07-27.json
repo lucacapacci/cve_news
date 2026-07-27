@@ -148,5 +148,11 @@
             "title": "PoC exploit released for critical AD CS domain-takeover flaw (CVE-2026-54121)",
             "link": "https://www.helpnetsecurity.com/2026/07/27/certighost-cve-2026-54121-poc-exploit-released/"
         }
+    ],
+    "CVE-2025-68686": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-68686",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-68686"
+        }
     ]
 }
