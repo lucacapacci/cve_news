@@ -1,0 +1,38 @@
+{
+    "CVE-2026-41940": [
+        {
+            "title": "CyberPress Weekly \u2013 Top 50 Cybersecurity Stories of the Week \u2013 Cl0p Windchill Zero-Day, Zimbra Attacks, 23M-User Breach, AI Exploits & More",
+            "link": "https://cyberpress.org/weekly-cybersecurity-newsletter-roundup-july-20-24-2026/"
+        }
+    ],
+    "CVE-2026-13385": [
+        {
+            "title": "CyberPress Weekly \u2013 Top 50 Cybersecurity Stories of the Week \u2013 Cl0p Windchill Zero-Day, Zimbra Attacks, 23M-User Breach, AI Exploits & More",
+            "link": "https://cyberpress.org/weekly-cybersecurity-newsletter-roundup-july-20-24-2026/"
+        }
+    ],
+    "CVE-2026-12569": [
+        {
+            "title": "CyberPress Weekly \u2013 Top 50 Cybersecurity Stories of the Week \u2013 Cl0p Windchill Zero-Day, Zimbra Attacks, 23M-User Breach, AI Exploits & More",
+            "link": "https://cyberpress.org/weekly-cybersecurity-newsletter-roundup-july-20-24-2026/"
+        }
+    ],
+    "CVE-2025-59829": [
+        {
+            "title": "Claude Code Symlink Flaw Silently Exfiltrates Sensitive Files Without Approval",
+            "link": "https://cyberpress.org/claude-code-symlink-flaw/"
+        }
+    ],
+    "CVE-2026-21852": [
+        {
+            "title": "Claude Code Symlink Flaw Silently Exfiltrates Sensitive Files Without Approval",
+            "link": "https://cyberpress.org/claude-code-symlink-flaw/"
+        }
+    ],
+    "CVE-2026-25724": [
+        {
+            "title": "Claude Code Symlink Flaw Silently Exfiltrates Sensitive Files Without Approval",
+            "link": "https://cyberpress.org/claude-code-symlink-flaw/"
+        }
+    ]
+}
