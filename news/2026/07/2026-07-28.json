@@ -274,5 +274,23 @@
             "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
             "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
         }
+    ],
+    "CVE-2026-53921": [
+        {
+            "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+            "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-16723": [
+        {
+            "title": "Hackers Exploiting FastJson RCE 0-Day in the Wild to Attack US-based Organizations",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-fastjson-rce-0-day/"
+        }
+    ],
+    "CVE-2026-61511": [
+        {
+            "title": "Public Exploit Lands for vBulletin\u2019s Pre-Auth RCE, CVE-2026-61511",
+            "link": "https://www.itsecuritynews.info/public-exploit-lands-for-vbulletins-pre-auth-rce-cve-2026-61511/"
+        }
     ]
 }
