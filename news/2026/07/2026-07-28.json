@@ -39,6 +39,10 @@
         {
             "title": "JetBrains Urging Customers to Patch Critical TeamCity Flaw that Enables OS Command Execution",
             "link": "https://cybersecuritynews.com/jetbrains-patch-teamcity-flaw/"
+        },
+        {
+            "title": "Critical TeamCity Flaw Could Let Unauthenticated Attackers Execute Server Commands",
+            "link": "https://www.techrepublic.com/article/news-critical-teamcity-rce-flaw/"
         }
     ],
     "CVE-2026-53264": [
@@ -309,6 +313,10 @@
         {
             "title": "Hackers Exploiting FastJson RCE 0-Day in the Wild to Attack US-based Organizations",
             "link": "https://cybersecuritynews.com/hackers-exploiting-fastjson-rce-0-day/"
+        },
+        {
+            "title": "FastJson RCE Zero-Day Actively Targets Organizations",
+            "link": "https://www.itsecuritynews.info/fastjson-rce-zero-day-actively-targets-organizations/"
         }
     ],
     "CVE-2026-61511": [
@@ -333,6 +341,12 @@
         {
             "title": "Nginx Buffer Overflow Vulnerability Allows Attackers to Execute Arbitrary Code \u2013 PoC Released",
             "link": "https://cybersecuritynews.com/nginx-buffer-overflow-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-63093": [
+        {
+            "title": "Cursor Quietly Patches High-Severity Git Vulnerability After Seven-Month Delay",
+            "link": "https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/"
         }
     ]
 }
