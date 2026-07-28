@@ -35,6 +35,10 @@
         {
             "title": "JetBrains Patches Critical TeamCity Flaw Allowing Server Takeover",
             "link": "https://www.itsecuritynews.info/jetbrains-patches-critical-teamcity-flaw-allowing-server-takeover/"
+        },
+        {
+            "title": "JetBrains Urging Customers to Patch Critical TeamCity Flaw that Enables OS Command Execution",
+            "link": "https://cybersecuritynews.com/jetbrains-patch-teamcity-flaw/"
         }
     ],
     "CVE-2026-53264": [
@@ -317,6 +321,18 @@
         {
             "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
             "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
+        }
+    ],
+    "CVE-2026-42533": [
+        {
+            "title": "Nginx Buffer Overflow Vulnerability Allows Attackers to Execute Arbitrary Code \u2013 PoC Released",
+            "link": "https://cybersecuritynews.com/nginx-buffer-overflow-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-42530": [
+        {
+            "title": "Nginx Buffer Overflow Vulnerability Allows Attackers to Execute Arbitrary Code \u2013 PoC Released",
+            "link": "https://cybersecuritynews.com/nginx-buffer-overflow-vulnerability-2/"
         }
     ]
 }
