@@ -19,6 +19,22 @@
         {
             "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
             "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html"
+        },
+        {
+            "title": "Critical TeamCity Flaw Lets Unauthenticated Attackers Execute System Commands",
+            "link": "https://gbhackers.com/critical-teamcity-flaw/"
+        },
+        {
+            "title": "JetBrains fixes critical unauthenticated RCE in TeamCity On-Premises (CVE-2026-63077)",
+            "link": "https://www.helpnetsecurity.com/2026/07/28/teamcity-rce-cve-2026-63077-fixed/"
+        },
+        {
+            "title": "Critical TeamCity Flaw Lets Unauthenticated Attackers Execute System Commands",
+            "link": "https://cyberpress.org/critical-teamcity-flaw-unauthenticated-system-commands/"
+        },
+        {
+            "title": "JetBrains Patches Critical TeamCity Flaw Allowing Server Takeover",
+            "link": "https://www.itsecuritynews.info/jetbrains-patches-critical-teamcity-flaw-allowing-server-takeover/"
         }
     ],
     "CVE-2026-53264": [
@@ -29,6 +45,14 @@
         {
             "title": "AI Helps Discover Linux Kernel Zero-Day Enabling Root Privilege Escalation",
             "link": "https://cyberpress.org/ai-helps-discover-linux-kernel-zero-day/"
+        },
+        {
+            "title": "AI-Assisted Research Uncovers Linux Kernel Zero-Day Enabling Root Privilege Escalation",
+            "link": "https://cybersecuritynews.com/ai-assisted-linux-kernel-zero-day/"
+        },
+        {
+            "title": "AI-Discovered Linux Kernel Zero-Day Enables Root Privilege Escalation",
+            "link": "https://gbhackers.com/ai-discovered-linux-kernel-zero-day/"
         }
     ],
     "CVE-2026-66032": [
@@ -159,6 +183,96 @@
         {
             "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
             "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-64300": [
+        {
+            "title": "AI-Assisted Research Uncovers Linux Kernel Zero-Day Enabling Root Privilege Escalation",
+            "link": "https://cybersecuritynews.com/ai-assisted-linux-kernel-zero-day/"
+        }
+    ],
+    "CVE-2026-64728": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-3783": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-64747": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-64740": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-64713": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-28931": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-43813": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-4424": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-43723": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-43753": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-3784": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-28973": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-64726": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        }
+    ],
+    "CVE-2026-43821": [
+        {
+            "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
+            "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
         }
     ]
 }
