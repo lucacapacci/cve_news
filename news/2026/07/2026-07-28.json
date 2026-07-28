@@ -1,0 +1,14 @@
+{
+    "CVE-2026-16812": [
+        {
+            "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+            "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html"
+        }
+    ],
+    "CVE-2025-68686": [
+        {
+            "title": "CISA Warns of Fortinet FortiOS Vulnerability Exploited in Attacks",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-fortinet-fortios-vulnerability-exploited-in-attacks/"
+        }
+    ]
+}
