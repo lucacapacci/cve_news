@@ -3,12 +3,162 @@
         {
             "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
             "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html"
+        },
+        {
+            "title": "Hackers Exploiting Arista VeloCloud Orchestrator 0-Day Vulnerability in the Wild",
+            "link": "https://cybersecuritynews.com/arista-velocloud-orchestrator-0-day/"
         }
     ],
     "CVE-2025-68686": [
         {
             "title": "CISA Warns of Fortinet FortiOS Vulnerability Exploited in Attacks",
             "link": "https://www.itsecuritynews.info/cisa-warns-of-fortinet-fortios-vulnerability-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-63077": [
+        {
+            "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
+            "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-53264": [
+        {
+            "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
+            "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html"
+        },
+        {
+            "title": "AI Helps Discover Linux Kernel Zero-Day Enabling Root Privilege Escalation",
+            "link": "https://cyberpress.org/ai-helps-discover-linux-kernel-zero-day/"
+        }
+    ],
+    "CVE-2026-66032": [
+        {
+            "title": "libssh2 Vulnerabilities Allows a Malicious SSH Server to Corrupt Client Memory",
+            "link": "https://cybersecuritynews.com/libssh2-vulnerabilities/"
+        },
+        {
+            "title": "Critical Four libssh2 Flaws Let Malicious SSH Servers Corrupt Client Memory",
+            "link": "https://cyberpress.org/critical-four-libssh2-flaws/"
+        }
+    ],
+    "CVE-2026-66035": [
+        {
+            "title": "libssh2 Vulnerabilities Allows a Malicious SSH Server to Corrupt Client Memory",
+            "link": "https://cybersecuritynews.com/libssh2-vulnerabilities/"
+        },
+        {
+            "title": "Critical Four libssh2 Flaws Let Malicious SSH Servers Corrupt Client Memory",
+            "link": "https://cyberpress.org/critical-four-libssh2-flaws/"
+        }
+    ],
+    "CVE-2026-66033": [
+        {
+            "title": "libssh2 Vulnerabilities Allows a Malicious SSH Server to Corrupt Client Memory",
+            "link": "https://cybersecuritynews.com/libssh2-vulnerabilities/"
+        },
+        {
+            "title": "Critical Four libssh2 Flaws Let Malicious SSH Servers Corrupt Client Memory",
+            "link": "https://cyberpress.org/critical-four-libssh2-flaws/"
+        }
+    ],
+    "CVE-2026-66034": [
+        {
+            "title": "libssh2 Vulnerabilities Allows a Malicious SSH Server to Corrupt Client Memory",
+            "link": "https://cybersecuritynews.com/libssh2-vulnerabilities/"
+        },
+        {
+            "title": "Critical Four libssh2 Flaws Let Malicious SSH Servers Corrupt Client Memory",
+            "link": "https://cyberpress.org/critical-four-libssh2-flaws/"
+        }
+    ],
+    "CVE-2026-59688": [
+        {
+            "title": "Five Progress LoadMaster Flaws Let Attackers Execute Commands and Gain Root Access",
+            "link": "https://cybersecuritynews.com/five-progress-loadmaster-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59686": [
+        {
+            "title": "Five Progress LoadMaster Flaws Let Attackers Execute Commands and Gain Root Access",
+            "link": "https://cybersecuritynews.com/five-progress-loadmaster-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59687": [
+        {
+            "title": "Five Progress LoadMaster Flaws Let Attackers Execute Commands and Gain Root Access",
+            "link": "https://cybersecuritynews.com/five-progress-loadmaster-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59690": [
+        {
+            "title": "Five Progress LoadMaster Flaws Let Attackers Execute Commands and Gain Root Access",
+            "link": "https://cybersecuritynews.com/five-progress-loadmaster-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59689": [
+        {
+            "title": "Five Progress LoadMaster Flaws Let Attackers Execute Commands and Gain Root Access",
+            "link": "https://cybersecuritynews.com/five-progress-loadmaster-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-66040": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-66037": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-66039": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-66038": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-66036": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-66041": [
+        {
+            "title": "Multiple FFmpeg Vulnerabilities Allow Attackers to Corrupt Memory Via Malicious Video File",
+            "link": "https://cybersecuritynews.com/multiple-ffmpeg-vulnerabilities/"
+        },
+        {
+            "title": "FFmpeg Patches Six High-Severity Flaws Enabling Memory Corruption and Code Execution",
+            "link": "https://cyberpress.org/ffmpeg-patches-six-high-severity-flaws/"
         }
     ]
 }

@@ -166,5 +166,23 @@
             "title": "CISA KEV Addition: CVE-2026-16812",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-16812"
         }
+    ],
+    "CVE-2017-17215": [
+        {
+            "title": "IoT Botnet Dysphoria Turns to Blockchain and Hijacked Devices to Dodge Takedown",
+            "link": "https://www.webpronews.com/iot-botnet-dysphoria-turns-to-blockchain-and-hijacked-devices-to-dodge-takedown/"
+        }
+    ],
+    "CVE-2026-46331": [
+        {
+            "title": "SharedRoot Exposes Claude Cowork: How One Kernel Flaw Let AI Agents Roam Free on Macs",
+            "link": "https://www.webpronews.com/sharedroot-exposes-claude-cowork-how-one-kernel-flaw-let-ai-agents-roam-free-on-macs/"
+        }
+    ],
+    "CVE-2026-53359": [
+        {
+            "title": "KVM Chainsaw Slices Through Decades-Old Code Tangle Ahead of Linux 7.3",
+            "link": "https://www.webpronews.com/kvm-chainsaw-slices-through-decades-old-code-tangle-ahead-of-linux-7-3/"
+        }
     ]
 }
