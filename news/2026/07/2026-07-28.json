@@ -207,12 +207,20 @@
         {
             "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
             "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        },
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
         }
     ],
     "CVE-2026-64740": [
         {
             "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
             "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        },
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
         }
     ],
     "CVE-2026-64713": [
@@ -225,6 +233,10 @@
         {
             "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
             "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        },
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
         }
     ],
     "CVE-2026-43813": [
@@ -243,6 +255,10 @@
         {
             "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
             "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        },
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
         }
     ],
     "CVE-2026-43753": [
@@ -261,6 +277,10 @@
         {
             "title": "Apple iOS 26.6 Fixes Kernel Code Execution, Sandbox Escape, and WebKit Flaws",
             "link": "https://cyberpress.org/apple-ios-26-6-kernel-code-execution-sandbox-escape-webkit/"
+        },
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
         }
     ],
     "CVE-2026-64726": [
@@ -291,6 +311,12 @@
         {
             "title": "Public Exploit Lands for vBulletin\u2019s Pre-Auth RCE, CVE-2026-61511",
             "link": "https://www.itsecuritynews.info/public-exploit-lands-for-vbulletins-pre-auth-rce-cve-2026-61511/"
+        }
+    ],
+    "CVE-2026-43810": [
+        {
+            "title": "Apple iOS 26.6 Fixes Flaws Enabling Kernel Code Execution, Root Access and Sandbox Escape",
+            "link": "https://cybersecuritynews.com/apple-ios-26-6-fixes-flaws/"
         }
     ]
 }
