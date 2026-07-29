@@ -2,7 +2,17 @@
     "CVE-2026-42533": [
         {
             "title": "NGINX Heap Overflow Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
-            "link": "https://www.itsecuritynews.info/nginx-heap-overflow-flaw-could-let-unauthenticated-attackers-execute-arbitrary-code/"
+            "link": "https://gbhackers.com/nginx-heap-overflow-flaw/"
+        },
+        {
+            "title": "NGINX Heap Overflow Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/nginx-heap-overflow-flaw/"
+        }
+    ],
+    "CVE-2026-42945": [
+        {
+            "title": "NGINX Heap Overflow Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/nginx-heap-overflow-flaw/"
         }
     ]
 }
