@@ -323,6 +323,10 @@
         {
             "title": "Public Exploit Lands for vBulletin\u2019s Pre-Auth RCE, CVE-2026-61511",
             "link": "https://www.itsecuritynews.info/public-exploit-lands-for-vbulletins-pre-auth-rce-cve-2026-61511/"
+        },
+        {
+            "title": "vBulletin\u2019s Recurring Template Trap: Public Exploit Hits Patched Pre-Auth RCE",
+            "link": "https://www.webpronews.com/vbulletins-recurring-template-trap-public-exploit-hits-patched-pre-auth-rce/"
         }
     ],
     "CVE-2026-43810": [
@@ -365,6 +369,36 @@
         {
             "title": "Coordinated \u201ccyberattack\u201d on Minnesota water utilities: What you need to know",
             "link": "https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know"
+        }
+    ],
+    "CVE-2025-29935": [
+        {
+            "title": "AMD\u2019s PMF Testing Tool Heads to Linux 7.3, Opening New Views Into Laptop Power and Thermal Behavior",
+            "link": "https://www.webpronews.com/amds-pmf-testing-tool-heads-to-linux-7-3-opening-new-views-into-laptop-power-and-thermal-behavior/"
+        }
+    ],
+    "CVE-2025-0028": [
+        {
+            "title": "AMD\u2019s PMF Testing Tool Heads to Linux 7.3, Opening New Views Into Laptop Power and Thermal Behavior",
+            "link": "https://www.webpronews.com/amds-pmf-testing-tool-heads-to-linux-7-3-opening-new-views-into-laptop-power-and-thermal-behavior/"
+        }
+    ],
+    "CVE-2025-48828": [
+        {
+            "title": "vBulletin\u2019s Recurring Template Trap: Public Exploit Hits Patched Pre-Auth RCE",
+            "link": "https://www.webpronews.com/vbulletins-recurring-template-trap-public-exploit-hits-patched-pre-auth-rce/"
+        }
+    ],
+    "CVE-2025-48827": [
+        {
+            "title": "vBulletin\u2019s Recurring Template Trap: Public Exploit Hits Patched Pre-Auth RCE",
+            "link": "https://www.webpronews.com/vbulletins-recurring-template-trap-public-exploit-hits-patched-pre-auth-rce/"
+        }
+    ],
+    "CVE-2026-54121": [
+        {
+            "title": "vBulletin\u2019s Recurring Template Trap: Public Exploit Hits Patched Pre-Auth RCE",
+            "link": "https://www.webpronews.com/vbulletins-recurring-template-trap-public-exploit-hits-patched-pre-auth-rce/"
         }
     ]
 }
