@@ -400,5 +400,11 @@
             "title": "vBulletin\u2019s Recurring Template Trap: Public Exploit Hits Patched Pre-Auth RCE",
             "link": "https://www.webpronews.com/vbulletins-recurring-template-trap-public-exploit-hits-patched-pre-auth-rce/"
         }
+    ],
+    "CVE-2023-3596": [
+        {
+            "title": "Coordinated \u201ccyberattack\u201d on Minnesota water utilities: What you need to know",
+            "link": "https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know"
+        }
     ]
 }
