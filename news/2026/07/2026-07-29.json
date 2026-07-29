@@ -27,6 +27,10 @@
         {
             "title": "Check Point SmartConsole Zero-Day Lets Unauthenticated Attackers Gain Full Admin Access",
             "link": "https://gbhackers.com/check-point-smartconsole-zero-day/"
+        },
+        {
+            "title": "Check Point SmartConsole Zero-Day Lets Unauthenticated Attackers Gain Full Admin Access",
+            "link": "https://cyberpress.org/check-point-smartconsole-zero-day/"
         }
     ],
     "CVE-2026-60004": [
@@ -69,12 +73,20 @@
         {
             "title": "Broadcom Patches Critical VMware ESXi Vulnerability Enabling Host Code Execution",
             "link": "https://www.itsecuritynews.info/broadcom-patches-critical-vmware-esxi-vulnerability-enabling-host-code-execution/"
+        },
+        {
+            "title": "Critical VMware vCenter Flaws Let Remote Attackers Bypass Authentication and Execute Code",
+            "link": "https://cyberpress.org/critical-vmware-vcenter-flaws/"
         }
     ],
     "CVE-2026-41709": [
         {
             "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
             "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/"
+        },
+        {
+            "title": "Critical VMware vCenter Flaws Let Remote Attackers Bypass Authentication and Execute Code",
+            "link": "https://cyberpress.org/critical-vmware-vcenter-flaws/"
         }
     ],
     "CVE-2026-59309": [
@@ -85,18 +97,30 @@
         {
             "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
             "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html"
+        },
+        {
+            "title": "Critical VMware vCenter Flaws Let Remote Attackers Bypass Authentication and Execute Code",
+            "link": "https://cyberpress.org/critical-vmware-vcenter-flaws/"
         }
     ],
     "CVE-2026-41703": [
         {
             "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
             "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/"
+        },
+        {
+            "title": "Critical VMware vCenter Flaws Let Remote Attackers Bypass Authentication and Execute Code",
+            "link": "https://cyberpress.org/critical-vmware-vcenter-flaws/"
         }
     ],
     "CVE-2026-59310": [
         {
             "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
             "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/"
+        },
+        {
+            "title": "Critical VMware vCenter Flaws Let Remote Attackers Bypass Authentication and Execute Code",
+            "link": "https://cyberpress.org/critical-vmware-vcenter-flaws/"
         }
     ],
     "CVE-2026-65094": [
@@ -107,6 +131,10 @@
         {
             "title": "NVIDIA BlueField Vulnerability Enables Code Execution Attacks",
             "link": "https://cybersecuritynews.com/nvidia-bluefield-vulnerability/"
+        },
+        {
+            "title": "Critical NVIDIA BlueField Flaw Lets VM Users Execute Code via Crafted Messages",
+            "link": "https://cyberpress.org/critical-nvidia-bluefield-flaw/"
         }
     ],
     "CVE-2026-59726": [
@@ -121,6 +149,10 @@
         {
             "title": "Critical Ruflo MCP Bridge Flaw Allows Full AI Agent Platform Takeover",
             "link": "https://gbhackers.com/critical-ruflo-mcp-bridge-flaw/"
+        },
+        {
+            "title": "Critical Ruflo Flaw Lets Hackers Steal API Keys and Control Autonomous Agents",
+            "link": "https://cyberpress.org/critical-ruflo-mcp-bridge-flaw/"
         }
     ],
     "CVE-2026-66066": [
@@ -133,6 +165,12 @@
         {
             "title": "CISA KEV Addition: CVE-2026-20316",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20316"
+        }
+    ],
+    "CVE-2025-33209": [
+        {
+            "title": "Critical NVIDIA BlueField Flaw Lets VM Users Execute Code via Crafted Messages",
+            "link": "https://cyberpress.org/critical-nvidia-bluefield-flaw/"
         }
     ]
 }
