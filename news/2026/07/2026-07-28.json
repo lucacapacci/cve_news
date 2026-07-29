@@ -348,5 +348,23 @@
             "title": "Cursor Quietly Patches High-Severity Git Vulnerability After Seven-Month Delay",
             "link": "https://www.techrepublic.com/article/news-cursor-git-code-execution-vulnerability-cve-2026-63093/"
         }
+    ],
+    "CVE-2023-3595": [
+        {
+            "title": "Coordinated \u201ccyberattack\u201d on Minnesota water utilities: What you need to know",
+            "link": "https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know"
+        }
+    ],
+    "CVE-2024-6242": [
+        {
+            "title": "Coordinated \u201ccyberattack\u201d on Minnesota water utilities: What you need to know",
+            "link": "https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know"
+        }
+    ],
+    "CVE-2021-22681": [
+        {
+            "title": "Coordinated \u201ccyberattack\u201d on Minnesota water utilities: What you need to know",
+            "link": "https://www.tenable.com/blog/coordinated-cyberattack-on-minnesota-water-utilities-what-you-need-to-know"
+        }
     ]
 }
