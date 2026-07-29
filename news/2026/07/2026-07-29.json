@@ -77,6 +77,10 @@
         {
             "title": "Critical VMware vCenter Flaws Let Remote Attackers Bypass Authentication and Execute Code",
             "link": "https://cyberpress.org/critical-vmware-vcenter-flaws/"
+        },
+        {
+            "title": "ZDI-26-495: (Pwn2Own) VMware ESXi VMXNET3 espQueueMask Out-Of-Bounds Write Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-495/"
         }
     ],
     "CVE-2026-41709": [
@@ -399,6 +403,66 @@
         {
             "title": "ZDI-26-453: GIMP HDR File Parsing Integer Overflow Remote Code Execution Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-453/"
+        }
+    ],
+    "CVE-2026-13054": [
+        {
+            "title": "ZDI-26-501: WatchGuard FireWare OS sigd comp_start_cb Directory Traversal Arbitrary File Creation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-501/"
+        }
+    ],
+    "CVE-2026-13050": [
+        {
+            "title": "ZDI-26-500: WatchGuard FireWare OS networkd network_wireless_kick_off_user_cb Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-500/"
+        }
+    ],
+    "CVE-2026-13053": [
+        {
+            "title": "ZDI-26-499: WatchGuard FireWare OS cli Token Parser Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-499/"
+        }
+    ],
+    "CVE-2025-71387": [
+        {
+            "title": "ZDI-26-498: TrendAI Vision One Incorrect Privilege Assignment Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-498/"
+        }
+    ],
+    "CVE-2025-71386": [
+        {
+            "title": "ZDI-26-497: TrendAI Vision One Service Gateway Logs Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-497/"
+        }
+    ],
+    "CVE-2026-62660": [
+        {
+            "title": "ZDI-26-496: Trend AI Cleaner One Pro Link Following Arbitrary File Deletion Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-496/"
+        }
+    ],
+    "CVE-2026-43729": [
+        {
+            "title": "ZDI-26-494: Apple macOS USD File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-494/"
+        }
+    ],
+    "CVE-2026-43733": [
+        {
+            "title": "ZDI-26-493: Apple macOS USD File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-493/"
+        }
+    ],
+    "CVE-2026-43780": [
+        {
+            "title": "ZDI-26-492: Apple macOS ImageIO Numeric Truncation Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-492/"
+        }
+    ],
+    "CVE-2026-43673": [
+        {
+            "title": "ZDI-26-491: Apple macOS CoreAudio Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-491/"
         }
     ]
 }
