@@ -50,5 +50,47 @@
             "title": "WordPress Plugin Backdoor Sends Site and Administrator Details to Attacker C2",
             "link": "https://cybersecuritynews.com/wordpress-plugin-backdoor/"
         }
+    ],
+    "CVE-2026-10702": [
+        {
+            "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
+            "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html"
+        }
+    ],
+    "CVE-2026-47876": [
+        {
+            "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
+            "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-41709": [
+        {
+            "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
+            "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-59309": [
+        {
+            "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
+            "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-41703": [
+        {
+            "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
+            "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
+            "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-65094": [
+        {
+            "title": "NVIDIA BlueField Flaw Lets VM Users Execute Code via Crafted Messages",
+            "link": "https://gbhackers.com/nvidia-bluefield-flaw/"
+        }
     ]
 }
