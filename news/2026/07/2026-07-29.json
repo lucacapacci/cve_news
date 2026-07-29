@@ -61,6 +61,10 @@
         {
             "title": "Critical VMware Flaws Allow Attackers to Bypass Authentication and Gain Access to the System",
             "link": "https://cybersecuritynews.com/vmware-flaws-allow-authentication-bypass/"
+        },
+        {
+            "title": "Broadcom Patches Critical VMware ESXi Vulnerability Enabling Host Code Execution",
+            "link": "https://www.itsecuritynews.info/broadcom-patches-critical-vmware-esxi-vulnerability-enabling-host-code-execution/"
         }
     ],
     "CVE-2026-41709": [
@@ -91,6 +95,12 @@
         {
             "title": "NVIDIA BlueField Flaw Lets VM Users Execute Code via Crafted Messages",
             "link": "https://gbhackers.com/nvidia-bluefield-flaw/"
+        }
+    ],
+    "CVE-2026-59726": [
+        {
+            "title": "Critical Ruflo MCP Bridge Flaw Allows Full AI Agent Platform Takeover",
+            "link": "https://www.itsecuritynews.info/critical-ruflo-mcp-bridge-flaw-allows-full-ai-agent-platform-takeover/"
         }
     ]
 }
