@@ -172,5 +172,233 @@
             "title": "Critical NVIDIA BlueField Flaw Lets VM Users Execute Code via Crafted Messages",
             "link": "https://cyberpress.org/critical-nvidia-bluefield-flaw/"
         }
+    ],
+    "CVE-2026-18273": [
+        {
+            "title": "ZDI-26-490: (Pwn2Own) Kenwood DNR1007XR USB Incorrect Default Permissions Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-490/"
+        }
+    ],
+    "CVE-2026-18272": [
+        {
+            "title": "ZDI-26-489: (Pwn2Own) Kenwood DNR1007XR startUpdateProcess Command Injection Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-489/"
+        }
+    ],
+    "CVE-2026-18271": [
+        {
+            "title": "ZDI-26-488: (Pwn2Own) Kenwood DNR1007XR vCardParser Heap-based Buffer Overflow Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-488/"
+        }
+    ],
+    "CVE-2026-18270": [
+        {
+            "title": "ZDI-26-487: (Pwn2Own) Kenwood DNR1007XR udhcpd Incorrect Permission Assignment Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-487/"
+        }
+    ],
+    "CVE-2026-18269": [
+        {
+            "title": "ZDI-26-486: (Pwn2Own) Kenwood DNR1007XR tchdr_bytestream_read Out-Of-Bounds Write Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-486/"
+        }
+    ],
+    "CVE-2026-18268": [
+        {
+            "title": "ZDI-26-485: (Pwn2Own) Kenwood DNR1007XR JKGenService Command Injection Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-485/"
+        }
+    ],
+    "CVE-2026-18267": [
+        {
+            "title": "ZDI-26-484: (Pwn2Own) Kenwood DNR1007XR Firmware Update Link Following Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-484/"
+        }
+    ],
+    "CVE-2026-18264": [
+        {
+            "title": "ZDI-26-483: NoMachine getstat Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-483/"
+        }
+    ],
+    "CVE-2026-59689": [
+        {
+            "title": "ZDI-26-482: Progress Software Kemp LoadMaster enablexroot Use of Hard-Coded Cryptographic Key Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-482/"
+        }
+    ],
+    "CVE-2026-59690": [
+        {
+            "title": "ZDI-26-481: Progress Software Kemp LoadMaster access Missing Authorization Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-481/"
+        }
+    ],
+    "CVE-2026-18265": [
+        {
+            "title": "ZDI-26-480: OSNEXUS QuantaStor Missing Authentication Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-480/"
+        }
+    ],
+    "CVE-2026-18274": [
+        {
+            "title": "ZDI-26-479: Heimdall Data Database Proxy uploadJar Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-479/"
+        }
+    ],
+    "CVE-2026-15686": [
+        {
+            "title": "ZDI-26-478: Adminer multi_query Incorrect Check of Function Return Value Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-478/"
+        }
+    ],
+    "CVE-2026-18284": [
+        {
+            "title": "ZDI-26-477: (Pwn2Own) Sony XAV-9500ES Crash Dump Handler Command Injection Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-477/"
+        }
+    ],
+    "CVE-2026-18283": [
+        {
+            "title": "ZDI-26-476: (Pwn2Own) Sony XAV-9500ES udev USB Rules Authorization Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-476/"
+        }
+    ],
+    "CVE-2026-18282": [
+        {
+            "title": "ZDI-26-475: (Pwn2Own) Sony XAV-9500ES AVRCP_Br_Response_Parser Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-475/"
+        }
+    ],
+    "CVE-2026-18281": [
+        {
+            "title": "ZDI-26-474: (Pwn2Own) Sony XAV-9500ES l2_reassemble_sdu Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-474/"
+        }
+    ],
+    "CVE-2026-18280": [
+        {
+            "title": "ZDI-26-473: (Pwn2Own) Sony XAV-9500ES gpsd Buffer Overflow Arbitrary Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-473/"
+        }
+    ],
+    "CVE-2026-18279": [
+        {
+            "title": "ZDI-26-472: (Pwn2Own) Sony XAV-9500ES RTSP SETUP Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-472/"
+        }
+    ],
+    "CVE-2026-18278": [
+        {
+            "title": "ZDI-26-471: (Pwn2Own) Sony XAV-9500ES prh_l2_decode_packet Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-471/"
+        }
+    ],
+    "CVE-2026-18287": [
+        {
+            "title": "ZDI-26-470: Aeon load_time_series_segmentation_benchmark Code Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-470/"
+        }
+    ],
+    "CVE-2026-18286": [
+        {
+            "title": "ZDI-26-469: Aeon load_human_activity_segmentation_datasets Code Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-469/"
+        }
+    ],
+    "CVE-2026-18285": [
+        {
+            "title": "ZDI-26-468: Aeon load_rehab_pile_dataset Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-468/"
+        }
+    ],
+    "CVE-2026-18299": [
+        {
+            "title": "ZDI-26-467: GStreamer rtpsbcdepay Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-467/"
+        }
+    ],
+    "CVE-2026-18298": [
+        {
+            "title": "ZDI-26-466: GStreamer PNG File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-466/"
+        }
+    ],
+    "CVE-2026-18297": [
+        {
+            "title": "ZDI-26-465: GStreamer OGG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-465/"
+        }
+    ],
+    "CVE-2026-18296": [
+        {
+            "title": "ZDI-26-464: GStreamer MRF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-464/"
+        }
+    ],
+    "CVE-2026-18295": [
+        {
+            "title": "ZDI-26-463: GStreamer MRF File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-463/"
+        }
+    ],
+    "CVE-2026-18309": [
+        {
+            "title": "ZDI-26-462: GIMP APNG File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-462/"
+        }
+    ],
+    "CVE-2026-18308": [
+        {
+            "title": "ZDI-26-461: GIMP TIF File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-461/"
+        }
+    ],
+    "CVE-2026-18307": [
+        {
+            "title": "ZDI-26-460: GIMP TIF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-460/"
+        }
+    ],
+    "CVE-2026-18306": [
+        {
+            "title": "ZDI-26-459: GIMP SGI File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-459/"
+        }
+    ],
+    "CVE-2026-18305": [
+        {
+            "title": "ZDI-26-458: GIMP TIF File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-458/"
+        }
+    ],
+    "CVE-2026-18304": [
+        {
+            "title": "ZDI-26-457: GIMP TIF File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-457/"
+        }
+    ],
+    "CVE-2026-18303": [
+        {
+            "title": "ZDI-26-456: GIMP TIF File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-456/"
+        }
+    ],
+    "CVE-2026-18302": [
+        {
+            "title": "ZDI-26-455: GIMP TIF File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-455/"
+        }
+    ],
+    "CVE-2026-18301": [
+        {
+            "title": "ZDI-26-454: GIMP PSD File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-454/"
+        }
+    ],
+    "CVE-2026-18300": [
+        {
+            "title": "ZDI-26-453: GIMP HDR File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-453/"
+        }
     ]
 }
