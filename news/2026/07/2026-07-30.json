@@ -13,6 +13,10 @@
         {
             "title": "Critical Rails Flaw Lets Attackers Read Arbitrary Files and Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/critical-rails-vulnerability/"
+        },
+        {
+            "title": "CVE-2026-66066: Defending Against the \u201cKindaRails2Shell\u201d Pre-Auth RCE",
+            "link": "https://www.itsecuritynews.info/cve-2026-66066-defending-against-the-kindarails2shell-pre-auth-rce/"
         }
     ],
     "CVE-2026-20316": [
