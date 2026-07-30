@@ -1,0 +1,18 @@
+{
+    "CVE-2026-10702": [
+        {
+            "title": "Hackers Can Compromise Tor Browser Users by Exploiting Firefox JIT Flaw",
+            "link": "https://gbhackers.com/hackers-can-compromise-tor-browser-users/"
+        }
+    ],
+    "CVE-2026-66066": [
+        {
+            "title": "Critical Rails Flaw Lets Unauthenticated Attackers Read Server Files and Execute Code",
+            "link": "https://gbhackers.com/critical-rails-flaw/"
+        },
+        {
+            "title": "Critical Rails Flaw Lets Attackers Read Arbitrary Files and Execute Malicious Code Remotely",
+            "link": "https://www.itsecuritynews.info/critical-rails-flaw-lets-attackers-read-arbitrary-files-and-execute-malicious-code-remotely/"
+        }
+    ]
+}
