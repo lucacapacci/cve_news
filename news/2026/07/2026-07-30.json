@@ -47,6 +47,10 @@
         {
             "title": "CISA Adds Cisco Secure Firewall Management Flaw to Exploited Vulnerabilities List",
             "link": "https://gbhackers.com/cisa-adds-cisco-secure-firewall-management-flaw/"
+        },
+        {
+            "title": "CISA Warns of Cisco Secure Firewall Management 0-Day Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisco-secure-firewall-management-0-day/"
         }
     ],
     "CVE-2026-56850": [
@@ -295,6 +299,10 @@
         {
             "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
             "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
         }
     ],
     "CVE-2026-17708": [
@@ -307,6 +315,10 @@
         {
             "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
             "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
         }
     ],
     "CVE-2026-17681": [
@@ -361,6 +373,10 @@
         {
             "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
             "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
         }
     ],
     "CVE-2026-17673": [
@@ -445,6 +461,10 @@
         {
             "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
             "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
         }
     ],
     "CVE-2026-17698": [
@@ -469,6 +489,10 @@
         {
             "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
             "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
         }
     ],
     "CVE-2026-17677": [
@@ -523,12 +547,20 @@
         {
             "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
             "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
         }
     ],
     "CVE-2026-17653": [
         {
             "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
             "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        },
+        {
+            "title": "Google Chrome 151 Patches 370 Security Flaws, Including Seven Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-151-patches-370-security-flaws/"
         }
     ],
     "CVE-2026-17689": [
@@ -559,6 +591,148 @@
         {
             "title": "CosmosEscape Flaw Enabled Cross-Tenant Takeover of Azure Cosmos DB Accounts",
             "link": "https://cyberpress.org/cosmosescape-flaw-enabled-azure-cosmos-db-takeover/"
+        }
+    ],
+    "CVE-2026-15679": [
+        {
+            "title": "ZDI-26-523: Hugging Face PyTorch Image Models checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-523/"
+        }
+    ],
+    "CVE-2026-41032": [
+        {
+            "title": "ZDI-26-522: Phoenix Contact CHARX SEC-3000 Insertion of Sensitive Information into Log File Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-522/"
+        }
+    ],
+    "CVE-2026-44095": [
+        {
+            "title": "ZDI-26-521: Phoenix Contact CHARX SEC-3000 Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-521/"
+        },
+        {
+            "title": "ZDI-26-508: (Pwn2Own) Phoenix Contact CHARX SEC-3150 charx_set_ip_address Improper Input Validation Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-508/"
+        }
+    ],
+    "CVE-2026-44103": [
+        {
+            "title": "ZDI-26-520: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Jupicore External Control of Path Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-520/"
+        }
+    ],
+    "CVE-2026-44099": [
+        {
+            "title": "ZDI-26-519: (Pwn2Own) Phoenix Contact CHARX SEC-3150 CharxSystemConfigManager Configuration Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-519/"
+        }
+    ],
+    "CVE-2026-44091": [
+        {
+            "title": "ZDI-26-518: (Pwn2Own) Phoenix Contact CHARX SEC-3150 MQTT Service Server-Side Request Forgery Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-518/"
+        }
+    ],
+    "CVE-2026-44098": [
+        {
+            "title": "ZDI-26-517: (Pwn2Own) Phoenix Contact CHARX SEC-3150 BackendURL WebSocket Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-517/"
+        }
+    ],
+    "CVE-2026-44090": [
+        {
+            "title": "ZDI-26-516: (Pwn2Own) Phoenix Contact CHARX SEC-3150 ModBus Server Exposed Dangerous Function Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-516/"
+        }
+    ],
+    "CVE-2026-44100": [
+        {
+            "title": "ZDI-26-515: (Pwn2Own) Phoenix Contact CHARX SEC-3150 charx-jupicore Missing Authentication Configuration Modification Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-515/"
+        }
+    ],
+    "CVE-2026-44094": [
+        {
+            "title": "ZDI-26-514: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Failing Open Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-514/"
+        }
+    ],
+    "CVE-2026-44097": [
+        {
+            "title": "ZDI-26-513: (Pwn2Own) Phoenix Contact CHARX SEC-3150 update2-upload Arbitrary File Upload Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-513/"
+        }
+    ],
+    "CVE-2026-44107": [
+        {
+            "title": "ZDI-26-512: (Pwn2Own) Phoenix Contact CHARX SEC-3150 ModBus Server Exposed Dangerous Function Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-512/"
+        }
+    ],
+    "CVE-2026-44093": [
+        {
+            "title": "ZDI-26-511: (Pwn2Own) Phoenix Contact CHARX SEC-3150 user-applications Symlink Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-511/"
+        }
+    ],
+    "CVE-2026-44104": [
+        {
+            "title": "ZDI-26-510: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Missing Cryptographic Signature Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-510/"
+        }
+    ],
+    "CVE-2026-44101": [
+        {
+            "title": "ZDI-26-509: (Pwn2Own) Phoenix Contact CHARX SEC-3150 OCPP Missing Authentication for Critical Function Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-509/"
+        }
+    ],
+    "CVE-2026-44096": [
+        {
+            "title": "ZDI-26-507: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Privilege Defined With Unsafe Actions Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-507/"
+        }
+    ],
+    "CVE-2026-44105": [
+        {
+            "title": "ZDI-26-506: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Insertion of Sensitive Information into Log File Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-506/"
+        }
+    ],
+    "CVE-2026-44092": [
+        {
+            "title": "ZDI-26-505: (Pwn2Own) Phoenix Contact CHARX SEC-3150 charx-system-config-manager Service CRLF Injection Firewall Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-505/"
+        }
+    ],
+    "CVE-2026-7849": [
+        {
+            "title": "ZDI-26-504: (Pwn2Own) Phoenix Contact CHARX SEC-3150 CharxSystemConfigManager Configuration Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-504/"
+        }
+    ],
+    "CVE-2026-44108": [
+        {
+            "title": "ZDI-26-503: (Pwn2Own) Phoenix Contact CHARX SEC-3150 Race Condition Firewall Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-503/"
+        }
+    ],
+    "CVE-2026-44106": [
+        {
+            "title": "ZDI-26-502: (Pwn2Own) Phoenix Contact CHARX SEC-3150 user-applications Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-502/"
+        }
+    ],
+    "CVE-2026-5027": [
+        {
+            "title": "Hackers Are Exploiting Nearly One in Four Vulnerabilities Before Defenders Get a CVE",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-one-in-four-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0769": [
+        {
+            "title": "Hackers Are Exploiting Nearly One in Four Vulnerabilities Before Defenders Get a CVE",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-one-in-four-vulnerabilities/"
         }
     ]
 }
