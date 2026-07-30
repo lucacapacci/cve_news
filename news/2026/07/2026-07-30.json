@@ -12,7 +12,517 @@
         },
         {
             "title": "Critical Rails Flaw Lets Attackers Read Arbitrary Files and Execute Malicious Code Remotely",
-            "link": "https://www.itsecuritynews.info/critical-rails-flaw-lets-attackers-read-arbitrary-files-and-execute-malicious-code-remotely/"
+            "link": "https://cybersecuritynews.com/critical-rails-vulnerability/"
+        }
+    ],
+    "CVE-2026-20316": [
+        {
+            "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+            "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html"
+        },
+        {
+            "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+            "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/"
+        },
+        {
+            "title": "Cisco Firewall Management Center 0-Day Actively Exploited to Access Sensitive Data",
+            "link": "https://cybersecuritynews.com/cisco-firewall-management-center-0-day/"
+        }
+    ],
+    "CVE-2026-56850": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58042": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58043": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58040": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-56846": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58044": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-56848": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58045": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-56847": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58041": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        },
+        {
+            "title": "Node.js Patches 11 Security Flaws Enabling Memory Exhaustion, File Access and Request Smuggling",
+            "link": "https://cyberpress.org/node-js-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-58039": [
+        {
+            "title": "Node.js Fixes 11 Security Flaws That Can Crash Servers and Break Filesystem Restrictions",
+            "link": "https://cybersecuritynews.com/node-js-fixes-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-42897": [
+        {
+            "title": "TA488 May Have Exploited Outlook Web Access 0-Day Flaw Before Microsoft\u2019s Emergency Patch",
+            "link": "https://cybersecuritynews.com/ta488-exploited-outlook-web-access-0-day-flaw/"
+        },
+        {
+            "title": "TA488 Exploits CVE-2026-42897 Outlook Flaw to Deploy OWAReaper Backdoor",
+            "link": "https://cyberpress.org/ta488-deploys-owareaper-backdoor/"
+        }
+    ],
+    "CVE-2026-6336": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15831": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2025-14562": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-12436": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-13113": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-6267": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-16553": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-3093": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15975": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-14351": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-14341": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15077": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-4672": [
+        {
+            "title": "GitLab Patches 13 Security Flaws Enabling Data Exposure, CI/CD Tampering and DoS Attacks",
+            "link": "https://cyberpress.org/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-17684": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17663": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17696": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17682": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17692": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17666": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17695": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17662": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17652": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17708": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17650": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17681": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17693": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17679": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17686": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17659": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17866": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17661": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17687": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17654": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17673": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17660": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17668": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17690": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17688": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17680": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17685": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17667": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17683": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17697": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17691": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17694": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17670": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17651": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17698": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17676": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17657": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17655": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17677": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17678": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17669": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17671": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17672": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17675": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17664": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17658": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17656": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17653": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17689": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17665": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
+        }
+    ],
+    "CVE-2026-17674": [
+        {
+            "title": "Google Chrome Fixes 370 Security Flaws, Including WebAudio Type Confusion Bug",
+            "link": "https://cyberpress.org/google-chrome-fixes-370-security-flaws-including-webaudio-type-confusion-bug/"
         }
     ]
 }
