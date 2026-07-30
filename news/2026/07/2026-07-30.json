@@ -42,7 +42,7 @@
         },
         {
             "title": "CISA Adds Cisco Secure Firewall Management Flaw to Exploited Vulnerabilities List",
-            "link": "https://www.itsecuritynews.info/cisa-adds-cisco-secure-firewall-management-flaw-to-exploited-vulnerabilities-list/"
+            "link": "https://gbhackers.com/cisa-adds-cisco-secure-firewall-management-flaw/"
         }
     ],
     "CVE-2026-56850": [
@@ -155,6 +155,10 @@
         {
             "title": "TA488 Exploits CVE-2026-42897 Outlook Flaw to Deploy OWAReaper Backdoor",
             "link": "https://cyberpress.org/ta488-deploys-owareaper-backdoor/"
+        },
+        {
+            "title": "Laundry Bear\u2019s new Microsoft Exchange attack triggers on email open (CVE-2026-42897)",
+            "link": "https://www.helpnetsecurity.com/2026/07/30/cve-2026-42897-microsoft-exchange-email-attack/"
         }
     ],
     "CVE-2026-6336": [
