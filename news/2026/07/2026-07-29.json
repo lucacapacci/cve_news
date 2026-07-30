@@ -81,6 +81,10 @@
         {
             "title": "ZDI-26-495: (Pwn2Own) VMware ESXi VMXNET3 espQueueMask Out-Of-Bounds Write Local Privilege Escalation Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-495/"
+        },
+        {
+            "title": "Broadcom Patches Trio of Critical VMware Bugs Exposing vCenter and ESXi to Takeover",
+            "link": "https://www.webpronews.com/broadcom-patches-trio-of-critical-vmware-bugs-exposing-vcenter-and-esxi-to-takeover/"
         }
     ],
     "CVE-2026-41709": [
@@ -91,6 +95,10 @@
         {
             "title": "Critical VMware vCenter Flaws Let Remote Attackers Bypass Authentication and Execute Code",
             "link": "https://cyberpress.org/critical-vmware-vcenter-flaws/"
+        },
+        {
+            "title": "Broadcom Patches Trio of Critical VMware Bugs Exposing vCenter and ESXi to Takeover",
+            "link": "https://www.webpronews.com/broadcom-patches-trio-of-critical-vmware-bugs-exposing-vcenter-and-esxi-to-takeover/"
         }
     ],
     "CVE-2026-59309": [
@@ -105,6 +113,10 @@
         {
             "title": "Critical VMware vCenter Flaws Let Remote Attackers Bypass Authentication and Execute Code",
             "link": "https://cyberpress.org/critical-vmware-vcenter-flaws/"
+        },
+        {
+            "title": "Broadcom Patches Trio of Critical VMware Bugs Exposing vCenter and ESXi to Takeover",
+            "link": "https://www.webpronews.com/broadcom-patches-trio-of-critical-vmware-bugs-exposing-vcenter-and-esxi-to-takeover/"
         }
     ],
     "CVE-2026-41703": [
@@ -115,6 +127,10 @@
         {
             "title": "Critical VMware vCenter Flaws Let Remote Attackers Bypass Authentication and Execute Code",
             "link": "https://cyberpress.org/critical-vmware-vcenter-flaws/"
+        },
+        {
+            "title": "Broadcom Patches Trio of Critical VMware Bugs Exposing vCenter and ESXi to Takeover",
+            "link": "https://www.webpronews.com/broadcom-patches-trio-of-critical-vmware-bugs-exposing-vcenter-and-esxi-to-takeover/"
         }
     ],
     "CVE-2026-59310": [
@@ -125,6 +141,10 @@
         {
             "title": "Critical VMware vCenter Flaws Let Remote Attackers Bypass Authentication and Execute Code",
             "link": "https://cyberpress.org/critical-vmware-vcenter-flaws/"
+        },
+        {
+            "title": "Broadcom Patches Trio of Critical VMware Bugs Exposing vCenter and ESXi to Takeover",
+            "link": "https://www.webpronews.com/broadcom-patches-trio-of-critical-vmware-bugs-exposing-vcenter-and-esxi-to-takeover/"
         }
     ],
     "CVE-2026-65094": [
@@ -467,6 +487,66 @@
         {
             "title": "ZDI-26-491: Apple macOS CoreAudio Out-Of-Bounds Write Remote Code Execution Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-491/"
+        }
+    ],
+    "CVE-2024-24974": [
+        {
+            "title": "Outdated OpenVPN Code Persists in Top VPN Apps, Exposing Users to Known Attacks",
+            "link": "https://www.webpronews.com/outdated-openvpn-code-persists-in-top-vpn-apps-exposing-users-to-known-attacks/"
+        }
+    ],
+    "CVE-2025-13086": [
+        {
+            "title": "Outdated OpenVPN Code Persists in Top VPN Apps, Exposing Users to Known Attacks",
+            "link": "https://www.webpronews.com/outdated-openvpn-code-persists-in-top-vpn-apps-exposing-users-to-known-attacks/"
+        }
+    ],
+    "CVE-2024-27903": [
+        {
+            "title": "Outdated OpenVPN Code Persists in Top VPN Apps, Exposing Users to Known Attacks",
+            "link": "https://www.webpronews.com/outdated-openvpn-code-persists-in-top-vpn-apps-exposing-users-to-known-attacks/"
+        }
+    ],
+    "CVE-2026-35058": [
+        {
+            "title": "Outdated OpenVPN Code Persists in Top VPN Apps, Exposing Users to Known Attacks",
+            "link": "https://www.webpronews.com/outdated-openvpn-code-persists-in-top-vpn-apps-exposing-users-to-known-attacks/"
+        }
+    ],
+    "CVE-2024-27459": [
+        {
+            "title": "Outdated OpenVPN Code Persists in Top VPN Apps, Exposing Users to Known Attacks",
+            "link": "https://www.webpronews.com/outdated-openvpn-code-persists-in-top-vpn-apps-exposing-users-to-known-attacks/"
+        }
+    ],
+    "CVE-2024-1305": [
+        {
+            "title": "Outdated OpenVPN Code Persists in Top VPN Apps, Exposing Users to Known Attacks",
+            "link": "https://www.webpronews.com/outdated-openvpn-code-persists-in-top-vpn-apps-exposing-users-to-known-attacks/"
+        }
+    ],
+    "CVE-2026-65923": [
+        {
+            "title": "OpenAI Models Exploit JFrog Artifactory Zero-Days to Breach Hugging Face",
+            "link": "https://www.webpronews.com/openai-models-exploit-jfrog-artifactory-zero-days-to-breach-hugging-face/"
+        }
+    ],
+    "CVE-2026-66018": [
+        {
+            "title": "OpenAI Models Exploit JFrog Artifactory Zero-Days to Breach Hugging Face",
+            "link": "https://www.webpronews.com/openai-models-exploit-jfrog-artifactory-zero-days-to-breach-hugging-face/"
+        }
+    ],
+    "CVE-2026-65617": [
+        {
+            "title": "OpenAI Models Exploit JFrog Artifactory Zero-Days to Breach Hugging Face",
+            "link": "https://www.webpronews.com/openai-models-exploit-jfrog-artifactory-zero-days-to-breach-hugging-face/"
+        }
+    ],
+    "CVE-2025-2894": [
+        {
+            "title": "US Moves to Block Chinese Humanoid Robots Over Security Fears",
+            "link": "https://www.webpronews.com/us-moves-to-block-chinese-humanoid-robots-over-security-fears/"
         }
     ]
 }
