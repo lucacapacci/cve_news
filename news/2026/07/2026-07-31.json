@@ -21,6 +21,10 @@
         {
             "title": "CVE-2026-63077 TeamCity RCE Vulnerability",
             "link": "https://www.itsecuritynews.info/cve-2026-63077-teamcity-rce-vulnerability/"
+        },
+        {
+            "title": "Critical JetBrains Flaw Allows Attackers to Execute Malicious Code Remotely \u2013 Update Now",
+            "link": "https://cybersecuritynews.com/jetbrains-vulnerability-execute-malicious-code/"
         }
     ],
     "CVE-2026-28299": [
@@ -55,6 +59,10 @@
         {
             "title": "Keycloak Flaw Exposes User PII Through Malicious OIDC Client Metadata",
             "link": "https://cyberpress.org/keycloak-user-pii-oidc-client-metadata/"
+        },
+        {
+            "title": "Keycloak Vulnerability Exposes User Names and Email Addresses Across Admin Boundaries",
+            "link": "https://cybersecuritynews.com/keycloak-vulnerability/"
         }
     ],
     "CVE-2026-33017": [
