@@ -12,7 +12,85 @@
         },
         {
             "title": "Critical JetBrains TeamCity Flaw Enables Unauthenticated Remote Code Execution",
-            "link": "https://www.itsecuritynews.info/critical-jetbrains-teamcity-flaw-enables-unauthenticated-remote-code-execution/"
+            "link": "https://gbhackers.com/critical-jetbrains-teamcity-flaw/"
+        },
+        {
+            "title": "Critical TeamCity Flaw Lets Unauthenticated Attackers Execute Commands Remotely",
+            "link": "https://cyberpress.org/critical-teamcity-flaw-execute-commands-remotely/"
+        },
+        {
+            "title": "CVE-2026-63077 TeamCity RCE Vulnerability",
+            "link": "https://www.itsecuritynews.info/cve-2026-63077-teamcity-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-28299": [
+        {
+            "title": "Critical SolarWinds Flaw Lets Attackers Bypass Web Help Desk SAML Login",
+            "link": "https://cybersecuritynews.com/solarwinds-flaw-bypass-web-help-desk-saml-login/"
+        },
+        {
+            "title": "Attackers Can Exploit SolarWinds Web Help Desk Flaw to Trigger Memory-Based DoS",
+            "link": "https://cyberpress.org/solarwinds-web-help-desk/"
+        }
+    ],
+    "CVE-2026-28323": [
+        {
+            "title": "Critical SolarWinds Flaw Lets Attackers Bypass Web Help Desk SAML Login",
+            "link": "https://cybersecuritynews.com/solarwinds-flaw-bypass-web-help-desk-saml-login/"
+        },
+        {
+            "title": "Critical SolarWinds Web Help Desk Flaw Lets Attackers Bypass SAML Authentication",
+            "link": "https://gbhackers.com/critical-solarwinds-web-help-desk-flaw/"
+        },
+        {
+            "title": "Attackers Can Exploit SolarWinds Web Help Desk Flaw to Trigger Memory-Based DoS",
+            "link": "https://cyberpress.org/solarwinds-web-help-desk/"
+        }
+    ],
+    "CVE-2026-17059": [
+        {
+            "title": "Keycloak Flaw Exposes Users\u2019 Personal Data to Restricted Admins",
+            "link": "https://gbhackers.com/keycloak-flaw-exposes-users-personal-data/"
+        },
+        {
+            "title": "Keycloak Flaw Exposes User PII Through Malicious OIDC Client Metadata",
+            "link": "https://cyberpress.org/keycloak-user-pii-oidc-client-metadata/"
+        }
+    ],
+    "CVE-2026-33017": [
+        {
+            "title": "Autonomous AI Agent Accidentally Exposes Hacker\u2019s Entire Attack Infrastructure",
+            "link": "https://cyberpress.org/ai-agent-exposes-hacker-infrastructure/"
+        }
+    ],
+    "CVE-2025-68613": [
+        {
+            "title": "Autonomous AI Agent Accidentally Exposes Hacker\u2019s Entire Attack Infrastructure",
+            "link": "https://cyberpress.org/ai-agent-exposes-hacker-infrastructure/"
+        }
+    ],
+    "CVE-2026-21858": [
+        {
+            "title": "Autonomous AI Agent Accidentally Exposes Hacker\u2019s Entire Attack Infrastructure",
+            "link": "https://cyberpress.org/ai-agent-exposes-hacker-infrastructure/"
+        }
+    ],
+    "CVE-2026-17543": [
+        {
+            "title": "Critical PHP Vulnerabilities Enable SQL Injection, Stack Overflow, and Memory Corruption",
+            "link": "https://cyberpress.org/critical-php-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-17544": [
+        {
+            "title": "Critical PHP Vulnerabilities Enable SQL Injection, Stack Overflow, and Memory Corruption",
+            "link": "https://cyberpress.org/critical-php-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-7260": [
+        {
+            "title": "Critical PHP Vulnerabilities Enable SQL Injection, Stack Overflow, and Memory Corruption",
+            "link": "https://cyberpress.org/critical-php-vulnerabilities/"
         }
     ]
 }
