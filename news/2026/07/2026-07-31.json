@@ -4,5 +4,11 @@
             "title": "OpenAI\u2019s rogue agent hit more victims, attackers hit 30 Minnesota water systems, Russian crew delivers weaponized e-mails in Exchange",
             "link": "https://www.itsecuritynews.info/openais-rogue-agent-hit-more-victims-attackers-hit-30-minnesota-water-systems-russian-crew-delivers-weaponized-e-mails-in-exchange/"
         }
+    ],
+    "CVE-2026-63077": [
+        {
+            "title": "Critical Code Execution Vulnerability Patched in TeamCity",
+            "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/"
+        }
     ]
 }
