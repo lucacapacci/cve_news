@@ -734,5 +734,11 @@
             "title": "Hackers Are Exploiting Nearly One in Four Vulnerabilities Before Defenders Get a CVE",
             "link": "https://cybersecuritynews.com/hackers-exploiting-one-in-four-vulnerabilities/"
         }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "The Patchpocalypse Has Arrived: Why Isolation Beats Racing Against Machine-Speed Attacks",
+            "link": "https://www.webpronews.com/the-patchpocalypse-has-arrived-why-isolation-beats-racing-against-machine-speed-attacks/"
+        }
     ]
 }

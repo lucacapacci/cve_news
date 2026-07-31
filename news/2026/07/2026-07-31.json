@@ -9,6 +9,10 @@
         {
             "title": "Critical Code Execution Vulnerability Patched in TeamCity",
             "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/"
+        },
+        {
+            "title": "Critical JetBrains TeamCity Flaw Enables Unauthenticated Remote Code Execution",
+            "link": "https://www.itsecuritynews.info/critical-jetbrains-teamcity-flaw-enables-unauthenticated-remote-code-execution/"
         }
     ]
 }
