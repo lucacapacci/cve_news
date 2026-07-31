@@ -300,5 +300,11 @@
             "title": "ZDI-26-445: Microsoft Windows WMI Providers Incorrect Authorization Local Privilege Escalation Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-445/"
         }
+    ],
+    "CVE-2026-8933": [
+        {
+            "title": "CVE-2026-8933: Local Privilege Escalation in Set-Capabilities snap-confine",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
     ]
 }

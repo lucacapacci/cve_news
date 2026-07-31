@@ -233,6 +233,10 @@
         {
             "title": "RefluXFS Linux Kernel Vulnerability Lets Attackers Gain Root Access",
             "link": "https://cybersecuritynews.com/refluxfs-linux-kernel-vulnerability/"
+        },
+        {
+            "title": "RefluXFS: A Linux Kernel Local Privilege Escalation to Root in XFS (CVE-2026-64600)",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
         }
     ],
     "CVE-2026-46333": [
@@ -275,6 +279,30 @@
         {
             "title": "OpenClaw security best practices for CISOs",
             "link": "https://www.itsecuritynews.info/openclaw-security-best-practices-for-cisos/"
+        }
+    ],
+    "CVE-2026-62549": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0July\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-60773": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0July\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-62546": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0July\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-60880": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0July\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
         }
     ]
 }
