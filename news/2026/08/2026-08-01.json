@@ -8,5 +8,11 @@
             "title": "Adobe fixed a maximum-severity vulnerability flaw in Campaign Classic",
             "link": "https://www.itsecuritynews.info/adobe-fixed-a-maximum-severity-vulnerability-flaw-in-campaign-classic/"
         }
+    ],
+    "CVE-2025-61882": [
+        {
+            "title": "Est\u00e9e Lauder Discloses HR Data Breach Linked to Oracle E-Business Suite Vulnerability",
+            "link": "https://www.itsecuritynews.info/estee-lauder-discloses-hr-data-breach-linked-to-oracle-e-business-suite-vulnerability/"
+        }
     ]
 }
