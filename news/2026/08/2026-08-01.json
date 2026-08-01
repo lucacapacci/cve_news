@@ -3,6 +3,10 @@
         {
             "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
             "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html"
+        },
+        {
+            "title": "Adobe fixed a maximum-severity vulnerability flaw in Campaign Classic",
+            "link": "https://www.itsecuritynews.info/adobe-fixed-a-maximum-severity-vulnerability-flaw-in-campaign-classic/"
         }
     ]
 }
