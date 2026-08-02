@@ -1,0 +1,14 @@
+{
+    "CVE-2026-16232": [
+        {
+            "title": "Check Point SmartConsole Authentication Bypass Is Under Active Attack, and a PoC Is Now Public",
+            "link": "https://www.itsecuritynews.info/check-point-smartconsole-authentication-bypass-is-under-active-attack-and-a-poc-is-now-public/"
+        }
+    ],
+    "CVE-2026-5674": [
+        {
+            "title": "A Skipped Cookie Check Let Flatpak Apps Escape PipeWire\u2019s Sandbox Entirely",
+            "link": "https://www.itsecuritynews.info/a-skipped-cookie-check-let-flatpak-apps-escape-pipewires-sandbox-entirely/"
+        }
+    ]
+}
