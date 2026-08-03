@@ -1,0 +1,26 @@
+{
+    "CVE-2026-18577": [
+        {
+            "title": "Critical N-Able N-Central Vulnerability Allows Hackers to Gain god-mode Access to the RMM Console",
+            "link": "https://cybersecuritynews.com/n-able-n-central-vulnerability/"
+        }
+    ],
+    "CVE-2026-18556": [
+        {
+            "title": "Critical N-Able N-Central Vulnerability Allows Hackers to Gain god-mode Access to the RMM Console",
+            "link": "https://cybersecuritynews.com/n-able-n-central-vulnerability/"
+        }
+    ],
+    "CVE-2026-66066": [
+        {
+            "title": "Metasploit Exploit Targets Critical Ruby on Rails Active Storage RCE Flaw",
+            "link": "https://www.itsecuritynews.info/metasploit-exploit-targets-critical-ruby-on-rails-active-storage-rce-flaw/"
+        }
+    ],
+    "CVE-2026-16812": [
+        {
+            "title": "Hackers Exploit Critical Arista VeloCloud Flaw to Execute OS Commands",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-critical-arista-velocloud-flaw-to-execute-os-commands/"
+        }
+    ]
+}
