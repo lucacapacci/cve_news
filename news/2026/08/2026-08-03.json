@@ -11,6 +11,10 @@
         {
             "title": "Critical N-able N-central Flaws Actively Exploited to Gain God-Mode Access to MSP Networks",
             "link": "https://cyberpress.org/critical-n-able-n-central-flaws-actively-exploited/"
+        },
+        {
+            "title": "N\u2011able Patches Vulnerability Exploited to Hack N-central Servers",
+            "link": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/"
         }
     ],
     "CVE-2026-18556": [
@@ -31,6 +35,10 @@
         {
             "title": "Critical Rails Flaw Exposes Server Secrets and Enables Remote Code Execution",
             "link": "https://cyberpress.org/critical-rails-server-secrets-remote-code-execution/"
+        },
+        {
+            "title": "KindaRails2Shell threatens Ruby on Rails apps (CVE-2026-66066)",
+            "link": "https://www.helpnetsecurity.com/2026/08/03/kindarails2shell-cve-2026-66066-vulnerability/"
         }
     ],
     "CVE-2026-16812": [
@@ -59,6 +67,12 @@
         {
             "title": "Internet-Facing SonicWall SMA Appliances Face Zero-Click Root Compromise",
             "link": "https://cybersecuritynews.com/sonicwall-sma-face-zero-click/"
+        }
+    ],
+    "CVE-2026-12935": [
+        {
+            "title": "TP-Link TL-WR940N Router Flaw Lets Unauthenticated Attackers Execute Code Remotely",
+            "link": "https://www.itsecuritynews.info/tp-link-tl-wr940n-router-flaw-lets-unauthenticated-attackers-execute-code-remotely/"
         }
     ]
 }
