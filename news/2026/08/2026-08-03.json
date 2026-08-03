@@ -15,6 +15,10 @@
         {
             "title": "N\u2011able Patches Vulnerability Exploited to Hack N-central Servers",
             "link": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/"
+        },
+        {
+            "title": "Attackers exploit N-able N-central flaw to reach managed endpoints (CVE-2026-18577)",
+            "link": "https://www.helpnetsecurity.com/2026/08/03/cve-2026-18577-n-able-n-central-vulnerability/"
         }
     ],
     "CVE-2026-18556": [
@@ -49,6 +53,10 @@
         {
             "title": "Critical Arista VeloCloud Flaw Lets Attackers Execute OS Commands Remotely",
             "link": "https://cyberpress.org/critical-arista-velocloud-flaw/"
+        },
+        {
+            "title": "Hackers Exploit VeloCloud Orchestrator Command Injection Vulnerability in the Wild",
+            "link": "https://www.itsecuritynews.info/hackers-exploit-velocloud-orchestrator-command-injection-vulnerability-in-the-wild/"
         }
     ],
     "CVE-2026-17583": [
@@ -73,6 +81,10 @@
         {
             "title": "TP-Link TL-WR940N Router Flaw Lets Unauthenticated Attackers Execute Code Remotely",
             "link": "https://www.itsecuritynews.info/tp-link-tl-wr940n-router-flaw-lets-unauthenticated-attackers-execute-code-remotely/"
+        },
+        {
+            "title": "TP-Link TL-WR940N Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://www.itsecuritynews.info/tp-link-tl-wr940n-vulnerability-enables-remote-code-execution-attacks/"
         }
     ]
 }
