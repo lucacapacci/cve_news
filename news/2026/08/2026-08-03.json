@@ -3,24 +3,62 @@
         {
             "title": "Critical N-Able N-Central Vulnerability Allows Hackers to Gain god-mode Access to the RMM Console",
             "link": "https://cybersecuritynews.com/n-able-n-central-vulnerability/"
+        },
+        {
+            "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
+            "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html"
+        },
+        {
+            "title": "Critical N-able N-central Flaws Actively Exploited to Gain God-Mode Access to MSP Networks",
+            "link": "https://cyberpress.org/critical-n-able-n-central-flaws-actively-exploited/"
         }
     ],
     "CVE-2026-18556": [
         {
             "title": "Critical N-Able N-Central Vulnerability Allows Hackers to Gain god-mode Access to the RMM Console",
             "link": "https://cybersecuritynews.com/n-able-n-central-vulnerability/"
+        },
+        {
+            "title": "Critical N-able N-central Flaws Actively Exploited to Gain God-Mode Access to MSP Networks",
+            "link": "https://cyberpress.org/critical-n-able-n-central-flaws-actively-exploited/"
         }
     ],
     "CVE-2026-66066": [
         {
             "title": "Metasploit Exploit Targets Critical Ruby on Rails Active Storage RCE Flaw",
             "link": "https://www.itsecuritynews.info/metasploit-exploit-targets-critical-ruby-on-rails-active-storage-rce-flaw/"
+        },
+        {
+            "title": "Critical Rails Flaw Exposes Server Secrets and Enables Remote Code Execution",
+            "link": "https://cyberpress.org/critical-rails-server-secrets-remote-code-execution/"
         }
     ],
     "CVE-2026-16812": [
         {
             "title": "Hackers Exploit Critical Arista VeloCloud Flaw to Execute OS Commands",
             "link": "https://www.itsecuritynews.info/hackers-exploit-critical-arista-velocloud-flaw-to-execute-os-commands/"
+        },
+        {
+            "title": "Critical Arista VeloCloud Flaw Lets Attackers Execute OS Commands Remotely",
+            "link": "https://cyberpress.org/critical-arista-velocloud-flaw/"
+        }
+    ],
+    "CVE-2026-17583": [
+        {
+            "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
+            "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "Internet-Facing SonicWall SMA Appliances Face Zero-Click Root Compromise",
+            "link": "https://cybersecuritynews.com/sonicwall-sma-face-zero-click/"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "Internet-Facing SonicWall SMA Appliances Face Zero-Click Root Compromise",
+            "link": "https://cybersecuritynews.com/sonicwall-sma-face-zero-click/"
         }
     ]
 }
