@@ -31,6 +31,10 @@
         {
             "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
             "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw"
+        },
+        {
+            "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/"
         }
     ],
     "CVE-2026-18556": [
