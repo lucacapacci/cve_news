@@ -16,5 +16,53 @@
             "title": "Thermo Fisher DNA Analysis Software Flaw Lets Attackers Secretly Alter Test Data",
             "link": "https://www.itsecuritynews.info/thermo-fisher-dna-analysis-software-flaw-lets-attackers-secretly-alter-test-data/"
         }
+    ],
+    "CVE-2026-18577": [
+        {
+            "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+            "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html"
+        }
+    ],
+    "CVE-2026-18556": [
+        {
+            "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+            "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "INC Ransomware Seizes the Moment With SonicWall Exploits",
+            "link": "https://www.webpronews.com/inc-ransomware-seizes-the-moment-with-sonicwall-exploits/"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "INC Ransomware Seizes the Moment With SonicWall Exploits",
+            "link": "https://www.webpronews.com/inc-ransomware-seizes-the-moment-with-sonicwall-exploits/"
+        }
+    ],
+    "CVE-2026-11083": [
+        {
+            "title": "Passkeys Under Siege: How Malware Silently Hijacks Google Password Manager Accounts",
+            "link": "https://www.webpronews.com/passkeys-under-siege-how-malware-silently-hijacks-google-password-manager-accounts/"
+        }
+    ],
+    "CVE-2026-6312": [
+        {
+            "title": "Passkeys Under Siege: How Malware Silently Hijacks Google Password Manager Accounts",
+            "link": "https://www.webpronews.com/passkeys-under-siege-how-malware-silently-hijacks-google-password-manager-accounts/"
+        }
+    ],
+    "CVE-2026-59774": [
+        {
+            "title": "Critical Gitea Flaw Lets Unauthenticated Attackers Read Server Files and Execute Code",
+            "link": "https://www.itsecuritynews.info/critical-gitea-flaw-lets-unauthenticated-attackers-read-server-files-and-execute-code/"
+        }
+    ],
+    "CVE-2026-39875": [
+        {
+            "title": "macOS CUPS Flaw Lets Local Attackers Write Arbitrary Files as Root",
+            "link": "https://www.itsecuritynews.info/macos-cups-flaw-lets-local-attackers-write-arbitrary-files-as-root/"
+        }
     ]
 }

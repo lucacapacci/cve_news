@@ -138,5 +138,11 @@
             "title": "Weekly Cybersecurity Newsletter \u2014 Top 50 Cybersecurity Stories of the Week (July 27\u2013August 1, 2026)",
             "link": "https://cyberpress.org/weekly-cybersecurity-roundup-july-27-august-1-2026/"
         }
+    ],
+    "CVE-2026-43760": [
+        {
+            "title": "AI Bug Hunters Overwhelm Apple: How Models Outpace Patches in macOS and Beyond",
+            "link": "https://www.webpronews.com/ai-bug-hunters-overwhelm-apple-how-models-outpace-patches-in-macos-and-beyond/"
+        }
     ]
 }
