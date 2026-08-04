@@ -1,0 +1,20 @@
+{
+    "CVE-2026-58048": [
+        {
+            "title": "cPanel Database Privilege Escalation Flaw Enables Full Administrative Access",
+            "link": "https://www.itsecuritynews.info/cpanel-database-privilege-escalation-flaw-enables-full-administrative-access/"
+        }
+    ],
+    "CVE-2026-18574": [
+        {
+            "title": "Check Point Authentication Bypass Flaw Enables Full Compromise of Security Management System",
+            "link": "https://www.itsecuritynews.info/check-point-authentication-bypass-flaw-enables-full-compromise-of-security-management-system/"
+        }
+    ],
+    "CVE-2026-17583": [
+        {
+            "title": "Thermo Fisher DNA Analysis Software Flaw Lets Attackers Secretly Alter Test Data",
+            "link": "https://www.itsecuritynews.info/thermo-fisher-dna-analysis-software-flaw-lets-attackers-secretly-alter-test-data/"
+        }
+    ]
+}
