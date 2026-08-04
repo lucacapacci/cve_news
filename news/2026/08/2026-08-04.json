@@ -45,6 +45,10 @@
         {
             "title": "CISA Warns of N-able N-central Authentication Bypass Vulnerability Exploited in Attacks",
             "link": "https://www.itsecuritynews.info/cisa-warns-of-n-able-n-central-authentication-bypass-vulnerability-exploited-in-attacks/"
+        },
+        {
+            "title": "CISA Adds Exploited N-able N-central Flaw Enabling Remote Admin Takeover to KEV",
+            "link": "https://gbhackers.com/cisa-adds-exploited-n-able-n-central-flaw/"
         }
     ],
     "CVE-2026-18556": [
@@ -55,6 +59,10 @@
         {
             "title": "N-able N-central Zero-Day Exploited to Take Over Servers and Managed Devices",
             "link": "https://cyberpress.org/n-able-n-central-zero-day-exploited/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-18556",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-18556"
         }
     ],
     "CVE-2026-15410": [
@@ -201,6 +209,18 @@
         {
             "title": "Apache NiFi Vulnerabilities Allow Authorization Bypass and Remote Code Execution",
             "link": "https://cyberpress.org/apache-nifi-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-34486": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-34486",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-34486"
+        }
+    ],
+    "CVE-2026-9198": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-9198",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-9198"
         }
     ]
 }
