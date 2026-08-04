@@ -43,12 +43,12 @@
             "link": "https://www.itsecuritynews.info/u-s-cisa-adds-a-n-able-n-central-flaw-to-its-known-exploited-vulnerabilities-catalog/"
         },
         {
-            "title": "CISA Warns of N-able N-central Authentication Bypass Vulnerability Exploited in Attacks",
-            "link": "https://www.itsecuritynews.info/cisa-warns-of-n-able-n-central-authentication-bypass-vulnerability-exploited-in-attacks/"
-        },
-        {
             "title": "CISA Adds Exploited N-able N-central Flaw Enabling Remote Admin Takeover to KEV",
             "link": "https://gbhackers.com/cisa-adds-exploited-n-able-n-central-flaw/"
+        },
+        {
+            "title": "CISA Warns of N-able N-central Authentication Bypass Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/n-able-n-central-auth-bypass-exploited/"
         }
     ],
     "CVE-2026-18556": [
@@ -63,6 +63,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-18556",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-18556"
+        },
+        {
+            "title": "CISA Warns of N-able N-central Authentication Bypass Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/n-able-n-central-auth-bypass-exploited/"
         }
     ],
     "CVE-2026-15410": [
