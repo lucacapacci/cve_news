@@ -7,6 +7,10 @@
         {
             "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
             "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html"
+        },
+        {
+            "title": "Critical cPanel Flaw Lets Hosting Users Grab Database Root Access | CVE-2026-58048",
+            "link": "https://www.itsecuritynews.info/critical-cpanel-flaw-lets-hosting-users-grab-database-root-access-cve-2026-58048/"
         }
     ],
     "CVE-2026-18574": [
@@ -37,6 +41,10 @@
         {
             "title": "U.S. CISA adds a N-able N-central flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://www.itsecuritynews.info/u-s-cisa-adds-a-n-able-n-central-flaw-to-its-known-exploited-vulnerabilities-catalog/"
+        },
+        {
+            "title": "CISA Warns of N-able N-central Authentication Bypass Vulnerability Exploited in Attacks",
+            "link": "https://www.itsecuritynews.info/cisa-warns-of-n-able-n-central-authentication-bypass-vulnerability-exploited-in-attacks/"
         }
     ],
     "CVE-2026-18556": [
