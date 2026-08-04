@@ -3,6 +3,10 @@
         {
             "title": "cPanel Database Privilege Escalation Flaw Enables Full Administrative Access",
             "link": "https://www.itsecuritynews.info/cpanel-database-privilege-escalation-flaw-enables-full-administrative-access/"
+        },
+        {
+            "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+            "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html"
         }
     ],
     "CVE-2026-18574": [
@@ -15,18 +19,34 @@
         {
             "title": "Thermo Fisher DNA Analysis Software Flaw Lets Attackers Secretly Alter Test Data",
             "link": "https://www.itsecuritynews.info/thermo-fisher-dna-analysis-software-flaw-lets-attackers-secretly-alter-test-data/"
+        },
+        {
+            "title": "Thermo Fisher Patches Forensic DNA File Tampering Flaw in Its Software",
+            "link": "https://www.itsecuritynews.info/thermo-fisher-patches-forensic-dna-file-tampering-flaw-in-its-software/"
         }
     ],
     "CVE-2026-18577": [
         {
             "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
             "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html"
+        },
+        {
+            "title": "N-able N-central Zero-Day Exploited to Take Over Servers and Managed Devices",
+            "link": "https://cyberpress.org/n-able-n-central-zero-day-exploited/"
+        },
+        {
+            "title": "U.S. CISA adds a N-able N-central flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-a-n-able-n-central-flaw-to-its-known-exploited-vulnerabilities-catalog/"
         }
     ],
     "CVE-2026-18556": [
         {
             "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
             "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html"
+        },
+        {
+            "title": "N-able N-central Zero-Day Exploited to Take Over Servers and Managed Devices",
+            "link": "https://cyberpress.org/n-able-n-central-zero-day-exploited/"
         }
     ],
     "CVE-2026-15410": [
@@ -57,12 +77,122 @@
         {
             "title": "Critical Gitea Flaw Lets Unauthenticated Attackers Read Server Files and Execute Code",
             "link": "https://www.itsecuritynews.info/critical-gitea-flaw-lets-unauthenticated-attackers-read-server-files-and-execute-code/"
+        },
+        {
+            "title": "Critical Gitea Arbitrary File Read Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/gitea-arbitrary-file-read-vulnerability/"
+        },
+        {
+            "title": "Critical Gitea Vulnerability Exposes Configuration Files, Tokens and Server Secrets",
+            "link": "https://cyberpress.org/critical-gitea-vulnerability-exposed/"
         }
     ],
     "CVE-2026-39875": [
         {
             "title": "macOS CUPS Flaw Lets Local Attackers Write Arbitrary Files as Root",
             "link": "https://www.itsecuritynews.info/macos-cups-flaw-lets-local-attackers-write-arbitrary-files-as-root/"
+        },
+        {
+            "title": "Public PoC Released for CUPS Vulnerability Allows Attackers to Gain Root Privileges",
+            "link": "https://cybersecuritynews.com/public-poc-released-for-cups-vulnerability/"
+        },
+        {
+            "title": "PoC Exploit Released for macOS CUPS Root Privilege Escalation Flaw",
+            "link": "https://cyberpress.org/poc-exploit-released-macos-cups-flaw/"
+        }
+    ],
+    "CVE-2026-48323": [
+        {
+            "title": "Critical Adobe Campaign Classic Vulnerabilities Enables Arbitrary Code Execution",
+            "link": "https://cybersecuritynews.com/adobe-campaign-classic-vulnerabilities/"
+        },
+        {
+            "title": "Critical Adobe Campaign Flaws Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/critical-adobe-campaign-flaws/"
+        }
+    ],
+    "CVE-2026-48331": [
+        {
+            "title": "Critical Adobe Campaign Classic Vulnerabilities Enables Arbitrary Code Execution",
+            "link": "https://cybersecuritynews.com/adobe-campaign-classic-vulnerabilities/"
+        },
+        {
+            "title": "Critical Adobe Campaign Flaws Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/critical-adobe-campaign-flaws/"
+        }
+    ],
+    "CVE-2026-48317": [
+        {
+            "title": "Critical Adobe Campaign Classic Vulnerabilities Enables Arbitrary Code Execution",
+            "link": "https://cybersecuritynews.com/adobe-campaign-classic-vulnerabilities/"
+        },
+        {
+            "title": "Critical Adobe Campaign Flaws Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/critical-adobe-campaign-flaws/"
+        }
+    ],
+    "CVE-2026-48399": [
+        {
+            "title": "Critical Adobe Campaign Classic Vulnerabilities Enables Arbitrary Code Execution",
+            "link": "https://cybersecuritynews.com/adobe-campaign-classic-vulnerabilities/"
+        },
+        {
+            "title": "Critical Adobe Campaign Flaws Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/critical-adobe-campaign-flaws/"
+        }
+    ],
+    "CVE-2026-48333": [
+        {
+            "title": "Critical Adobe Campaign Classic Vulnerabilities Enables Arbitrary Code Execution",
+            "link": "https://cybersecuritynews.com/adobe-campaign-classic-vulnerabilities/"
+        },
+        {
+            "title": "Critical Adobe Campaign Flaws Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/critical-adobe-campaign-flaws/"
+        }
+    ],
+    "CVE-2026-48330": [
+        {
+            "title": "Critical Adobe Campaign Classic Vulnerabilities Enables Arbitrary Code Execution",
+            "link": "https://cybersecuritynews.com/adobe-campaign-classic-vulnerabilities/"
+        },
+        {
+            "title": "Critical Adobe Campaign Flaws Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/critical-adobe-campaign-flaws/"
+        }
+    ],
+    "CVE-2026-48326": [
+        {
+            "title": "Critical Adobe Campaign Classic Vulnerabilities Enables Arbitrary Code Execution",
+            "link": "https://cybersecuritynews.com/adobe-campaign-classic-vulnerabilities/"
+        },
+        {
+            "title": "Critical Adobe Campaign Flaws Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/critical-adobe-campaign-flaws/"
+        }
+    ],
+    "CVE-2026-68981": [
+        {
+            "title": "Apache NiFi Vulnerabilities Allow Authorization Bypass and Remote Code Execution",
+            "link": "https://cyberpress.org/apache-nifi-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-68979": [
+        {
+            "title": "Apache NiFi Vulnerabilities Allow Authorization Bypass and Remote Code Execution",
+            "link": "https://cyberpress.org/apache-nifi-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-62354": [
+        {
+            "title": "Apache NiFi Vulnerabilities Allow Authorization Bypass and Remote Code Execution",
+            "link": "https://cyberpress.org/apache-nifi-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-68980": [
+        {
+            "title": "Apache NiFi Vulnerabilities Allow Authorization Bypass and Remote Code Execution",
+            "link": "https://cyberpress.org/apache-nifi-vulnerabilities/"
         }
     ]
 }
