@@ -236,5 +236,11 @@
             "title": "CISA KEV Addition: CVE-2026-63077",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-63077"
         }
+    ],
+    "CVE-2026-31986": [
+        {
+            "title": "Pre-auth RCE in enterprise Java hits Bonita and OFBiz servers",
+            "link": "https://www.helpnetsecurity.com/2026/08/05/pre-auth-rce-java-bonita-ofbiz-cve-2026-31986/"
+        }
     ]
 }
