@@ -226,5 +226,11 @@
             "title": "CISA KEV Addition: CVE-2026-9198",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-9198"
         }
+    ],
+    "CVE-2024-49734": [
+        {
+            "title": "Your Android VPN Fails Silently Without These Configuration Fixes",
+            "link": "https://www.webpronews.com/your-android-vpn-fails-silently-without-these-configuration-fixes/"
+        }
     ]
 }

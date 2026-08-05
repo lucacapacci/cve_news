@@ -196,5 +196,11 @@
             "title": "Django Security Update Fixes Server-Side File Write, XSS, and DoS Flaws",
             "link": "https://cyberpress.org/django-security-update-server-side-file-write-xss-dos/"
         }
+    ],
+    "CVE-2026-9198": [
+        {
+            "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
+            "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html"
+        }
     ]
 }
