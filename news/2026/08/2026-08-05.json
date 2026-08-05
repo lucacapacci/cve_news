@@ -21,6 +21,10 @@
         {
             "title": "Critical Veeam ONE Flaw Lets Unauthenticated Attackers Execute Code Remotely",
             "link": "https://cyberpress.org/critical-veeam-one-flaw/"
+        },
+        {
+            "title": "Multiple Veeam ONE Vulnerabilities Allow Code Execution Attacks",
+            "link": "https://www.itsecuritynews.info/multiple-veeam-one-vulnerabilities-allow-code-execution-attacks/"
         }
     ],
     "CVE-2026-64631": [
@@ -201,6 +205,26 @@
         {
             "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
             "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html"
+        }
+    ],
+    "CVE-2026-64531": [
+        {
+            "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+            "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html"
+        },
+        {
+            "title": "New OVSwrap Linux Vulnerability Lets Attackers Gain Root Access",
+            "link": "https://cybersecuritynews.com/ovswrap-linux-vulnerability/"
+        },
+        {
+            "title": "New OVSwrap Flaw Lets Unprivileged Users Corrupt Kernel Credentials and Gain Root",
+            "link": "https://cyberpress.org/ovswrap-flaw-corrupt-kernel-credentials-gain-root/"
+        }
+    ],
+    "CVE-2026-59774": [
+        {
+            "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
+            "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html"
         }
     ]
 }
