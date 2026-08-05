@@ -219,6 +219,10 @@
         {
             "title": "New OVSwrap Flaw Lets Unprivileged Users Corrupt Kernel Credentials and Gain Root",
             "link": "https://cyberpress.org/ovswrap-flaw-corrupt-kernel-credentials-gain-root/"
+        },
+        {
+            "title": "OVSwrap: 13-Year-Old Linux Kernel Flaw Lets Local Users Become Root",
+            "link": "https://www.itsecuritynews.info/ovswrap-13-year-old-linux-kernel-flaw-lets-local-users-become-root/"
         }
     ],
     "CVE-2026-59774": [
