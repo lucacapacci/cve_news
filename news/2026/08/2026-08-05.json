@@ -115,6 +115,10 @@
         {
             "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
             "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
         }
     ],
     "CVE-2025-15629": [
@@ -127,12 +131,20 @@
         {
             "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
             "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
         }
     ],
     "CVE-2025-9289": [
         {
             "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
             "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
         }
     ],
     "CVE-2025-15544": [
@@ -145,6 +157,10 @@
         {
             "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
             "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
         }
     ],
     "CVE-2025-9293": [
@@ -157,12 +173,20 @@
         {
             "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
             "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
         }
     ],
     "CVE-2025-7850": [
         {
             "title": "TP-Link Zero-Touch Provisioning Flaws Enable Device Hijacking and Remote Code Execution",
             "link": "https://cyberpress.org/tp-link-zero-touch-provisioning-flaws/"
+        },
+        {
+            "title": "15 TP-Link Omada ZTP Flaws Enable Router Hijacking and Root Code Execution",
+            "link": "https://cybersecuritynews.com/tp-link-omada-ztp-flaws/"
         }
     ],
     "CVE-2025-9292": [
@@ -223,6 +247,10 @@
         {
             "title": "OVSwrap: 13-Year-Old Linux Kernel Flaw Lets Local Users Become Root",
             "link": "https://www.itsecuritynews.info/ovswrap-13-year-old-linux-kernel-flaw-lets-local-users-become-root/"
+        },
+        {
+            "title": "OVSwrap Open vSwitch Flaw Lets Unprivileged Linux Users Gain Root Access",
+            "link": "https://gbhackers.com/ovswrap-open-vswitch-flaw/"
         }
     ],
     "CVE-2026-59774": [
