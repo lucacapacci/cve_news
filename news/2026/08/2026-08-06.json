@@ -16,5 +16,29 @@
             "title": "Critical Cisco SD-WAN Flaws Expose Systems to Access Control Bypass Attacks",
             "link": "https://www.itsecuritynews.info/critical-cisco-sd-wan-flaws-expose-systems-to-access-control-bypass-attacks/"
         }
+    ],
+    "CVE-2026-63077": [
+        {
+            "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+            "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html"
+        },
+        {
+            "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
+            "link": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/"
+        },
+        {
+            "title": "U.S. CISA adds a JetBrains TeamCity flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://www.itsecuritynews.info/u-s-cisa-adds-a-jetbrains-teamcity-flaw-to-its-known-exploited-vulnerabilities-catalog/"
+        },
+        {
+            "title": "CISA Alerts Issues on Actively Exploited TeamCity Remote Code Execution Vulnerability",
+            "link": "https://www.itsecuritynews.info/cisa-alerts-issues-on-actively-exploited-teamcity-remote-code-execution-vulnerability/"
+        }
+    ],
+    "CVE-2026-20272": [
+        {
+            "title": "Cisco Patches 7 IOS XE Vulnerability Classes, Including Critical Command Injection Flaws",
+            "link": "https://www.itsecuritynews.info/cisco-patches-7-ios-xe-vulnerability-classes-including-critical-command-injection-flaws/"
+        }
     ]
 }
