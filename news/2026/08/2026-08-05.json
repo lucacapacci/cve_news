@@ -270,5 +270,11 @@
             "title": "Pre-auth RCE in enterprise Java hits Bonita and OFBiz servers",
             "link": "https://www.helpnetsecurity.com/2026/08/05/pre-auth-rce-java-bonita-ofbiz-cve-2026-31986/"
         }
+    ],
+    "CVE-2025-43376": [
+        {
+            "title": "Apple\u2019s Private Relay IP Leak: How Passkeys Break a Paid Privacy Promise",
+            "link": "https://www.webpronews.com/apples-private-relay-ip-leak-how-passkeys-break-a-paid-privacy-promise/"
+        }
     ]
 }

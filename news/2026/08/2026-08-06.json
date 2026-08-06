@@ -40,5 +40,17 @@
             "title": "Cisco Patches 7 IOS XE Vulnerability Classes, Including Critical Command Injection Flaws",
             "link": "https://www.itsecuritynews.info/cisco-patches-7-ios-xe-vulnerability-classes-including-critical-command-injection-flaws/"
         }
+    ],
+    "CVE-2026-20200": [
+        {
+            "title": "Critical Cisco IMC bug gives attackers root, PoC is out (CVE-2026-20200)",
+            "link": "https://www.helpnetsecurity.com/2026/08/06/cisco-imc-cve-2026-20200-public-poc-exploit/"
+        }
+    ],
+    "CVE-2026-70426": [
+        {
+            "title": "Critical Jenkins Deserialization Flaw Allows Attackers to Execute Code on Controllers",
+            "link": "https://www.itsecuritynews.info/critical-jenkins-deserialization-flaw-allows-attackers-to-execute-code-on-controllers/"
+        }
     ]
 }
