@@ -1,0 +1,20 @@
+{
+    "CVE-2026-20304": [
+        {
+            "title": "Critical Cisco SD-WAN Flaws Expose Systems to Access Control Bypass Attacks",
+            "link": "https://www.itsecuritynews.info/critical-cisco-sd-wan-flaws-expose-systems-to-access-control-bypass-attacks/"
+        }
+    ],
+    "CVE-2026-20303": [
+        {
+            "title": "Critical Cisco SD-WAN Flaws Expose Systems to Access Control Bypass Attacks",
+            "link": "https://www.itsecuritynews.info/critical-cisco-sd-wan-flaws-expose-systems-to-access-control-bypass-attacks/"
+        }
+    ],
+    "CVE-2026-20310": [
+        {
+            "title": "Critical Cisco SD-WAN Flaws Expose Systems to Access Control Bypass Attacks",
+            "link": "https://www.itsecuritynews.info/critical-cisco-sd-wan-flaws-expose-systems-to-access-control-bypass-attacks/"
+        }
+    ]
+}
