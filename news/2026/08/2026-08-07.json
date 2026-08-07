@@ -53,6 +53,10 @@
         {
             "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
             "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        },
+        {
+            "title": "Google Chrome 151 Fixes 41 Security Flaws, Including 6 Critical Memory Bugs",
+            "link": "https://cybersecuritynews.com/chrome-151-vulnerabilities-patched/"
         }
     ],
     "CVE-2026-19141": [
@@ -113,6 +117,10 @@
         {
             "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
             "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        },
+        {
+            "title": "Google Chrome 151 Fixes 41 Security Flaws, Including 6 Critical Memory Bugs",
+            "link": "https://cybersecuritynews.com/chrome-151-vulnerabilities-patched/"
         }
     ],
     "CVE-2026-19161": [
@@ -155,6 +163,10 @@
         {
             "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
             "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        },
+        {
+            "title": "Google Chrome 151 Fixes 41 Security Flaws, Including 6 Critical Memory Bugs",
+            "link": "https://cybersecuritynews.com/chrome-151-vulnerabilities-patched/"
         }
     ],
     "CVE-2026-19153": [
@@ -185,6 +197,10 @@
         {
             "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
             "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        },
+        {
+            "title": "Google Chrome 151 Fixes 41 Security Flaws, Including 6 Critical Memory Bugs",
+            "link": "https://cybersecuritynews.com/chrome-151-vulnerabilities-patched/"
         }
     ],
     "CVE-2026-19171": [
@@ -221,6 +237,10 @@
         {
             "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
             "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        },
+        {
+            "title": "Google Chrome 151 Fixes 41 Security Flaws, Including 6 Critical Memory Bugs",
+            "link": "https://cybersecuritynews.com/chrome-151-vulnerabilities-patched/"
         }
     ],
     "CVE-2026-19163": [
@@ -233,6 +253,10 @@
         {
             "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
             "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        },
+        {
+            "title": "Google Chrome 151 Fixes 41 Security Flaws, Including 6 Critical Memory Bugs",
+            "link": "https://cybersecuritynews.com/chrome-151-vulnerabilities-patched/"
         }
     ],
     "CVE-2026-19162": [
@@ -287,6 +311,10 @@
         {
             "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
             "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        },
+        {
+            "title": "Google Chrome 151 Fixes 41 Security Flaws, Including 6 Critical Memory Bugs",
+            "link": "https://cybersecuritynews.com/chrome-151-vulnerabilities-patched/"
         }
     ],
     "CVE-2026-64638": [
@@ -302,7 +330,19 @@
     "CVE-2026-64561": [
         {
             "title": "CVE-2026-64561 Zapscape Lets KVM Guests Escape to Linux Host With Root Privileges",
-            "link": "https://www.itsecuritynews.info/cve-2026-64561-zapscape-lets-kvm-guests-escape-to-linux-host-with-root-privileges/"
+            "link": "https://cybersecuritynews.com/zapscape-kvm-escape-root-privileges/"
+        }
+    ],
+    "CVE-2026-63913": [
+        {
+            "title": "NatJack Lets Attackers Hijack TCP Sessions, Spoof DNS, and Exhaust NAT Tables",
+            "link": "https://cyberpress.org/natjack-hijack-tcp-sessions-spoof-dns-nat/"
+        }
+    ],
+    "CVE-2026-56181": [
+        {
+            "title": "NatJack Lets Attackers Hijack TCP Sessions, Spoof DNS, and Exhaust NAT Tables",
+            "link": "https://cyberpress.org/natjack-hijack-tcp-sessions-spoof-dns-nat/"
         }
     ]
 }
