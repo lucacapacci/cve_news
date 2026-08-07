@@ -1,0 +1,32 @@
+{
+    "CVE-2026-50444": [
+        {
+            "title": "WSUS Flaw Lets Attackers Turn Enterprise Update Servers Into Malware Delivery Systems",
+            "link": "https://cyberpress.org/wsus-flaw-enterprise-update-servers-malware-delivery-systems/"
+        }
+    ],
+    "CVE-2026-50328": [
+        {
+            "title": "WSUS Flaw Lets Attackers Turn Enterprise Update Servers Into Malware Delivery Systems",
+            "link": "https://cyberpress.org/wsus-flaw-enterprise-update-servers-malware-delivery-systems/"
+        }
+    ],
+    "CVE-2026-66747": [
+        {
+            "title": "ZBT Routers Ship With Hidden ENDLESSDOORS Implant That Executes Commands as Root",
+            "link": "https://cyberpress.org/zbt-routers-hide-root-backdoor/"
+        }
+    ],
+    "CVE-2026-54316": [
+        {
+            "title": "Anthropic, Google, and OpenAI Coding Agents Exposed to Zero-Privilege RCE",
+            "link": "https://cyberpress.org/critical-flaws-in-claude-code-gemini-cll-openai-codex/"
+        }
+    ],
+    "CVE-2017-16740": [
+        {
+            "title": "4,407 Internet-Facing Industrial Controllers Expose U.S. Water Utilities to Attacks",
+            "link": "https://cyberpress.org/4407-internet-facing-industrial-controllers/"
+        }
+    ]
+}
