@@ -64,5 +64,95 @@
             "title": "Critical Paperclip AI Flaws Enable Unauthenticated RCE and Agent Takeover",
             "link": "https://cyberpress.org/critical-paperclip-ai-flaws/"
         }
+    ],
+    "CVE-2026-43760": [
+        {
+            "title": "Apple Rushes macOS Patches Across Three Versions to Fix Screen Sharing Authentication Bypass",
+            "link": "https://www.webpronews.com/apple-rushes-macos-patches-across-three-versions-to-fix-screen-sharing-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Apple Rushes macOS Patches Across Three Versions to Fix Screen Sharing Authentication Bypass",
+            "link": "https://www.webpronews.com/apple-rushes-macos-patches-across-three-versions-to-fix-screen-sharing-authentication-bypass/"
+        }
+    ],
+    "CVE-2025-9289": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-15627": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-15544": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-7850": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2024-21827": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-15631": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-7851": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2026-12935": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2026-3227": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-9293": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2025-15517": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2026-12001": [
+        {
+            "title": "TP-Link\u2019s Omada Patch Blitz: 15 Zero-Touch Flaws Expose Business Networks to Remote Takeover",
+            "link": "https://www.webpronews.com/tp-links-omada-patch-blitz-15-zero-touch-flaws-expose-business-networks-to-remote-takeover/"
+        }
+    ],
+    "CVE-2026-41234": [
+        {
+            "title": "Critical RCE Vulnerability (CVE-2026-41234) in Gitea 1.21\u20131.22.2 Allows Unauthenticated Remote Code Execution",
+            "link": "https://www.webpronews.com/critical-rce-vulnerability-cve-2026-41234-in-gitea-1-21-1-22-2-allows-unauthenticated-remote-code-execution/"
+        }
     ]
 }
