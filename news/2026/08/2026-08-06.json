@@ -52,5 +52,17 @@
             "title": "Critical Jenkins Deserialization Flaw Allows Attackers to Execute Code on Controllers",
             "link": "https://www.itsecuritynews.info/critical-jenkins-deserialization-flaw-allows-attackers-to-execute-code-on-controllers/"
         }
+    ],
+    "CVE-2026-64561": [
+        {
+            "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
+            "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-41679": [
+        {
+            "title": "Critical Paperclip AI Flaws Enable Unauthenticated RCE and Agent Takeover",
+            "link": "https://cyberpress.org/critical-paperclip-ai-flaws/"
+        }
     ]
 }
