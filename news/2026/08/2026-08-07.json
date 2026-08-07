@@ -15,6 +15,10 @@
         {
             "title": "ZBT Routers Ship With Hidden ENDLESSDOORS Implant That Executes Commands as Root",
             "link": "https://cyberpress.org/zbt-routers-hide-root-backdoor/"
+        },
+        {
+            "title": "Zbtlink Chinese Router Sold Worldwide Contains a Hidden Backdoor Affecting 20+ Models",
+            "link": "https://cybersecuritynews.com/zbtlink-chinese-router/"
         }
     ],
     "CVE-2026-54316": [
@@ -27,6 +31,262 @@
         {
             "title": "4,407 Internet-Facing Industrial Controllers Expose U.S. Water Utilities to Attacks",
             "link": "https://cyberpress.org/4407-internet-facing-industrial-controllers/"
+        }
+    ],
+    "CVE-2026-31986": [
+        {
+            "title": "Multiple Flaws in Enterprise Java Platforms Allow Attackers to Execute Remote Code",
+            "link": "https://cybersecuritynews.com/multiple-vulnerabilities-in-enterprise-java-platforms/"
+        },
+        {
+            "title": "Enterprise Java Flaws Enable Pre-Auth RCE in Bonita BPM and Apache OFBiz",
+            "link": "https://cyberpress.org/enterprise-java-bonita-bpm-apache-ofbiz/"
+        }
+    ],
+    "CVE-2026-19174": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19154": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19141": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19146": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19148": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19177": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19152": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19173": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19139": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19168": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19144": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19157": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19161": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19175": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19155": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19164": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19159": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19166": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19149": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19153": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19142": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19176": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19151": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19137": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19171": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19150": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19145": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19160": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19147": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19172": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19163": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19169": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19162": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19143": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19165": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19167": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19140": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19158": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19156": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19138": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
+        }
+    ],
+    "CVE-2026-19170": [
+        {
+            "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
+            "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
         }
     ]
 }
