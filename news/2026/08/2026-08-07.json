@@ -325,6 +325,10 @@
         {
             "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution \u2013 Patch ASAP",
             "link": "https://www.itsecuritynews.info/new-wordpress-pre-auth-xss-could-lead-to-php-code-execution-patch-asap/"
+        },
+        {
+            "title": "WordPress XSS2Shell Flaw Chains Pre-Auth Login XSS to PHP Remote Code Execution",
+            "link": "https://cybersecuritynews.com/wordpress-xss2shell-vulnerability/"
         }
     ],
     "CVE-2026-64561": [
@@ -353,6 +357,12 @@
         {
             "title": "18-Year-Old Linux Kernel SCTP Vulnerability Lets Attackers Gain Full Root on Host",
             "link": "https://cybersecuritynews.com/18-year-old-linux-kernel-sctp-vulnerability/"
+        }
+    ],
+    "CVE-2026-8037": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-8037",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-8037"
         }
     ]
 }
