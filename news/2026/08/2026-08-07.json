@@ -288,5 +288,21 @@
             "title": "Chrome 151 Fixes Six Critical Use-After-Free and Out-of-Bounds Write Flaws",
             "link": "https://cyberpress.org/chrome-151-use-after-free-out-of-bounds-write/"
         }
+    ],
+    "CVE-2026-64638": [
+        {
+            "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+            "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html"
+        },
+        {
+            "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution \u2013 Patch ASAP",
+            "link": "https://www.itsecuritynews.info/new-wordpress-pre-auth-xss-could-lead-to-php-code-execution-patch-asap/"
+        }
+    ],
+    "CVE-2026-64561": [
+        {
+            "title": "CVE-2026-64561 Zapscape Lets KVM Guests Escape to Linux Host With Root Privileges",
+            "link": "https://www.itsecuritynews.info/cve-2026-64561-zapscape-lets-kvm-guests-escape-to-linux-host-with-root-privileges/"
+        }
     ]
 }
