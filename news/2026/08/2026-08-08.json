@@ -4,5 +4,29 @@
             "title": "WordPress XSS2Shell Flaw Lets Unauthenticated Attackers Gain Remote Code Execution",
             "link": "https://cyberpress.org/wordpress-xss2shell-flaw-lets-unauthenticated-attackers-gain-remote-code-execution/"
         }
+    ],
+    "CVE-2026-18577": [
+        {
+            "title": "Storm-1175 Deploys New StormEncryptor Ransomware, Likely Exploiting N-able Flaw",
+            "link": "https://cyberpress.org/storm-1175-deploys-new-stormencryptor-ransomware/"
+        }
+    ],
+    "CVE-2026-43760": [
+        {
+            "title": "Critical macOS Screen Sharing Flaw Enables Pre-Auth RCE and Root File Access",
+            "link": "https://cyberpress.org/critical-macos-screen-sharing-flaw/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Critical macOS Screen Sharing Flaw Enables Pre-Auth RCE and Root File Access",
+            "link": "https://cyberpress.org/critical-macos-screen-sharing-flaw/"
+        }
+    ],
+    "CVE-2026-64564": [
+        {
+            "title": "SCTPhantom Linux Kernel Flaw Lets Local Attackers Gain Root and Escape Containers",
+            "link": "https://cyberpress.org/sctphantom-linux-kernel-flaw/"
+        }
     ]
 }
