@@ -28,5 +28,11 @@
             "title": "SCTPhantom Linux Kernel Flaw Lets Local Attackers Gain Root and Escape Containers",
             "link": "https://cyberpress.org/sctphantom-linux-kernel-flaw/"
         }
+    ],
+    "CVE-2026-8037": [
+        {
+            "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+            "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html"
+        }
     ]
 }
