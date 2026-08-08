@@ -1,0 +1,8 @@
+{
+    "CVE-2026-64638": [
+        {
+            "title": "WordPress XSS2Shell Flaw Lets Unauthenticated Attackers Gain Remote Code Execution",
+            "link": "https://cyberpress.org/wordpress-xss2shell-flaw-lets-unauthenticated-attackers-gain-remote-code-execution/"
+        }
+    ]
+}
