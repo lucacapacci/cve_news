@@ -21,6 +21,10 @@
         {
             "title": "Critical macOS Screen Sharing Flaw Enables Pre-Auth RCE and Root File Access",
             "link": "https://cyberpress.org/critical-macos-screen-sharing-flaw/"
+        },
+        {
+            "title": "Critical macOS RCE Vulnerability Allows Attackers to Gain Root Access Without Password",
+            "link": "https://www.itsecuritynews.info/critical-macos-rce-vulnerability-allows-attackers-to-gain-root-access-without-password/"
         }
     ],
     "CVE-2026-64564": [
