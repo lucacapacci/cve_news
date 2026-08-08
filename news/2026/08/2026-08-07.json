@@ -364,5 +364,11 @@
             "title": "CISA KEV Addition: CVE-2026-8037",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-8037"
         }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Apple Rushes Out macOS Patches to Block Screen Sharing Breach Across Three Versions",
+            "link": "https://www.webpronews.com/apple-rushes-out-macos-patches-to-block-screen-sharing-breach-across-three-versions/"
+        }
     ]
 }
