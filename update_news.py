@@ -64,6 +64,13 @@ def save_cve_entry(date_str, cve_id, title, link):
         for summary_link in summary_links:
             if summary_link in link:
                 return
+                
+    # cyberpress.org
+    if "cyberpress.org" in link:
+        summary_links = ["cybersecurity-roundup"]
+        for summary_link in summary_links:
+            if summary_link in link:
+                return
 
     # Load existing CVE data early so we can check it regardless of the incoming source
     try:
