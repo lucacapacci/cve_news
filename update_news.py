@@ -9,6 +9,7 @@ from io import BytesIO
 from urllib3.util import Retry
 from requests.adapters import HTTPAdapter
 import random
+from urllib.parse import unquote
 
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
@@ -33,6 +34,7 @@ FEEDS = [
     "https://www.techrepublic.com/feed/",
     "https://cyberpress.org/feed/",
     "https://blog.qualys.com/feed",
+    "https://www.cysecurity.news/feeds/posts/default?alt=rss",
     "https://www.itsecuritynews.info/feed/"
 ]
 
