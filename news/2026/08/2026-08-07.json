@@ -339,6 +339,10 @@
         {
             "title": "New \u2018Zapscape\u2019 Linux KVM Vulnerability Opens Path for Privileged Guest-to-Host Escape",
             "link": "https://www.itsecuritynews.info/new-zapscape-linux-kvm-vulnerability-opens-path-for-privileged-guest-to-host-escape/"
+        },
+        {
+            "title": "New 'Zapscape' Linux KVM Vulnerability Opens Path for Privileged Guest-to-Host Escape",
+            "link": "https://www.cysecurity.news/2026/08/new-zapscape-linux-kvm-vulnerability.html"
         }
     ],
     "CVE-2026-63913": [
@@ -369,6 +373,18 @@
         {
             "title": "Apple Rushes Out macOS Patches to Block Screen Sharing Breach Across Three Versions",
             "link": "https://www.webpronews.com/apple-rushes-out-macos-patches-to-block-screen-sharing-breach-across-three-versions/"
+        }
+    ],
+    "CVE-2026-53359": [
+        {
+            "title": "New 'Zapscape' Linux KVM Vulnerability Opens Path for Privileged Guest-to-Host Escape",
+            "link": "https://www.cysecurity.news/2026/08/new-zapscape-linux-kvm-vulnerability.html"
+        }
+    ],
+    "CVE-2026-46316": [
+        {
+            "title": "New 'Zapscape' Linux KVM Vulnerability Opens Path for Privileged Guest-to-Host Escape",
+            "link": "https://www.cysecurity.news/2026/08/new-zapscape-linux-kvm-vulnerability.html"
         }
     ]
 }

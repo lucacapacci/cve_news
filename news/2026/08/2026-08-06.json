@@ -154,5 +154,11 @@
             "title": "Critical RCE Vulnerability (CVE-2026-41234) in Gitea 1.21\u20131.22.2 Allows Unauthenticated Remote Code Execution",
             "link": "https://www.webpronews.com/critical-rce-vulnerability-cve-2026-41234-in-gitea-1-21-1-22-2-allows-unauthenticated-remote-code-execution/"
         }
+    ],
+    "CVE-2023-20569": [
+        {
+            "title": "Linux Spectre Defenses Can Be Bypassed by Precisely Timed Interrupts, Researchers Find",
+            "link": "https://www.cysecurity.news/2026/08/linux-spectre-defenses-can-be-bypassed.html"
+        }
     ]
 }
