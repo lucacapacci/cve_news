@@ -195,6 +195,18 @@ def process_rss_feeds():
             content = ""
             if 'content' in entry:
                 content = " ".join([c.get('value', '') for c in entry.content])
+
+            # --- Extract the original link for itsecuritynews.info ---
+            if "itsecuritynews.info" in link:
+                # Merge description and content, replace HTML entity for ampersand to parse URL query smoothly
+                search_text = (content + " " + description).replace('&#038;', '&')
+                
+                if "Read the original article:" in search_text:
+                    # Look for transfer.html and extract the url= query parameter up to the next query param delimiter (&)
+                    match = re.search(r'transfer\.html\?url=([^"\'&<]+)', search_text)
+                    if match:
+                        link = unquote(match.group(1))  # URL-decode and replace the current link
+            # --------------------------------------------------------------------
                 
             try:
                 pub_date_raw = entry.get('published') or entry.get('pubDate')
