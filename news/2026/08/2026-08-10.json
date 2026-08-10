@@ -47,6 +47,28 @@
         {
             "title": "CISA Flags Progress LoadMaster Command Injection Vulnerability Exploited in the Wild",
             "link": "https://gbhackers.com/cisa-flags-progress-loadmaster-command-injection-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Progress LoadMaster Command Injection Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/progress-loadmaster-command-injection-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-49176": [
+        {
+            "title": "Windows WalletService Vulnerability Allows Attackers to Escalate Privileges \u2013 PoC Released",
+            "link": "https://cybersecuritynews.com/windows-walletservice-vulnerability-poc-released/"
+        }
+    ],
+    "CVE-2026-10090": [
+        {
+            "title": "Red Hat ACM Privilege Escalation Vulnerability Lets Attackers Gain Full Cluster-Admin Access",
+            "link": "https://cybersecuritynews.com/red-hat-acm-privilege-escalation-vulnerability/"
+        }
+    ],
+    "CVE-2018-0802": [
+        {
+            "title": "Top 10 Malware Threats of the Week \u2013 AsyncRAT, Remcos, and Xworm Lead the Surge",
+            "link": "https://cybersecuritynews.com/top-10-malware-threats/"
         }
     ]
 }
