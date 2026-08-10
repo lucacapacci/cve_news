@@ -13,6 +13,10 @@
         {
             "title": "Apple Private Cloud Compute Flaw Lets Attackers Write Files as Root",
             "link": "https://cyberpress.org/apple-private-cloud-compute-flaw/"
+        },
+        {
+            "title": "Apple Private Cloud Compute Flaw Enables Root File Writes and AI Inference Telemetry Leakage",
+            "link": "https://cybersecuritynews.com/apple-private-cloud-compute-vulnerability/"
         }
     ],
     "CVE-2026-65400": [
@@ -37,6 +41,12 @@
         {
             "title": "N-able ships second N-central hotfix as attackers keep exploiting CVE-2026-18577",
             "link": "https://www.helpnetsecurity.com/2026/08/10/cve-2026-18577-n-central-hotfix-2-msps/"
+        }
+    ],
+    "CVE-2026-8037": [
+        {
+            "title": "CISA Flags Progress LoadMaster Command Injection Vulnerability Exploited in the Wild",
+            "link": "https://gbhackers.com/cisa-flags-progress-loadmaster-command-injection-vulnerability/"
         }
     ]
 }
