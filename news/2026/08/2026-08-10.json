@@ -4,5 +4,33 @@
             "title": "AI writes patches that don\u2019t work, WordPress login takeover, Researchers hijack 36 million kids\u2019 GPS trackers",
             "link": "https://cybersecuritytoday.libsyn.com/ai-writes-patches-that-dont-work-wordpress-login-takeover-researchers-hijack-36-million-kids-gps-trackers"
         }
+    ],
+    "CVE-2026-20685": [
+        {
+            "title": "Apple Private Cloud Compute Path Traversal Flaw Lets Attackers Write Files as Root",
+            "link": "https://gbhackers.com/apple-private-cloud-compute-path-traversal-flaw/"
+        },
+        {
+            "title": "Apple Private Cloud Compute Flaw Lets Attackers Write Files as Root",
+            "link": "https://cyberpress.org/apple-private-cloud-compute-flaw/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Apple Patches Mac Screen Sharing Flaw That Could Bypass Authentication",
+            "link": "https://www.techrepublic.com/article/news-apple-macos-screen-sharing-authentication-flaw/"
+        }
+    ],
+    "CVE-2026-20131": [
+        {
+            "title": "Interlock Ransomware Abuses Volatility3 and WinPmem to Dump Windows Credentials From Memory",
+            "link": "https://cyberpress.org/interlock-dumps-windows-credentials/"
+        }
+    ],
+    "CVE-2007-4559": [
+        {
+            "title": "Apple Private Cloud Compute Flaw Lets Attackers Write Files as Root",
+            "link": "https://cyberpress.org/apple-private-cloud-compute-flaw/"
+        }
     ]
 }
