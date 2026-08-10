@@ -32,5 +32,11 @@
             "title": "Apple Private Cloud Compute Flaw Lets Attackers Write Files as Root",
             "link": "https://cyberpress.org/apple-private-cloud-compute-flaw/"
         }
+    ],
+    "CVE-2026-18577": [
+        {
+            "title": "N-able ships second N-central hotfix as attackers keep exploiting CVE-2026-18577",
+            "link": "https://www.helpnetsecurity.com/2026/08/10/cve-2026-18577-n-central-hotfix-2-msps/"
+        }
     ]
 }
