@@ -70,5 +70,23 @@
             "title": "Top 10 Malware Threats of the Week \u2013 AsyncRAT, Remcos, and Xworm Lead the Surge",
             "link": "https://cybersecuritynews.com/top-10-malware-threats/"
         }
+    ],
+    "CVE-2024-55591": [
+        {
+            "title": "Gunra Ransomware Exploits Fortinet VPN Flaws to Bypass MFA and Steal Enterprise Data",
+            "link": "https://cybersecuritynews.com/gunra-ransomware-exploits-fortinet-vpn-flaws/"
+        }
+    ],
+    "CVE-2025-24472": [
+        {
+            "title": "Gunra Ransomware Exploits Fortinet VPN Flaws to Bypass MFA and Steal Enterprise Data",
+            "link": "https://cybersecuritynews.com/gunra-ransomware-exploits-fortinet-vpn-flaws/"
+        }
+    ],
+    "CVE-2026-34348": [
+        {
+            "title": "Pass-the-Passkey Attacks Expose Windows 11 and Microsoft Entra ID, Bypassing MFA",
+            "link": "https://cybersecuritynews.com/pass-the-passkey-attacks/"
+        }
     ]
 }
