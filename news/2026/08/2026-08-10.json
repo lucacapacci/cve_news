@@ -3,6 +3,10 @@
         {
             "title": "AI writes patches that don\u2019t work, WordPress login takeover, Researchers hijack 36 million kids\u2019 GPS trackers",
             "link": "https://cybersecuritytoday.libsyn.com/ai-writes-patches-that-dont-work-wordpress-login-takeover-researchers-hijack-36-million-kids-gps-trackers"
+        },
+        {
+            "title": "Imperva Customers Protected Against XSS2Shell (CVE-2026-64638) in WordPress Core",
+            "link": "https://www.imperva.com/blog/imperva-customers-protected-against-xss2shell-cve-2026-64638-in-wordpress-core/"
         }
     ],
     "CVE-2026-20685": [
@@ -51,6 +55,10 @@
         {
             "title": "CISA Warns of Progress LoadMaster Command Injection Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/progress-loadmaster-command-injection-vulnerability-exploited/"
+        },
+        {
+            "title": "CISA warns Actively Exploited Progress Kemp LoadMaster RCE Flaw",
+            "link": "https://cyberpress.org/cisa-warns-actively-exploited-progress-kemp-loadmaster/"
         }
     ],
     "CVE-2026-49176": [
