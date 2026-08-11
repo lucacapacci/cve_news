@@ -21,42 +21,100 @@
         {
             "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
             "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        },
+        {
+            "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
+            "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/"
         }
     ],
     "CVE-2026-20339": [
         {
             "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
             "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        },
+        {
+            "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
+            "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/"
         }
     ],
     "CVE-2026-20348": [
         {
             "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
             "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        },
+        {
+            "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
+            "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/"
         }
     ],
     "CVE-2026-20346": [
         {
             "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
             "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        },
+        {
+            "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
+            "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/"
         }
     ],
     "CVE-2026-20345": [
         {
             "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
             "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        },
+        {
+            "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
+            "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/"
         }
     ],
     "CVE-2026-20338": [
         {
             "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
             "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        },
+        {
+            "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
+            "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/"
         }
     ],
     "CVE-2026-20347": [
         {
             "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
             "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        },
+        {
+            "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
+            "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "CISA Warns of SonicWall SMA1000 Vulnerabilities Exploited in Attacks to Deploy Ransomware",
+            "link": "https://cybersecuritynews.com/sonicwall-sma1000-vulnerabilities-exploited/"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "CISA Warns of SonicWall SMA1000 Vulnerabilities Exploited in Attacks to Deploy Ransomware",
+            "link": "https://cybersecuritynews.com/sonicwall-sma1000-vulnerabilities-exploited/"
+        }
+    ],
+    "CVE-2026-59309": [
+        {
+            "title": "Hackers Actively Scanning to Exploit VMware VCenter Vulnerabilities",
+            "link": "https://cybersecuritynews.com/hackers-scan-vmware-vcenter-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-47876": [
+        {
+            "title": "Hackers Actively Scanning to Exploit VMware VCenter Vulnerabilities",
+            "link": "https://cybersecuritynews.com/hackers-scan-vmware-vcenter-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Hackers Actively Scanning to Exploit VMware VCenter Vulnerabilities",
+            "link": "https://cybersecuritynews.com/hackers-scan-vmware-vcenter-vulnerabilities/"
         }
     ]
 }
