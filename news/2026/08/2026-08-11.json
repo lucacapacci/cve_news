@@ -160,5 +160,17 @@
             "title": "ErrTraffic MaaS Hides Malware Infrastructure in Polygon Blockchain Smart Contracts",
             "link": "https://cyberpress.org/errtraffic-conceals-infrastructure-on-polygon/"
         }
+    ],
+    "CVE-2026-25085": [
+        {
+            "title": "Critical Copeland XWEB Pro Flaw Lets Remote Attackers Take Control of Refrigeration Systems",
+            "link": "https://cyberpress.org/critical-copeland-xweb-pro-flaw/"
+        }
+    ],
+    "CVE-2026-21718": [
+        {
+            "title": "Critical Copeland XWEB Pro Flaw Lets Remote Attackers Take Control of Refrigeration Systems",
+            "link": "https://cyberpress.org/critical-copeland-xweb-pro-flaw/"
+        }
     ]
 }
