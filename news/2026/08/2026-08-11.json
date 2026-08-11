@@ -15,6 +15,10 @@
         {
             "title": "CopyEscape: Taking Over Docker Hosts with docker cp",
             "link": "https://www.imperva.com/blog/copyescape-taking-over-docker-hosts-with-docker-cp/"
+        },
+        {
+            "title": "CopyEscape Docker Vulnerability Lets Malicious Containers Overwrite Host Files and Gain Root",
+            "link": "https://cybersecuritynews.com/copyescape-docker-vulnerability/"
         }
     ],
     "CVE-2026-20337": [
@@ -171,6 +175,240 @@
         {
             "title": "Critical Copeland XWEB Pro Flaw Lets Remote Attackers Take Control of Refrigeration Systems",
             "link": "https://cyberpress.org/critical-copeland-xweb-pro-flaw/"
+        }
+    ],
+    "CVE-2026-53415": [
+        {
+            "title": "Zoom Zero-Click Vulnerabilities Letting Meeting Participants Hijack Other Users\u2019 Devices",
+            "link": "https://cybersecuritynews.com/zoom-zero-click-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-53416": [
+        {
+            "title": "Zoom Zero-Click Vulnerabilities Letting Meeting Participants Hijack Other Users\u2019 Devices",
+            "link": "https://cybersecuritynews.com/zoom-zero-click-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-53413": [
+        {
+            "title": "Zoom Zero-Click Vulnerabilities Letting Meeting Participants Hijack Other Users\u2019 Devices",
+            "link": "https://cybersecuritynews.com/zoom-zero-click-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-53414": [
+        {
+            "title": "Zoom Zero-Click Vulnerabilities Letting Meeting Participants Hijack Other Users\u2019 Devices",
+            "link": "https://cybersecuritynews.com/zoom-zero-click-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-18129": [
+        {
+            "title": "Ivanti Endpoint Manager Vulnerabilities Let Remote Attackers Crash Agent Service",
+            "link": "https://cybersecuritynews.com/ivanti-endpoint-manager-flaw-crash-service/"
+        }
+    ],
+    "CVE-2026-18125": [
+        {
+            "title": "Ivanti Endpoint Manager Vulnerabilities Let Remote Attackers Crash Agent Service",
+            "link": "https://cybersecuritynews.com/ivanti-endpoint-manager-flaw-crash-service/"
+        }
+    ],
+    "CVE-2026-18127": [
+        {
+            "title": "Ivanti Endpoint Manager Vulnerabilities Let Remote Attackers Crash Agent Service",
+            "link": "https://cybersecuritynews.com/ivanti-endpoint-manager-flaw-crash-service/"
+        }
+    ],
+    "CVE-2026-58233": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-44758": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-5598": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-34265": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-58231": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-66770": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-44764": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-58230": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-58245": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-58243": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-66771": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2025-42947": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-58247": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-66779": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-40130": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-42945": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-34480": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-66773": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-44772": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-44762": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-58236": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-66772": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-44763": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-33871": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2025-58057": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-44765": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-58235": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-58248": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-66764": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-66763": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-58241": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
+        }
+    ],
+    "CVE-2026-58244": [
+        {
+            "title": "Critical SAP Vulnerabilities Let Attackers Inject Malicious Code and Corrupt Memory",
+            "link": "https://cybersecuritynews.com/sap-vulnerabilities-malicious-code-injection/"
         }
     ]
 }
