@@ -193,6 +193,10 @@
         {
             "title": "Zoom Zero-Click Vulnerabilities Letting Meeting Participants Hijack Other Users\u2019 Devices",
             "link": "https://cybersecuritynews.com/zoom-zero-click-vulnerabilities/"
+        },
+        {
+            "title": "Zoom Patches \u201cZoomsday\u201d Zero-Click Flaw Enabling Remote Code Execution",
+            "link": "https://securityaffairs.com/197042/hacking/zoom-patches-zoomsday-zero-click-flaw-enabling-remote-code-execution.html"
         }
     ],
     "CVE-2026-53414": [
@@ -767,6 +771,10 @@
         {
             "title": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
             "link": "https://blog.checkpoint.com/research/state-sponsored-hackers-use-fake-job-offers-to-deliver-new-zero-day-exploit/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-68820",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-68820"
         }
     ],
     "CVE-2026-70322": [
@@ -2777,6 +2785,18 @@
         {
             "title": "Microsoft Patch Tuesday Update August 2026 \u2013 394 Vulnerabilities Fixed, Including 3 Zero-Days",
             "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-august-2026/"
+        }
+    ],
+    "CVE-2026-20349": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-20349",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20349"
+        }
+    ],
+    "CVE-2026-72898": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-72898",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-72898"
         }
     ]
 }
