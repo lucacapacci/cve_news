@@ -25,6 +25,10 @@
         {
             "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
             "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/"
+        },
+        {
+            "title": "ClamAV Memory Corruption Bugs Expose Cisco Secure Endpoint to Remote DoS Attacks",
+            "link": "https://cyberpress.org/clamav-memory-corruption-bugs/"
         }
     ],
     "CVE-2026-20339": [
@@ -35,6 +39,10 @@
         {
             "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
             "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/"
+        },
+        {
+            "title": "ClamAV Memory Corruption Bugs Expose Cisco Secure Endpoint to Remote DoS Attacks",
+            "link": "https://cyberpress.org/clamav-memory-corruption-bugs/"
         }
     ],
     "CVE-2026-20348": [
@@ -65,6 +73,10 @@
         {
             "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
             "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/"
+        },
+        {
+            "title": "ClamAV Memory Corruption Bugs Expose Cisco Secure Endpoint to Remote DoS Attacks",
+            "link": "https://cyberpress.org/clamav-memory-corruption-bugs/"
         }
     ],
     "CVE-2026-20338": [
@@ -75,6 +87,10 @@
         {
             "title": "Multiple ClamAV Vulnerabilities Allow Remote Attacker to Trigger DoS Condition",
             "link": "https://cybersecuritynews.com/multiple-clamav-vulnerabilities-dos/"
+        },
+        {
+            "title": "ClamAV Memory Corruption Bugs Expose Cisco Secure Endpoint to Remote DoS Attacks",
+            "link": "https://cyberpress.org/clamav-memory-corruption-bugs/"
         }
     ],
     "CVE-2026-20347": [
@@ -91,6 +107,10 @@
         {
             "title": "CISA Warns of SonicWall SMA1000 Vulnerabilities Exploited in Attacks to Deploy Ransomware",
             "link": "https://cybersecuritynews.com/sonicwall-sma1000-vulnerabilities-exploited/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Critical SonicWall SMA1000 SSRF Flaw in Zero-Day Attacks",
+            "link": "https://cyberpress.org/cisa-sonicwall-sma1000-ssrf-zero-day-attacks/"
         }
     ],
     "CVE-2026-15409": [
@@ -101,6 +121,10 @@
         {
             "title": "CISA Warns SonicWall SMA1000 Flaws Are Exploited in Ransomware Attacks",
             "link": "https://gbhackers.com/cisa-warns-sonicwall-sma1000-flaws/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Critical SonicWall SMA1000 SSRF Flaw in Zero-Day Attacks",
+            "link": "https://cyberpress.org/cisa-sonicwall-sma1000-ssrf-zero-day-attacks/"
         }
     ],
     "CVE-2026-59309": [
@@ -119,6 +143,22 @@
         {
             "title": "Hackers Actively Scanning to Exploit VMware VCenter Vulnerabilities",
             "link": "https://cybersecuritynews.com/hackers-scan-vmware-vcenter-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-44945": [
+        {
+            "title": "Critical Rancher Flaw Lets Authenticated Users Gain Full Admin Access to All Managed Clusters",
+            "link": "https://gbhackers.com/critical-rancher-flaw/"
+        },
+        {
+            "title": "Critical Rancher Flaw Lets Authenticated Users Take Over All Managed Kubernetes Clusters",
+            "link": "https://cyberpress.org/critical-rancher-flaw-managed-kubernetes-clusters/"
+        }
+    ],
+    "CVE-2026-48294": [
+        {
+            "title": "ErrTraffic MaaS Hides Malware Infrastructure in Polygon Blockchain Smart Contracts",
+            "link": "https://cyberpress.org/errtraffic-conceals-infrastructure-on-polygon/"
         }
     ]
 }
