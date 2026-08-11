@@ -4,5 +4,17 @@
             "title": "OpenAI Expands Daybreak Cyber with GPT-5.6 for Exploit Validation, Pentesting, and Red Teaming",
             "link": "https://cybersecuritynews.com/openai-expands-daybreak-cyber/"
         }
+    ],
+    "CVE-2026-10090": [
+        {
+            "title": "Red Hat Kubernetes Flaw Allows Attackers to Escalate Privileges to Cluster-Admin",
+            "link": "https://gbhackers.com/red-hat-kubernetes-flaw/"
+        }
+    ],
+    "CVE-2026-17106": [
+        {
+            "title": "CopyEscape: Taking Over Docker Hosts with docker cp",
+            "link": "https://www.imperva.com/blog/copyescape-taking-over-docker-hosts-with-docker-cp/"
+        }
     ]
 }
