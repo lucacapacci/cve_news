@@ -799,6 +799,10 @@
         {
             "title": "Microsoft's August 2026 Patch Tuesday Addresses 398 CVEs (CVE-2026-68820)",
             "link": "https://www.tenable.com/blog/microsofts-august-2026-patch-tuesday-addresses-398-cves-cve-2026-68820"
+        },
+        {
+            "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+            "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"
         }
     ],
     "CVE-2026-70322": [
