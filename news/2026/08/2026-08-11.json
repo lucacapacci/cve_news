@@ -97,6 +97,10 @@
         {
             "title": "CISA Warns of SonicWall SMA1000 Vulnerabilities Exploited in Attacks to Deploy Ransomware",
             "link": "https://cybersecuritynews.com/sonicwall-sma1000-vulnerabilities-exploited/"
+        },
+        {
+            "title": "CISA Warns SonicWall SMA1000 Flaws Are Exploited in Ransomware Attacks",
+            "link": "https://gbhackers.com/cisa-warns-sonicwall-sma1000-flaws/"
         }
     ],
     "CVE-2026-59309": [
