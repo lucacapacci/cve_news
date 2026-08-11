@@ -16,5 +16,47 @@
             "title": "CopyEscape: Taking Over Docker Hosts with docker cp",
             "link": "https://www.imperva.com/blog/copyescape-taking-over-docker-hosts-with-docker-cp/"
         }
+    ],
+    "CVE-2026-20337": [
+        {
+            "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
+            "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20339": [
+        {
+            "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
+            "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20348": [
+        {
+            "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
+            "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20346": [
+        {
+            "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
+            "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20345": [
+        {
+            "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
+            "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20338": [
+        {
+            "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
+            "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20347": [
+        {
+            "title": "CiscoClamAV Vulnerabilities Let Remote Attackers Crash Antivirus Scanning With Crafted Files",
+            "link": "https://gbhackers.com/clamav-vulnerabilities/"
+        }
     ]
 }
