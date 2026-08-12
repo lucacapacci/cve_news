@@ -35,6 +35,10 @@
         {
             "title": "Microsoft\u2019s August 2026 Patches Close 421 Holes as North Korean Hackers Turn Kernel Driver Into Zero-Day Weapon",
             "link": "https://www.webpronews.com/microsofts-august-2026-patches-close-421-holes-as-north-korean-hackers-turn-kernel-driver-into-zero-day-weapon/"
+        },
+        {
+            "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+            "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/"
         }
     ],
     "CVE-2026-20349": [
@@ -51,6 +55,10 @@
         {
             "title": "Zoom Zero-Click \u2018Zoomsday\u2019 Flaw Lets Meeting Participants Execute Code on Other Users\u2019 Devices",
             "link": "https://gbhackers.com/zoom-zero-click-zoomsday-flaw/"
+        },
+        {
+            "title": "AI Uncovers Zoom Annotation Flaw That Could Silently Compromise Meeting Participants",
+            "link": "https://www.webpronews.com/ai-uncovers-zoom-annotation-flaw-that-could-silently-compromise-meeting-participants/"
         }
     ],
     "CVE-2026-17106": [
@@ -95,6 +103,10 @@
         {
             "title": "ShieldBreak Windows Defender 0-Day Lets Attackers Bypass Microsoft Patch and Gain SYSTEM Privileges",
             "link": "https://gbhackers.com/shieldbreak-windows-defender-0-day/"
+        },
+        {
+            "title": "A Lone Researcher Forces Microsoft\u2019s Hand With Latest Windows Defender Flaw",
+            "link": "https://www.webpronews.com/a-lone-researcher-forces-microsofts-hand-with-latest-windows-defender-flaw/"
         }
     ],
     "CVE-2026-55040": [
@@ -713,6 +725,24 @@
         {
             "title": "Microsoft\u2019s August 2026 Patches Close 421 Holes as North Korean Hackers Turn Kernel Driver Into Zero-Day Weapon",
             "link": "https://www.webpronews.com/microsofts-august-2026-patches-close-421-holes-as-north-korean-hackers-turn-kernel-driver-into-zero-day-weapon/"
+        }
+    ],
+    "CVE-2026-53414": [
+        {
+            "title": "AI Uncovers Zoom Annotation Flaw That Could Silently Compromise Meeting Participants",
+            "link": "https://www.webpronews.com/ai-uncovers-zoom-annotation-flaw-that-could-silently-compromise-meeting-participants/"
+        }
+    ],
+    "CVE-2026-53415": [
+        {
+            "title": "AI Uncovers Zoom Annotation Flaw That Could Silently Compromise Meeting Participants",
+            "link": "https://www.webpronews.com/ai-uncovers-zoom-annotation-flaw-that-could-silently-compromise-meeting-participants/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "New Ransomware Targets AI Model Weights but Fails to Collect Ransom",
+            "link": "https://www.cysecurity.news/2026/08/new-ransomware-targets-ai-model-weights.html"
         }
     ]
 }
