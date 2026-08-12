@@ -15,6 +15,18 @@
         {
             "title": "Windows AFD.sys Zero-Day Exploited by Lazarus Hackers to Gain SYSTEM Access",
             "link": "https://gbhackers.com/windows-afd-sys-zero-day-exploited-by-lazarus-hackers/"
+        },
+        {
+            "title": "Microsoft patches 400+ vulnerabilities, one zero-day under attack (CVE-2026-68820)",
+            "link": "https://www.helpnetsecurity.com/2026/08/12/august-2026-patch-tuesday-cve-2026-68820/"
+        },
+        {
+            "title": "Hackers Weaponize Job Offers With Zero-Day Exploit to Gain Silent System Access",
+            "link": "https://cyberpress.org/hackers-weaponize-job-offers-with-zero-day-exploit/"
+        },
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
         }
     ],
     "CVE-2026-20349": [
@@ -47,6 +59,10 @@
         {
             "title": "Microsoft Outlook RCE Vulnerability Lets Attackers Execute Code Remotely",
             "link": "https://gbhackers.com/microsoft-outlook-rce-vulnerability/"
+        },
+        {
+            "title": "Microsoft Outlook RCE Flaw Lets Attackers Execute Code via Malicious Office Files",
+            "link": "https://cyberpress.org/microsoft-outlook-rce-flaw/"
         }
     ],
     "CVE-2026-58231": [
@@ -59,18 +75,30 @@
         {
             "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
             "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
+        },
+        {
+            "title": "ShieldBreak: New Windows Zero-Day Bypasses Microsoft\u2019s RoguePlanet Patch",
+            "link": "https://securityaffairs.com/197063/hacking/shieldbreak-new-windows-zero-day-bypasses-microsofts-rogueplanet-patch.html"
         }
     ],
     "CVE-2026-55040": [
         {
             "title": "Microsoft SharePoint Server Vulnerability Allows Attackers to Inject and Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/microsoft-sharepoint-server-vulnerability/"
+        },
+        {
+            "title": "Microsoft SharePoint RCE Flaw Chains Allow Unauthenticated Server Takeover",
+            "link": "https://cyberpress.org/microsoft-sharepoint-rce-flaw/"
         }
     ],
     "CVE-2026-63520": [
         {
             "title": "Microsoft SharePoint Server Vulnerability Allows Attackers to Inject and Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/microsoft-sharepoint-server-vulnerability/"
+        },
+        {
+            "title": "Microsoft SharePoint RCE Flaw Chains Allow Unauthenticated Server Takeover",
+            "link": "https://cyberpress.org/microsoft-sharepoint-rce-flaw/"
         }
     ],
     "CVE-2026-62882": [
@@ -95,6 +123,514 @@
         {
             "title": "Windows AFD.sys 0-Day Actively Exploited by Lazarus Hackers to Deploy FudModule Rootkit",
             "link": "https://cybersecuritynews.com/windows-afd-sys-zero-day-exploited/"
+        },
+        {
+            "title": "Hackers Weaponize Job Offers With Zero-Day Exploit to Gain Silent System Access",
+            "link": "https://cyberpress.org/hackers-weaponize-job-offers-with-zero-day-exploit/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+            "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
+        }
+    ],
+    "CVE-2026-19556": [
+        {
+            "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
+            "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        }
+    ],
+    "CVE-2026-19559": [
+        {
+            "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
+            "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        }
+    ],
+    "CVE-2026-19560": [
+        {
+            "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
+            "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        }
+    ],
+    "CVE-2026-19557": [
+        {
+            "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
+            "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        }
+    ],
+    "CVE-2026-19558": [
+        {
+            "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
+            "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        }
+    ],
+    "CVE-2026-59113": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-49179": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2021-36946": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59125": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59115": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2025-29821": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70348": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-56161": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50515": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50493": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59134": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-47303": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59135": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50659": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59124": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-40400": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59138": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-61347": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-55050": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50341": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2024-21380": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70344": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59136": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-61348": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2021-34474": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70346": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-58641": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50416": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-54113": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59128": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-58651": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-54123": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-57105": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2023-38167": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70340": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-72971": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59131": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59130": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-61349": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-57104": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2024-35249": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2022-41066": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-58639": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-58612": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59122": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50516": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-54984": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59137": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-58650": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50472": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-61346": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-61345": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-49163": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59133": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2021-40440": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2024-38225": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59126": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50309": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70355": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70354": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50357": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-40417": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70347": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59132": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-47285": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59118": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-62832": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-70345": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59127": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-56174": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-54981": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-47299": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-59119": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-56162": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-42976": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-50481": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-71331": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-56179": [
+        {
+            "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
+            "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
         }
     ]
 }
