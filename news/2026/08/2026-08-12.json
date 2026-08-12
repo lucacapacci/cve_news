@@ -83,6 +83,10 @@
         {
             "title": "Nightmare-Eclipse Drops ShieldBreak Windows Defender 0-day Vulnerability",
             "link": "https://cybersecuritynews.com/nightmare-eclipse-drops-shieldbreak-0-day/"
+        },
+        {
+            "title": "ShieldBreak Windows Defender 0-Day Lets Attackers Bypass Microsoft Patch and Gain SYSTEM Privileges",
+            "link": "https://gbhackers.com/shieldbreak-windows-defender-0-day/"
         }
     ],
     "CVE-2026-55040": [
