@@ -7,6 +7,34 @@
         {
             "title": "DefCon airplane Wi-Fi drama. GhostJacking leads to agent hijacks, AI agent hacks gym",
             "link": "https://cybersecuritytoday.libsyn.com/defcon-airplane-wi-fi-drama-ghostjacking-leads-to-agent-hijacks-ai-agent-hacks-gym"
+        },
+        {
+            "title": "Lazarus Hackers Actively Exploiting Windows AFD.sys Zero-Day to Deploy FudModule Rootkit",
+            "link": "https://cybersecuritynews.com/windows-afd-sys-zero-day-exploited/"
+        }
+    ],
+    "CVE-2026-20349": [
+        {
+            "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
+            "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/"
+        }
+    ],
+    "CVE-2026-53413": [
+        {
+            "title": "Zoom Zero-Click \u2018Zoomsday\u2019 Flaw Lets Meeting Participants Execute Code on Other Users\u2019 Devices",
+            "link": "https://gbhackers.com/zoom-zero-click-zoomsday-flaw/"
+        }
+    ],
+    "CVE-2026-17106": [
+        {
+            "title": "Docker CopyEscape Vulnerability Enables Host File Overwrite and Root Code Execution",
+            "link": "https://gbhackers.com/docker-copyescape-vulnerability/"
+        }
+    ],
+    "CVE-2026-70329": [
+        {
+            "title": "Microsoft Outlook Vulnerability Allows Attackers to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/"
         }
     ]
 }
