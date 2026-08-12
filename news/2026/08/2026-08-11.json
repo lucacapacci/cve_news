@@ -499,6 +499,10 @@
         {
             "title": "Microsoft Patch Tuesday,\u00a0August\u00a02026 Security Update Review",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "ZDI-26-536: (Pwn2Own) Microsoft Windows http.sys Integer Overflow Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-536/"
         }
     ],
     "CVE-2026-64899": [
@@ -527,6 +531,10 @@
         {
             "title": "Microsoft Patch Tuesday Update August 2026 \u2013 394 Vulnerabilities Fixed, Including 3 Zero-Days",
             "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-august-2026/"
+        },
+        {
+            "title": "ZDI-26-537: (Pwn2Own) Microsoft Windows storport Integer Overflow Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-537/"
         }
     ],
     "CVE-2026-62880": [
@@ -619,6 +627,10 @@
         {
             "title": "Microsoft Patch Tuesday,\u00a0August\u00a02026 Security Update Review",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "ZDI-26-542: Microsoft Windows UMPDDrvBitBlt Improper Object Management Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-542/"
         }
     ],
     "CVE-2026-68813": [
@@ -811,6 +823,18 @@
         {
             "title": "Microsoft Patch Tuesday,\u00a0August\u00a02026 Security Update Review",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "ZDI-26-538: (Pwn2Own) Microsoft Exchange Improper Authorization Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-538/"
+        },
+        {
+            "title": "ZDI-26-535: (Pwn2Own) Microsoft Exchange External Control of File Path Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-535/"
+        },
+        {
+            "title": "ZDI-26-534: (Pwn2Own) Microsoft Exchange Capture-Replay Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-534/"
         }
     ],
     "CVE-2026-62700": [
@@ -863,6 +887,10 @@
         {
             "title": "Microsoft Patch Tuesday,\u00a0August\u00a02026 Security Update Review",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "ZDI-26-544: Microsoft Windows Deployment Services Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-544/"
         }
     ],
     "CVE-2026-59124": [
@@ -935,6 +963,10 @@
         {
             "title": "Microsoft Patch Tuesday Update August 2026 \u2013 394 Vulnerabilities Fixed, Including 3 Zero-Days",
             "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-august-2026/"
+        },
+        {
+            "title": "ZDI-26-543: Microsoft Windows ICC File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-543/"
         }
     ],
     "CVE-2026-58639": [
@@ -2003,6 +2035,10 @@
         {
             "title": "Microsoft Patch Tuesday Update August 2026 \u2013 394 Vulnerabilities Fixed, Including 3 Zero-Days",
             "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-august-2026/"
+        },
+        {
+            "title": "ZDI-26-540: (Pwn2Own) Microsoft Windows win32kfull Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-540/"
         }
     ],
     "CVE-2026-62757": [
@@ -3037,6 +3073,10 @@
         {
             "title": "Microsoft Patch Tuesday Update August 2026 \u2013 394 Vulnerabilities Fixed, Including 3 Zero-Days",
             "link": "https://cybersecuritynews.com/microsoft-patch-tuesday-update-august-2026/"
+        },
+        {
+            "title": "ZDI-26-539: (Pwn2Own) Microsoft Windows ipt.sys Incorrect Permission Assignment Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-539/"
         }
     ],
     "CVE-2026-61353": [
@@ -3185,6 +3225,10 @@
         {
             "title": "Microsoft Patch Tuesday,\u00a0August\u00a02026 Security Update Review",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "ZDI-26-541: (Pwn2Own) Microsoft Windows win32kfull Use-After-Free Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-541/"
         }
     ],
     "CVE-2026-59125": [
@@ -3477,6 +3521,120 @@
         {
             "title": "Microsoft Patch Tuesday,\u00a0August\u00a02026 Security Update Review",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-18263": [
+        {
+            "title": "ZDI-26-556: Parallels RAS Client RDP Backend Service Exposed Dangerous Function Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-556/"
+        }
+    ],
+    "CVE-2026-18262": [
+        {
+            "title": "ZDI-26-555: Parallels RAS Client RDP Backend Service Exposed Dangerous Function Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-555/"
+        }
+    ],
+    "CVE-2026-13121": [
+        {
+            "title": "ZDI-26-554: Parallels RAS Client RDP Backend Service Exposed Dangerous Function Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-554/"
+        }
+    ],
+    "CVE-2026-18294": [
+        {
+            "title": "ZDI-26-553: OriginLab Origin Viewer OGW File Parsing Memory Corruption Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-553/"
+        }
+    ],
+    "CVE-2026-18293": [
+        {
+            "title": "ZDI-26-552: OriginLab Origin Viewer OPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-552/"
+        }
+    ],
+    "CVE-2026-18292": [
+        {
+            "title": "ZDI-26-551: OriginLab OriginPro OGG File Parsing Memory Corruption Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-551/"
+        }
+    ],
+    "CVE-2026-18291": [
+        {
+            "title": "ZDI-26-550: OriginLab OriginPro OGW File Parsing Memory Corruption Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-550/"
+        }
+    ],
+    "CVE-2026-18290": [
+        {
+            "title": "ZDI-26-549: OriginLab OriginPro OGG File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-549/"
+        }
+    ],
+    "CVE-2026-18289": [
+        {
+            "title": "ZDI-26-548: OriginLab OriginPro OPJ File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-548/"
+        }
+    ],
+    "CVE-2026-18288": [
+        {
+            "title": "ZDI-26-547: OriginLab OriginPro OPJU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-547/"
+        }
+    ],
+    "CVE-2026-69264": [
+        {
+            "title": "ZDI-26-546: Flowise Airtable_Agent Code Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-546/"
+        }
+    ],
+    "CVE-2026-69256": [
+        {
+            "title": "ZDI-26-545: Flowise CSV_Agent customReadCSV Code Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-545/"
+        }
+    ],
+    "CVE-2026-20316": [
+        {
+            "title": "ZDI-26-533: Cisco Secure Firewall Management Center login.cgi Authentication Bypass Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-533/"
+        }
+    ],
+    "CVE-2026-66149": [
+        {
+            "title": "ZDI-26-532: SonicWall Email Security updateNetIf Command Injection Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-532/"
+        }
+    ],
+    "CVE-2026-66148": [
+        {
+            "title": "ZDI-26-531: SonicWall GMS Virtual Appliance interface Command Injection Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-531/"
+        }
+    ],
+    "CVE-2026-66150": [
+        {
+            "title": "ZDI-26-530: SonicWall Email Security snmp Command Injection Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-530/"
+        }
+    ],
+    "CVE-2026-21045": [
+        {
+            "title": "ZDI-26-529: Samsung Galaxy S25 TIFF File Processing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-529/"
+        }
+    ],
+    "CVE-2026-28220": [
+        {
+            "title": "ZDI-26-528: Wazuh Cluster DAPI Protocol Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-528/"
+        }
+    ],
+    "CVE-2026-44901": [
+        {
+            "title": "ZDI-26-527: Wazuh Cluster DAPI Protocol Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-527/"
         }
     ]
 }
