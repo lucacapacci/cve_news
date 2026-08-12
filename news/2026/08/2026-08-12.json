@@ -11,12 +11,20 @@
         {
             "title": "Lazarus Hackers Actively Exploiting Windows AFD.sys Zero-Day to Deploy FudModule Rootkit",
             "link": "https://cybersecuritynews.com/windows-afd-sys-zero-day-exploited/"
+        },
+        {
+            "title": "Windows AFD.sys Zero-Day Exploited by Lazarus Hackers to Gain SYSTEM Access",
+            "link": "https://gbhackers.com/windows-afd-sys-zero-day-exploited-by-lazarus-hackers/"
         }
     ],
     "CVE-2026-20349": [
         {
             "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
             "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/"
+        },
+        {
+            "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+            "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html"
         }
     ],
     "CVE-2026-53413": [
@@ -35,6 +43,54 @@
         {
             "title": "Microsoft Outlook Vulnerability Allows Attackers to Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-58231": [
+        {
+            "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-50656": [
+        {
+            "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+            "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "Microsoft SharePoint Server Vulnerability Allows Attackers to Inject and Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-sharepoint-server-vulnerability/"
+        }
+    ],
+    "CVE-2026-63520": [
+        {
+            "title": "Microsoft SharePoint Server Vulnerability Allows Attackers to Inject and Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-sharepoint-server-vulnerability/"
+        }
+    ],
+    "CVE-2026-62882": [
+        {
+            "title": "Microsoft Outlook Vulnerability Allows Attackers to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-50528": [
+        {
+            "title": "Microsoft Outlook Vulnerability Allows Attackers to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/"
+        }
+    ],
+    "CVE-2024-38193": [
+        {
+            "title": "Windows AFD.sys 0-Day Actively Exploited by Lazarus Hackers to Deploy FudModule Rootkit",
+            "link": "https://cybersecuritynews.com/windows-afd-sys-zero-day-exploited/"
+        }
+    ],
+    "CVE-2025-49113": [
+        {
+            "title": "Windows AFD.sys 0-Day Actively Exploited by Lazarus Hackers to Deploy FudModule Rootkit",
+            "link": "https://cybersecuritynews.com/windows-afd-sys-zero-day-exploited/"
         }
     ]
 }
