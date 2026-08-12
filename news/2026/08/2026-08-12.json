@@ -99,6 +99,10 @@
         {
             "title": "Microsoft SharePoint RCE Flaw Chains Allow Unauthenticated Server Takeover",
             "link": "https://cyberpress.org/microsoft-sharepoint-rce-flaw/"
+        },
+        {
+            "title": "Microsoft SharePoint RCE Vulnerability Lets Remote Attackers Execute Code",
+            "link": "https://gbhackers.com/microsoft-sharepoint-rce-vulnerability/"
         }
     ],
     "CVE-2026-62882": [
@@ -631,6 +635,12 @@
         {
             "title": "Microsoft Patches 398 Windows Flaws Including Actively Exploited WinSock Zero-Day",
             "link": "https://cyberpress.org/microsoft-patches-398-windows-flaws/"
+        }
+    ],
+    "CVE-2026-48362": [
+        {
+            "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+            "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
         }
     ]
 }
