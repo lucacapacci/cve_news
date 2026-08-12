@@ -59,6 +59,10 @@
         {
             "title": "AI Uncovers Zoom Annotation Flaw That Could Silently Compromise Meeting Participants",
             "link": "https://www.webpronews.com/ai-uncovers-zoom-annotation-flaw-that-could-silently-compromise-meeting-participants/"
+        },
+        {
+            "title": "Zoom Annotation Bug Turned Video Calls Into Silent Device Takeovers",
+            "link": "https://www.webpronews.com/zoom-annotation-bug-turned-video-calls-into-silent-device-takeovers/"
         }
     ],
     "CVE-2026-17106": [
@@ -107,6 +111,10 @@
         {
             "title": "A Lone Researcher Forces Microsoft\u2019s Hand With Latest Windows Defender Flaw",
             "link": "https://www.webpronews.com/a-lone-researcher-forces-microsofts-hand-with-latest-windows-defender-flaw/"
+        },
+        {
+            "title": "ShieldBreak Windows Defender Zero-Day Bypasses Microsoft Patch to Gain SYSTEM Access",
+            "link": "https://cyberpress.org/shieldbreak-windows-defender-zero-day-bypasses/"
         }
     ],
     "CVE-2026-55040": [
@@ -191,30 +199,50 @@
         {
             "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
             "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
+            "link": "https://cybersecuritynews.com/chrome-151-high-severity-flaws/"
         }
     ],
     "CVE-2026-19559": [
         {
             "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
             "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
+            "link": "https://cybersecuritynews.com/chrome-151-high-severity-flaws/"
         }
     ],
     "CVE-2026-19560": [
         {
             "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
             "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
+            "link": "https://cybersecuritynews.com/chrome-151-high-severity-flaws/"
         }
     ],
     "CVE-2026-19557": [
         {
             "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
             "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
+            "link": "https://cybersecuritynews.com/chrome-151-high-severity-flaws/"
         }
     ],
     "CVE-2026-19558": [
         {
             "title": "Google Chrome Patches Multiple Browser Flaws That Could Enable Remote Attacks",
             "link": "https://cyberpress.org/google-chrome-patches-multiple-browser-flaws/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Five High-Severity Use-After-Free Flaws in V8, Blink, and Extensions",
+            "link": "https://cybersecuritynews.com/chrome-151-high-severity-flaws/"
         }
     ],
     "CVE-2026-59113": [
@@ -697,6 +725,10 @@
         {
             "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
             "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
+        },
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
         }
     ],
     "CVE-2026-72898": [
@@ -731,18 +763,152 @@
         {
             "title": "AI Uncovers Zoom Annotation Flaw That Could Silently Compromise Meeting Participants",
             "link": "https://www.webpronews.com/ai-uncovers-zoom-annotation-flaw-that-could-silently-compromise-meeting-participants/"
+        },
+        {
+            "title": "Zoom Annotation Bug Turned Video Calls Into Silent Device Takeovers",
+            "link": "https://www.webpronews.com/zoom-annotation-bug-turned-video-calls-into-silent-device-takeovers/"
         }
     ],
     "CVE-2026-53415": [
         {
             "title": "AI Uncovers Zoom Annotation Flaw That Could Silently Compromise Meeting Participants",
             "link": "https://www.webpronews.com/ai-uncovers-zoom-annotation-flaw-that-could-silently-compromise-meeting-participants/"
+        },
+        {
+            "title": "Zoom Annotation Bug Turned Video Calls Into Silent Device Takeovers",
+            "link": "https://www.webpronews.com/zoom-annotation-bug-turned-video-calls-into-silent-device-takeovers/"
         }
     ],
     "CVE-2025-3248": [
         {
             "title": "New Ransomware Targets AI Model Weights but Fails to Collect Ransom",
             "link": "https://www.cysecurity.news/2026/08/new-ransomware-targets-ai-model-weights.html"
+        }
+    ],
+    "CVE-2026-0296": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0294": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0297": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0293": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0292": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0299": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0295": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0291": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0301": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-0298": [
+        {
+            "title": "Palo Alto Networks Patches 11 New Vulnerabilities Across PAN-OS, GlobalProtect, and Prisma Access",
+            "link": "https://cybersecuritynews.com/palo-alto-networks-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-34635": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-71383": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-25652": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-48386": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-71386": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-71385": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-71384": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-48440": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-48273": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-21279": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
+        }
+    ],
+    "CVE-2026-71387": [
+        {
+            "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
         }
     ]
 }
