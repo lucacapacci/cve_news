@@ -910,5 +910,11 @@
             "title": "Critical Adobe ColdFusion Vulnerabilities Allow Attackers to Execute Arbitrary Code",
             "link": "https://cybersecuritynews.com/adobe-coldfusion-vulnerabilities-code-execution/"
         }
+    ],
+    "CVE-2026-71362": [
+        {
+            "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/"
+        }
     ]
 }
