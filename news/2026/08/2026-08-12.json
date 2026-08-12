@@ -79,6 +79,10 @@
         {
             "title": "ShieldBreak: New Windows Zero-Day Bypasses Microsoft\u2019s RoguePlanet Patch",
             "link": "https://securityaffairs.com/197063/hacking/shieldbreak-new-windows-zero-day-bypasses-microsofts-rogueplanet-patch.html"
+        },
+        {
+            "title": "Nightmare-Eclipse Drops ShieldBreak Windows Defender 0-day Vulnerability",
+            "link": "https://cybersecuritynews.com/nightmare-eclipse-drops-shieldbreak-0-day/"
         }
     ],
     "CVE-2026-55040": [
@@ -137,6 +141,14 @@
         {
             "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
             "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
+        },
+        {
+            "title": "Hackers Exploit Critical VMware vCenter Flaw to Deploy Reverse SSH Across 47 Countries",
+            "link": "https://gbhackers.com/hackers-exploit-critical-vmware-vcenter-flaw/"
+        },
+        {
+            "title": "Critical VMware vCenter Directory Traversal Flaw Used in Global Attacks",
+            "link": "https://cyberpress.org/critical-vmware-vcenter-directory-traversal-flaw/"
         }
     ],
     "CVE-2026-19556": [
@@ -641,6 +653,22 @@
         {
             "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
             "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
+        }
+    ],
+    "CVE-2026-72898": [
+        {
+            "title": "CISA Warns Critical Metabase SQL Injection Flaw Lets Unauthenticated Attackers Gain Admin Access",
+            "link": "https://gbhackers.com/cisa-warns-critical-metabase-sql-injection-flaw/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Metabase Flaw Enabling Admin Account Takeover",
+            "link": "https://cyberpress.org/cisa-warns-of-actively-exploited-metabase-flaw/"
+        }
+    ],
+    "CVE-2026-18577": [
+        {
+            "title": "Hackers Linked to China Install StormEncryptor Ransomware",
+            "link": "https://www.cysecurity.news/2026/08/hackers-linked-to-china-install.html"
         }
     ]
 }
