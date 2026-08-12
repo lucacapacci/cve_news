@@ -43,6 +43,10 @@
         {
             "title": "Microsoft Outlook Vulnerability Allows Attackers to Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/microsoft-outlook-rce-vulnerability-2/"
+        },
+        {
+            "title": "Microsoft Outlook RCE Vulnerability Lets Attackers Execute Code Remotely",
+            "link": "https://gbhackers.com/microsoft-outlook-rce-vulnerability/"
         }
     ],
     "CVE-2026-58231": [
