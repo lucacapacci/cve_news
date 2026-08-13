@@ -21,6 +21,10 @@
         {
             "title": "Attackers exploit critical SharePoint flaw after PoC goes public (CVE-2026-55040)",
             "link": "https://www.helpnetsecurity.com/2026/08/13/microsoft-sharepoint-cve-2026-55040-poc-exploit/"
+        },
+        {
+            "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+            "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html"
         }
     ],
     "CVE-2026-71362": [
@@ -105,6 +109,10 @@
         {
             "title": "Critical VMware vCenter Vulnerability in Attackers\u2019 Crosshairs",
             "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/"
+        },
+        {
+            "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/"
         }
     ],
     "CVE-2026-17106": [
@@ -121,6 +129,10 @@
         {
             "title": "CISA Warns of Windows Ancillary Function 0-Day Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/windows-ancillary-function-0-day-exploited/"
+        },
+        {
+            "title": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
+            "link": "https://blog.checkpoint.com/research/state-sponsored-hackers-use-fake-job-offers-to-deliver-new-zero-day-exploit/"
         }
     ],
     "CVE-2026-62913": [
