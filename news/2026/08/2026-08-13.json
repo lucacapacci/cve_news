@@ -264,5 +264,71 @@
             "title": "Rsync 3.5 Overhauls Decades-Old File Sync Tool With 33 Security Fixes",
             "link": "https://www.webpronews.com/rsync-3-5-overhauls-decades-old-file-sync-tool-with-33-security-fixes/"
         }
+    ],
+    "CVE-2026-4890": [
+        {
+            "title": "ZDI-26-584: dnsmasq DNSSEC NSEC/NSEC3 Type Bitmap Processing Infinite Loop Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-584/"
+        }
+    ],
+    "CVE-2026-20215": [
+        {
+            "title": "ZDI-26-583: Clam AntiVirus 7z Archive Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-583/"
+        }
+    ],
+    "CVE-2026-20148": [
+        {
+            "title": "ZDI-26-582: Cisco Identity Services Engine PatchUpdateListener Directory Traversal Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-582/"
+        }
+    ],
+    "CVE-2026-20147": [
+        {
+            "title": "ZDI-26-581: Cisco Identity Services Engine invokeScript Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-581/"
+        }
+    ],
+    "CVE-2026-20190": [
+        {
+            "title": "ZDI-26-580: Cisco Identity Services Engine Missing Authentication for Critical Function Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-580/"
+        }
+    ],
+    "CVE-2026-20181": [
+        {
+            "title": "ZDI-26-579: Cisco Identity Services Engine zipFiles Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-579/"
+        }
+    ],
+    "CVE-2026-27654": [
+        {
+            "title": "ZDI-26-578: NGINX HTTP Dav Module Alias Directive Integer Underflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-578/"
+        }
+    ],
+    "CVE-2026-67212": [
+        {
+            "title": "ZDI-26-577: Trend Micro VPN OpenSSL Configuration Uncontrolled Search Path Element Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-577/"
+        }
+    ],
+    "CVE-2026-46319": [
+        {
+            "title": "ZDI-26-574: Linux Kernel Net Scheduler Connection Tracking Race Condition Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-574/"
+        }
+    ],
+    "CVE-2026-64530": [
+        {
+            "title": "ZDI-26-571: Linux Kernel Net Scheduler Packet Classifier API Use-After-Free Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-571/"
+        }
+    ],
+    "CVE-2026-53413": [
+        {
+            "title": "Zoom Patches \u201cZoomsday\u201d Zero-Click Flaw Enabling Remote Code Execution",
+            "link": "https://securityaffairs.com/197042/hacking/zoom-patches-zoomsday-zero-click-flaw-enabling-remote-code-execution.html"
+        }
     ]
 }
