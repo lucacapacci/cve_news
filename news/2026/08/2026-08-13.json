@@ -1,0 +1,8 @@
+{
+    "CVE-2026-65640": [
+        {
+            "title": "WordPress RCE Vulnerability Lets Authenticated Authors Execute Remote Code",
+            "link": "https://gbhackers.com/wordpress-rce-vulnerability/"
+        }
+    ]
+}
