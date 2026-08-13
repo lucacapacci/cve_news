@@ -39,6 +39,10 @@
         {
             "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
             "link": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/"
+        },
+        {
+            "title": "Adobe Commerce CVE-2026-71362 Comes Under Attack Shortly After Public Disclosure",
+            "link": "https://securityaffairs.com/197149/hacking/adobe-commerce-cve-2026-71362-comes-under-attack-shortly-after-public-disclosure.html"
         }
     ],
     "CVE-2026-48416": [
@@ -85,6 +89,10 @@
         {
             "title": "Cisco fixes vulnerability exploited to DoS its firewalls (CVE-2026-20349)",
             "link": "https://www.helpnetsecurity.com/2026/08/13/cve-2026-20349-cisco-firewalls-dos/"
+        },
+        {
+            "title": "U.S. CISA adds Metabase, Windows, and Cisco Secure Firewall flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/197110/uncategorized/u-s-cisa-adds-metabase-windows-and-cisco-secure-firewall-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
         }
     ],
     "CVE-2023-38831": [
