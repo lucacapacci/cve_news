@@ -17,6 +17,10 @@
         {
             "title": "SharePoint CVE-2026-55040 Comes Under Attack Following Public Exploit",
             "link": "https://securityaffairs.com/197137/hacking/sharepoint-cve-2026-55040-comes-under-attack-following-public-exploit.html"
+        },
+        {
+            "title": "Attackers exploit critical SharePoint flaw after PoC goes public (CVE-2026-55040)",
+            "link": "https://www.helpnetsecurity.com/2026/08/13/microsoft-sharepoint-cve-2026-55040-poc-exploit/"
         }
     ],
     "CVE-2026-71362": [
@@ -109,6 +113,18 @@
         {
             "title": "CISA Adds Actively Exploited Windows WinSock Vulnerability to KEV Catalog",
             "link": "https://gbhackers.com/cisa-adds-actively-exploited-windows-winsock-vulnerability/"
+        }
+    ],
+    "CVE-2026-62913": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Allow DoS, Privilege Escalation, and RCE",
+            "link": "https://gbhackers.com/microsoft-exchange-server-vulnerabilities-2/"
+        }
+    ],
+    "CVE-2026-67261": [
+        {
+            "title": "Critical Dell VMware vSphere Client Flaw Lets Remote Attackers Execute Commands as Root",
+            "link": "https://gbhackers.com/critical-dell-vmware-vsphere-client-flaw/"
         }
     ]
 }
