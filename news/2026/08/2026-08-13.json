@@ -121,6 +121,10 @@
         {
             "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
             "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/"
+        },
+        {
+            "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
+            "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw"
         }
     ],
     "CVE-2026-17106": [
@@ -145,6 +149,10 @@
         {
             "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
             "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"
+        },
+        {
+            "title": "DefCon airplane Wi-Fi drama. GhostJacking leads to agent hijacks, AI agent hacks gym",
+            "link": "https://cybersecuritytoday.libsyn.com/defcon-airplane-wi-fi-drama-ghostjacking-leads-to-agent-hijacks-ai-agent-hacks-gym"
         }
     ],
     "CVE-2026-62913": [
@@ -347,6 +355,12 @@
         {
             "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
             "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-59375": [
+        {
+            "title": "Inside Echo and NanoClaw\u2019s Hardened AI Agent Runtime: How They Cut 1,400 CVEs",
+            "link": "https://www.webpronews.com/inside-echo-and-nanoclaws-hardened-ai-agent-runtime-how-they-cut-1400-cves/"
         }
     ]
 }
