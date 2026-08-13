@@ -13,6 +13,10 @@
         {
             "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
             "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
+        },
+        {
+            "title": "SharePoint CVE-2026-55040 Comes Under Attack Following Public Exploit",
+            "link": "https://securityaffairs.com/197137/hacking/sharepoint-cve-2026-55040-comes-under-attack-following-public-exploit.html"
         }
     ],
     "CVE-2026-71362": [
@@ -93,6 +97,12 @@
         {
             "title": "Critical VMware vCenter Vulnerability in Attackers\u2019 Crosshairs",
             "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/"
+        }
+    ],
+    "CVE-2026-17106": [
+        {
+            "title": "CopyEscape: Taking Over Docker Hosts with docker cp",
+            "link": "https://www.imperva.com/blog/copyescape-taking-over-docker-hosts-with-docker-cp/"
         }
     ]
 }
