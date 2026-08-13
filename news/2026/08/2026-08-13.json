@@ -19,6 +19,10 @@
         {
             "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
             "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        },
+        {
+            "title": "Critical Adobe Commerce Flaw Lets Unauthenticated Attackers Escalate Privileges",
+            "link": "https://gbhackers.com/critical-adobe-commerce-flaw/"
         }
     ],
     "CVE-2026-48416": [
@@ -83,6 +87,12 @@
         {
             "title": "Gunra Targets Primary and Disaster-Recovery Backups Before File Encryption",
             "link": "https://cyberpress.org/gunra-cripples-backup-recovery/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Critical VMware vCenter Vulnerability in Attackers\u2019 Crosshairs",
+            "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/"
         }
     ]
 }
