@@ -362,5 +362,29 @@
             "title": "Inside Echo and NanoClaw\u2019s Hardened AI Agent Runtime: How They Cut 1,400 CVEs",
             "link": "https://www.webpronews.com/inside-echo-and-nanoclaws-hardened-ai-agent-runtime-how-they-cut-1400-cves/"
         }
+    ],
+    "CVE-2012-4701": [
+        {
+            "title": "548 Internet-Exposed Building Automation Devices Run End-of-Life Products With No Future Security Patches",
+            "link": "https://cyberpress.org/548-building-devices-unpatched/"
+        }
+    ],
+    "CVE-2019-9569": [
+        {
+            "title": "548 Internet-Exposed Building Automation Devices Run End-of-Life Products With No Future Security Patches",
+            "link": "https://cyberpress.org/548-building-devices-unpatched/"
+        }
+    ],
+    "CVE-2021-38450": [
+        {
+            "title": "548 Internet-Exposed Building Automation Devices Run End-of-Life Products With No Future Security Patches",
+            "link": "https://cyberpress.org/548-building-devices-unpatched/"
+        }
+    ],
+    "CVE-2024-8525": [
+        {
+            "title": "548 Internet-Exposed Building Automation Devices Run End-of-Life Products With No Future Security Patches",
+            "link": "https://cyberpress.org/548-building-devices-unpatched/"
+        }
     ]
 }
