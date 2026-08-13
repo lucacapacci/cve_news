@@ -104,5 +104,11 @@
             "title": "CopyEscape: Taking Over Docker Hosts with docker cp",
             "link": "https://www.imperva.com/blog/copyescape-taking-over-docker-hosts-with-docker-cp/"
         }
+    ],
+    "CVE-2026-68820": [
+        {
+            "title": "CISA Adds Actively Exploited Windows WinSock Vulnerability to KEV Catalog",
+            "link": "https://gbhackers.com/cisa-adds-actively-exploited-windows-winsock-vulnerability/"
+        }
     ]
 }
