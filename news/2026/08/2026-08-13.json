@@ -3,6 +3,86 @@
         {
             "title": "WordPress RCE Vulnerability Lets Authenticated Authors Execute Remote Code",
             "link": "https://gbhackers.com/wordpress-rce-vulnerability/"
+        },
+        {
+            "title": "Critical WordPress RCE Vulnerability Allows Authors to Execute Code via Malicious PNG File",
+            "link": "https://cybersecuritynews.com/wordpress-imagick-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+            "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
+        }
+    ],
+    "CVE-2026-71362": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48416": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48414": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48411": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48412": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48415": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48413": [
+        {
+            "title": "Critical Adobe Commerce Vulnerabilities Allows Hackers to Execute Arbitrary Code",
+            "link": "https://cybersecuritynews.com/adobe-commerce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20349": [
+        {
+            "title": "Cisco Firewall 0-Day Vulnerability Exploited in the Wild to Trigger DoS Condition",
+            "link": "https://cybersecuritynews.com/cisco-firewall-0-day-vulnerability/"
+        },
+        {
+            "title": "Cisco fixes vulnerability exploited to DoS its firewalls (CVE-2026-20349)",
+            "link": "https://www.helpnetsecurity.com/2026/08/13/cve-2026-20349-cisco-firewalls-dos/"
+        }
+    ],
+    "CVE-2023-38831": [
+        {
+            "title": "One Missing MFA Control Lets Credential Spray Become Full Akira Ransomware Intrusion",
+            "link": "https://cyberpress.org/missing-mfa-enables-akira/"
+        }
+    ],
+    "CVE-2024-55591": [
+        {
+            "title": "Gunra Targets Primary and Disaster-Recovery Backups Before File Encryption",
+            "link": "https://cyberpress.org/gunra-cripples-backup-recovery/"
+        }
+    ],
+    "CVE-2025-24472": [
+        {
+            "title": "Gunra Targets Primary and Disaster-Recovery Backups Before File Encryption",
+            "link": "https://cyberpress.org/gunra-cripples-backup-recovery/"
         }
     ]
 }
