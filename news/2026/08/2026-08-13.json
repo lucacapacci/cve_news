@@ -141,6 +141,10 @@
         {
             "title": "State Sponsored Hackers Use Fake Job Offers to Deliver New Zero Day Exploit",
             "link": "https://blog.checkpoint.com/research/state-sponsored-hackers-use-fake-job-offers-to-deliver-new-zero-day-exploit/"
+        },
+        {
+            "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
+            "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html"
         }
     ],
     "CVE-2026-62913": [
@@ -337,6 +341,12 @@
         {
             "title": "Zoom Patches \u201cZoomsday\u201d Zero-Click Flaw Enabling Remote Code Execution",
             "link": "https://securityaffairs.com/197042/hacking/zoom-patches-zoomsday-zero-click-flaw-enabling-remote-code-execution.html"
+        }
+    ],
+    "CVE-2026-26035": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
         }
     ]
 }
