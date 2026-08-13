@@ -3067,6 +3067,10 @@
         {
             "title": "Microsoft Patch Tuesday,\u00a0August\u00a02026 Security Update Review",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
+            "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues"
         }
     ],
     "CVE-2026-65773": [

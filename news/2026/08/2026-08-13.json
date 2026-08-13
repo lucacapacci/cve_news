@@ -31,6 +31,10 @@
         {
             "title": "Critical Adobe Commerce Flaw Lets Unauthenticated Attackers Escalate Privileges",
             "link": "https://gbhackers.com/critical-adobe-commerce-flaw/"
+        },
+        {
+            "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
+            "link": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/"
         }
     ],
     "CVE-2026-48416": [
@@ -113,18 +117,140 @@
         {
             "title": "CISA Adds Actively Exploited Windows WinSock Vulnerability to KEV Catalog",
             "link": "https://gbhackers.com/cisa-adds-actively-exploited-windows-winsock-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Windows Ancillary Function 0-Day Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/windows-ancillary-function-0-day-exploited/"
         }
     ],
     "CVE-2026-62913": [
         {
             "title": "Microsoft Exchange Server Vulnerabilities Allow DoS, Privilege Escalation, and RCE",
             "link": "https://gbhackers.com/microsoft-exchange-server-vulnerabilities-2/"
+        },
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
         }
     ],
     "CVE-2026-67261": [
         {
             "title": "Critical Dell VMware vSphere Client Flaw Lets Remote Attackers Execute Commands as Root",
             "link": "https://gbhackers.com/critical-dell-vmware-vsphere-client-flaw/"
+        }
+    ],
+    "CVE-2024-13962": [
+        {
+            "title": "ZDI-26-567: Norton Utilities Ultimate NortonUtilitiesSvc Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-567/"
+        }
+    ],
+    "CVE-2026-40272": [
+        {
+            "title": "ZDI-26-566: BlackBerry QNX  KEV File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-566/"
+        }
+    ],
+    "CVE-2026-12410": [
+        {
+            "title": "ZDI-26-565: Gen Digital CCleaner Link Following Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-565/"
+        }
+    ],
+    "CVE-2026-24232": [
+        {
+            "title": "ZDI-26-564: NVIDIA Transformers4Rec load_model_trainer_states_from_checkpoint Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-564/"
+        }
+    ],
+    "CVE-2026-62912": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
+        }
+    ],
+    "CVE-2026-62911": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
+        }
+    ],
+    "CVE-2026-62914": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
+        }
+    ],
+    "CVE-2026-62910": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
+        }
+    ],
+    "CVE-2026-62915": [
+        {
+            "title": "Microsoft Exchange Server Vulnerabilities Enable DoS, Privilege Escalation, and RCE Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-server-vulnerabilities-rce/"
+        }
+    ],
+    "CVE-2026-16627": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15423": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15217": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-16494": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-15216": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-19228": [
+        {
+            "title": "GitLab 19.2.2 Patches 13 Security Flaws, Including High-Severity XSS and CI/CD Authorization Flaws",
+            "link": "https://cybersecuritynews.com/gitlab-patches-13-security-flaws/"
+        }
+    ],
+    "CVE-2026-54316": [
+        {
+            "title": "AI Coding Agents Open Door to CI Secrets With One Malicious GitHub Issue",
+            "link": "https://www.webpronews.com/ai-coding-agents-open-door-to-ci-secrets-with-one-malicious-github-issue/"
+        }
+    ],
+    "CVE-2026-12537": [
+        {
+            "title": "AI Coding Agents Open Door to CI Secrets With One Malicious GitHub Issue",
+            "link": "https://www.webpronews.com/ai-coding-agents-open-door-to-ci-secrets-with-one-malicious-github-issue/"
+        }
+    ],
+    "CVE-2026-53802": [
+        {
+            "title": "Rsync 3.5 Overhauls Decades-Old File Sync Tool With 33 Security Fixes",
+            "link": "https://www.webpronews.com/rsync-3-5-overhauls-decades-old-file-sync-tool-with-33-security-fixes/"
+        }
+    ],
+    "CVE-2026-53803": [
+        {
+            "title": "Rsync 3.5 Overhauls Decades-Old File Sync Tool With 33 Security Fixes",
+            "link": "https://www.webpronews.com/rsync-3-5-overhauls-decades-old-file-sync-tool-with-33-security-fixes/"
         }
     ]
 }
