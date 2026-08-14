@@ -386,5 +386,47 @@
             "title": "548 Internet-Exposed Building Automation Devices Run End-of-Life Products With No Future Security Patches",
             "link": "https://cyberpress.org/548-building-devices-unpatched/"
         }
+    ],
+    "CVE-2026-70467": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-70466": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-49975": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-71407": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-70465": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-71408": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-70468": [
+        {
+            "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
+            "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
+        }
     ]
 }
