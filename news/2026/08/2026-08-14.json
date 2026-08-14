@@ -106,5 +106,47 @@
             "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
             "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
         }
+    ],
+    "CVE-2025-30237": [
+        {
+            "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Bypass Authentication and Escalate Privileges",
+            "link": "https://cybersecuritynews.com/multiple-tp-link-bypass-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-30238": [
+        {
+            "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Bypass Authentication and Escalate Privileges",
+            "link": "https://cybersecuritynews.com/multiple-tp-link-bypass-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-30239": [
+        {
+            "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Bypass Authentication and Escalate Privileges",
+            "link": "https://cybersecuritynews.com/multiple-tp-link-bypass-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-30241": [
+        {
+            "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Bypass Authentication and Escalate Privileges",
+            "link": "https://cybersecuritynews.com/multiple-tp-link-bypass-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-30240": [
+        {
+            "title": "Multiple TP-Link Vulnerabilities Allow Attackers to Bypass Authentication and Escalate Privileges",
+            "link": "https://cybersecuritynews.com/multiple-tp-link-bypass-authentication-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8451": [
+        {
+            "title": "Citrix NetScaler Heap Overflow Flaw Lets Remote Attackers Execute Code as Root \u2013 PoC Released",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-heap-overflow/"
+        }
+    ],
+    "CVE-2026-8452": [
+        {
+            "title": "Citrix NetScaler Heap Overflow Flaw Lets Remote Attackers Execute Code as Root \u2013 PoC Released",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-heap-overflow/"
+        }
     ]
 }
