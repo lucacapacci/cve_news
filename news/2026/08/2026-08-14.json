@@ -15,6 +15,10 @@
         {
             "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
             "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
+        },
+        {
+            "title": "ShieldBreak: New Windows Zero-Day Bypasses Microsoft\u2019s RoguePlanet Patch",
+            "link": "https://securityaffairs.com/197063/hacking/shieldbreak-new-windows-zero-day-bypasses-microsofts-rogueplanet-patch.html"
         }
     ],
     "CVE-2026-20349": [
@@ -27,6 +31,12 @@
         {
             "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
             "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+            "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
         }
     ]
 }
