@@ -38,5 +38,23 @@
             "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
             "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html"
         }
+    ],
+    "CVE-2024-36401": [
+        {
+            "title": "GeoServer 0-Day Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/geoserver-0-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-23670": [
+        {
+            "title": "Download More RAM Attack Bypasses Windows VBS and Disables Defender Through Memory Aliasing",
+            "link": "https://cybersecuritynews.com/download-more-ram-attack/"
+        }
+    ],
+    "CVE-2026-48362": [
+        {
+            "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+            "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
+        }
     ]
 }
