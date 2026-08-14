@@ -148,5 +148,17 @@
             "title": "Citrix NetScaler Heap Overflow Flaw Lets Remote Attackers Execute Code as Root \u2013 PoC Released",
             "link": "https://cybersecuritynews.com/citrix-netscaler-heap-overflow/"
         }
+    ],
+    "CVE-2026-68820": [
+        {
+            "title": "Lazarus Abuses Zero-Day Exploit to Install a New Backdoor",
+            "link": "https://www.cysecurity.news/2026/08/lazarus-abuses-zero-day-exploit-to.html"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "New Ransomware Targets AI Model Weights but Fails to Collect Ransom",
+            "link": "https://www.cysecurity.news/2026/08/new-ransomware-targets-ai-model-weights.html"
+        }
     ]
 }
