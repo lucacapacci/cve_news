@@ -1,0 +1,32 @@
+{
+    "CVE-2026-70465": [
+        {
+            "title": "Fortinet FortiWeb and FortiClient Flaws Let Unauthenticated Attackers Gain Access and Execute Arbitrary Code",
+            "link": "https://gbhackers.com/fortinet-fortiweb-and-forticlient-flaws/"
+        }
+    ],
+    "CVE-2026-26035": [
+        {
+            "title": "Fortinet FortiWeb and FortiClient Flaws Let Unauthenticated Attackers Gain Access and Execute Arbitrary Code",
+            "link": "https://gbhackers.com/fortinet-fortiweb-and-forticlient-flaws/"
+        }
+    ],
+    "CVE-2026-50656": [
+        {
+            "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
+            "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html"
+        }
+    ],
+    "CVE-2026-20349": [
+        {
+            "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
+            "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html"
+        }
+    ],
+    "CVE-2026-58231": [
+        {
+            "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
+            "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"
+        }
+    ]
+}
