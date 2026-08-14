@@ -3,12 +3,20 @@
         {
             "title": "Fortinet FortiWeb and FortiClient Flaws Let Unauthenticated Attackers Gain Access and Execute Arbitrary Code",
             "link": "https://gbhackers.com/fortinet-fortiweb-and-forticlient-flaws/"
+        },
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
         }
     ],
     "CVE-2026-26035": [
         {
             "title": "Fortinet FortiWeb and FortiClient Flaws Let Unauthenticated Attackers Gain Access and Execute Arbitrary Code",
             "link": "https://gbhackers.com/fortinet-fortiweb-and-forticlient-flaws/"
+        },
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
         }
     ],
     "CVE-2026-50656": [
@@ -55,6 +63,48 @@
         {
             "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
             "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html"
+        }
+    ],
+    "CVE-2023-25157": [
+        {
+            "title": "GeoServer Zero-Day SQL Injection Lets Unauthenticated Attackers Target Servers for RCE",
+            "link": "https://cyberpress.org/geoserver-zero-day-sql-injection/"
+        }
+    ],
+    "CVE-2026-71408": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-70468": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-71407": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-70467": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-49975": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
+        }
+    ],
+    "CVE-2026-70466": [
+        {
+            "title": "FortiWeb Flaw Lets Unauthenticated Attackers Log In With Random Username and Password",
+            "link": "https://cyberpress.org/fortiweb-flaw-login-random-username-password/"
         }
     ]
 }
