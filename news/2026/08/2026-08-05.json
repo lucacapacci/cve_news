@@ -276,5 +276,17 @@
             "title": "Apple\u2019s Private Relay IP Leak: How Passkeys Break a Paid Privacy Promise",
             "link": "https://www.webpronews.com/apples-private-relay-ip-leak-how-passkeys-break-a-paid-privacy-promise/"
         }
+    ],
+    "CVE-2026-19909": [
+        {
+            "title": "ZDI-26-525: (0Day) PAX Technology Q80 AIP File Parsing Link Following Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-525/"
+        }
+    ],
+    "CVE-2026-19908": [
+        {
+            "title": "ZDI-26-524: (0Day) PAX Technology Q80 XCB Daemon Missing Authentication Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-524/"
+        }
     ]
 }

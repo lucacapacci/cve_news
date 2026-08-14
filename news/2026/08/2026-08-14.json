@@ -39,6 +39,10 @@
         {
             "title": "SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code",
             "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html"
+        },
+        {
+            "title": "SAP Commerce Cloud RCE Flaw Actively Exploited",
+            "link": "https://www.esecurityplanet.com/threats/sap-commerce-cloud-rce-flaw-actively-exploited/"
         }
     ],
     "CVE-2026-59310": [
@@ -159,6 +163,18 @@
         {
             "title": "New Ransomware Targets AI Model Weights but Fails to Collect Ransom",
             "link": "https://www.cysecurity.news/2026/08/new-ransomware-targets-ai-model-weights.html"
+        }
+    ],
+    "CVE-2026-19910": [
+        {
+            "title": "ZDI-26-526: (0Day) PAX Technology Q80 Application Installer Signature Verification Bypass Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-526/"
+        }
+    ],
+    "CVE-2026-19911": [
+        {
+            "title": "ZDI-26-526: (0Day) PAX Technology Q80 Application Installer Signature Verification Bypass Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-526/"
         }
     ]
 }
