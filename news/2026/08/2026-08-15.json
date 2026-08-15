@@ -24,5 +24,11 @@
             "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
             "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
         }
+    ],
+    "CVE-2026-58231": [
+        {
+            "title": "Hackers Started to Exploit Critical SAP Commerce Cloud, Still No Public PoC",
+            "link": "https://cybersecuritynews.com/hackers-exploit-sap-commerce-cloud/"
+        }
     ]
 }
