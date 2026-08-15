@@ -37,6 +37,10 @@
         {
             "title": "Hackers Started to Exploit Critical SAP Commerce Cloud, Still No Public PoC",
             "link": "https://cybersecuritynews.com/hackers-exploit-sap-commerce-cloud/"
+        },
+        {
+            "title": "SAP Commerce Cloud CVE-2026-58231 Exploited in the Wild",
+            "link": "https://securityaffairs.com/197244/security/sap-commerce-cloud-cve-2026-58231-exploited-in-the-wild.html"
         }
     ],
     "CVE-2026-50656": [
