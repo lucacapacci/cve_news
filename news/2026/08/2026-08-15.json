@@ -7,6 +7,10 @@
         {
             "title": "Download More RAM Attack Bypasses Windows VBS, HVCI and Disables Microsoft Defender",
             "link": "https://gbhackers.com/download-more-ram-attack-bypasses-windows-vbs/"
+        },
+        {
+            "title": "Windows Memory Trick Lets Attackers Kill Antivirus With One Script",
+            "link": "https://www.webpronews.com/windows-memory-trick-lets-attackers-kill-antivirus-with-one-script/"
         }
     ],
     "CVE-2026-65400": [
@@ -17,6 +21,10 @@
         {
             "title": "Critical macOS Screen Sharing Bug (CVE-2026-65400) Exploitation to Install Monero Miners",
             "link": "https://hackersonlineclub.com/macos-screen-sharing-bug/"
+        },
+        {
+            "title": "Macs Under Siege: Active Exploitation of Screen Sharing Flaw Hands Attackers Root Access",
+            "link": "https://www.webpronews.com/macs-under-siege-active-exploitation-of-screen-sharing-flaw-hands-attackers-root-access/"
         }
     ],
     "CVE-2026-55040": [
@@ -29,6 +37,12 @@
         {
             "title": "Hackers Started to Exploit Critical SAP Commerce Cloud, Still No Public PoC",
             "link": "https://cybersecuritynews.com/hackers-exploit-sap-commerce-cloud/"
+        }
+    ],
+    "CVE-2026-50656": [
+        {
+            "title": "Windows Memory Trick Lets Attackers Kill Antivirus With One Script",
+            "link": "https://www.webpronews.com/windows-memory-trick-lets-attackers-kill-antivirus-with-one-script/"
         }
     ]
 }
