@@ -13,6 +13,10 @@
         {
             "title": "macOS Screen Sharing Flaw Exploited to Deploy Monero Miners",
             "link": "https://securityaffairs.com/197234/uncategorized/macos-screen-sharing-flaw-exploited-to-deploy-monero-miners.html"
+        },
+        {
+            "title": "Critical macOS Screen Sharing Bug (CVE-2026-65400) Exploitation to Install Monero Miners",
+            "link": "https://hackersonlineclub.com/macos-screen-sharing-bug/"
         }
     ],
     "CVE-2026-55040": [
