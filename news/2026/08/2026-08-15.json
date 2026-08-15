@@ -14,5 +14,11 @@
             "title": "macOS Screen Sharing Flaw Exploited to Deploy Monero Miners",
             "link": "https://securityaffairs.com/197234/uncategorized/macos-screen-sharing-flaw-exploited-to-deploy-monero-miners.html"
         }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+            "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html"
+        }
     ]
 }
