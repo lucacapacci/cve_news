@@ -1,0 +1,8 @@
+{
+    "CVE-2026-23670": [
+        {
+            "title": "New \u201cDownload More RAM\u201d Attack Breaks Windows VBS and Disables EDR Protections",
+            "link": "https://cyberpress.org/new-download-more-ram-attack-breaks-windows-vbs/"
+        }
+    ]
+}
