@@ -44,5 +44,17 @@
             "title": "Windows Memory Trick Lets Attackers Kill Antivirus With One Script",
             "link": "https://www.webpronews.com/windows-memory-trick-lets-attackers-kill-antivirus-with-one-script/"
         }
+    ],
+    "CVE-2025-66376": [
+        {
+            "title": "Russian Hackers Use Exchange Zero-Day in Email Attacks",
+            "link": "https://www.cysecurity.news/2026/08/russian-hackers-use-exchange-zero-day.html"
+        }
+    ],
+    "CVE-2026-42897": [
+        {
+            "title": "Russian Hackers Use Exchange Zero-Day in Email Attacks",
+            "link": "https://www.cysecurity.news/2026/08/russian-hackers-use-exchange-zero-day.html"
+        }
     ]
 }
