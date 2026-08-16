@@ -4,5 +4,11 @@
             "title": "Security Affairs newsletter Round 590 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
             "link": "https://securityaffairs.com/197288/breaking-news/security-affairs-newsletter-round-590-by-pierluigi-paganini-international-edition.html"
         }
+    ],
+    "CVE-2025-49596": [
+        {
+            "title": "MCP\u2019s Exposed Core: How a Protocol Built for AI Agents Became a Security Liability",
+            "link": "https://www.webpronews.com/mcps-exposed-core-how-a-protocol-built-for-ai-agents-became-a-security-liability/"
+        }
     ]
 }
