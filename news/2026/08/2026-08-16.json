@@ -3,12 +3,40 @@
         {
             "title": "Security Affairs newsletter Round 590 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
             "link": "https://securityaffairs.com/197288/breaking-news/security-affairs-newsletter-round-590-by-pierluigi-paganini-international-edition.html"
+        },
+        {
+            "title": "SAP Commerce Cloud Vulnerability Targeted After Patch",
+            "link": "https://www.cysecurity.news/2026/08/sap-commerce-cloud-vulnerability.html"
         }
     ],
     "CVE-2025-49596": [
         {
             "title": "MCP\u2019s Exposed Core: How a Protocol Built for AI Agents Became a Security Liability",
             "link": "https://www.webpronews.com/mcps-exposed-core-how-a-protocol-built-for-ai-agents-became-a-security-liability/"
+        }
+    ],
+    "CVE-2026-43777": [
+        {
+            "title": "Apple macOS Flaw Exploited in the Wild to Install Monero Cryptominers",
+            "link": "https://www.cysecurity.news/2026/08/apple-macos-flaw-exploited-in-wild-to.html"
+        }
+    ],
+    "CVE-2026-43760": [
+        {
+            "title": "Apple macOS Flaw Exploited in the Wild to Install Monero Cryptominers",
+            "link": "https://www.cysecurity.news/2026/08/apple-macos-flaw-exploited-in-wild-to.html"
+        }
+    ],
+    "CVE-2026-43779": [
+        {
+            "title": "Apple macOS Flaw Exploited in the Wild to Install Monero Cryptominers",
+            "link": "https://www.cysecurity.news/2026/08/apple-macos-flaw-exploited-in-wild-to.html"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Apple macOS Flaw Exploited in the Wild to Install Monero Cryptominers",
+            "link": "https://www.cysecurity.news/2026/08/apple-macos-flaw-exploited-in-wild-to.html"
         }
     ]
 }
