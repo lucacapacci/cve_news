@@ -15,6 +15,10 @@
         {
             "title": "Critical SAP Commerce Cloud RCE Vulnerability Actively Exploited in the Wild",
             "link": "https://gbhackers.com/critical-sap-commerce-cloud-rce-vulnerability/"
+        },
+        {
+            "title": "Hackers Exploit Attempts Target Critical SAP Commerce Cloud RCE Flaw",
+            "link": "https://cyberpress.org/hackers-exploit-critical-sap-commerce-cloud-rce/"
         }
     ]
 }
