@@ -10,5 +10,11 @@
             "title": "Apple Screen Sharing Vulnerability Exploited to Execute Command as Root",
             "link": "https://cybersecuritynews.com/apple-screen-sharing-vulnerability/"
         }
+    ],
+    "CVE-2026-58231": [
+        {
+            "title": "Critical SAP Commerce Cloud RCE Vulnerability Actively Exploited in the Wild",
+            "link": "https://gbhackers.com/critical-sap-commerce-cloud-rce-vulnerability/"
+        }
     ]
 }
