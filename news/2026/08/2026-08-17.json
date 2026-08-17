@@ -68,5 +68,11 @@
             "title": "CISA KEV Addition: CVE-2025-62593",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-62593"
         }
+    ],
+    "CVE-2026-15748": [
+        {
+            "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+            "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html"
+        }
     ]
 }
