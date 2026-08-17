@@ -4,5 +4,11 @@
             "title": "Hackers exploit SharePoint bypass, Snowflake hacker\u2019s threats to researcher backfire, CISA warns schools",
             "link": "https://cybersecuritytoday.libsyn.com/hackers-exploit-sharepoint-bypass-snowflake-hackers-threats-to-researcher-backfire-cisa-warns-schools"
         }
+    ],
+    "CVE-2026-43760": [
+        {
+            "title": "Apple Screen Sharing Vulnerability Exploited to Execute Command as Root",
+            "link": "https://cybersecuritynews.com/apple-screen-sharing-vulnerability/"
+        }
     ]
 }
