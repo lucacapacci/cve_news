@@ -51,6 +51,10 @@
         {
             "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
             "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html"
+        },
+        {
+            "title": "Attackers exploit patched macOS Screen Sharing flaw to deploy cryptominer",
+            "link": "https://www.helpnetsecurity.com/2026/08/17/apple-macos-screen-sharing-flaw/"
         }
     ]
 }
