@@ -23,12 +23,34 @@
         {
             "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
             "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/"
+        },
+        {
+            "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+            "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html"
         }
     ],
     "CVE-2026-69414": [
         {
             "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
             "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+            "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html"
+        }
+    ],
+    "CVE-2026-47301": [
+        {
+            "title": "Microsoft SCCM Vulnerability Chained to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/microsoft-sccm-vulnerability/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+            "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html"
         }
     ]
 }
