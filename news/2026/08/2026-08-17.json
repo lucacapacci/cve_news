@@ -74,5 +74,11 @@
             "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
             "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html"
         }
+    ],
+    "CVE-2026-19478": [
+        {
+            "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+            "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html"
+        }
     ]
 }

@@ -4,5 +4,11 @@
             "title": "CISA KEV Addition: CVE-2025-62593",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-62593"
         }
+    ],
+    "CVE-2026-19478": [
+        {
+            "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+            "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html"
+        }
     ]
 }
