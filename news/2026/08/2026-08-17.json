@@ -62,5 +62,11 @@
             "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
             "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/"
         }
+    ],
+    "CVE-2025-62593": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-62593",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-62593"
+        }
     ]
 }
