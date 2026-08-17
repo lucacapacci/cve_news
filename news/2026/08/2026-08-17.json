@@ -56,5 +56,11 @@
             "title": "Attackers exploit patched macOS Screen Sharing flaw to deploy cryptominer",
             "link": "https://www.helpnetsecurity.com/2026/08/17/apple-macos-screen-sharing-flaw/"
         }
+    ],
+    "CVE-2026-54121": [
+        {
+            "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+            "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/"
+        }
     ]
 }
