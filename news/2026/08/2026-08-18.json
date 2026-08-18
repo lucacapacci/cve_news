@@ -3,6 +3,10 @@
         {
             "title": "CISA KEV Addition: CVE-2025-62593",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-62593"
+        },
+        {
+            "title": "U.S. CISA adds a Ray-Project Ray flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/197419/security/u-s-cisa-adds-a-ray-project-ray-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
         }
     ],
     "CVE-2026-19478": [
@@ -17,6 +21,10 @@
         {
             "title": "GitLab Critical Vulnerability Lets Unauthenticated Attackers Modify or Delete Projects",
             "link": "https://cyberpress.org/gitlab-critical-vulnerability/"
+        },
+        {
+            "title": "Critical GitLab GraphQL Vulnerability Allow Attackers to Delete Public Projects",
+            "link": "https://cybersecuritynews.com/gitlab-graphql-vulnerability/"
         }
     ],
     "CVE-2026-47301": [
