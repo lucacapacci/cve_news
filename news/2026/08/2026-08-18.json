@@ -11,6 +11,10 @@
         {
             "title": "CISA Warns of Critical Ray RCE Flaw Exploited in Active Attacks",
             "link": "https://cyberpress.org/cisa-warns-ray-rce-flaw-exploited/"
+        },
+        {
+            "title": "CISA Warns of Active Exploitation of Ray-Project Ray Code Injection Vulnerability",
+            "link": "https://gbhackers.com/ray-project-ray-code-injection-vulnerability/"
         }
     ],
     "CVE-2026-19478": [
@@ -91,6 +95,10 @@
         {
             "title": "Critical WordPress Plugin Vulnerability Exposes 600,000 Sites to File Upload Attacks",
             "link": "https://cybersecuritynews.com/wordpress-forminator-plugin-vulnerability/"
+        },
+        {
+            "title": "300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw",
+            "link": "https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/"
         }
     ]
 }
