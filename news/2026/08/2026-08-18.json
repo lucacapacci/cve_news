@@ -123,6 +123,184 @@
         {
             "title": "Critical MLflow SSRF Flaw Exploited in the Wild",
             "link": "https://gbhackers.com/critical-mlflow-ssrf-flaw-exploited-in-the-wild/"
+        },
+        {
+            "title": "Hackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+            "link": "https://cyberpress.org/hackers-exploit-mlflow-ssrf-flaw/"
+        }
+    ],
+    "CVE-2026-43794": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65333": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65338": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65337": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-43795": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65346": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65332": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65340": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65330": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65339": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64779": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65331": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64787": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65341": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65329": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65335": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64780": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64788": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65347": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64782": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65351": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65334": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65336": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64784": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64781": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64715": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65349": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64778": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65343": [
+        {
+            "title": "Apple Fixes 28 Security Vulnerabilities Across macOS, iOS, and iPadOS",
+            "link": "https://cybersecuritynews.com/apple-fixes-28-security-vulnerabilities/"
         }
     ]
 }

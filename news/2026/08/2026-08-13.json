@@ -428,5 +428,11 @@
             "title": "Fortinet Patches Multiple Authentication Vulnerabilities in FortiWeb, FortiManager, and FortiClient",
             "link": "https://cybersecuritynews.com/fortinet-authentication-vulnerabilities/"
         }
+    ],
+    "CVE-2026-68431": [
+        {
+            "title": "ZDI-26-573: Linux Kernel KSMBD Response Header Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-573/"
+        }
     ]
 }
