@@ -7,6 +7,10 @@
         {
             "title": "U.S. CISA adds a Ray-Project Ray flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/197419/security/u-s-cisa-adds-a-ray-project-ray-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "CISA Warns of Critical Ray RCE Flaw Exploited in Active Attacks",
+            "link": "https://cyberpress.org/cisa-warns-ray-rce-flaw-exploited/"
         }
     ],
     "CVE-2026-19478": [
@@ -25,6 +29,10 @@
         {
             "title": "Critical GitLab GraphQL Vulnerability Allow Attackers to Delete Public Projects",
             "link": "https://cybersecuritynews.com/gitlab-graphql-vulnerability/"
+        },
+        {
+            "title": "GitLab Patches Critical Unauthenticated GraphQL Vulnerability",
+            "link": "https://securityaffairs.com/197454/hacking/gitlab-patches-critical-unauthenticated-graphql-vulnerability.html"
         }
     ],
     "CVE-2026-47301": [
@@ -45,6 +53,10 @@
         {
             "title": "GitLab Critical Vulnerability Lets Unauthenticated Attackers Modify or Delete Projects",
             "link": "https://cyberpress.org/gitlab-critical-vulnerability/"
+        },
+        {
+            "title": "Critical GitLab GraphQL Vulnerability Allow Attackers to Delete Public Projects",
+            "link": "https://cybersecuritynews.com/gitlab-graphql-vulnerability/"
         }
     ],
     "CVE-2026-59309": [
@@ -55,6 +67,10 @@
         {
             "title": "VMware vCenter RCE Gives Attackers a Path From One Appliance to Entire Virtual Infrastructure",
             "link": "https://gbhackers.com/vmware-vcenter-vulnerability/"
+        },
+        {
+            "title": "VMware vCenter Attackers Drop JSP Webshell Disguised as Performance Update",
+            "link": "https://cybersecuritynews.com/vmware-syslog-path-traversal/"
         }
     ],
     "CVE-2026-59310": [
@@ -65,6 +81,16 @@
         {
             "title": "VMware vCenter RCE Gives Attackers a Path From One Appliance to Entire Virtual Infrastructure",
             "link": "https://gbhackers.com/vmware-vcenter-vulnerability/"
+        },
+        {
+            "title": "VMware vCenter Attackers Drop JSP Webshell Disguised as Performance Update",
+            "link": "https://cybersecuritynews.com/vmware-syslog-path-traversal/"
+        }
+    ],
+    "CVE-2026-15748": [
+        {
+            "title": "Critical WordPress Plugin Vulnerability Exposes 600,000 Sites to File Upload Attacks",
+            "link": "https://cybersecuritynews.com/wordpress-forminator-plugin-vulnerability/"
         }
     ]
 }
