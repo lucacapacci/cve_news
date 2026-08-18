@@ -9,6 +9,16 @@
         {
             "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
             "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html"
+        },
+        {
+            "title": "GitLab Released GraphQL Vulnerability (CVE-2026-19478) Emergency Patch",
+            "link": "https://hackersonlineclub.com/gitlab-released-graphql-vulnerability-patch/"
+        }
+    ],
+    "CVE-2026-47301": [
+        {
+            "title": "PoC Exploit Released for Microsoft SCCM Vulnerability Enabling SYSTEM-Level Code Execution",
+            "link": "https://gbhackers.com/poc-exploit-released-for-microsoft-sccm-vulnerability/"
         }
     ]
 }
