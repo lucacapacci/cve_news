@@ -348,5 +348,29 @@
             "title": "CISA KEV Addition: CVE-2026-55040",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-55040"
         }
+    ],
+    "CVE-2023-48788": [
+        {
+            "title": "CISA Warns Medusa Ransomware Hackers Steal Data, Kill Security Tools, and Encrypt Entire Networks",
+            "link": "https://cybersecuritynews.com/medusa-ransomware/"
+        }
+    ],
+    "CVE-2026-1731": [
+        {
+            "title": "CISA Warns Medusa Ransomware Hackers Steal Data, Kill Security Tools, and Encrypt Entire Networks",
+            "link": "https://cybersecuritynews.com/medusa-ransomware/"
+        }
+    ],
+    "CVE-2024-1709": [
+        {
+            "title": "CISA Warns Medusa Ransomware Hackers Steal Data, Kill Security Tools, and Encrypt Entire Networks",
+            "link": "https://cybersecuritynews.com/medusa-ransomware/"
+        }
+    ],
+    "CVE-2026-68820": [
+        {
+            "title": "CVE-2026-68820 is in KEV. Here Is What CISA BOD 26-04 Actually Requires Now",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
     ]
 }
