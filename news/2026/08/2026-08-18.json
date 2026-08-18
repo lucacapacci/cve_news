@@ -312,5 +312,17 @@
             "title": "Forminator\u2019s Critical Upload Flaw Puts 600,000 WordPress Sites at Risk of Instant Takeover",
             "link": "https://www.webpronews.com/forminators-critical-upload-flaw-puts-600000-wordpress-sites-at-risk-of-instant-takeover/"
         }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Apple\u2019s Screen Sharing Flaw Opens Macs to Root Takeovers and Crypto Mining",
+            "link": "https://www.webpronews.com/apples-screen-sharing-flaw-opens-macs-to-root-takeovers-and-crypto-mining/"
+        }
+    ],
+    "CVE-2026-43760": [
+        {
+            "title": "Apple\u2019s Screen Sharing Flaw Opens Macs to Root Takeovers and Crypto Mining",
+            "link": "https://www.webpronews.com/apples-screen-sharing-flaw-opens-macs-to-root-takeovers-and-crypto-mining/"
+        }
     ]
 }
