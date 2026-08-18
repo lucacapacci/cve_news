@@ -97,6 +97,10 @@
         {
             "title": "VMware vCenter Attackers Drop JSP Webshell Disguised as Performance Update",
             "link": "https://cybersecuritynews.com/vmware-syslog-path-traversal/"
+        },
+        {
+            "title": "China-Nexus APT Exploits VMware vCenter CVE-2026-59310",
+            "link": "https://www.cybermaterial.com/p/china-nexus-apt-exploits-vmware-vcenter"
         }
     ],
     "CVE-2026-15748": [
@@ -107,6 +111,18 @@
         {
             "title": "300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw",
             "link": "https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/"
+        }
+    ],
+    "CVE-2026-58231": [
+        {
+            "title": "SAP Commerce Cloud CVE-2026-58231 Under Active Exploitation",
+            "link": "https://www.cybermaterial.com/p/sap-commerce-cloud-cve-2026-58231"
+        }
+    ],
+    "CVE-2026-64849": [
+        {
+            "title": "Critical MLflow SSRF Flaw Exploited in the Wild",
+            "link": "https://gbhackers.com/critical-mlflow-ssrf-flaw-exploited-in-the-wild/"
         }
     ]
 }
