@@ -15,6 +15,10 @@
         {
             "title": "CISA Warns of Active Exploitation of Ray-Project Ray Code Injection Vulnerability",
             "link": "https://gbhackers.com/ray-project-ray-code-injection-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Ray-Project Ray Code Injection Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/ray-project-ray-code-injection/"
         }
     ],
     "CVE-2026-19478": [
@@ -37,6 +41,10 @@
         {
             "title": "GitLab Patches Critical Unauthenticated GraphQL Vulnerability",
             "link": "https://securityaffairs.com/197454/hacking/gitlab-patches-critical-unauthenticated-graphql-vulnerability.html"
+        },
+        {
+            "title": "Critical GitLab flaw allows attackers to modify or delete public projects (CVE-2026-19478)",
+            "link": "https://www.helpnetsecurity.com/2026/08/18/gitlab-critical-code-injection-flaw-cve-2026-19478/"
         }
     ],
     "CVE-2026-47301": [
