@@ -45,6 +45,10 @@
         {
             "title": "Critical GitLab flaw allows attackers to modify or delete public projects (CVE-2026-19478)",
             "link": "https://www.helpnetsecurity.com/2026/08/18/gitlab-critical-code-injection-flaw-cve-2026-19478/"
+        },
+        {
+            "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
+            "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges"
         }
     ],
     "CVE-2026-47301": [
@@ -329,6 +333,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-65400",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-65400"
+        },
+        {
+            "title": "macOS Screen Sharing Flaw (CVE-2026-65400) Actively Exploited for Crypto Mining",
+            "link": "https://www.webpronews.com/macos-screen-sharing-flaw-cve-2026-65400-actively-exploited-for-crypto-mining/"
         }
     ],
     "CVE-2026-43760": [
