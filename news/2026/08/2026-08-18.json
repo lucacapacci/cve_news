@@ -101,6 +101,10 @@
         {
             "title": "China-Nexus APT Exploits VMware vCenter CVE-2026-59310",
             "link": "https://www.cybermaterial.com/p/china-nexus-apt-exploits-vmware-vcenter"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-59310",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-59310"
         }
     ],
     "CVE-2026-15748": [
@@ -131,6 +135,10 @@
         {
             "title": "Hackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
             "link": "https://cyberpress.org/hackers-exploit-mlflow-ssrf-flaw/"
+        },
+        {
+            "title": "Critical MLflow SSRF Vulnerability Exploited by Hackers in the Wild",
+            "link": "https://cybersecuritynews.com/mlflow-ssrf-vulnerability/"
         }
     ],
     "CVE-2026-43794": [
@@ -317,12 +325,28 @@
         {
             "title": "Apple\u2019s Screen Sharing Flaw Opens Macs to Root Takeovers and Crypto Mining",
             "link": "https://www.webpronews.com/apples-screen-sharing-flaw-opens-macs-to-root-takeovers-and-crypto-mining/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-65400",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-65400"
         }
     ],
     "CVE-2026-43760": [
         {
             "title": "Apple\u2019s Screen Sharing Flaw Opens Macs to Root Takeovers and Crypto Mining",
             "link": "https://www.webpronews.com/apples-screen-sharing-flaw-opens-macs-to-root-takeovers-and-crypto-mining/"
+        }
+    ],
+    "CVE-2026-33824": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-33824",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-33824"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-55040",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-55040"
         }
     ]
 }
