@@ -13,12 +13,50 @@
         {
             "title": "GitLab Released GraphQL Vulnerability (CVE-2026-19478) Emergency Patch",
             "link": "https://hackersonlineclub.com/gitlab-released-graphql-vulnerability-patch/"
+        },
+        {
+            "title": "GitLab Critical Vulnerability Lets Unauthenticated Attackers Modify or Delete Projects",
+            "link": "https://cyberpress.org/gitlab-critical-vulnerability/"
         }
     ],
     "CVE-2026-47301": [
         {
             "title": "PoC Exploit Released for Microsoft SCCM Vulnerability Enabling SYSTEM-Level Code Execution",
             "link": "https://gbhackers.com/poc-exploit-released-for-microsoft-sccm-vulnerability/"
+        },
+        {
+            "title": "Public Exploit Code Released for Microsoft SCCM Remote Code Execution Vulnerability",
+            "link": "https://cybersecuritynews.com/microsoft-sccm-vulnerability-poc-release/"
+        },
+        {
+            "title": "PoC Exploit Released for Microsoft SCCM Attack Chain From Domain User to SYSTEM",
+            "link": "https://cyberpress.org/poc-exploit-released-for-microsoft-sccm-attack-chain/"
+        }
+    ],
+    "CVE-2026-19650": [
+        {
+            "title": "GitLab Critical Vulnerability Lets Unauthenticated Attackers Modify or Delete Projects",
+            "link": "https://cyberpress.org/gitlab-critical-vulnerability/"
+        }
+    ],
+    "CVE-2026-59309": [
+        {
+            "title": "Suspected Chinese Hackers Turn VMware vCenter RCE Into Root Backdoors and ESXi Ransomware",
+            "link": "https://cyberpress.org/chinese-actors-weaponize-vcenter/"
+        },
+        {
+            "title": "VMware vCenter RCE Gives Attackers a Path From One Appliance to Entire Virtual Infrastructure",
+            "link": "https://gbhackers.com/vmware-vcenter-vulnerability/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Suspected Chinese Hackers Turn VMware vCenter RCE Into Root Backdoors and ESXi Ransomware",
+            "link": "https://cyberpress.org/chinese-actors-weaponize-vcenter/"
+        },
+        {
+            "title": "VMware vCenter RCE Gives Attackers a Path From One Appliance to Entire Virtual Infrastructure",
+            "link": "https://gbhackers.com/vmware-vcenter-vulnerability/"
         }
     ]
 }
