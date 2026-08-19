@@ -21,6 +21,16 @@
         {
             "title": "Critical Microsoft Copilot CoSnitch Vulnerability Lets Attackers Steal Sensitive Data With One Click",
             "link": "https://cybersecuritynews.com/copilot-cosnitch-vulnerability/"
+        },
+        {
+            "title": "Critical Microsoft Copilot CoSnitch Flaw Lets Hackers Steal Sensitive Data With One Click",
+            "link": "https://gbhackers.com/critical-microsoft-copilot-cosnitch-flaw/"
+        }
+    ],
+    "CVE-2026-12569": [
+        {
+            "title": "Cl0p Hackers Exploit PTC Windchill Vulnerability to Deploy Custom Web Shell and Steal Data",
+            "link": "https://gbhackers.com/cl0p-exploits-windchill-vulnerability/"
         }
     ]
 }
