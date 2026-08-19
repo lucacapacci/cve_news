@@ -99,6 +99,10 @@
         {
             "title": "CISA Warns Microsoft Internet Key Exchange RCE Flaw Is Actively Exploited",
             "link": "https://gbhackers.com/cisa-warns-microsoft-internet-key-exchange-rce-flaw/"
+        },
+        {
+            "title": "CISA Adds Microsoft Internet Key Exchange RCE Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-internet-key-exchange-rce-vulnerability/"
         }
     ],
     "CVE-2026-71290": [
@@ -455,6 +459,24 @@
         {
             "title": "CISA Adds Microsoft SharePoint Weak Authentication Vulnerability to KEV List",
             "link": "https://cybersecuritynews.com/microsoft-sharepoint-authentication-vulnerability/"
+        }
+    ],
+    "CVE-2026-19490": [
+        {
+            "title": "Critical Citrix NetScaler Flaw Lets Remote Attackers Bypass Authentication Without Credentials",
+            "link": "https://cybersecuritynews.com/critical-citrix-netscaler-vulnerability/"
+        }
+    ],
+    "CVE-2026-19489": [
+        {
+            "title": "Critical Citrix NetScaler Flaw Lets Remote Attackers Bypass Authentication Without Credentials",
+            "link": "https://cybersecuritynews.com/critical-citrix-netscaler-vulnerability/"
+        }
+    ],
+    "CVE-2026-64849": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-64849",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-64849"
         }
     ]
 }
