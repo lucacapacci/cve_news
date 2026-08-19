@@ -308,5 +308,11 @@
             "title": "Critical Cursor 0-day Vulnerability Enables Arbitrary Code Execution Attacks",
             "link": "https://cybersecuritynews.com/cursor-0-day-vulnerability/"
         }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+            "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html"
+        }
     ]
 }
