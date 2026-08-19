@@ -43,6 +43,10 @@
         {
             "title": "Cl0p Hackers Exploit PTC Windchill RCE Flaw to Deploy Custom Data-Theft Web Shell",
             "link": "https://cyberpress.org/cl0ps-windchill-data-theft-webshell/"
+        },
+        {
+            "title": "Clop-Linked Web Shell Targets PTC Windchill Servers in Data Theft Attacks",
+            "link": "https://www.cysecurity.news/2026/08/clop-linked-web-shell-targets-ptc.html"
         }
     ],
     "CVE-2026-59310": [
@@ -79,6 +83,10 @@
         {
             "title": "CISA Warns of Windows IKE Flaw Allowing Unauthenticated Remote Code Execution",
             "link": "https://cyberpress.org/cisa-warns-of-windows-ike-flaw/"
+        },
+        {
+            "title": "CISA Warns Microsoft Internet Key Exchange RCE Flaw Is Actively Exploited",
+            "link": "https://gbhackers.com/cisa-warns-microsoft-internet-key-exchange-rce-flaw/"
         }
     ],
     "CVE-2026-71290": [
@@ -329,6 +337,10 @@
         {
             "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
             "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html"
+        },
+        {
+            "title": "Hackers Actively Exploiting macOS\u2019s Built-in Screen Sharing Service Vulnerability in the Wild",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-macoss-screen-sharing-service/"
         }
     ],
     "CVE-2026-13242": [
@@ -347,36 +359,66 @@
         {
             "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
             "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
         }
     ],
     "CVE-2026-60698": [
         {
             "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
             "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
         }
     ],
     "CVE-2026-60977": [
         {
             "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
             "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
         }
     ],
     "CVE-2026-60702": [
         {
             "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
             "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
         }
     ],
     "CVE-2026-60672": [
         {
             "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
             "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
         }
     ],
     "CVE-2026-61241": [
         {
             "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
             "link": "https://cyberpress.org/oracle-security-update-patches/"
+        },
+        {
+            "title": "Oracle Releases 943 Security Patches Including Critical WebLogic Full Takeover Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-releases-943-security-patches/"
+        }
+    ],
+    "CVE-2026-50656": [
+        {
+            "title": "Windows Defender Update for 0-day Vulnerability Breaks Virus Scans",
+            "link": "https://cybersecuritynews.com/windows-defender-0-day-update-crash/"
         }
     ]
 }
