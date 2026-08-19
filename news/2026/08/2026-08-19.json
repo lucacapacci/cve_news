@@ -66,5 +66,11 @@
             "title": "CISA Warns of Medusa Ransomware-as-a-Service Attacks Over 300 Organizations",
             "link": "https://cyberpress.org/cisa-warns-of-medusa-ransomware-as-a-service-attacks/"
         }
+    ],
+    "CVE-2026-33824": [
+        {
+            "title": "U.S. CISA adds Apple macOS, Microsoft SharePoint, Broadcom VMware vCenter, and Microsoft\u00a0IKE flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/197490/hacking/u-s-cisa-adds-apple-macos-microsoft-sharepoint-broadcom-vmware-vcenter-and-microsoft-ike-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
     ]
 }
