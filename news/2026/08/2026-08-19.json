@@ -72,5 +72,105 @@
             "title": "U.S. CISA adds Apple macOS, Microsoft SharePoint, Broadcom VMware vCenter, and Microsoft\u00a0IKE flaws to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/197490/hacking/u-s-cisa-adds-apple-macos-microsoft-sharepoint-broadcom-vmware-vcenter-and-microsoft-ike-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
         }
+    ],
+    "CVE-2026-71290": [
+        {
+            "title": "Critical Apache HttpComponents Client Flaw Lets Attackers Impersonate Servers",
+            "link": "https://gbhackers.com/critical-apache-httpcomponents-client-flaw/"
+        },
+        {
+            "title": "Critical Apache HttpComponents Flaw Allows Server Impersonation in MITM Attacks",
+            "link": "https://cyberpress.org/critical-apache-httpcomponents-flaw/"
+        }
+    ],
+    "CVE-2026-71952": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71958": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71945": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71953": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71948": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71957": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71950": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71955": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71947": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71951": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71956": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71949": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71944": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71946": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-71954": [
+        {
+            "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
+            "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
     ]
 }
