@@ -13,6 +13,10 @@
         {
             "title": "Critical GitLab Code Injection Flaw CVE-2026-19478",
             "link": "https://www.cybermaterial.com/p/critical-gitlab-code-injection-flaw"
+        },
+        {
+            "title": "GitLab Patches Critical CVE-2026-19478 GraphQL Vulnerability",
+            "link": "https://www.esecurityplanet.com/threats/gitlab-patches-critical-cve-2026-19478-graphql-vulnerability/"
         }
     ],
     "CVE-2026-5173": [
@@ -33,6 +37,10 @@
         {
             "title": "CoSnitch Microsoft Copilot Flaw Enables Silent Data Theft With a Single Click",
             "link": "https://cyberpress.org/cosnitch-microsoft-copilot-flaw/"
+        },
+        {
+            "title": "Microsoft Copilot Flaws Could Expose User Data With One Click",
+            "link": "https://www.cysecurity.news/2026/08/microsoft-copilot-flaws-could-expose.html"
         }
     ],
     "CVE-2026-12569": [
