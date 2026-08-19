@@ -25,12 +25,46 @@
         {
             "title": "Critical Microsoft Copilot CoSnitch Flaw Lets Hackers Steal Sensitive Data With One Click",
             "link": "https://gbhackers.com/critical-microsoft-copilot-cosnitch-flaw/"
+        },
+        {
+            "title": "CoSnitch Microsoft Copilot Flaw Enables Silent Data Theft With a Single Click",
+            "link": "https://cyberpress.org/cosnitch-microsoft-copilot-flaw/"
         }
     ],
     "CVE-2026-12569": [
         {
             "title": "Cl0p Hackers Exploit PTC Windchill Vulnerability to Deploy Custom Web Shell and Steal Data",
             "link": "https://gbhackers.com/cl0p-exploits-windchill-vulnerability/"
+        },
+        {
+            "title": "Cl0p Hackers Exploit PTC Windchill Flaw to Steal Passwords and Sensitive Company Data",
+            "link": "https://cybersecuritynews.com/cl0p-hackers-exploit-ptc/"
+        },
+        {
+            "title": "Cl0p Hackers Exploit PTC Windchill RCE Flaw to Deploy Custom Data-Theft Web Shell",
+            "link": "https://cyberpress.org/cl0ps-windchill-data-theft-webshell/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting VMware vCenter Path Traversal Flaw",
+            "link": "https://gbhackers.com/cisa-warns-vmware-vcenter-path-traversal-flaw/"
+        },
+        {
+            "title": "CISA Warns of VMware vCenter Path Traversal Flaw Exploited in the Wild",
+            "link": "https://cyberpress.org/vmware-vcenter-path-traversal-flaw-exploited/"
+        }
+    ],
+    "CVE-2023-48788": [
+        {
+            "title": "CISA Warns of Medusa Ransomware-as-a-Service Attacks Over 300 Organizations",
+            "link": "https://cyberpress.org/cisa-warns-of-medusa-ransomware-as-a-service-attacks/"
+        }
+    ],
+    "CVE-2024-1709": [
+        {
+            "title": "CISA Warns of Medusa Ransomware-as-a-Service Attacks Over 300 Organizations",
+            "link": "https://cyberpress.org/cisa-warns-of-medusa-ransomware-as-a-service-attacks/"
         }
     ]
 }
