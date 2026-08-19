@@ -459,12 +459,20 @@
         {
             "title": "CISA Adds Microsoft SharePoint Weak Authentication Vulnerability to KEV List",
             "link": "https://cybersecuritynews.com/microsoft-sharepoint-authentication-vulnerability/"
+        },
+        {
+            "title": "Hackers exploit SharePoint bypass, Snowflake hacker\u2019s threats to researcher backfire, CISA warns schools",
+            "link": "https://cybersecuritytoday.libsyn.com/hackers-exploit-sharepoint-bypass-snowflake-hackers-threats-to-researcher-backfire-cisa-warns-schools"
         }
     ],
     "CVE-2026-19490": [
         {
             "title": "Critical Citrix NetScaler Flaw Lets Remote Attackers Bypass Authentication Without Credentials",
             "link": "https://cybersecuritynews.com/critical-citrix-netscaler-vulnerability/"
+        },
+        {
+            "title": "NetScaler CVE-2026-19490 Lets Attackers Bypass Authentication",
+            "link": "https://www.esecurityplanet.com/threats/netscaler-cve-2026-19490-lets-attackers-bypass-authentication/"
         }
     ],
     "CVE-2026-19489": [
