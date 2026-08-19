@@ -9,6 +9,10 @@
         {
             "title": "GitLab\u2019s Out-of-Band Patch Exposes Lingering GraphQL Risks in Self-Managed DevOps Pipelines",
             "link": "https://www.webpronews.com/gitlabs-out-of-band-patch-exposes-lingering-graphql-risks-in-self-managed-devops-pipelines/"
+        },
+        {
+            "title": "Critical GitLab Code Injection Flaw CVE-2026-19478",
+            "link": "https://www.cybermaterial.com/p/critical-gitlab-code-injection-flaw"
         }
     ],
     "CVE-2026-5173": [
@@ -419,6 +423,24 @@
         {
             "title": "Windows Defender Update for 0-day Vulnerability Breaks Virus Scans",
             "link": "https://cybersecuritynews.com/windows-defender-0-day-update-crash/"
+        }
+    ],
+    "CVE-2026-70926": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0August\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-60782": [
+        {
+            "title": "Oracle Critical Patch Update,\u00a0August\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-65346": [
+        {
+            "title": "Dangerous Apple Bug Lets Images Execute Malicious Code",
+            "link": "https://www.cyberdefensemagazine.com/dangerous-apple-bug-lets-images-execute-malicious-code/"
         }
     ]
 }
