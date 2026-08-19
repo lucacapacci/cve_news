@@ -75,6 +75,10 @@
         {
             "title": "U.S. CISA adds Apple macOS, Microsoft SharePoint, Broadcom VMware vCenter, and Microsoft\u00a0IKE flaws to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/197490/hacking/u-s-cisa-adds-apple-macos-microsoft-sharepoint-broadcom-vmware-vcenter-and-microsoft-ike-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "CISA Warns of Windows IKE Flaw Allowing Unauthenticated Remote Code Execution",
+            "link": "https://cyberpress.org/cisa-warns-of-windows-ike-flaw/"
         }
     ],
     "CVE-2026-71290": [
@@ -185,6 +189,10 @@
         {
             "title": "BeyondTrust Endpoint Privilege Management Flaws Enable Local Privilege Escalation",
             "link": "https://gbhackers.com/beyondtrust-endpoint-privilege-management-flaws/"
+        },
+        {
+            "title": "BeyondTrust EPM Flaw Lets Standard Windows Users Execute Code in Kernel Mode",
+            "link": "https://cyberpress.org/beyondtrust-epm-flaw/"
         }
     ],
     "CVE-2026-40145": [
@@ -195,6 +203,10 @@
         {
             "title": "BeyondTrust Endpoint Privilege Management Flaws Enable Local Privilege Escalation",
             "link": "https://gbhackers.com/beyondtrust-endpoint-privilege-management-flaws/"
+        },
+        {
+            "title": "BeyondTrust EPM Flaw Lets Standard Windows Users Execute Code in Kernel Mode",
+            "link": "https://cyberpress.org/beyondtrust-epm-flaw/"
         }
     ],
     "CVE-2026-76040": [
@@ -301,6 +313,10 @@
         {
             "title": "Cursor 0-Day Lets Attackers Execute Malicious Code by Opening a Repository",
             "link": "https://gbhackers.com/cursor-0-day-lets-attackers-execute-malicious-code/"
+        },
+        {
+            "title": "Cursor 0-Day Allows Arbitrary Code Execution by Simply Opening a Repository",
+            "link": "https://cyberpress.org/cursor-0-day-allows-arbitrary-code-execution/"
         }
     ],
     "CVE-2026-50549": [
@@ -313,6 +329,54 @@
         {
             "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
             "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html"
+        }
+    ],
+    "CVE-2026-13242": [
+        {
+            "title": "Google Agentic AI Finds Over 100 Critical Security Flaws in Just Two Days",
+            "link": "https://cyberpress.org/google-agentic-ai-finds-over-100-critical-security-flaws/"
+        }
+    ],
+    "CVE-2026-55803": [
+        {
+            "title": "Google Agentic AI Finds Over 100 Critical Security Flaws in Just Two Days",
+            "link": "https://cyberpress.org/google-agentic-ai-finds-over-100-critical-security-flaws/"
+        }
+    ],
+    "CVE-2026-60696": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
+        }
+    ],
+    "CVE-2026-60698": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
+        }
+    ],
+    "CVE-2026-60977": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
+        }
+    ],
+    "CVE-2026-60702": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
+        }
+    ],
+    "CVE-2026-60672": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
+        }
+    ],
+    "CVE-2026-61241": [
+        {
+            "title": "Oracle Security Update Patches Critical WebLogic, Hyperion and Fusion Middleware Flaws",
+            "link": "https://cyberpress.org/oracle-security-update-patches/"
         }
     ]
 }
