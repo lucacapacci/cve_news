@@ -486,5 +486,23 @@
             "title": "CISA KEV Addition: CVE-2026-64849",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-64849"
         }
+    ],
+    "CVE-2024-29748": [
+        {
+            "title": "GrapheneOS Breaks Free From Pixels: Motorola Deal Promises Hardened Android on Flagships by 2027",
+            "link": "https://www.webpronews.com/grapheneos-breaks-free-from-pixels-motorola-deal-promises-hardened-android-on-flagships-by-2027/"
+        }
+    ],
+    "CVE-2024-29745": [
+        {
+            "title": "GrapheneOS Breaks Free From Pixels: Motorola Deal Promises Hardened Android on Flagships by 2027",
+            "link": "https://www.webpronews.com/grapheneos-breaks-free-from-pixels-motorola-deal-promises-hardened-android-on-flagships-by-2027/"
+        }
+    ],
+    "CVE-2026-0073": [
+        {
+            "title": "GrapheneOS Breaks Free From Pixels: Motorola Deal Promises Hardened Android on Flagships by 2027",
+            "link": "https://www.webpronews.com/grapheneos-breaks-free-from-pixels-motorola-deal-promises-hardened-android-on-flagships-by-2027/"
+        }
     ]
 }
