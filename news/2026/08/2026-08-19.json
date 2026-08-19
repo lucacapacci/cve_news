@@ -53,6 +53,10 @@
         {
             "title": "CISA Warns of VMware vCenter Path Traversal Flaw Exploited in the Wild",
             "link": "https://cyberpress.org/vmware-vcenter-path-traversal-flaw-exploited/"
+        },
+        {
+            "title": "CISA Warns of VMware vCenter Path Traversal Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/vmware-vcenter-path-traversal-vulnerability-exploited/"
         }
     ],
     "CVE-2023-48788": [
@@ -171,6 +175,138 @@
         {
             "title": "D-Link Fixes 18 Security Flaws in DWR-M961 Router Web Interface",
             "link": "https://cyberpress.org/d-link-fixes-18-security-flaws/"
+        }
+    ],
+    "CVE-2026-40144": [
+        {
+            "title": "BeyondTrust Windows EPM Vulnerabilities Allows Attackers to Escalate Privileges",
+            "link": "https://cybersecuritynews.com/beyondtrust-windows-epm-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Endpoint Privilege Management Flaws Enable Local Privilege Escalation",
+            "link": "https://gbhackers.com/beyondtrust-endpoint-privilege-management-flaws/"
+        }
+    ],
+    "CVE-2026-40145": [
+        {
+            "title": "BeyondTrust Windows EPM Vulnerabilities Allows Attackers to Escalate Privileges",
+            "link": "https://cybersecuritynews.com/beyondtrust-windows-epm-vulnerabilities/"
+        },
+        {
+            "title": "BeyondTrust Endpoint Privilege Management Flaws Enable Local Privilege Escalation",
+            "link": "https://gbhackers.com/beyondtrust-endpoint-privilege-management-flaws/"
+        }
+    ],
+    "CVE-2026-76040": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76046": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76043": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76047": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76038": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76036": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76037": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76045": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76033": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76039": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76041": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76035": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76034": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76042": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-76044": [
+        {
+            "title": "Google Fixes Two Critical Chrome Flaws in WebGL and Dawn \u2014 Update Your Browser",
+            "link": "https://cybersecuritynews.com/google-fixes-two-chrome-flaws-in-webgl-and-dawn/"
+        }
+    ],
+    "CVE-2026-50548": [
+        {
+            "title": "Critical Cursor 0-day Vulnerability Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/cursor-0-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-63093": [
+        {
+            "title": "Critical Cursor 0-day Vulnerability Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/cursor-0-day-vulnerability/"
+        },
+        {
+            "title": "Cursor 0-Day Lets Attackers Execute Malicious Code by Opening a Repository",
+            "link": "https://gbhackers.com/cursor-0-day-lets-attackers-execute-malicious-code/"
+        }
+    ],
+    "CVE-2026-50549": [
+        {
+            "title": "Critical Cursor 0-day Vulnerability Enables Arbitrary Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/cursor-0-day-vulnerability/"
         }
     ]
 }
