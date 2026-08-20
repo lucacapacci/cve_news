@@ -19,6 +19,10 @@
         {
             "title": "Zimbra RCE Vulnerability Lets Remote Attackers Execute System Commands",
             "link": "https://gbhackers.com/zimbra-rce-vulnerability/"
+        },
+        {
+            "title": "Critical Zimbra OS Command Injection Vulnerability Exploited in the Wild",
+            "link": "https://cyberpress.org/critical-zimbra-os-command-injection-vulnerability/"
         }
     ],
     "CVE-2026-19489": [
@@ -41,6 +45,10 @@
         {
             "title": "Claude AI Finds SAML Security Flaws That Can Let Attackers Take Over Accounts",
             "link": "https://cybersecuritynews.com/claude-ai-finds-saml-security-flaws/"
+        },
+        {
+            "title": "Claude AI Finds Full Authentication Bypasses Across Multiple SAML Libraries",
+            "link": "https://cyberpress.org/claude-ai-finds-full-authentication-bypasses/"
         }
     ],
     "CVE-2026-19478": [
@@ -149,6 +157,24 @@
         {
             "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
             "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-41472": [
+        {
+            "title": "CyberPanel Pre-Auth RCE Flaws Let Attackers Gain Remote Server Access",
+            "link": "https://gbhackers.com/cyberpanel-pre-auth-rce-flaws/"
+        }
+    ],
+    "CVE-2026-41473": [
+        {
+            "title": "CyberPanel Pre-Auth RCE Flaws Let Attackers Gain Remote Server Access",
+            "link": "https://gbhackers.com/cyberpanel-pre-auth-rce-flaws/"
+        }
+    ],
+    "CVE-2026-63182": [
+        {
+            "title": "Claude AI Finds Full Authentication Bypasses Across Multiple SAML Libraries",
+            "link": "https://cyberpress.org/claude-ai-finds-full-authentication-bypasses/"
         }
     ]
 }
