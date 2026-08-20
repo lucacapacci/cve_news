@@ -167,6 +167,10 @@
         {
             "title": "CyberPanel Pre-Auth RCE Chain Lets Attackers Gain Server Shell via AI Scanner Flaws",
             "link": "https://cybersecuritynews.com/cyberpanel-pre-auth-rce-chain-gain-server-shell/"
+        },
+        {
+            "title": "CyberPanel Flaws Chain Authentication Bypass and Stored XSS Into Remote Code Execution",
+            "link": "https://cyberpress.org/cyberpanel-flaws-chain-authentication-bypass/"
         }
     ],
     "CVE-2026-41473": [
@@ -177,6 +181,10 @@
         {
             "title": "CyberPanel Pre-Auth RCE Chain Lets Attackers Gain Server Shell via AI Scanner Flaws",
             "link": "https://cybersecuritynews.com/cyberpanel-pre-auth-rce-chain-gain-server-shell/"
+        },
+        {
+            "title": "CyberPanel Flaws Chain Authentication Bypass and Stored XSS Into Remote Code Execution",
+            "link": "https://cyberpress.org/cyberpanel-flaws-chain-authentication-bypass/"
         }
     ],
     "CVE-2026-63182": [
@@ -199,12 +207,30 @@
         {
             "title": "Critical Red Hat Kubernetes SSRF Flaw Exposes Internal Services Across Managed Clusters",
             "link": "https://cybersecuritynews.com/red-hat-kubernetes-ssrf-flaw/"
+        },
+        {
+            "title": "Red Hat Kubernetes SSRF Vulnerability Exposes Internal Managed Cluster Services",
+            "link": "https://cyberpress.org/red-hat-kubernetes-ssrf-vulnerability/"
         }
     ],
     "CVE-2026-20320": [
         {
             "title": "Cisco BroadWorks Vulnerability Allows Remote Attackers to Access Sensitive Files",
             "link": "https://gbhackers.com/cisco-broadworks-vulnerability/"
+        },
+        {
+            "title": "Cisco External Entity Injection Vulnerability Allows Attackers to Read Sensitive Data",
+            "link": "https://cybersecuritynews.com/cisco-external-entity-injection-vulnerability/"
+        },
+        {
+            "title": "Cisco BroadWorks XXE Flaw Allows Unauthenticated Remote File Disclosure",
+            "link": "https://cyberpress.org/cisco-broadworks-xxe-flaw/"
+        }
+    ],
+    "CVE-2026-6837": [
+        {
+            "title": "Zyxel Patches Command Injection Flaw in 18 Access Points Allowing Root OS Command Execution",
+            "link": "https://cybersecuritynews.com/zyxel-patches-command-injection-flaw/"
         }
     ]
 }
