@@ -254,5 +254,35 @@
             "title": "ShieldBreak: The Windows Defender Zero-Day With No Patch \u2014 Detect It, Mitigate It, With Qualys",
             "link": "https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response"
         }
+    ],
+    "CVE-2025-59536": [
+        {
+            "title": "Anthropic\u2019s Stubborn Stand on AGENTS.md Leaves Claude Code Developers Frustrated",
+            "link": "https://www.webpronews.com/anthropics-stubborn-stand-on-agents-md-leaves-claude-code-developers-frustrated/"
+        }
+    ],
+    "CVE-2026-21852": [
+        {
+            "title": "Anthropic\u2019s Stubborn Stand on AGENTS.md Leaves Claude Code Developers Frustrated",
+            "link": "https://www.webpronews.com/anthropics-stubborn-stand-on-agents-md-leaves-claude-code-developers-frustrated/"
+        }
+    ],
+    "CVE-2026-39861": [
+        {
+            "title": "Anthropic\u2019s Stubborn Stand on AGENTS.md Leaves Claude Code Developers Frustrated",
+            "link": "https://www.webpronews.com/anthropics-stubborn-stand-on-agents-md-leaves-claude-code-developers-frustrated/"
+        }
+    ],
+    "CVE-2026-72530": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-72530",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-72530"
+        }
+    ],
+    "CVE-2026-72529": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-72529",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-72529"
+        }
     ]
 }
