@@ -32,5 +32,11 @@
             "title": "Critical Citrix NetScaler Flaw Allows Attackers to Bypass Authentication",
             "link": "https://gbhackers.com/critical-citrix-netscaler-flaw/"
         }
+    ],
+    "CVE-2026-57580": [
+        {
+            "title": "Claude AI Finds SAML Security Flaws That Can Let Attackers Take Over Accounts",
+            "link": "https://cybersecuritynews.com/claude-ai-finds-saml-security-flaws/"
+        }
     ]
 }
