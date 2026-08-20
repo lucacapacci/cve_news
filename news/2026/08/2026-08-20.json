@@ -4,5 +4,33 @@
             "title": "Microsoft Defender Update Causes Quick and Full Virus Scans to Crash",
             "link": "https://cyberpress.org/microsoft-defender-update-causes-quick/"
         }
+    ],
+    "CVE-2026-32475": [
+        {
+            "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+            "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "Critical Zimbra RCE Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/zimbra-rce-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-19489": [
+        {
+            "title": "Critical Citrix NetScaler Authentication Bypass Flaw Exposes Gateway Appliances",
+            "link": "https://cyberpress.org/critical-citrix-netscaler-authentication-bypass-flaw/"
+        }
+    ],
+    "CVE-2026-19490": [
+        {
+            "title": "Critical Citrix NetScaler Authentication Bypass Flaw Exposes Gateway Appliances",
+            "link": "https://cyberpress.org/critical-citrix-netscaler-authentication-bypass-flaw/"
+        },
+        {
+            "title": "Critical Citrix NetScaler Flaw Allows Attackers to Bypass Authentication",
+            "link": "https://gbhackers.com/critical-citrix-netscaler-flaw/"
+        }
     ]
 }
