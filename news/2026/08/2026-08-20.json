@@ -314,5 +314,11 @@
             "title": "Xwayland 26.1 RC1 Marks First Major Update in Years With Fresh Features and Lingering Security Questions",
             "link": "https://www.webpronews.com/xwayland-26-1-rc1-marks-first-major-update-in-years-with-fresh-features-and-lingering-security-questions/"
         }
+    ],
+    "CVE-2026-60112": [
+        {
+            "title": "Critical NASA AIT-GUI Flaw Lets Unauthenticated Attackers Issue Spacecraft Commands",
+            "link": "https://cybersecuritynews.com/nasa-ait-gui-flaw/"
+        }
     ]
 }
