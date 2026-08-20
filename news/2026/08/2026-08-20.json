@@ -3,6 +3,10 @@
         {
             "title": "Microsoft Defender Update Causes Quick and Full Virus Scans to Crash",
             "link": "https://cyberpress.org/microsoft-defender-update-causes-quick/"
+        },
+        {
+            "title": "ShieldBreak: The Windows Defender Zero-Day With No Patch \u2014 Detect It, Mitigate It, With Qualys",
+            "link": "https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response"
         }
     ],
     "CVE-2026-32475": [
@@ -23,6 +27,10 @@
         {
             "title": "Critical Zimbra OS Command Injection Vulnerability Exploited in the Wild",
             "link": "https://cyberpress.org/critical-zimbra-os-command-injection-vulnerability/"
+        },
+        {
+            "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+            "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html"
         }
     ],
     "CVE-2026-19489": [
@@ -231,6 +239,12 @@
         {
             "title": "Zyxel Patches Command Injection Flaw in 18 Access Points Allowing Root OS Command Execution",
             "link": "https://cybersecuritynews.com/zyxel-patches-command-injection-flaw/"
+        }
+    ],
+    "CVE-2026-69414": [
+        {
+            "title": "ShieldBreak: The Windows Defender Zero-Day With No Patch \u2014 Detect It, Mitigate It, With Qualys",
+            "link": "https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response"
         }
     ]
 }
