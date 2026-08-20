@@ -284,5 +284,35 @@
             "title": "CISA KEV Addition: CVE-2026-72529",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-72529"
         }
+    ],
+    "CVE-2026-20825": [
+        {
+            "title": "Windows\u2019 Hidden Hypervisor: Why Most Pro Users Ignore the Type-1 Engine Running Beneath Their OS",
+            "link": "https://www.webpronews.com/windows-hidden-hypervisor-why-most-pro-users-ignore-the-type-1-engine-running-beneath-their-os/"
+        }
+    ],
+    "CVE-2026-50256": [
+        {
+            "title": "Xwayland 26.1 RC1 Marks First Major Update in Years With Fresh Features and Lingering Security Questions",
+            "link": "https://www.webpronews.com/xwayland-26-1-rc1-marks-first-major-update-in-years-with-fresh-features-and-lingering-security-questions/"
+        }
+    ],
+    "CVE-2026-56000": [
+        {
+            "title": "Xwayland 26.1 RC1 Marks First Major Update in Years With Fresh Features and Lingering Security Questions",
+            "link": "https://www.webpronews.com/xwayland-26-1-rc1-marks-first-major-update-in-years-with-fresh-features-and-lingering-security-questions/"
+        }
+    ],
+    "CVE-2026-55999": [
+        {
+            "title": "Xwayland 26.1 RC1 Marks First Major Update in Years With Fresh Features and Lingering Security Questions",
+            "link": "https://www.webpronews.com/xwayland-26-1-rc1-marks-first-major-update-in-years-with-fresh-features-and-lingering-security-questions/"
+        }
+    ],
+    "CVE-2026-50263": [
+        {
+            "title": "Xwayland 26.1 RC1 Marks First Major Update in Years With Fresh Features and Lingering Security Questions",
+            "link": "https://www.webpronews.com/xwayland-26-1-rc1-marks-first-major-update-in-years-with-fresh-features-and-lingering-security-questions/"
+        }
     ]
 }
