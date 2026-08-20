@@ -15,6 +15,10 @@
         {
             "title": "Critical Zimbra RCE Vulnerability Actively Exploited in the Wild",
             "link": "https://cybersecuritynews.com/zimbra-rce-vulnerability-exploited/"
+        },
+        {
+            "title": "Zimbra RCE Vulnerability Lets Remote Attackers Execute System Commands",
+            "link": "https://gbhackers.com/zimbra-rce-vulnerability/"
         }
     ],
     "CVE-2026-19489": [
@@ -37,6 +41,114 @@
         {
             "title": "Claude AI Finds SAML Security Flaws That Can Let Attackers Take Over Accounts",
             "link": "https://cybersecuritynews.com/claude-ai-finds-saml-security-flaws/"
+        }
+    ],
+    "CVE-2026-19478": [
+        {
+            "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
+            "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/"
+        }
+    ],
+    "CVE-2026-76392": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76391": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76396": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76394": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76402": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76405": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76397": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76398": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76403": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76400": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76399": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76390": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76395": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76401": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76404": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76393": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
+        }
+    ],
+    "CVE-2026-76389": [
+        {
+            "title": "Splunk Patches Critical MCP Server RCE and 16 Other Security Flaws Across AI Toolkit, Kafka Apps",
+            "link": "https://cybersecuritynews.com/splunk-patches-security-flaws/"
         }
     ]
 }
