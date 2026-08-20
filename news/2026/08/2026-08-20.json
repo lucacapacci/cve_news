@@ -31,6 +31,10 @@
         {
             "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
             "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html"
+        },
+        {
+            "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
+            "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/"
         }
     ],
     "CVE-2026-19489": [
@@ -63,6 +67,10 @@
         {
             "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
             "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/"
+        },
+        {
+            "title": "GitLab Released GraphQL Vulnerability (CVE-2026-19478) Emergency Patch",
+            "link": "https://hackersonlineclub.com/gitlab-released-graphql-vulnerability-patch/"
         }
     ],
     "CVE-2026-76392": [
