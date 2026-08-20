@@ -190,5 +190,11 @@
             "title": "U.S. CISA adds an MLflow flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/197558/hacking/u-s-cisa-adds-a-mlflow-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
         }
+    ],
+    "CVE-2026-66794": [
+        {
+            "title": "Red Hat Kubernetes Flaw Lets Unauthenticated Attackers Access Internal Cluster Services",
+            "link": "https://gbhackers.com/red-hat-kubernetes-flaw-2/"
+        }
     ]
 }
