@@ -163,18 +163,32 @@
         {
             "title": "CyberPanel Pre-Auth RCE Flaws Let Attackers Gain Remote Server Access",
             "link": "https://gbhackers.com/cyberpanel-pre-auth-rce-flaws/"
+        },
+        {
+            "title": "CyberPanel Pre-Auth RCE Chain Lets Attackers Gain Server Shell via AI Scanner Flaws",
+            "link": "https://cybersecuritynews.com/cyberpanel-pre-auth-rce-chain-gain-server-shell/"
         }
     ],
     "CVE-2026-41473": [
         {
             "title": "CyberPanel Pre-Auth RCE Flaws Let Attackers Gain Remote Server Access",
             "link": "https://gbhackers.com/cyberpanel-pre-auth-rce-flaws/"
+        },
+        {
+            "title": "CyberPanel Pre-Auth RCE Chain Lets Attackers Gain Server Shell via AI Scanner Flaws",
+            "link": "https://cybersecuritynews.com/cyberpanel-pre-auth-rce-chain-gain-server-shell/"
         }
     ],
     "CVE-2026-63182": [
         {
             "title": "Claude AI Finds Full Authentication Bypasses Across Multiple SAML Libraries",
             "link": "https://cyberpress.org/claude-ai-finds-full-authentication-bypasses/"
+        }
+    ],
+    "CVE-2026-64849": [
+        {
+            "title": "U.S. CISA adds an MLflow flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/197558/hacking/u-s-cisa-adds-a-mlflow-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
         }
     ]
 }
