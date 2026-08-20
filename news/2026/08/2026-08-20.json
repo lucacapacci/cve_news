@@ -1,0 +1,8 @@
+{
+    "CVE-2026-50656": [
+        {
+            "title": "Microsoft Defender Update Causes Quick and Full Virus Scans to Crash",
+            "link": "https://cyberpress.org/microsoft-defender-update-causes-quick/"
+        }
+    ]
+}
