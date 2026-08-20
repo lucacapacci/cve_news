@@ -195,6 +195,16 @@
         {
             "title": "Red Hat Kubernetes Flaw Lets Unauthenticated Attackers Access Internal Cluster Services",
             "link": "https://gbhackers.com/red-hat-kubernetes-flaw-2/"
+        },
+        {
+            "title": "Critical Red Hat Kubernetes SSRF Flaw Exposes Internal Services Across Managed Clusters",
+            "link": "https://cybersecuritynews.com/red-hat-kubernetes-ssrf-flaw/"
+        }
+    ],
+    "CVE-2026-20320": [
+        {
+            "title": "Cisco BroadWorks Vulnerability Allows Remote Attackers to Access Sensitive Files",
+            "link": "https://gbhackers.com/cisco-broadworks-vulnerability/"
         }
     ]
 }
