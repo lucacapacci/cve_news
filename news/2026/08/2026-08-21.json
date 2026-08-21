@@ -1,0 +1,8 @@
+{
+    "CVE-2026-69836": [
+        {
+            "title": "Microsoft Entra ID Remote Code Execution Vulnerability Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/entra-id-rce-vulnerability-exploited/"
+        }
+    ]
+}
