@@ -3,6 +3,60 @@
         {
             "title": "Microsoft Entra ID Remote Code Execution Vulnerability Exploited in the Wild",
             "link": "https://cybersecuritynews.com/entra-id-rce-vulnerability-exploited/"
+        },
+        {
+            "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+            "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html"
+        },
+        {
+            "title": "Critical Microsoft Entra ID RCE Flaw Allows Remote Attackers to Execute Code",
+            "link": "https://cyberpress.org/critical-microsoft-entra-id-rce-flaw/"
+        },
+        {
+            "title": "Microsoft Entra ID RCE Flaw Lets Unauthorized Attackers Execute Code Remotely",
+            "link": "https://gbhackers.com/microsoft-entra-id-rce-flaw/"
+        }
+    ],
+    "CVE-2026-76023": [
+        {
+            "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        }
+    ],
+    "CVE-2026-76020": [
+        {
+            "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        }
+    ],
+    "CVE-2026-76021": [
+        {
+            "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        }
+    ],
+    "CVE-2026-76019": [
+        {
+            "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        }
+    ],
+    "CVE-2026-76022": [
+        {
+            "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        }
+    ],
+    "CVE-2026-76018": [
+        {
+            "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        }
+    ],
+    "CVE-2026-76017": [
+        {
+            "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
         }
     ]
 }
