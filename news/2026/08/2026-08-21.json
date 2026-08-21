@@ -63,6 +63,10 @@
         {
             "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
             "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
+        },
+        {
+            "title": "GitLab Warns of Active Exploitation of Critical GraphQL Flaw",
+            "link": "https://securityaffairs.com/197622/uncategorized/gitlab-warns-of-active-exploitation-of-critical-graphql-flaw.html"
         }
     ],
     "CVE-2026-19490": [
@@ -85,6 +89,12 @@
         {
             "title": "Poland\u2019s CERT Warns of Active Exploitation of Critical Zimbra Collaboration Suite Flaw",
             "link": "https://securityaffairs.com/197610/security/polands-cert-warns-of-active-exploitation-of-critical-zimbra-collaboration-suite-flaw.html"
+        }
+    ],
+    "CVE-2026-15580": [
+        {
+            "title": "Critical N-Able PassPortal Extension Flaw Gives Attackers Full Password Vault Access",
+            "link": "https://gbhackers.com/critical-n-able-passportal-extension-flaw/"
         }
     ]
 }
