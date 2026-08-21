@@ -58,5 +58,17 @@
             "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
         }
+    ],
+    "CVE-2026-19478": [
+        {
+            "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+            "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html"
+        }
+    ],
+    "CVE-2026-19490": [
+        {
+            "title": "Citrix urges customers to fix critical NetScaler authentication bypass (CVE-2026-19490)",
+            "link": "https://www.helpnetsecurity.com/2026/08/21/citrix-netscaler-gateway-cve-2026-19490/"
+        }
     ]
 }
