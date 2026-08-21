@@ -70,5 +70,15 @@
             "title": "Citrix urges customers to fix critical NetScaler authentication bypass (CVE-2026-19490)",
             "link": "https://www.helpnetsecurity.com/2026/08/21/citrix-netscaler-gateway-cve-2026-19490/"
         }
+    ],
+    "CVE-2026-59270": [
+        {
+            "title": "Critical Spring Security LDAP Flaw Lets Remote Attackers Read and Modify Directory Data",
+            "link": "https://gbhackers.com/critical-spring-security-ldap-flaw/"
+        },
+        {
+            "title": "Critical Spring Security Flaw Lets Attackers Gain Admin Access to LDAP Servers",
+            "link": "https://cybersecuritynews.com/spring-security-flaw-access-ldap-servers/"
+        }
     ]
 }
