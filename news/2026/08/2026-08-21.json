@@ -80,5 +80,11 @@
             "title": "Critical Spring Security Flaw Lets Attackers Gain Admin Access to LDAP Servers",
             "link": "https://cybersecuritynews.com/spring-security-flaw-access-ldap-servers/"
         }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "Poland\u2019s CERT Warns of Active Exploitation of Critical Zimbra Collaboration Suite Flaw",
+            "link": "https://securityaffairs.com/197610/security/polands-cert-warns-of-active-exploitation-of-critical-zimbra-collaboration-suite-flaw.html"
+        }
     ]
 }
