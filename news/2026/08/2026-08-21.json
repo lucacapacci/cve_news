@@ -21,42 +21,70 @@
         {
             "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Critical Use-After-Free Bug and Six High-Severity Flaws",
+            "link": "https://cyberpress.org/google-chrome-151-patches-critical-use-after-free/"
         }
     ],
     "CVE-2026-76020": [
         {
             "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Critical Use-After-Free Bug and Six High-Severity Flaws",
+            "link": "https://cyberpress.org/google-chrome-151-patches-critical-use-after-free/"
         }
     ],
     "CVE-2026-76021": [
         {
             "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Critical Use-After-Free Bug and Six High-Severity Flaws",
+            "link": "https://cyberpress.org/google-chrome-151-patches-critical-use-after-free/"
         }
     ],
     "CVE-2026-76019": [
         {
             "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Critical Use-After-Free Bug and Six High-Severity Flaws",
+            "link": "https://cyberpress.org/google-chrome-151-patches-critical-use-after-free/"
         }
     ],
     "CVE-2026-76022": [
         {
             "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Critical Use-After-Free Bug and Six High-Severity Flaws",
+            "link": "https://cyberpress.org/google-chrome-151-patches-critical-use-after-free/"
         }
     ],
     "CVE-2026-76018": [
         {
             "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Critical Use-After-Free Bug and Six High-Severity Flaws",
+            "link": "https://cyberpress.org/google-chrome-151-patches-critical-use-after-free/"
         }
     ],
     "CVE-2026-76017": [
         {
             "title": "Google Chrome 151 Chromoting Flaw Allows Attackers to  Execute Malicious Code Remotely",
             "link": "https://cybersecuritynews.com/google-chrome-151-chromoting-flaw/"
+        },
+        {
+            "title": "Google Chrome 151 Patches Critical Use-After-Free Bug and Six High-Severity Flaws",
+            "link": "https://cyberpress.org/google-chrome-151-patches-critical-use-after-free/"
         }
     ],
     "CVE-2026-19478": [
@@ -83,6 +111,10 @@
         {
             "title": "Critical Spring Security Flaw Lets Attackers Gain Admin Access to LDAP Servers",
             "link": "https://cybersecuritynews.com/spring-security-flaw-access-ldap-servers/"
+        },
+        {
+            "title": "Spring Security Flaw Exposes Embedded LDAP Servers to Remote Admin Access",
+            "link": "https://cyberpress.org/spring-security-flaw-2/"
         }
     ],
     "CVE-2026-73570": [
@@ -95,6 +127,16 @@
         {
             "title": "Critical N-Able PassPortal Extension Flaw Gives Attackers Full Password Vault Access",
             "link": "https://gbhackers.com/critical-n-able-passportal-extension-flaw/"
+        },
+        {
+            "title": "Critical N-able Passportal Bug Lets Malicious Sites Access Password Vaults",
+            "link": "https://cyberpress.org/critical-n-able-passportal-bug/"
+        }
+    ],
+    "CVE-2025-59534": [
+        {
+            "title": "NASA\u2019s Open-Source Ground Systems Expose Spacecraft to Unauthenticated Command Takeover",
+            "link": "https://www.webpronews.com/nasas-open-source-ground-systems-expose-spacecraft-to-unauthenticated-command-takeover/"
         }
     ]
 }
