@@ -19,6 +19,10 @@
         {
             "title": "Critical Microsoft Entra ID vulnerability exploited in the wild (CVE-2026-69836)",
             "link": "https://www.helpnetsecurity.com/2026/08/21/microsoft-entra-id-vulnerability-cve-2026-69836/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-69836",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-69836"
         }
     ],
     "CVE-2026-76023": [
@@ -129,6 +133,10 @@
         {
             "title": "Poland\u2019s CERT Warns of Active Exploitation of Critical Zimbra Collaboration Suite Flaw",
             "link": "https://securityaffairs.com/197610/security/polands-cert-warns-of-active-exploitation-of-critical-zimbra-collaboration-suite-flaw.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-73570",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-73570"
         }
     ],
     "CVE-2026-15580": [
