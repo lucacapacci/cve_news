@@ -15,6 +15,10 @@
         {
             "title": "Microsoft Entra ID RCE Flaw Lets Unauthorized Attackers Execute Code Remotely",
             "link": "https://gbhackers.com/microsoft-entra-id-rce-flaw/"
+        },
+        {
+            "title": "Critical Microsoft Entra ID vulnerability exploited in the wild (CVE-2026-69836)",
+            "link": "https://www.helpnetsecurity.com/2026/08/21/microsoft-entra-id-vulnerability-cve-2026-69836/"
         }
     ],
     "CVE-2026-76023": [
