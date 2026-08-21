@@ -99,6 +99,10 @@
         {
             "title": "GitLab Warns of Active Exploitation of Critical GraphQL Flaw",
             "link": "https://securityaffairs.com/197622/uncategorized/gitlab-warns-of-active-exploitation-of-critical-graphql-flaw.html"
+        },
+        {
+            "title": "Critical GitLab Code Injection Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/gitlab-code-injection-vulnerability-exploited/"
         }
     ],
     "CVE-2026-19490": [
@@ -135,12 +139,22 @@
         {
             "title": "Critical N-able Passportal Bug Lets Malicious Sites Access Password Vaults",
             "link": "https://cyberpress.org/critical-n-able-passportal-bug/"
+        },
+        {
+            "title": "Critical N-able Passportal Flaw Lets Malicious Websites Steal Entire Password Vault and 2FA Codes",
+            "link": "https://cybersecuritynews.com/n-able-passportal-flaw/"
         }
     ],
     "CVE-2025-59534": [
         {
             "title": "NASA\u2019s Open-Source Ground Systems Expose Spacecraft to Unauthenticated Command Takeover",
             "link": "https://www.webpronews.com/nasas-open-source-ground-systems-expose-spacecraft-to-unauthenticated-command-takeover/"
+        }
+    ],
+    "CVE-2026-32475": [
+        {
+            "title": "Critical WordPress Plugin Vulnerability Exposes Sites to RCE Attacks",
+            "link": "https://cybersecuritynews.com/wordpress-plugin-vulnerability-exposes-3/"
         }
     ]
 }
