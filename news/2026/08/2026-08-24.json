@@ -24,5 +24,11 @@
             "title": "Zimbra Collaboration Suite Flaw Actively Exploited to Execute Arbitrary Commands",
             "link": "https://gbhackers.com/zimbra-collaboration-suite-flaw/"
         }
+    ],
+    "CVE-2026-18963": [
+        {
+            "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+            "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html"
+        }
     ]
 }
