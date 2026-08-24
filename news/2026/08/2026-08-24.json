@@ -19,6 +19,10 @@
         {
             "title": "Actively Exploited Zimbra Flaw Lets Unauthenticated Attackers Execute Shell Commands",
             "link": "https://cyberpress.org/actively-exploited-zimbra-flaw/"
+        },
+        {
+            "title": "Zimbra Collaboration Suite Flaw Actively Exploited to Execute Arbitrary Commands",
+            "link": "https://gbhackers.com/zimbra-collaboration-suite-flaw/"
         }
     ]
 }
