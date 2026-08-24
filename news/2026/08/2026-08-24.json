@@ -48,5 +48,131 @@
             "title": "CISA KEV Addition: CVE-2026-21962",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-21962"
         }
+    ],
+    "CVE-2026-50508": [
+        {
+            "title": "ZDI-26-605: Microsoft Windows Localized Filenames Improper Input Validation NTLM Response Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-605/"
+        }
+    ],
+    "CVE-2026-13126": [
+        {
+            "title": "ZDI-26-604: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-604/"
+        }
+    ],
+    "CVE-2026-13127": [
+        {
+            "title": "ZDI-26-603: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-603/"
+        }
+    ],
+    "CVE-2026-13128": [
+        {
+            "title": "ZDI-26-602: Foxit PDF Reader Doc Object Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-602/"
+        }
+    ],
+    "CVE-2026-13129": [
+        {
+            "title": "ZDI-26-601: Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-601/"
+        }
+    ],
+    "CVE-2026-57237": [
+        {
+            "title": "ZDI-26-600: Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-600/"
+        }
+    ],
+    "CVE-2026-57238": [
+        {
+            "title": "ZDI-26-599: Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-599/"
+        }
+    ],
+    "CVE-2026-57242": [
+        {
+            "title": "ZDI-26-598: Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-598/"
+        }
+    ],
+    "CVE-2026-57252": [
+        {
+            "title": "ZDI-26-597: Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-597/"
+        }
+    ],
+    "CVE-2026-57253": [
+        {
+            "title": "ZDI-26-596: Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-596/"
+        }
+    ],
+    "CVE-2026-57254": [
+        {
+            "title": "ZDI-26-595: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-595/"
+        }
+    ],
+    "CVE-2026-24251": [
+        {
+            "title": "ZDI-26-594: NVIDIA Megatron Bridge load_model_config Code Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-594/"
+        }
+    ],
+    "CVE-2026-24268": [
+        {
+            "title": "ZDI-26-593: NVIDIA TensorRT ONNX File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-593/"
+        }
+    ],
+    "CVE-2026-24238": [
+        {
+            "title": "ZDI-26-592: NVIDIA TensorRT ONNX File Parsing Improper Validation of Array Index Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-592/"
+        }
+    ],
+    "CVE-2026-24272": [
+        {
+            "title": "ZDI-26-591: NVIDIA TensorRT ONNX File Parsing  Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-591/"
+        }
+    ],
+    "CVE-2026-19773": [
+        {
+            "title": "ZDI-26-590: libwebsockets HTTP/2 HPACK Path Header Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-590/"
+        }
+    ],
+    "CVE-2026-19774": [
+        {
+            "title": "ZDI-26-589: BlueZ A2DP Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-589/"
+        }
+    ],
+    "CVE-2026-19504": [
+        {
+            "title": "ZDI-26-588: Fabric.js loadFromJSON Server-Side Request Forgery Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-588/"
+        }
+    ],
+    "CVE-2026-19781": [
+        {
+            "title": "ZDI-26-587: Ashlar-Vellum Cobalt VS File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-587/"
+        }
+    ],
+    "CVE-2026-19886": [
+        {
+            "title": "ZDI-26-586: OriginLab Origin Viewer OGM File Parsing Memory Corruption Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-586/"
+        }
+    ],
+    "CVE-2026-19885": [
+        {
+            "title": "ZDI-26-585: OriginLab Origin Viewer OGWU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-585/"
+        }
     ]
 }
