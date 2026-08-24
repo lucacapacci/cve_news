@@ -13,6 +13,10 @@
         {
             "title": "Critical WordPress Pods Flaw Lets Unauthenticated Attackers Gain Admin Access",
             "link": "https://cyberpress.org/critical-wordpress-pods-flaw/"
+        },
+        {
+            "title": "WordPress Plugin Vulnerability Exposes 100,000 Sites to Complete Site Takeover Attacks",
+            "link": "https://cybersecuritynews.com/wordpress-everest-forms-plugin-flaw/"
         }
     ],
     "CVE-2026-73570": [
@@ -23,6 +27,10 @@
         {
             "title": "Zimbra Collaboration Suite Flaw Actively Exploited to Execute Arbitrary Commands",
             "link": "https://gbhackers.com/zimbra-collaboration-suite-flaw/"
+        },
+        {
+            "title": "Zimbra Collaboration Suite Vulnerability Actively Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/zimbra-collaboration-suite-vulnerability-exploited/"
         }
     ],
     "CVE-2026-18963": [
