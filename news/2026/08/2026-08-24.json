@@ -4,5 +4,21 @@
             "title": "Microsoft patches perfect-ten Entra ID flaw, Defender driver deletes Defender at boot, Malware turns cars into proxy botnet",
             "link": "https://cybersecuritytoday.libsyn.com/microsoft-patches-perfect-ten-entra-id-flaw-defender-driver-deletes-defender-at-boot-malware-turns-cars-into-proxy-botnet"
         }
+    ],
+    "CVE-2026-19598": [
+        {
+            "title": "Critical WordPress Pods Flaw Lets Unauthenticated Attackers Gain Admin Access",
+            "link": "https://gbhackers.com/critical-wordpress-pods-flaw/"
+        },
+        {
+            "title": "Critical WordPress Pods Flaw Lets Unauthenticated Attackers Gain Admin Access",
+            "link": "https://cyberpress.org/critical-wordpress-pods-flaw/"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "Actively Exploited Zimbra Flaw Lets Unauthenticated Attackers Execute Shell Commands",
+            "link": "https://cyberpress.org/actively-exploited-zimbra-flaw/"
+        }
     ]
 }
