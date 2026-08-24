@@ -31,6 +31,10 @@
         {
             "title": "Zimbra Collaboration Suite Vulnerability Actively Exploited in the Wild",
             "link": "https://cybersecuritynews.com/zimbra-collaboration-suite-vulnerability-exploited/"
+        },
+        {
+            "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+            "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch"
         }
     ],
     "CVE-2026-18963": [
@@ -173,6 +177,12 @@
         {
             "title": "ZDI-26-585: OriginLab Origin Viewer OGWU File Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-585/"
+        }
+    ],
+    "CVE-2026-64715": [
+        {
+            "title": "ZDI-26-610: Apple Safari JavaScriptCore B3 ReduceStrength Phase Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-610/"
         }
     ]
 }
