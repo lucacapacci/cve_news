@@ -23,6 +23,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-69836",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-69836"
+        },
+        {
+            "title": "Microsoft Patches Entra ID RCE Vulnerability Exploited in Attacks",
+            "link": "https://www.esecurityplanet.com/threats/microsoft-patches-entra-id-rce-vulnerability-exploited-in-attacks/"
         }
     ],
     "CVE-2026-76023": [
@@ -107,12 +111,20 @@
         {
             "title": "Critical GitLab Code Injection Vulnerability Actively Exploited in Attacks",
             "link": "https://cybersecuritynews.com/gitlab-code-injection-vulnerability-exploited/"
+        },
+        {
+            "title": "Critical Patches, AI-Driven Attacks, and Data Theft Define the Week in August 2026",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/critical-patches-ai-driven-attacks-and-data-theft-define-the-week-in-august-2026/"
         }
     ],
     "CVE-2026-19490": [
         {
             "title": "Citrix urges customers to fix critical NetScaler authentication bypass (CVE-2026-19490)",
             "link": "https://www.helpnetsecurity.com/2026/08/21/citrix-netscaler-gateway-cve-2026-19490/"
+        },
+        {
+            "title": "Critical Patches, AI-Driven Attacks, and Data Theft Define the Week in August 2026",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/critical-patches-ai-driven-attacks-and-data-theft-define-the-week-in-august-2026/"
         }
     ],
     "CVE-2026-59270": [
@@ -163,6 +175,24 @@
         {
             "title": "Critical WordPress Plugin Vulnerability Exposes Sites to RCE Attacks",
             "link": "https://cybersecuritynews.com/wordpress-plugin-vulnerability-exposes-3/"
+        }
+    ],
+    "CVE-2026-12569": [
+        {
+            "title": "Critical Patches, AI-Driven Attacks, and Data Theft Define the Week in August 2026",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/critical-patches-ai-driven-attacks-and-data-theft-define-the-week-in-august-2026/"
+        }
+    ],
+    "CVE-2026-19489": [
+        {
+            "title": "Critical Patches, AI-Driven Attacks, and Data Theft Define the Week in August 2026",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/critical-patches-ai-driven-attacks-and-data-theft-define-the-week-in-august-2026/"
+        }
+    ],
+    "CVE-2026-58231": [
+        {
+            "title": "Critical Patches, AI-Driven Attacks, and Data Theft Define the Week in August 2026",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/critical-patches-ai-driven-attacks-and-data-theft-define-the-week-in-august-2026/"
         }
     ]
 }

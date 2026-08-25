@@ -184,5 +184,23 @@
             "title": "ZDI-26-610: Apple Safari JavaScriptCore B3 ReduceStrength Phase Use-After-Free Remote Code Execution Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-610/"
         }
+    ],
+    "CVE-2026-0163": [
+        {
+            "title": "Google Pixel August Update Fixes High-Severity Security Flaw",
+            "link": "https://www.esecurityplanet.com/cybersecurity-threats/news-google-pixel-august-2026-security-update-flaw/"
+        }
+    ],
+    "CVE-2026-72529": [
+        {
+            "title": "CISA Orders Civilian Agencies to Patch Exploited TrueConf Server Flaws",
+            "link": "https://www.esecurityplanet.com/cybersecurity/news-cisa-trueconf-server-flaws-patch-order/"
+        }
+    ],
+    "CVE-2026-72530": [
+        {
+            "title": "CISA Orders Civilian Agencies to Patch Exploited TrueConf Server Flaws",
+            "link": "https://www.esecurityplanet.com/cybersecurity/news-cisa-trueconf-server-flaws-patch-order/"
+        }
     ]
 }

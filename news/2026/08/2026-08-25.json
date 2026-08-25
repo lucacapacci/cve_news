@@ -39,6 +39,48 @@
         {
             "title": "Critical Red Hat Keycloak Password Reset Flaw Enables Unauthenticated Account Takeover",
             "link": "https://gbhackers.com/critical-red-hat-keycloak-password-reset-flaw/"
+        },
+        {
+            "title": "Critical Red Hat Keycloak Flaw Lets Unauthenticated Attackers Take Over Any User Account",
+            "link": "https://cybersecuritynews.com/red-hat-keycloak-flaw/"
+        }
+    ],
+    "CVE-2026-61979": [
+        {
+            "title": "Hackers Exploit Critical miniOrange SAML SSO Flaws to Hijack WordPress Admin Accounts",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-miniorange-saml-sso-flaws/"
+        },
+        {
+            "title": "Critical miniOrange SAML SSO Flaws Let Attackers Take Over WordPress Admin Accounts",
+            "link": "https://gbhackers.com/critical-miniorange-saml-sso-flaws/"
+        }
+    ],
+    "CVE-2026-15981": [
+        {
+            "title": "Hackers Exploit Critical miniOrange SAML SSO Flaws to Hijack WordPress Admin Accounts",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-miniorange-saml-sso-flaws/"
+        },
+        {
+            "title": "Critical miniOrange SAML SSO Flaws Let Attackers Take Over WordPress Admin Accounts",
+            "link": "https://gbhackers.com/critical-miniorange-saml-sso-flaws/"
+        }
+    ],
+    "CVE-2026-9254": [
+        {
+            "title": "Multiple TP-Link Archer Vulnerabilities Enable Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/tp-link-archer-command-injection-flaw/"
+        }
+    ],
+    "CVE-2026-78541": [
+        {
+            "title": "Multiple TP-Link Archer Vulnerabilities Enable Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/tp-link-archer-command-injection-flaw/"
+        }
+    ],
+    "CVE-2026-16348": [
+        {
+            "title": "Multiple TP-Link Archer Vulnerabilities Enable Command Injection Attacks",
+            "link": "https://cybersecuritynews.com/tp-link-archer-command-injection-flaw/"
         }
     ]
 }
