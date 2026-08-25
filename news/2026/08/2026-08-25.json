@@ -33,6 +33,14 @@
         {
             "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
             "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/"
+        },
+        {
+            "title": "U.S. CISA adds maximum-severity Oracle flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/197801/security/u-s-cisa-adds-maximum-severity-oracle-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "CISA Warns of Oracle HTTP and WebLogic Server Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/oracle-http-and-weblogic-server-vulnerability-exploited/"
         }
     ],
     "CVE-2026-18963": [
@@ -53,6 +61,10 @@
         {
             "title": "Critical miniOrange SAML SSO Flaws Let Attackers Take Over WordPress Admin Accounts",
             "link": "https://gbhackers.com/critical-miniorange-saml-sso-flaws/"
+        },
+        {
+            "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+            "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html"
         }
     ],
     "CVE-2026-15981": [
@@ -81,6 +93,12 @@
         {
             "title": "Multiple TP-Link Archer Vulnerabilities Enable Command Injection Attacks",
             "link": "https://cybersecuritynews.com/tp-link-archer-command-injection-flaw/"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "Unpatched Zimbra servers are falling to CVE-2026-73570 attacks",
+            "link": "https://www.helpnetsecurity.com/2026/08/25/zimbra-cve-2026-73570-compromised/"
         }
     ]
 }
