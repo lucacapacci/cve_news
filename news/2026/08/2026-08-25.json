@@ -29,6 +29,16 @@
         {
             "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
             "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html"
+        },
+        {
+            "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
+            "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/"
+        }
+    ],
+    "CVE-2026-18963": [
+        {
+            "title": "Critical Red Hat Keycloak Password Reset Flaw Enables Unauthenticated Account Takeover",
+            "link": "https://gbhackers.com/critical-red-hat-keycloak-password-reset-flaw/"
         }
     ]
 }
