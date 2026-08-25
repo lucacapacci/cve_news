@@ -100,5 +100,11 @@
             "title": "Unpatched Zimbra servers are falling to CVE-2026-73570 attacks",
             "link": "https://www.helpnetsecurity.com/2026/08/25/zimbra-cve-2026-73570-compromised/"
         }
+    ],
+    "CVE-2026-59568": [
+        {
+            "title": "Multiple Zscaler Client Connector Flaws Enable Remote Code Execution",
+            "link": "https://gbhackers.com/multiple-zscaler-client-connector-flaws/"
+        }
     ]
 }
