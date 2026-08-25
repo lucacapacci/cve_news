@@ -105,6 +105,28 @@
         {
             "title": "Multiple Zscaler Client Connector Flaws Enable Remote Code Execution",
             "link": "https://gbhackers.com/multiple-zscaler-client-connector-flaws/"
+        },
+        {
+            "title": "Multiple Zscaler Client Connector Vulnerabilities Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/multiple-zscaler-client-connector-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59285": [
+        {
+            "title": "91 Spring Vulnerabilities Impact 209,000+ Software Components Across Open-Source Ecosystem",
+            "link": "https://cybersecuritynews.com/91-spring-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59318": [
+        {
+            "title": "91 Spring Vulnerabilities Impact 209,000+ Software Components Across Open-Source Ecosystem",
+            "link": "https://cybersecuritynews.com/91-spring-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-72898": [
+        {
+            "title": "CVE-2026-72898: Critical Metabase Unauthenticated SQL Injection Vulnerability",
+            "link": "https://www.offsec.com/blog/cve-2026-72898-2/"
         }
     ]
 }
