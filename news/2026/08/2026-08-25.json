@@ -25,6 +25,10 @@
         {
             "title": "Hackers Exploit Critical Oracle HTTP Server Flaw to Access and Modify Sensitive Data",
             "link": "https://gbhackers.com/hackers-exploit-critical-oracle-http-server-flaw/"
+        },
+        {
+            "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
+            "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html"
         }
     ]
 }
