@@ -15,6 +15,16 @@
         {
             "title": "Researcher Discloses Five High-Risk Vulnerabilities in Palo Alto GlobalProtect",
             "link": "https://cybersecuritynews.com/5-vulnerabilities-palo-alto-globalprotect/"
+        },
+        {
+            "title": "Five GlobalProtect Vulnerabilities Expose Enterprise VPN Users to Privilege Escalation",
+            "link": "https://cyberpress.org/five-globalprotect-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-21962": [
+        {
+            "title": "Hackers Exploit Critical Oracle HTTP Server Flaw to Access and Modify Sensitive Data",
+            "link": "https://gbhackers.com/hackers-exploit-critical-oracle-http-server-flaw/"
         }
     ]
 }
