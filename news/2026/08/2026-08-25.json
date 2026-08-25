@@ -65,6 +65,14 @@
         {
             "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
             "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html"
+        },
+        {
+            "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
+            "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/"
+        },
+        {
+            "title": "Critical WordPress SAML SSO Flaws Enable Unauthenticated Admin Account Takeover",
+            "link": "https://cyberpress.org/critical-wordpress-saml-sso-flaws/"
         }
     ],
     "CVE-2026-15981": [
@@ -75,6 +83,14 @@
         {
             "title": "Critical miniOrange SAML SSO Flaws Let Attackers Take Over WordPress Admin Accounts",
             "link": "https://gbhackers.com/critical-miniorange-saml-sso-flaws/"
+        },
+        {
+            "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
+            "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/"
+        },
+        {
+            "title": "Critical WordPress SAML SSO Flaws Enable Unauthenticated Admin Account Takeover",
+            "link": "https://cyberpress.org/critical-wordpress-saml-sso-flaws/"
         }
     ],
     "CVE-2026-9254": [
@@ -109,12 +125,20 @@
         {
             "title": "Multiple Zscaler Client Connector Vulnerabilities Enable RCE Attacks",
             "link": "https://cybersecuritynews.com/multiple-zscaler-client-connector-vulnerabilities/"
+        },
+        {
+            "title": "Critical Zscaler Client Connector Vulnerability Allows Remote Code Execution Without Login",
+            "link": "https://cyberpress.org/critical-zscaler-client-connector-vulnerability/"
         }
     ],
     "CVE-2026-59285": [
         {
             "title": "91 Spring Vulnerabilities Impact 209,000+ Software Components Across Open-Source Ecosystem",
             "link": "https://cybersecuritynews.com/91-spring-vulnerabilities/"
+        },
+        {
+            "title": "Critical Spring GraphQL Deserialization Flaw Enables Remote Code Execution",
+            "link": "https://cyberpress.org/critical-spring-graphql-deserialization-flaw/"
         }
     ],
     "CVE-2026-59318": [
@@ -127,6 +151,60 @@
         {
             "title": "CVE-2026-72898: Critical Metabase Unauthenticated SQL Injection Vulnerability",
             "link": "https://www.offsec.com/blog/cve-2026-72898-2/"
+        }
+    ],
+    "CVE-2026-65810": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-62902": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-70354": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-62886": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-62897": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-62872": [
+        {
+            "title": "Microsoft August 2026 Update Breaks When Generating PDF/XPS Content",
+            "link": "https://cybersecuritynews.com/microsoft-august-2026-update-pdf-xps/"
+        }
+    ],
+    "CVE-2026-59567": [
+        {
+            "title": "Critical Zscaler Client Connector Vulnerability Allows Remote Code Execution Without Login",
+            "link": "https://cyberpress.org/critical-zscaler-client-connector-vulnerability/"
+        }
+    ],
+    "CVE-2026-59565": [
+        {
+            "title": "Critical Zscaler Client Connector Vulnerability Allows Remote Code Execution Without Login",
+            "link": "https://cyberpress.org/critical-zscaler-client-connector-vulnerability/"
+        }
+    ],
+    "CVE-2026-59564": [
+        {
+            "title": "Critical Zscaler Client Connector Vulnerability Allows Remote Code Execution Without Login",
+            "link": "https://cyberpress.org/critical-zscaler-client-connector-vulnerability/"
         }
     ]
 }
