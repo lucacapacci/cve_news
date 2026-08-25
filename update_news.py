@@ -35,6 +35,7 @@ FEEDS = [
     "https://cyberpress.org/feed/",
     "https://blog.qualys.com/feed",
     "https://www.cysecurity.news/feeds/posts/default?alt=rss",
+    "https://www.esecurityplanet.com/feed/",
     "https://www.itsecuritynews.info/feed/"
 ]
 
