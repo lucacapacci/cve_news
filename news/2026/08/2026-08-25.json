@@ -10,5 +10,11 @@
             "title": "CVE-2026-69414 ShieldBreak Zero-Day: No Patch, and CISA BOD 26-04 Gives You 14 Days",
             "link": "https://blog.qualys.com/category/product-tech/vulnmgmt-detection-response"
         }
+    ],
+    "CVE-2026-0251": [
+        {
+            "title": "Researcher Discloses Five High-Risk Vulnerabilities in Palo Alto GlobalProtect",
+            "link": "https://cybersecuritynews.com/5-vulnerabilities-palo-alto-globalprotect/"
+        }
     ]
 }
