@@ -214,5 +214,11 @@
             "title": "Critical Zscaler Client Connector Vulnerability Allows Remote Code Execution Without Login",
             "link": "https://cyberpress.org/critical-zscaler-client-connector-vulnerability/"
         }
+    ],
+    "CVE-2026-60004": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-60004",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-60004"
+        }
     ]
 }
