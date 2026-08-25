@@ -220,5 +220,17 @@
             "title": "CISA KEV Addition: CVE-2026-60004",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-60004"
         }
+    ],
+    "CVE-2024-28224": [
+        {
+            "title": "How One Malicious Page Can Hijack Your Local AI Model",
+            "link": "https://www.webpronews.com/how-one-malicious-page-can-hijack-your-local-ai-model/"
+        }
+    ],
+    "CVE-2025-21588": [
+        {
+            "title": "CISA Issues Urgent 3-Day Patch Mandate for Critical Oracle RCE Flaw (CVE-2025-21588)",
+            "link": "https://www.webpronews.com/cisa-issues-urgent-3-day-patch-mandate-for-critical-oracle-rce-flaw-cve-2025-21588/"
+        }
     ]
 }
