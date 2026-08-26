@@ -89,12 +89,34 @@
         {
             "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
             "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html"
+        },
+        {
+            "title": "U.S. CISA adds Gitea flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/197854/security/u-s-cisa-adds-gitea-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
         }
     ],
     "CVE-2026-18798": [
         {
             "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
             "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65105": [
+        {
+            "title": "NVIDIA NemoClaw Flaw Lets Attackers Hijack AI Agents With One Website Visit",
+            "link": "https://cybersecuritynews.com/nvidia-nemoclaw-flaw/"
+        }
+    ],
+    "CVE-2026-63520": [
+        {
+            "title": "Microsoft SharePoint Flaws Let Unauthenticated Attackers Execute Remote Code",
+            "link": "https://gbhackers.com/microsoft-sharepoint-flaws/"
+        }
+    ],
+    "CVE-2026-55040": [
+        {
+            "title": "Microsoft SharePoint Flaws Let Unauthenticated Attackers Execute Remote Code",
+            "link": "https://gbhackers.com/microsoft-sharepoint-flaws/"
         }
     ]
 }
