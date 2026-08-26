@@ -656,5 +656,17 @@
             "title": "CISA KEV Addition: CVE-2019-1068",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2019-1068"
         }
+    ],
+    "CVE-2025-66376": [
+        {
+            "title": "274 Zimbra Servers Compromised as 8,200 Remain Unpatched",
+            "link": "https://www.esecurityplanet.com/cybersecurity/news-zimbra-cve-2026-73570-servers-compromised/"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "274 Zimbra Servers Compromised as 8,200 Remain Unpatched",
+            "link": "https://www.esecurityplanet.com/cybersecurity/news-zimbra-cve-2026-73570-servers-compromised/"
+        }
     ]
 }
