@@ -97,6 +97,10 @@
         {
             "title": "Critical Gitea Vulnerability (CVE-2026-60004) Actively Exploited for Crypto Mining \u2013 Upgrade to 1.27.1 Now",
             "link": "https://www.webpronews.com/critical-gitea-vulnerability-cve-2026-60004-actively-exploited-for-crypto-mining-upgrade-to-1-27-1-now/"
+        },
+        {
+            "title": "Critical Gitea vulnerability now exploited in the wild (CVE-2026-60004)",
+            "link": "https://www.helpnetsecurity.com/2026/08/26/gitea-cve-2026-60004-exploited-in-the-wild/"
         }
     ],
     "CVE-2026-18798": [
@@ -185,60 +189,172 @@
         {
             "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
             "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
         }
     ],
     "CVE-2026-79290": [
         {
             "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
             "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
         }
     ],
     "CVE-2026-79150": [
         {
             "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
             "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
         }
     ],
     "CVE-2026-79052": [
         {
             "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
             "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
         }
     ],
     "CVE-2026-78935": [
         {
             "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
             "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
         }
     ],
     "CVE-2026-79282": [
         {
             "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
             "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
         }
     ],
     "CVE-2026-79121": [
         {
             "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
             "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
         }
     ],
     "CVE-2026-79012": [
         {
             "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
             "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
         }
     ],
     "CVE-2026-79200": [
         {
             "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
             "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
         }
     ],
     "CVE-2026-79054": [
         {
             "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
             "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        },
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79218": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-78908": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-78989": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79130": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-78938": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-78948": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79069": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79187": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-78952": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79078": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79019": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
+        }
+    ],
+    "CVE-2026-79236": [
+        {
+            "title": "Google Chrome 152 Patches 327 Security Flaws, Including 10 Critical Bugs",
+            "link": "https://cyberpress.org/google-chrome-152-patches-327-security-flaws/"
         }
     ]
 }
