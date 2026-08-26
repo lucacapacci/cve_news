@@ -93,6 +93,10 @@
         {
             "title": "U.S. CISA adds Gitea flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/197854/security/u-s-cisa-adds-gitea-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "Critical Gitea Vulnerability (CVE-2026-60004) Actively Exploited for Crypto Mining \u2013 Upgrade to 1.27.1 Now",
+            "link": "https://www.webpronews.com/critical-gitea-vulnerability-cve-2026-60004-actively-exploited-for-crypto-mining-upgrade-to-1-27-1-now/"
         }
     ],
     "CVE-2026-18798": [
@@ -105,18 +109,136 @@
         {
             "title": "NVIDIA NemoClaw Flaw Lets Attackers Hijack AI Agents With One Website Visit",
             "link": "https://cybersecuritynews.com/nvidia-nemoclaw-flaw/"
+        },
+        {
+            "title": "NVIDIA NemoClaw Vulnerability Lets Attackers Hijack AI Agents via DNS Rebinding",
+            "link": "https://gbhackers.com/nvidia-nemoclaw-vulnerability/"
+        },
+        {
+            "title": "NVIDIA NemoClaw Flaw Lets Attackers Hijack AI Agents Through DNS Rebinding",
+            "link": "https://cyberpress.org/nvidia-nemoclaw-flaw/"
         }
     ],
     "CVE-2026-63520": [
         {
             "title": "Microsoft SharePoint Flaws Let Unauthenticated Attackers Execute Remote Code",
             "link": "https://gbhackers.com/microsoft-sharepoint-flaws/"
+        },
+        {
+            "title": "Two Microsoft SharePoint Flaws Can Be Chained to Hack Servers Without a Password",
+            "link": "https://cybersecuritynews.com/sharepoint-flaws-chained-to-hack-servers/"
+        },
+        {
+            "title": "Microsoft SharePoint Flaws Chain to Unauthenticated Remote Code Execution",
+            "link": "https://cyberpress.org/microsoft-sharepoint-flaws-chain/"
         }
     ],
     "CVE-2026-55040": [
         {
             "title": "Microsoft SharePoint Flaws Let Unauthenticated Attackers Execute Remote Code",
             "link": "https://gbhackers.com/microsoft-sharepoint-flaws/"
+        },
+        {
+            "title": "Two Microsoft SharePoint Flaws Can Be Chained to Hack Servers Without a Password",
+            "link": "https://cybersecuritynews.com/sharepoint-flaws-chained-to-hack-servers/"
+        },
+        {
+            "title": "Microsoft SharePoint Flaws Chain to Unauthenticated Remote Code Execution",
+            "link": "https://cyberpress.org/microsoft-sharepoint-flaws-chain/"
+        }
+    ],
+    "CVE-2026-66152": [
+        {
+            "title": "SonicWall NetExtender Vulnerabilities Allow an Attacker to Write Arbitrary Files as Root",
+            "link": "https://cybersecuritynews.com/sonicwall-netextender-vulnerabilities/"
+        },
+        {
+            "title": "SonicWall NetExtender Flaw Lets Attackers Write Arbitrary Files as Root",
+            "link": "https://cyberpress.org/sonicwall-netextender-flaw/"
+        }
+    ],
+    "CVE-2026-66153": [
+        {
+            "title": "SonicWall NetExtender Vulnerabilities Allow an Attacker to Write Arbitrary Files as Root",
+            "link": "https://cybersecuritynews.com/sonicwall-netextender-vulnerabilities/"
+        },
+        {
+            "title": "SonicWall NetExtender Flaw Lets Attackers Write Arbitrary Files as Root",
+            "link": "https://cyberpress.org/sonicwall-netextender-flaw/"
+        }
+    ],
+    "CVE-2026-19632": [
+        {
+            "title": "WordPress Plugin Vulnerability Exposes 400,000 Sites to Account Takeover Attacks",
+            "link": "https://cybersecuritynews.com/translatepress-wordpress-plugin-vulnerability/"
+        },
+        {
+            "title": "Critical WordPress TranslatePress Flaw Lets Attackers Take Over Admin Accounts",
+            "link": "https://gbhackers.com/critical-wordpress-translatepress-flaw/"
+        },
+        {
+            "title": "Critical WordPress TranslatePress Bug Enables Complete Site Takeover",
+            "link": "https://cyberpress.org/critical-wordpress-translatepress-bug/"
+        }
+    ],
+    "CVE-2026-79224": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        }
+    ],
+    "CVE-2026-79290": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        }
+    ],
+    "CVE-2026-79150": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        }
+    ],
+    "CVE-2026-79052": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        }
+    ],
+    "CVE-2026-78935": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        }
+    ],
+    "CVE-2026-79282": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        }
+    ],
+    "CVE-2026-79121": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        }
+    ],
+    "CVE-2026-79012": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        }
+    ],
+    "CVE-2026-79200": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
+        }
+    ],
+    "CVE-2026-79054": [
+        {
+            "title": "Google Chrome 152 Released With 327 Security Fixes, Including 10 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/chrome-152-released-with-327-security-fixes/"
         }
     ]
 }
