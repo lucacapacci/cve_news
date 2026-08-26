@@ -365,12 +365,32 @@
         {
             "title": "Critical WatchGuard Agent Flaws Let Unauthenticated Attackers Execute Remote Code",
             "link": "https://gbhackers.com/critical-watchguard-agent-flaws/"
+        },
+        {
+            "title": "Critical WatchGuard Agent Flaws Let Remote Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/critical-watchguard-agent-flaws-2/"
         }
     ],
     "CVE-2026-57909": [
         {
             "title": "Critical WatchGuard Agent Flaws Let Unauthenticated Attackers Execute Remote Code",
             "link": "https://gbhackers.com/critical-watchguard-agent-flaws/"
+        },
+        {
+            "title": "Critical WatchGuard Agent Flaws Let Remote Attackers Execute Arbitrary Code",
+            "link": "https://cyberpress.org/critical-watchguard-agent-flaws-2/"
+        }
+    ],
+    "CVE-2026-19912": [
+        {
+            "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+            "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html"
+        }
+    ],
+    "CVE-2026-19913": [
+        {
+            "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+            "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html"
         }
     ]
 }
