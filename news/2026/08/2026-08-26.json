@@ -52,5 +52,11 @@
             "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
             "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
         }
+    ],
+    "CVE-2026-60004": [
+        {
+            "title": "CISA Warns of Exploited Gitea Vulnerability",
+            "link": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/"
+        }
     ]
 }
