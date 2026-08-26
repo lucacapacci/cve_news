@@ -392,5 +392,95 @@
             "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
             "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html"
         }
+    ],
+    "CVE-2023-34132": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2024-8963": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2023-42793": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2026-1340": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2023-34133": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2023-34124": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2026-24858": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2024-47575": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2026-1281": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2025-59718": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2024-3400": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2024-24919": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2024-8190": [
+        {
+            "title": "Edge infrastructure under siege: what two independent datasets reveal about who's exploiting your perimeter",
+            "link": "https://www.tenable.com/blog/edge-infrastructure-under-siege"
+        }
+    ],
+    "CVE-2025-6514": [
+        {
+            "title": "The Toolchain Is the Target: Securing Software Development in the Agentic Era",
+            "link": "https://www.esecurityplanet.com/threats/the-toolchain-is-the-target-securing-software-development-in-the-agentic-era/"
+        }
     ]
 }
