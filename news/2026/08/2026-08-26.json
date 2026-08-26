@@ -85,6 +85,10 @@
         {
             "title": "CISA Warns of Exploited Gitea Vulnerability",
             "link": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/"
+        },
+        {
+            "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+            "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html"
         }
     ],
     "CVE-2026-18798": [
