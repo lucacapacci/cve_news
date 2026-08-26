@@ -9,30 +9,50 @@
         {
             "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
             "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
         }
     ],
     "CVE-2026-14457": [
         {
             "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
             "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
         }
     ],
     "CVE-2026-63075": [
         {
             "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
             "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
         }
     ],
     "CVE-2026-63074": [
         {
             "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
             "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
         }
     ],
     "CVE-2026-63072": [
         {
             "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
             "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
         }
     ],
     "CVE-2026-75803": [
@@ -45,18 +65,32 @@
         {
             "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
             "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
         }
     ],
     "CVE-2026-63076": [
         {
             "title": "Multiple OpenSSL Flaws Let Remote Attackers Crash Servers and Corrupt Heap Memory",
             "link": "https://cybersecuritynews.com/openssl-patches-9-vulnerabilities/"
+        },
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
         }
     ],
     "CVE-2026-60004": [
         {
             "title": "CISA Warns of Exploited Gitea Vulnerability",
             "link": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/"
+        }
+    ],
+    "CVE-2026-18798": [
+        {
+            "title": "OpenSSL Patches Nine Vulnerabilities Enabling Remote Denial-of-Service Attacks",
+            "link": "https://cyberpress.org/openssl-patches-nine-vulnerabilities/"
         }
     ]
 }
