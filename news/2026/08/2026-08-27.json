@@ -1,0 +1,40 @@
+{
+    "CVE-2019-1068": [
+        {
+            "title": "CISA Adds Six Exploited Flaws to KEV, Including NetScaler, Linux, and SQL Server Bugs",
+            "link": "https://thehackernews.com/2026/08/cisa-adds-six-exploited-flaws-to-kev.html"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Microsoft SQL Server RCE Vulnerability",
+            "link": "https://gbhackers.com/microsoft-sql-server-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-8452": [
+        {
+            "title": "Recent Citrix NetScaler Vulnerability Exploited in the Wild",
+            "link": "https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/"
+        },
+        {
+            "title": "Previously patched Citrix NetScaler flaw exploited in the wild (CVE-2026-8452)",
+            "link": "https://www.helpnetsecurity.com/2026/08/27/netscaler-adc-gateway-cve-2026-8452/"
+        }
+    ],
+    "CVE-2026-76784": [
+        {
+            "title": "TP-Link Kasa Smart Home Flaw Lets Attackers Forge Control Messages and Take Control of Devices",
+            "link": "https://gbhackers.com/tp-link-kasa-smart-home-flaw/"
+        }
+    ],
+    "CVE-2026-65641": [
+        {
+            "title": "Critical Veeam ONE Flaw Lets Unauthenticated Attackers Coerce SMB Authentication From Service Accounts",
+            "link": "https://gbhackers.com/critical-veeam-one-flaw-2/"
+        }
+    ],
+    "CVE-2026-18252": [
+        {
+            "title": "GitLab Duo Claude AI Agent Flaw Lets Attackers Execute Arbitrary Commands in CI Pipelines",
+            "link": "https://gbhackers.com/gitlab-duo-claude-ai-agent-flaw/"
+        }
+    ]
+}
