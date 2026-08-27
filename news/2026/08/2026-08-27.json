@@ -36,5 +36,45 @@
             "title": "GitLab Duo Claude AI Agent Flaw Lets Attackers Execute Arbitrary Commands in CI Pipelines",
             "link": "https://gbhackers.com/gitlab-duo-claude-ai-agent-flaw/"
         }
+    ],
+    "CVE-2026-75604": [
+        {
+            "title": "Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE",
+            "link": "https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html"
+        },
+        {
+            "title": "Next.js RCE Flaws Expose Self-Hosted Servers to Unauthenticated Attacks",
+            "link": "https://www.webpronews.com/next-js-rce-flaws-expose-self-hosted-servers-to-unauthenticated-attacks/"
+        }
+    ],
+    "CVE-2026-3502": [
+        {
+            "title": "Head Mare Hackers Exploit TrueConf Servers to Spread Backdoors Through Malicious Updates",
+            "link": "https://www.cysecurity.news/2026/08/head-mare-hackers-exploit-trueconf.html"
+        }
+    ],
+    "CVE-2026-65105": [
+        {
+            "title": "NVIDIA Patches High-Severity NemoClaw Flaw After Model-Poisoning Demo",
+            "link": "https://www.esecurityplanet.com/vulnerabilities/news-nvidia-nemoclaw-cve-2026-65105/"
+        }
+    ],
+    "CVE-2023-49105": [
+        {
+            "title": "CISA KEV Addition: CVE-2023-49105",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-49105"
+        }
+    ],
+    "CVE-2026-53362": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-53362",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-53362"
+        }
+    ],
+    "CVE-2026-66384": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-66384",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-66384"
+        }
     ]
 }
