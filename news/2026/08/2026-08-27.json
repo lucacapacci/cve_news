@@ -17,6 +17,10 @@
         {
             "title": "Previously patched Citrix NetScaler flaw exploited in the wild (CVE-2026-8452)",
             "link": "https://www.helpnetsecurity.com/2026/08/27/netscaler-adc-gateway-cve-2026-8452/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Citrix NetScaler ADC and Gateway Vulnerability",
+            "link": "https://gbhackers.com/cisa-warns-citrix-netscaler-adc-and-gateway-vulnerability/"
         }
     ],
     "CVE-2026-76784": [
@@ -63,6 +67,10 @@
         {
             "title": "CISA KEV Addition: CVE-2023-49105",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-49105"
+        },
+        {
+            "title": "Hackers Exploit CVE-2023-49105 to Steal Nuclear Records From Philippine Research Agency",
+            "link": "https://gbhackers.com/cve-2023-49105-flaw-exploited/"
         }
     ],
     "CVE-2026-53362": [
