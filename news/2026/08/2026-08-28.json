@@ -7,6 +7,162 @@
         {
             "title": "Critical cPanel Vulnerability Allows Attackers to Take Full Server Control",
             "link": "https://cybersecuritynews.com/critical-cpanel-vulnerability/"
+        },
+        {
+            "title": "Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server",
+            "link": "https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html"
+        }
+    ],
+    "CVE-2026-76640": [
+        {
+            "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+            "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html"
+        },
+        {
+            "title": "Unitree G1 Humanoid Robot Flaws Enable Unauthenticated Root RCE Over Bluetooth",
+            "link": "https://cyberpress.org/unitree-g1-humanoid-robot-flaws/"
+        }
+    ],
+    "CVE-2026-76639": [
+        {
+            "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
+            "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html"
+        },
+        {
+            "title": "Unitree G1 Humanoid Robot Flaws Enable Unauthenticated Root RCE Over Bluetooth",
+            "link": "https://cyberpress.org/unitree-g1-humanoid-robot-flaws/"
+        }
+    ],
+    "CVE-2026-74233": [
+        {
+            "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
+            "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html"
+        }
+    ],
+    "CVE-2026-74232": [
+        {
+            "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
+            "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html"
+        }
+    ],
+    "CVE-2026-53362": [
+        {
+            "title": "OpenAI Agents Exploited Linux Kernel Flaw on Company\u2019s Own Systems",
+            "link": "https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/"
+        },
+        {
+            "title": "OpenAI Says Reward Hacking Fueled AI Agents\u2019 Hugging Face Cyberattack",
+            "link": "https://www.cysecurity.news/2026/08/openai-says-reward-hacking-fueled-ai.html"
+        }
+    ],
+    "CVE-2026-48710": [
+        {
+            "title": "Hackers Target AI Infrastructure With RCE, Prompt Injection and API Key Theft",
+            "link": "https://cybersecuritynews.com/hackers-target-ai-infrastructure/"
+        },
+        {
+            "title": "Hackers Are Targeting AI Servers to Steal API Keys and Install Crypto Miners",
+            "link": "https://cyberpress.org/hackers-raid-ai-servers/"
+        }
+    ],
+    "CVE-2026-59822": [
+        {
+            "title": "Hackers Target AI Infrastructure With RCE, Prompt Injection and API Key Theft",
+            "link": "https://cybersecuritynews.com/hackers-target-ai-infrastructure/"
+        },
+        {
+            "title": "Hackers Are Targeting AI Servers to Steal API Keys and Install Crypto Miners",
+            "link": "https://cyberpress.org/hackers-raid-ai-servers/"
+        }
+    ],
+    "CVE-2026-42271": [
+        {
+            "title": "Hackers Target AI Infrastructure With RCE, Prompt Injection and API Key Theft",
+            "link": "https://cybersecuritynews.com/hackers-target-ai-infrastructure/"
+        },
+        {
+            "title": "Hackers Are Targeting AI Servers to Steal API Keys and Install Crypto Miners",
+            "link": "https://cyberpress.org/hackers-raid-ai-servers/"
+        }
+    ],
+    "CVE-2026-76581": [
+        {
+            "title": "Critical WordPress Plugin Flaw Allows Unauthenticated Administrator Account Takeover",
+            "link": "https://gbhackers.com/critical-wordpress-plugin-flaw-2/"
+        },
+        {
+            "title": "Critical WPMU DEV Dashboard Flaw Can Lead to WordPress Remote Code Execution",
+            "link": "https://cyberpress.org/critical-wpmu-dev-dashboard-flaw/"
+        }
+    ],
+    "CVE-2026-18885": [
+        {
+            "title": "ServiceNow Patches Critical Flaws Enabling Unauthenticated RCE and SQL Injection",
+            "link": "https://gbhackers.com/servicenow-patches-critical-flaws/"
+        },
+        {
+            "title": "ServiceNow Patches Critical Flaws Enabling Unauthenticated RCE and SQL Injection",
+            "link": "https://cyberpress.org/servicenow-patches-critical-flaws/"
+        }
+    ],
+    "CVE-2026-74820": [
+        {
+            "title": "ServiceNow Patches Critical Flaws Enabling Unauthenticated RCE and SQL Injection",
+            "link": "https://gbhackers.com/servicenow-patches-critical-flaws/"
+        },
+        {
+            "title": "ServiceNow Patches Critical Flaws Enabling Unauthenticated RCE and SQL Injection",
+            "link": "https://cyberpress.org/servicenow-patches-critical-flaws/"
+        }
+    ],
+    "CVE-2026-18886": [
+        {
+            "title": "ServiceNow Patches Critical Flaws Enabling Unauthenticated RCE and SQL Injection",
+            "link": "https://gbhackers.com/servicenow-patches-critical-flaws/"
+        },
+        {
+            "title": "ServiceNow Patches Critical Flaws Enabling Unauthenticated RCE and SQL Injection",
+            "link": "https://cyberpress.org/servicenow-patches-critical-flaws/"
+        }
+    ],
+    "CVE-2026-6876": [
+        {
+            "title": "ServiceNow Patches Critical Flaws Enabling Unauthenticated RCE and SQL Injection",
+            "link": "https://gbhackers.com/servicenow-patches-critical-flaws/"
+        },
+        {
+            "title": "ServiceNow Patches Critical Flaws Enabling Unauthenticated RCE and SQL Injection",
+            "link": "https://cyberpress.org/servicenow-patches-critical-flaws/"
+        }
+    ],
+    "CVE-2026-18431": [
+        {
+            "title": "Critical Avada WordPress Vulnerability Allows Unauthenticated PHP Code Execution",
+            "link": "https://www.cysecurity.news/2026/08/critical-avada-wordpress-vulnerability.html"
+        }
+    ],
+    "CVE-2026-0163": [
+        {
+            "title": "Exploited RCE Flaws and Infrastructure Attacks Define this Cybersecurity Week in August 2026",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/exploited-rce-flaws-and-infrastructure-attacks-define-this-cybersecurity-week-in-august-2026/"
+        }
+    ],
+    "CVE-2026-69836": [
+        {
+            "title": "Exploited RCE Flaws and Infrastructure Attacks Define this Cybersecurity Week in August 2026",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/exploited-rce-flaws-and-infrastructure-attacks-define-this-cybersecurity-week-in-august-2026/"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "Exploited RCE Flaws and Infrastructure Attacks Define this Cybersecurity Week in August 2026",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/exploited-rce-flaws-and-infrastructure-attacks-define-this-cybersecurity-week-in-august-2026/"
+        }
+    ],
+    "CVE-2024-57727": [
+        {
+            "title": "RMM Phishing Campaign Spans 46 Countries as Attackers Abuse Trusted IT Tools",
+            "link": "https://www.esecurityplanet.com/phishing/news-rmm-phishing-remote-access/"
         }
     ]
 }

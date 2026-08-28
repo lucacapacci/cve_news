@@ -84,5 +84,17 @@
             "title": "CISA KEV Addition: CVE-2026-66384",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-66384"
         }
+    ],
+    "CVE-2026-82078": [
+        {
+            "title": "PaperCut NG/MF vulnerabilities exploited in zero-day attacks",
+            "link": "https://www.helpnetsecurity.com/2026/08/27/papercut-ng-mf-vulnerability-attack/"
+        }
+    ],
+    "CVE-2026-81578": [
+        {
+            "title": "PaperCut NG/MF vulnerabilities exploited in zero-day attacks",
+            "link": "https://www.helpnetsecurity.com/2026/08/27/papercut-ng-mf-vulnerability-attack/"
+        }
     ]
 }
