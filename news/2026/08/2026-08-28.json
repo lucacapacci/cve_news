@@ -164,5 +164,41 @@
             "title": "RMM Phishing Campaign Spans 46 Countries as Attackers Abuse Trusted IT Tools",
             "link": "https://www.esecurityplanet.com/phishing/news-rmm-phishing-remote-access/"
         }
+    ],
+    "CVE-2023-49105": [
+        {
+            "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+            "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html"
+        }
+    ],
+    "CVE-2026-21083": [
+        {
+            "title": "4 Samsung Smart Switch Flaws Put Sensitive Data at Risk: Check Your Version",
+            "link": "https://www.esecurityplanet.com/threats/news-samsung-smart-switch-security-flaws-sensitive-data/"
+        }
+    ],
+    "CVE-2026-21080": [
+        {
+            "title": "4 Samsung Smart Switch Flaws Put Sensitive Data at Risk: Check Your Version",
+            "link": "https://www.esecurityplanet.com/threats/news-samsung-smart-switch-security-flaws-sensitive-data/"
+        }
+    ],
+    "CVE-2026-21079": [
+        {
+            "title": "4 Samsung Smart Switch Flaws Put Sensitive Data at Risk: Check Your Version",
+            "link": "https://www.esecurityplanet.com/threats/news-samsung-smart-switch-security-flaws-sensitive-data/"
+        }
+    ],
+    "CVE-2026-21078": [
+        {
+            "title": "4 Samsung Smart Switch Flaws Put Sensitive Data at Risk: Check Your Version",
+            "link": "https://www.esecurityplanet.com/threats/news-samsung-smart-switch-security-flaws-sensitive-data/"
+        }
+    ],
+    "CVE-2023-27350": [
+        {
+            "title": "PaperCut Flaw Under Active Attack Enables Pre-Auth RCE",
+            "link": "https://www.esecurityplanet.com/threats/papercut-flaw-under-active-attack-enables-pre-auth-rce/"
+        }
     ]
 }
