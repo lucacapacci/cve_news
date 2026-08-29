@@ -1,0 +1,44 @@
+{
+    "CVE-2026-6876": [
+        {
+            "title": "Critical ServiceNow Flaws Let Attackers Execute Code and Access Data",
+            "link": "https://cybersecuritynews.com/servicenow-fixes-critical-flaws/"
+        }
+    ],
+    "CVE-2026-74820": [
+        {
+            "title": "Critical ServiceNow Flaws Let Attackers Execute Code and Access Data",
+            "link": "https://cybersecuritynews.com/servicenow-fixes-critical-flaws/"
+        }
+    ],
+    "CVE-2026-18886": [
+        {
+            "title": "Critical ServiceNow Flaws Let Attackers Execute Code and Access Data",
+            "link": "https://cybersecuritynews.com/servicenow-fixes-critical-flaws/"
+        }
+    ],
+    "CVE-2026-18885": [
+        {
+            "title": "Critical ServiceNow Flaws Let Attackers Execute Code and Access Data",
+            "link": "https://cybersecuritynews.com/servicenow-fixes-critical-flaws/"
+        }
+    ],
+    "CVE-2026-76639": [
+        {
+            "title": "Hackers Can Take Full Control of Unitree G1 Humanoid Robots Over Bluetooth",
+            "link": "https://cybersecuritynews.com/unitree-g1-robots-over-bluetooth/"
+        }
+    ],
+    "CVE-2026-76640": [
+        {
+            "title": "Hackers Can Take Full Control of Unitree G1 Humanoid Robots Over Bluetooth",
+            "link": "https://cybersecuritynews.com/unitree-g1-robots-over-bluetooth/"
+        }
+    ],
+    "CVE-2026-52813": [
+        {
+            "title": "Critical Gogs Flaw Enables Remote Code Execution Through Path Traversal",
+            "link": "https://gbhackers.com/critical-gogs-flaw-enables-remote-code-execution/"
+        }
+    ]
+}
