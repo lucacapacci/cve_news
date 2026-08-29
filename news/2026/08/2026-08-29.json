@@ -39,6 +39,22 @@
         {
             "title": "Critical Gogs Flaw Enables Remote Code Execution Through Path Traversal",
             "link": "https://gbhackers.com/critical-gogs-flaw-enables-remote-code-execution/"
+        },
+        {
+            "title": "Critical Gogs Path Traversal Flaw Enables Remote Code Execution via Git Hooks",
+            "link": "https://cyberpress.org/critical-gogs-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-76581": [
+        {
+            "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+            "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html"
+        }
+    ],
+    "CVE-2026-52810": [
+        {
+            "title": "Critical Gogs Path Traversal Flaw Enables Remote Code Execution via Git Hooks",
+            "link": "https://cyberpress.org/critical-gogs-path-traversal-flaw/"
         }
     ]
 }
