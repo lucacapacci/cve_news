@@ -56,5 +56,11 @@
             "title": "Critical Gogs Path Traversal Flaw Enables Remote Code Execution via Git Hooks",
             "link": "https://cyberpress.org/critical-gogs-path-traversal-flaw/"
         }
+    ],
+    "CVE-2020-1472": [
+        {
+            "title": "Berlin Confirms Extortion Attempt After Network Compromise as Manchester Airports Group Reports Customer Data Theft",
+            "link": "https://www.cysecurity.news/2026/08/berlin-confirms-extortion-attempt-after.html"
+        }
     ]
 }
