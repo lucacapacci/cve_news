@@ -4,5 +4,17 @@
             "title": "Week in review: Compromised Zimbra servers, previously patched Citrix NetScaler flaw exploited",
             "link": "https://www.helpnetsecurity.com/2026/08/30/week-in-review-compromised-zimbra-servers-previously-patched-citrix-netscaler-flaw-exploited/"
         }
+    ],
+    "CVE-2026-18556": [
+        {
+            "title": "Storm-1175 Deploys StormEncryptor Ransomware After N-able N-central Vulnerability Exploitation",
+            "link": "https://www.cysecurity.news/2026/08/storm-1175-deploys-stormencryptor.html"
+        }
+    ],
+    "CVE-2026-18577": [
+        {
+            "title": "Storm-1175 Deploys StormEncryptor Ransomware After N-able N-central Vulnerability Exploitation",
+            "link": "https://www.cysecurity.news/2026/08/storm-1175-deploys-stormencryptor.html"
+        }
     ]
 }
