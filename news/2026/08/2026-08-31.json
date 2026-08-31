@@ -1,0 +1,32 @@
+{
+    "CVE-2026-82078": [
+        {
+            "title": "More Details Emerge on Exploited PaperCut Vulnerabilities",
+            "link": "https://www.securityweek.com/more-details-emerge-on-exploited-papercut-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-81578": [
+        {
+            "title": "More Details Emerge on Exploited PaperCut Vulnerabilities",
+            "link": "https://www.securityweek.com/more-details-emerge-on-exploited-papercut-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8452": [
+        {
+            "title": "Citrix Builds Linux Recovery OS Into Windows PCs to Beat Ransomware and Outages",
+            "link": "https://www.webpronews.com/citrix-builds-linux-recovery-os-into-windows-pcs-to-beat-ransomware-and-outages/"
+        }
+    ],
+    "CVE-2026-59944": [
+        {
+            "title": "Composer Path Traversal Flaw Lets Malicious Packages Expose Sensitive Files",
+            "link": "https://gbhackers.com/composer-path-traversal-flaw/"
+        }
+    ],
+    "CVE-2026-73296": [
+        {
+            "title": "Critical Microsoft UFO MCP Flaw Lets Attackers Remotely Control Android Devices Without Authentication",
+            "link": "https://gbhackers.com/critical-microsoft-ufo-mcp-flaw/"
+        }
+    ]
+}
