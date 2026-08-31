@@ -11,6 +11,18 @@
         {
             "title": "CISA KEV Addition: CVE-2026-82078",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-82078"
+        },
+        {
+            "title": "Metasploit Exploit Targets Actively Exploited PaperCut NG/MF Zero-Day RCE Chain",
+            "link": "https://cyberpress.org/metasploit-exploit-targets-actively-exploited/"
+        },
+        {
+            "title": "PaperCut NG and MF Flaws Exploited in the Wild, Prompting Emergency Security Patch",
+            "link": "https://www.cysecurity.news/2026/08/papercut-ng-and-mf-flaws-exploited-in.html"
+        },
+        {
+            "title": "CISA Warns of Multiple PaperCut NG/MF Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/papercut-ng-mf-vulnerabilities-exploited/"
         }
     ],
     "CVE-2026-81578": [
@@ -25,6 +37,18 @@
         {
             "title": "CISA KEV Addition: CVE-2026-81578",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-81578"
+        },
+        {
+            "title": "Metasploit Exploit Targets Actively Exploited PaperCut NG/MF Zero-Day RCE Chain",
+            "link": "https://cyberpress.org/metasploit-exploit-targets-actively-exploited/"
+        },
+        {
+            "title": "PaperCut NG and MF Flaws Exploited in the Wild, Prompting Emergency Security Patch",
+            "link": "https://www.cysecurity.news/2026/08/papercut-ng-and-mf-flaws-exploited-in.html"
+        },
+        {
+            "title": "CISA Warns of Multiple PaperCut NG/MF Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/papercut-ng-mf-vulnerabilities-exploited/"
         }
     ],
     "CVE-2026-8452": [
@@ -37,12 +61,40 @@
         {
             "title": "Composer Path Traversal Flaw Lets Malicious Packages Expose Sensitive Files",
             "link": "https://gbhackers.com/composer-path-traversal-flaw/"
+        },
+        {
+            "title": "Composer Path Traversal Flaw Lets Malicious Packages Expose Sensitive Files",
+            "link": "https://cyberpress.org/composer-path-traversal-flaw/"
         }
     ],
     "CVE-2026-73296": [
         {
             "title": "Critical Microsoft UFO MCP Flaw Lets Attackers Remotely Control Android Devices Without Authentication",
             "link": "https://gbhackers.com/critical-microsoft-ufo-mcp-flaw/"
+        }
+    ],
+    "CVE-2026-46331": [
+        {
+            "title": "Linux Kernel\u2019s Hidden Tax: How AI Scrapers Devour One-Fifth of git.kernel.org Capacity",
+            "link": "https://www.webpronews.com/linux-kernels-hidden-tax-how-ai-scrapers-devour-one-fifth-of-git-kernel-org-capacity/"
+        }
+    ],
+    "CVE-2026-43503": [
+        {
+            "title": "Linux Kernel\u2019s Hidden Tax: How AI Scrapers Devour One-Fifth of git.kernel.org Capacity",
+            "link": "https://www.webpronews.com/linux-kernels-hidden-tax-how-ai-scrapers-devour-one-fifth-of-git-kernel-org-capacity/"
+        }
+    ],
+    "CVE-2026-31431": [
+        {
+            "title": "Linux Kernel\u2019s Hidden Tax: How AI Scrapers Devour One-Fifth of git.kernel.org Capacity",
+            "link": "https://www.webpronews.com/linux-kernels-hidden-tax-how-ai-scrapers-devour-one-fifth-of-git-kernel-org-capacity/"
+        }
+    ],
+    "CVE-2026-25253": [
+        {
+            "title": "OpenClaw 2.0 Released With Enhanced AI Agent Security and Credential Protection",
+            "link": "https://cyberpress.org/openclaw-2-0-released-with-enhanced-ai-agent-security/"
         }
     ]
 }
