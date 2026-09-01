@@ -23,6 +23,14 @@
         {
             "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
             "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html"
+        },
+        {
+            "title": "Hackers Actively Exploiting Critical Langflow RCE and Rails Vulnerability",
+            "link": "https://cybersecuritynews.com/langflow-rce-and-rails-vulnerability-exploited/"
+        },
+        {
+            "title": "Hackers Exploit Critical Langflow and Ruby on Rails Flaws in Active RCE Attacks",
+            "link": "https://cyberpress.org/hackers-exploit-critical-langflow-and-ruby-on-rails-flaws/"
         }
     ],
     "CVE-2026-0768": [
@@ -37,6 +45,22 @@
         {
             "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
             "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/"
+        },
+        {
+            "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+            "link": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise"
+        },
+        {
+            "title": "Hackers Actively Exploiting Critical Langflow RCE and Rails Vulnerability",
+            "link": "https://cybersecuritynews.com/langflow-rce-and-rails-vulnerability-exploited/"
+        },
+        {
+            "title": "Hackers Exploit Critical Langflow and Ruby on Rails Flaws in Active RCE Attacks",
+            "link": "https://gbhackers.com/hackers-exploit-langflow-rce-flaw/"
+        },
+        {
+            "title": "Hackers Exploit Critical Langflow and Ruby on Rails Flaws in Active RCE Attacks",
+            "link": "https://cyberpress.org/hackers-exploit-critical-langflow-and-ruby-on-rails-flaws/"
         }
     ],
     "CVE-2026-82329": [
@@ -55,6 +79,18 @@
         {
             "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
             "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html"
+        },
+        {
+            "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+            "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure"
+        },
+        {
+            "title": "Critical JFrog Artifactory Authentication Bypass Exploited in the Wild",
+            "link": "https://gbhackers.com/critical-jfrog-artifactory-authentication-bypass-exploited/"
+        },
+        {
+            "title": "JFrog Artifactory Flaw Opens Door to Supply Chain Takeovers as Attackers Mint Admin Tokens",
+            "link": "https://www.webpronews.com/jfrog-artifactory-flaw-opens-door-to-supply-chain-takeovers-as-attackers-mint-admin-tokens/"
         }
     ],
     "CVE-2026-62911": [
@@ -145,6 +181,16 @@
         {
             "title": "OpenAI\u2019s Hugging Face Attack Was Worse Than First Reported, New Reports Reveal",
             "link": "https://www.cysecurity.news/2026/09/openais-hugging-face-attack-was-worse.html"
+        },
+        {
+            "title": "JFrog Artifactory Flaw Opens Door to Supply Chain Takeovers as Attackers Mint Admin Tokens",
+            "link": "https://www.webpronews.com/jfrog-artifactory-flaw-opens-door-to-supply-chain-takeovers-as-attackers-mint-admin-tokens/"
+        }
+    ],
+    "CVE-2026-33017": [
+        {
+            "title": "Hackers Actively Exploiting Critical Langflow RCE and Rails Vulnerability",
+            "link": "https://cybersecuritynews.com/langflow-rce-and-rails-vulnerability-exploited/"
         }
     ]
 }
