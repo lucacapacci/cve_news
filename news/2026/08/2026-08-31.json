@@ -23,6 +23,10 @@
         {
             "title": "CISA Warns of Multiple PaperCut NG/MF Vulnerabilities Actively Exploited in Attacks",
             "link": "https://cybersecuritynews.com/papercut-ng-mf-vulnerabilities-exploited/"
+        },
+        {
+            "title": "Metasploit Adds Exploit for PaperCut MF/NG Zero-Day RCE Vulnerabilities",
+            "link": "https://gbhackers.com/metasploit-adds-exploit-for-papercut-mf-ng-zero-day/"
         }
     ],
     "CVE-2026-81578": [
@@ -49,6 +53,10 @@
         {
             "title": "CISA Warns of Multiple PaperCut NG/MF Vulnerabilities Actively Exploited in Attacks",
             "link": "https://cybersecuritynews.com/papercut-ng-mf-vulnerabilities-exploited/"
+        },
+        {
+            "title": "Metasploit Adds Exploit for PaperCut MF/NG Zero-Day RCE Vulnerabilities",
+            "link": "https://gbhackers.com/metasploit-adds-exploit-for-papercut-mf-ng-zero-day/"
         }
     ],
     "CVE-2026-8452": [
