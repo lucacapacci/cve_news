@@ -18,5 +18,83 @@
             "title": "CISA Flags Multiple PaperCut NG/MF Flaws Exploited in the Wild",
             "link": "https://gbhackers.com/cisa-flags-multiple-papercut-ng-mf-flaws/"
         }
+    ],
+    "CVE-2026-66066": [
+        {
+            "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+            "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html"
+        }
+    ],
+    "CVE-2026-0768": [
+        {
+            "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+            "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html"
+        }
+    ],
+    "CVE-2026-82329": [
+        {
+            "title": "Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild",
+            "link": "https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/"
+        },
+        {
+            "title": "Critical JFrog Artifactory Authentication Bypass Exploited in the Wild",
+            "link": "https://cyberpress.org/critical-jfrog-artifactory-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-62911": [
+        {
+            "title": "Public PoC Released for Microsoft Exchange Server Pre-auth RCE Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-microsoft-exchange-server-pre-auth-rce/"
+        }
+    ],
+    "CVE-2025-31277": [
+        {
+            "title": "Hackers Use Malicious Website Themes to Steal Crypto Wallet Seeds From iPhones",
+            "link": "https://cybersecuritynews.com/malicious-website-themes/"
+        },
+        {
+            "title": "Packagist Themes Exploit iPhone Visitors to Steal Messages, Passwords and Crypto Wallet Seeds",
+            "link": "https://cyberpress.org/packagist-themes-spyware-iphone-crypto/"
+        }
+    ],
+    "CVE-2025-43529": [
+        {
+            "title": "Hackers Use Malicious Website Themes to Steal Crypto Wallet Seeds From iPhones",
+            "link": "https://cybersecuritynews.com/malicious-website-themes/"
+        },
+        {
+            "title": "Packagist Themes Exploit iPhone Visitors to Steal Messages, Passwords and Crypto Wallet Seeds",
+            "link": "https://cyberpress.org/packagist-themes-spyware-iphone-crypto/"
+        }
+    ],
+    "CVE-2026-42897": [
+        {
+            "title": "Russian Spies Turn Outlook Web Access Into Persistent Backdoor With Half-Click XSS Attack",
+            "link": "https://www.webpronews.com/russian-spies-turn-outlook-web-access-into-persistent-backdoor-with-half-click-xss-attack/"
+        }
+    ],
+    "CVE-2026-70329": [
+        {
+            "title": "Russian Spies Turn Outlook Web Access Into Persistent Backdoor With Half-Click XSS Attack",
+            "link": "https://www.webpronews.com/russian-spies-turn-outlook-web-access-into-persistent-backdoor-with-half-click-xss-attack/"
+        }
+    ],
+    "CVE-2026-45458": [
+        {
+            "title": "Russian Spies Turn Outlook Web Access Into Persistent Backdoor With Half-Click XSS Attack",
+            "link": "https://www.webpronews.com/russian-spies-turn-outlook-web-access-into-persistent-backdoor-with-half-click-xss-attack/"
+        }
+    ],
+    "CVE-2026-47635": [
+        {
+            "title": "Russian Spies Turn Outlook Web Access Into Persistent Backdoor With Half-Click XSS Attack",
+            "link": "https://www.webpronews.com/russian-spies-turn-outlook-web-access-into-persistent-backdoor-with-half-click-xss-attack/"
+        }
+    ],
+    "CVE-2026-45456": [
+        {
+            "title": "Russian Spies Turn Outlook Web Access Into Persistent Backdoor With Half-Click XSS Attack",
+            "link": "https://www.webpronews.com/russian-spies-turn-outlook-web-access-into-persistent-backdoor-with-half-click-xss-attack/"
+        }
     ]
 }
