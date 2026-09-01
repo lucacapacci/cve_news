@@ -33,6 +33,10 @@
         {
             "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
             "link": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/"
+        },
+        {
+            "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/"
         }
     ],
     "CVE-2026-82329": [
@@ -47,6 +51,10 @@
         {
             "title": "JFrog Artifactory Auth Bypass Exploited in Attacks to Gain Admin Access",
             "link": "https://cybersecuritynews.com/jfrog-artifactory-auth-bypass-exploited/"
+        },
+        {
+            "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
+            "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html"
         }
     ],
     "CVE-2026-62911": [
