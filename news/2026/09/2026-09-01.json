@@ -1,0 +1,22 @@
+{
+    "CVE-2026-81578": [
+        {
+            "title": "PaperCut Exploitation Escalates to Active Intrusions",
+            "link": "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/"
+        },
+        {
+            "title": "CISA Flags Multiple PaperCut NG/MF Flaws Exploited in the Wild",
+            "link": "https://gbhackers.com/cisa-flags-multiple-papercut-ng-mf-flaws/"
+        }
+    ],
+    "CVE-2026-82078": [
+        {
+            "title": "PaperCut Exploitation Escalates to Active Intrusions",
+            "link": "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/"
+        },
+        {
+            "title": "CISA Flags Multiple PaperCut NG/MF Flaws Exploited in the Wild",
+            "link": "https://gbhackers.com/cisa-flags-multiple-papercut-ng-mf-flaws/"
+        }
+    ]
+}
