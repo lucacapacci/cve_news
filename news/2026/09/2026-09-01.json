@@ -29,6 +29,10 @@
         {
             "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
             "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html"
+        },
+        {
+            "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
+            "link": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/"
         }
     ],
     "CVE-2026-82329": [
@@ -39,12 +43,20 @@
         {
             "title": "Critical JFrog Artifactory Authentication Bypass Exploited in the Wild",
             "link": "https://cyberpress.org/critical-jfrog-artifactory-authentication-bypass/"
+        },
+        {
+            "title": "JFrog Artifactory Auth Bypass Exploited in Attacks to Gain Admin Access",
+            "link": "https://cybersecuritynews.com/jfrog-artifactory-auth-bypass-exploited/"
         }
     ],
     "CVE-2026-62911": [
         {
             "title": "Public PoC Released for Microsoft Exchange Server Pre-auth RCE Vulnerability",
             "link": "https://cybersecuritynews.com/poc-microsoft-exchange-server-pre-auth-rce/"
+        },
+        {
+            "title": "21,000+ Microsoft Exchange Servers Remain Exposed to Active CVE-2026-62911 Exploitation",
+            "link": "https://cybersecuritynews.com/exchange-servers-remain-exposed-2026-62911/"
         }
     ],
     "CVE-2025-31277": [
@@ -95,6 +107,36 @@
         {
             "title": "Russian Spies Turn Outlook Web Access Into Persistent Backdoor With Half-Click XSS Attack",
             "link": "https://www.webpronews.com/russian-spies-turn-outlook-web-access-into-persistent-backdoor-with-half-click-xss-attack/"
+        }
+    ],
+    "CVE-2026-6876": [
+        {
+            "title": "ServiceNow Patches Three Critical Code Injection Flaws Rated CVSS 10.0",
+            "link": "https://www.cysecurity.news/2026/09/servicenow-patches-three-critical-code.html"
+        }
+    ],
+    "CVE-2026-18885": [
+        {
+            "title": "ServiceNow Patches Three Critical Code Injection Flaws Rated CVSS 10.0",
+            "link": "https://www.cysecurity.news/2026/09/servicenow-patches-three-critical-code.html"
+        }
+    ],
+    "CVE-2026-74820": [
+        {
+            "title": "ServiceNow Patches Three Critical Code Injection Flaws Rated CVSS 10.0",
+            "link": "https://www.cysecurity.news/2026/09/servicenow-patches-three-critical-code.html"
+        }
+    ],
+    "CVE-2026-18886": [
+        {
+            "title": "ServiceNow Patches Three Critical Code Injection Flaws Rated CVSS 10.0",
+            "link": "https://www.cysecurity.news/2026/09/servicenow-patches-three-critical-code.html"
+        }
+    ],
+    "CVE-2026-66384": [
+        {
+            "title": "OpenAI\u2019s Hugging Face Attack Was Worse Than First Reported, New Reports Reveal",
+            "link": "https://www.cysecurity.news/2026/09/openais-hugging-face-attack-was-worse.html"
         }
     ]
 }
