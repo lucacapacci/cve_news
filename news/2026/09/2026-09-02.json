@@ -4,5 +4,385 @@
             "title": "22,000 Exchange servers open to hijack, 700 rogue AI agents swarmed Hugging Face, AI threatens global finance",
             "link": "https://cybersecuritytoday.libsyn.com/22000-exchange-servers-open-to-hijack-700-rogue-ai-agents-swarmed-hugging-face-ai-threatens-global-finance"
         }
+    ],
+    "CVE-2021-31886": [
+        {
+            "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+            "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html"
+        }
+    ],
+    "CVE-2026-9586": [
+        {
+            "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+            "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html"
+        }
+    ],
+    "CVE-2026-83548": [
+        {
+            "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
+            "link": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/"
+        },
+        {
+            "title": "Critical SonicWall Remote Code Execution Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/sonicwall-remote-code-execution-vulnerabilities/"
+        },
+        {
+            "title": "Hackers Exploit Critical SonicWall SMA 1000 SSRF and RCE Flaws in Active Attacks",
+            "link": "https://cyberpress.org/hackers-exploit-critical-sonicwall-sma-1000-ssrf-and-rce-flaw/"
+        }
+    ],
+    "CVE-2026-83549": [
+        {
+            "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
+            "link": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/"
+        },
+        {
+            "title": "Critical SonicWall Remote Code Execution Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/sonicwall-remote-code-execution-vulnerabilities/"
+        },
+        {
+            "title": "Hackers Exploit Critical SonicWall SMA 1000 SSRF and RCE Flaws in Active Attacks",
+            "link": "https://cyberpress.org/hackers-exploit-critical-sonicwall-sma-1000-ssrf-and-rce-flaw/"
+        }
+    ],
+    "CVE-2026-76658": [
+        {
+            "title": "Critical HPE Fabric Composer Flaws Let Unauthenticated Attackers Execute Code and Take Over Systems",
+            "link": "https://cybersecuritynews.com/hpe-fabric-composer-flaws/"
+        },
+        {
+            "title": "Critical HPE Fabric Composer Flaw Lets Unauthenticated Attackers Execute Commands as Root",
+            "link": "https://cyberpress.org/critical-hpe-fabric-composer-flaw/"
+        }
+    ],
+    "CVE-2026-76657": [
+        {
+            "title": "Critical HPE Fabric Composer Flaws Let Unauthenticated Attackers Execute Code and Take Over Systems",
+            "link": "https://cybersecuritynews.com/hpe-fabric-composer-flaws/"
+        },
+        {
+            "title": "Critical HPE Fabric Composer Flaw Lets Unauthenticated Attackers Execute Commands as Root",
+            "link": "https://cyberpress.org/critical-hpe-fabric-composer-flaw/"
+        }
+    ],
+    "CVE-2026-19766": [
+        {
+            "title": "Critical HPE Fabric Composer Flaws Let Unauthenticated Attackers Execute Code and Take Over Systems",
+            "link": "https://cybersecuritynews.com/hpe-fabric-composer-flaws/"
+        },
+        {
+            "title": "Critical HPE Fabric Composer Flaw Lets Unauthenticated Attackers Execute Commands as Root",
+            "link": "https://cyberpress.org/critical-hpe-fabric-composer-flaw/"
+        }
+    ],
+    "CVE-2026-84326": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84357": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84333": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84355": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84354": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84329": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84325": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84335": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84347": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84356": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84331": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84353": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84330": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84334": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84327": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84324": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84349": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84351": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84323": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84352": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84328": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84359": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84332": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84358": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84348": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-84350": [
+        {
+            "title": "Google Fixes 26 Chrome Vulnerabilities, Including 2 Critical Use-After-Free Flaws",
+            "link": "https://cybersecuritynews.com/google-fixes-26-chrome-vulnerabilities/"
+        },
+        {
+            "title": "Google Chrome Update Fixes 26 Security Flaws Including Two Critical Use-After-Free Bugs",
+            "link": "https://cyberpress.org/google-chrome-update-fixes-26-security-flaws-2/"
+        }
+    ],
+    "CVE-2026-80047": [
+        {
+            "title": "Hugging Face Flaw Lets Malicious AI Models Plant Python Code on User Systems",
+            "link": "https://cybersecuritynews.com/hugging-face-flaw/"
+        },
+        {
+            "title": "Hugging Face Transformers Flaw Writes Attacker-Controlled Python Code Before User Consent",
+            "link": "https://cyberpress.org/hugging-face-transformers-flaw/"
+        },
+        {
+            "title": "Hugging Face Transformers Flaw Writes Malicious Python Code to Disk Before User Consent",
+            "link": "https://gbhackers.com/hugging-face-transformers-flaw/"
+        }
+    ],
+    "CVE-2026-73701": [
+        {
+            "title": "Critical HPE Fabric Composer Flaw Lets Unauthenticated Attackers Execute Commands as Root",
+            "link": "https://cyberpress.org/critical-hpe-fabric-composer-flaw/"
+        }
+    ],
+    "CVE-2026-73713": [
+        {
+            "title": "Critical HPE Fabric Composer Flaw Lets Unauthenticated Attackers Execute Commands as Root",
+            "link": "https://cyberpress.org/critical-hpe-fabric-composer-flaw/"
+        }
+    ],
+    "CVE-2026-73704": [
+        {
+            "title": "Critical HPE Fabric Composer Flaw Lets Unauthenticated Attackers Execute Commands as Root",
+            "link": "https://cyberpress.org/critical-hpe-fabric-composer-flaw/"
+        }
+    ],
+    "CVE-2026-73717": [
+        {
+            "title": "Critical HPE Fabric Composer Flaw Lets Unauthenticated Attackers Execute Commands as Root",
+            "link": "https://cyberpress.org/critical-hpe-fabric-composer-flaw/"
+        }
+    ],
+    "CVE-2026-35029": [
+        {
+            "title": "Hackers Exploit LiteLLM Admin API Flaw to Turn Read-Only Access Into Full Server Takeover",
+            "link": "https://cyberpress.org/hackers-exploit-litellm-admin-api-flaw/"
+        }
+    ],
+    "CVE-2026-0768": [
+        {
+            "title": "Hackers Target Langflow in CVE-2026-0768 Attacks",
+            "link": "https://securityaffairs.com/198270/hacking/hackers-target-langflow-in-cve-2026-0768-attacks.html"
+        }
     ]
 }
