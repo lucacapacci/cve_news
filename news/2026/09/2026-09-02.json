@@ -3,18 +3,30 @@
         {
             "title": "22,000 Exchange servers open to hijack, 700 rogue AI agents swarmed Hugging Face, AI threatens global finance",
             "link": "https://cybersecuritytoday.libsyn.com/22000-exchange-servers-open-to-hijack-700-rogue-ai-agents-swarmed-hugging-face-ai-threatens-global-finance"
+        },
+        {
+            "title": "Nearly 22,000 Microsoft Exchange servers remain exposed to critical security flaw (CVE-2026-62911)",
+            "link": "https://www.helpnetsecurity.com/2026/09/02/microsoft-exchange-cve-2026-62911-critical-authentication-bypass-flaw/"
         }
     ],
     "CVE-2021-31886": [
         {
             "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
             "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html"
+        },
+        {
+            "title": "Claude AI Develops Working RCE Exploit Against WAGO PLC With Researcher Assistance",
+            "link": "https://gbhackers.com/claude-ai-develops-working-rce-exploit/"
         }
     ],
     "CVE-2026-9586": [
         {
             "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
             "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html"
+        },
+        {
+            "title": "Exploitation of Sangoma Switchvox flaw is underway (CVE-2026-9586)",
+            "link": "https://www.helpnetsecurity.com/2026/09/02/exploitation-of-sangoma-switchvox-flaw-underway-cve-2026-9586/"
         }
     ],
     "CVE-2026-83548": [
@@ -29,6 +41,14 @@
         {
             "title": "Hackers Exploit Critical SonicWall SMA 1000 SSRF and RCE Flaws in Active Attacks",
             "link": "https://cyberpress.org/hackers-exploit-critical-sonicwall-sma-1000-ssrf-and-rce-flaw/"
+        },
+        {
+            "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+            "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html"
+        },
+        {
+            "title": "SonicWall SMA 1000 appliances under attack via zero-day flaws",
+            "link": "https://www.helpnetsecurity.com/2026/09/02/sonicwall-sma-1000-cve-2026-83548-cve-2026-83549-zero-day-attacks/"
         }
     ],
     "CVE-2026-83549": [
@@ -43,6 +63,10 @@
         {
             "title": "Hackers Exploit Critical SonicWall SMA 1000 SSRF and RCE Flaws in Active Attacks",
             "link": "https://cyberpress.org/hackers-exploit-critical-sonicwall-sma-1000-ssrf-and-rce-flaw/"
+        },
+        {
+            "title": "SonicWall SMA 1000 appliances under attack via zero-day flaws",
+            "link": "https://www.helpnetsecurity.com/2026/09/02/sonicwall-sma-1000-cve-2026-83548-cve-2026-83549-zero-day-attacks/"
         }
     ],
     "CVE-2026-76658": [
