@@ -27,6 +27,10 @@
         {
             "title": "Exploitation of Sangoma Switchvox flaw is underway (CVE-2026-9586)",
             "link": "https://www.helpnetsecurity.com/2026/09/02/exploitation-of-sangoma-switchvox-flaw-underway-cve-2026-9586/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-9586",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-9586"
         }
     ],
     "CVE-2026-83548": [
@@ -49,6 +53,14 @@
         {
             "title": "SonicWall SMA 1000 appliances under attack via zero-day flaws",
             "link": "https://www.helpnetsecurity.com/2026/09/02/sonicwall-sma-1000-cve-2026-83548-cve-2026-83549-zero-day-attacks/"
+        },
+        {
+            "title": "Critical SonicWall SMA 1000 Vulnerabilities Actively Exploited in the Wild",
+            "link": "https://gbhackers.com/critical-sonicwall-sma-1000-vulnerabilities/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-83548",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-83548"
         }
     ],
     "CVE-2026-83549": [
@@ -67,6 +79,14 @@
         {
             "title": "SonicWall SMA 1000 appliances under attack via zero-day flaws",
             "link": "https://www.helpnetsecurity.com/2026/09/02/sonicwall-sma-1000-cve-2026-83548-cve-2026-83549-zero-day-attacks/"
+        },
+        {
+            "title": "Critical SonicWall SMA 1000 Vulnerabilities Actively Exploited in the Wild",
+            "link": "https://gbhackers.com/critical-sonicwall-sma-1000-vulnerabilities/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-83549",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-83549"
         }
     ],
     "CVE-2026-76658": [
@@ -407,6 +427,74 @@
         {
             "title": "Hackers Target Langflow in CVE-2026-0768 Attacks",
             "link": "https://securityaffairs.com/198270/hacking/hackers-target-langflow-in-cve-2026-0768-attacks.html"
+        },
+        {
+            "title": "Attackers Turn Langflow and Rails Flaws Into Entry Points for Credential Probing",
+            "link": "https://www.cysecurity.news/2026/09/attackers-turn-langflow-and-rails-flaws.html"
+        }
+    ],
+    "CVE-2026-82329": [
+        {
+            "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-82329",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-82329"
+        }
+    ],
+    "CVE-2026-0769": [
+        {
+            "title": "Attackers Turn Langflow and Rails Flaws Into Entry Points for Credential Probing",
+            "link": "https://www.cysecurity.news/2026/09/attackers-turn-langflow-and-rails-flaws.html"
+        }
+    ],
+    "CVE-2026-66066": [
+        {
+            "title": "Attackers Turn Langflow and Rails Flaws Into Entry Points for Credential Probing",
+            "link": "https://www.cysecurity.news/2026/09/attackers-turn-langflow-and-rails-flaws.html"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "Attackers Turn Langflow and Rails Flaws Into Entry Points for Credential Probing",
+            "link": "https://www.cysecurity.news/2026/09/attackers-turn-langflow-and-rails-flaws.html"
+        }
+    ],
+    "CVE-2026-5027": [
+        {
+            "title": "Attackers Turn Langflow and Rails Flaws Into Entry Points for Credential Probing",
+            "link": "https://www.cysecurity.news/2026/09/attackers-turn-langflow-and-rails-flaws.html"
+        }
+    ],
+    "CVE-2026-55255": [
+        {
+            "title": "Attackers Turn Langflow and Rails Flaws Into Entry Points for Credential Probing",
+            "link": "https://www.cysecurity.news/2026/09/attackers-turn-langflow-and-rails-flaws.html"
+        }
+    ],
+    "CVE-2026-33017": [
+        {
+            "title": "Attackers Turn Langflow and Rails Flaws Into Entry Points for Credential Probing",
+            "link": "https://www.cysecurity.news/2026/09/attackers-turn-langflow-and-rails-flaws.html"
+        }
+    ],
+    "CVE-2026-59822": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-59822",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-59822"
+        }
+    ],
+    "CVE-2026-48710": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-48710",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48710"
+        }
+    ],
+    "CVE-2026-49869": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-49869",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-49869"
         }
     ]
 }
