@@ -29,6 +29,10 @@
         {
             "title": "WordPress Plugin Flaw Lets Attackers Turn SQL Injection Into Complete Site Takeover",
             "link": "https://gbhackers.com/wordpress-plugin-flaw-5/"
+        },
+        {
+            "title": "WordPress Plugin Flaw Lets Attackers Turn SQL Injection Into Complete Site Takeover",
+            "link": "https://cyberpress.org/wordpress-plugin-flaw-2/"
         }
     ],
     "CVE-2026-82329": [
@@ -41,18 +45,30 @@
         {
             "title": "3 High-Severity HP Easy Start Flaws Let Attackers Escalate Privileges on macOS",
             "link": "https://cybersecuritynews.com/hp-easy-start-flaws-on-macos/"
+        },
+        {
+            "title": "Three HP Easy Start Vulnerabilities Expose macOS Systems to Root-Level Attacks",
+            "link": "https://cyberpress.org/three-hp-easy-start-vulnerabilities-expose/"
         }
     ],
     "CVE-2026-12555": [
         {
             "title": "3 High-Severity HP Easy Start Flaws Let Attackers Escalate Privileges on macOS",
             "link": "https://cybersecuritynews.com/hp-easy-start-flaws-on-macos/"
+        },
+        {
+            "title": "Three HP Easy Start Vulnerabilities Expose macOS Systems to Root-Level Attacks",
+            "link": "https://cyberpress.org/three-hp-easy-start-vulnerabilities-expose/"
         }
     ],
     "CVE-2026-12556": [
         {
             "title": "3 High-Severity HP Easy Start Flaws Let Attackers Escalate Privileges on macOS",
             "link": "https://cybersecuritynews.com/hp-easy-start-flaws-on-macos/"
+        },
+        {
+            "title": "Three HP Easy Start Vulnerabilities Expose macOS Systems to Root-Level Attacks",
+            "link": "https://cyberpress.org/three-hp-easy-start-vulnerabilities-expose/"
         }
     ],
     "CVE-2026-20212": [
@@ -97,6 +113,10 @@
         {
             "title": "Sangoma Switchvox Flaw Under Attack: 4,000 VoIP Systems Exposed",
             "link": "https://www.esecurityplanet.com/threats/news-sangoma-switchvox-cve-2026-9586-rce/"
+        },
+        {
+            "title": "Hackers Exploit Critical Sangoma Switchvox SQL Injection Flaw for Unauthenticated RCE",
+            "link": "https://cyberpress.org/critical-sangoma-switchvox-sql-injection-flaw/"
         }
     ],
     "CVE-2026-19478": [
