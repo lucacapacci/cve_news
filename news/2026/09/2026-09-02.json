@@ -17,6 +17,10 @@
         {
             "title": "Claude AI Develops Working RCE Exploit Against WAGO PLC With Researcher Assistance",
             "link": "https://gbhackers.com/claude-ai-develops-working-rce-exploit/"
+        },
+        {
+            "title": "Claude AI Creates Pre-Auth RCE Exploit for WAGO PLC, Executing ARM Shellcode Without Credentials",
+            "link": "https://cyberpress.org/claude-ai-creates-pre-auth-rce-exploit-for-wago-plc/"
         }
     ],
     "CVE-2026-9586": [
