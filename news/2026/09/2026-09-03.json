@@ -10,5 +10,23 @@
             "title": "GitSpawn Flaws Let Malicious Repositories Execute Code in Claude Code, Codex, Cursor and Grok",
             "link": "https://cyberpress.org/gitspawn-flaws-let-malicious-repositories-execute-code/"
         }
+    ],
+    "CVE-2026-83548": [
+        {
+            "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
+            "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html"
+        }
+    ],
+    "CVE-2026-19949": [
+        {
+            "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
+            "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/"
+        }
+    ],
+    "CVE-2026-82329": [
+        {
+            "title": "Attackers Exploit CVE-2026-82329 to Forge JFrog Artifactory Admin Tokens",
+            "link": "https://www.cysecurity.news/2026/09/attackers-exploit-cve-2026-82329-to.html"
+        }
     ]
 }
