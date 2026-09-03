@@ -28,5 +28,29 @@
             "title": "Attackers Exploit CVE-2026-82329 to Forge JFrog Artifactory Admin Tokens",
             "link": "https://www.cysecurity.news/2026/09/attackers-exploit-cve-2026-82329-to.html"
         }
+    ],
+    "CVE-2026-12554": [
+        {
+            "title": "3 High-Severity HP Easy Start Flaws Let Attackers Escalate Privileges on macOS",
+            "link": "https://cybersecuritynews.com/hp-easy-start-flaws-on-macos/"
+        }
+    ],
+    "CVE-2026-12555": [
+        {
+            "title": "3 High-Severity HP Easy Start Flaws Let Attackers Escalate Privileges on macOS",
+            "link": "https://cybersecuritynews.com/hp-easy-start-flaws-on-macos/"
+        }
+    ],
+    "CVE-2026-12556": [
+        {
+            "title": "3 High-Severity HP Easy Start Flaws Let Attackers Escalate Privileges on macOS",
+            "link": "https://cybersecuritynews.com/hp-easy-start-flaws-on-macos/"
+        }
+    ],
+    "CVE-2026-20212": [
+        {
+            "title": "Critical Cisco Nexus 9000 Flaw Allows Remote Root Code Execution",
+            "link": "https://www.esecurityplanet.com/news/news-cisco-nexus-9000-vulnerability/"
+        }
     ]
 }
