@@ -15,12 +15,20 @@
         {
             "title": "CISA Adds Seven Exploited Flaws as Attackers Deploy Reverse Shells and Crypto Miners",
             "link": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html"
+        },
+        {
+            "title": "SonicWall SMA1000 Zero-Days Under Active Attack: Patch Now",
+            "link": "https://www.esecurityplanet.com/news/news-sonicwall-sma1000-zero-days-active-attack/"
         }
     ],
     "CVE-2026-19949": [
         {
             "title": "Over 3 Million WordPress Sites Affected by Migration Plugin Vulnerability",
             "link": "https://www.securityweek.com/over-3-million-wordpress-sites-affected-by-migration-plugin-vulnerability/"
+        },
+        {
+            "title": "WordPress Plugin Flaw Lets Attackers Turn SQL Injection Into Complete Site Takeover",
+            "link": "https://gbhackers.com/wordpress-plugin-flaw-5/"
         }
     ],
     "CVE-2026-82329": [
@@ -51,6 +59,28 @@
         {
             "title": "Critical Cisco Nexus 9000 Flaw Allows Remote Root Code Execution",
             "link": "https://www.esecurityplanet.com/news/news-cisco-nexus-9000-vulnerability/"
+        },
+        {
+            "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+            "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html"
+        }
+    ],
+    "CVE-2026-15410": [
+        {
+            "title": "SonicWall SMA1000 Zero-Days Under Active Attack: Patch Now",
+            "link": "https://www.esecurityplanet.com/news/news-sonicwall-sma1000-zero-days-active-attack/"
+        }
+    ],
+    "CVE-2026-15409": [
+        {
+            "title": "SonicWall SMA1000 Zero-Days Under Active Attack: Patch Now",
+            "link": "https://www.esecurityplanet.com/news/news-sonicwall-sma1000-zero-days-active-attack/"
+        }
+    ],
+    "CVE-2026-83549": [
+        {
+            "title": "SonicWall SMA1000 Zero-Days Under Active Attack: Patch Now",
+            "link": "https://www.esecurityplanet.com/news/news-sonicwall-sma1000-zero-days-active-attack/"
         }
     ]
 }
