@@ -63,6 +63,10 @@
         {
             "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
             "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html"
+        },
+        {
+            "title": "Cisco Fixed Critical RCE in Nexus 9000 Series Switches",
+            "link": "https://securityaffairs.com/198366/security/cisco-fixed-critical-rce-in-nexus-9000-series-switches.html"
         }
     ],
     "CVE-2026-15410": [
@@ -81,6 +85,36 @@
         {
             "title": "SonicWall SMA1000 Zero-Days Under Active Attack: Patch Now",
             "link": "https://www.esecurityplanet.com/news/news-sonicwall-sma1000-zero-days-active-attack/"
+        }
+    ],
+    "CVE-2026-32475": [
+        {
+            "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+            "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/"
+        }
+    ],
+    "CVE-2026-9586": [
+        {
+            "title": "Sangoma Switchvox Flaw Under Attack: 4,000 VoIP Systems Exposed",
+            "link": "https://www.esecurityplanet.com/threats/news-sangoma-switchvox-cve-2026-9586-rce/"
+        }
+    ],
+    "CVE-2026-19478": [
+        {
+            "title": "Sangoma Switchvox Flaw Under Attack: 4,000 VoIP Systems Exposed",
+            "link": "https://www.esecurityplanet.com/threats/news-sangoma-switchvox-cve-2026-9586-rce/"
+        }
+    ],
+    "CVE-2026-66066": [
+        {
+            "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+            "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html"
+        }
+    ],
+    "CVE-2026-0768": [
+        {
+            "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+            "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html"
         }
     ]
 }
