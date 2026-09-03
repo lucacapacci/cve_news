@@ -519,12 +519,22 @@
         {
             "title": "Malicious Git Configurations Turn AI Coding Agents Into Silent Execution Engines",
             "link": "https://www.webpronews.com/malicious-git-configurations-turn-ai-coding-agents-into-silent-execution-engines/"
+        },
+        {
+            "title": "GitSpawn Flaws Let Malicious Repositories Execute Code in Claude Code, Codex, Cursor, and Grok",
+            "link": "https://cybersecuritynews.com/gitspawn-flaws-execute-code/"
         }
     ],
     "CVE-2026-34197": [
         {
             "title": "Gambling Goblin\u2019s Apache Hijack: How Chinese Crime Group Turns Government Sites Into Betting Redirect Machines",
             "link": "https://www.webpronews.com/gambling-goblins-apache-hijack-how-chinese-crime-group-turns-government-sites-into-betting-redirect-machines/"
+        }
+    ],
+    "CVE-2026-71963": [
+        {
+            "title": "GitSpawn Flaws Let Malicious Repositories Execute Code in Claude Code, Codex, Cursor, and Grok",
+            "link": "https://cybersecuritynews.com/gitspawn-flaws-execute-code/"
         }
     ]
 }

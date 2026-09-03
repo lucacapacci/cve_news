@@ -1,0 +1,14 @@
+{
+    "CVE-2026-72718": [
+        {
+            "title": "GitSpawn Flaws Let Malicious Repositories Execute Code in Claude Code, Codex, Cursor and Grok",
+            "link": "https://cyberpress.org/gitspawn-flaws-let-malicious-repositories-execute-code/"
+        }
+    ],
+    "CVE-2026-71963": [
+        {
+            "title": "GitSpawn Flaws Let Malicious Repositories Execute Code in Claude Code, Codex, Cursor and Grok",
+            "link": "https://cyberpress.org/gitspawn-flaws-let-malicious-repositories-execute-code/"
+        }
+    ]
+}
