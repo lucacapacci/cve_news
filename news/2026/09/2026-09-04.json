@@ -15,6 +15,10 @@
         {
             "title": "Google patches actively exploited Chrome zero-day (CVE-2026-85046)",
             "link": "https://www.helpnetsecurity.com/2026/09/04/google-chrome-zero-day-cve-2026-85046/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-85046",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-85046"
         }
     ],
     "CVE-2026-14894": [
@@ -25,6 +29,10 @@
         {
             "title": "Hackers Exploit Critical Super Forms WordPress Flaw to Upload Webshells and Execute Code",
             "link": "https://cyberpress.org/hackers-exploit-critical-super-forms-wordpress-flaw/"
+        },
+        {
+            "title": "Critical Super Forms WordPress Flaw Actively Exploited to Achieve Remote Code Execution",
+            "link": "https://gbhackers.com/critical-super-forms-wordpress-flaw-actively-exploited/"
         }
     ],
     "CVE-2026-6471": [
@@ -93,6 +101,10 @@
         {
             "title": "5 Million WordPress Sites Exposed to SQL Injection Vulnerability",
             "link": "https://www.cysecurity.news/2026/09/5-million-wordpress-sites-exposed-to.html"
+        },
+        {
+            "title": "CVE-2026-19949 Leaves Millions of WordPress Sites Running Vulnerable Plugin Versions",
+            "link": "https://www.esecurityplanet.com/threats/news-all-in-one-wp-migration-cve-2026-19949/"
         }
     ],
     "CVE-2026-49869": [
@@ -135,6 +147,18 @@
         {
             "title": "AI Attack Surfaces and Supply Chain Threats Define the Week",
             "link": "https://www.esecurityplanet.com/weekly-roundup/ai-attack-surfaces-and-supply-chain-threats-define-the-week/"
+        }
+    ],
+    "CVE-2026-62911": [
+        {
+            "title": "22,000 Exchange servers open to hijack, 700 rogue AI agents swarmed Hugging Face, AI threatens global finance",
+            "link": "https://cybersecuritytoday.libsyn.com/22000-exchange-servers-open-to-hijack-700-rogue-ai-agents-swarmed-hugging-face-ai-threatens-global-finance"
+        }
+    ],
+    "CVE-2026-66066": [
+        {
+            "title": "Critical Ruby on Rails Vulnerability Under Active Attack | CVE-2026-66066",
+            "link": "https://hackersonlineclub.com/critical-ruby-on-rails-vulnerability-cve-2026-66066/"
         }
     ]
 }
