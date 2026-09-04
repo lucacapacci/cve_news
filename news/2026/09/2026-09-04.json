@@ -21,12 +21,20 @@
         {
             "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
             "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html"
+        },
+        {
+            "title": "Hackers Exploit Critical Super Forms WordPress Flaw to Upload Webshells and Execute Code",
+            "link": "https://cyberpress.org/hackers-exploit-critical-super-forms-wordpress-flaw/"
         }
     ],
     "CVE-2026-6471": [
         {
             "title": "12-Year-Old PostgreSQL Vulnerability Enables Database, Server Takeover",
             "link": "https://www.securityweek.com/12-year-old-postgresql-vulnerability-enables-database-server-takeover/"
+        },
+        {
+            "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+            "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html"
         }
     ],
     "CVE-2026-18167": [
@@ -39,6 +47,94 @@
         {
             "title": "Multiple TP-Link Archer Vulnerabilities Allow Attackers to Execute Remote Code",
             "link": "https://cybersecuritynews.com/multiple-tp-link-archer-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-73749": [
+        {
+            "title": "HPE Patches Critical RCE Vulnerabilities in AOS-CX",
+            "link": "https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx/"
+        }
+    ],
+    "CVE-2026-9586": [
+        {
+            "title": "Sangoma Switchvox Vulnerabilities Exploited in the Wild",
+            "link": "https://www.securityweek.com/sangoma-switchvox-vulnerabilities-exploited-in-the-wild/"
+        },
+        {
+            "title": "CISA Adds 7 Exploited Flaws as Attackers Target AI Infrastructure",
+            "link": "https://www.esecurityplanet.com/news/news-cisa-exploited-ai-flaws/"
+        }
+    ],
+    "CVE-2026-19490": [
+        {
+            "title": "Critical Citrix NetScaler auth bypass now leveraged in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-target-critical-citrix-netscaler-auth-bypass-in-attacks/"
+        }
+    ],
+    "CVE-2026-19516": [
+        {
+            "title": "Grafana MCP Flaw Exposes Session Spoofing and SSRF Risk",
+            "link": "https://www.cysecurity.news/2026/09/grafana-mcp-flaw-exposes-session.html"
+        }
+    ],
+    "CVE-2026-71963": [
+        {
+            "title": "1 Folder Was All It Took: Security Researchers Find AI Coding Agents Can Be Hijacked Before a Single Prompt Is Typed",
+            "link": "https://www.cysecurity.news/2026/09/1-folder-was-all-it-took-security.html"
+        }
+    ],
+    "CVE-2026-72718": [
+        {
+            "title": "1 Folder Was All It Took: Security Researchers Find AI Coding Agents Can Be Hijacked Before a Single Prompt Is Typed",
+            "link": "https://www.cysecurity.news/2026/09/1-folder-was-all-it-took-security.html"
+        }
+    ],
+    "CVE-2026-19949": [
+        {
+            "title": "5 Million WordPress Sites Exposed to SQL Injection Vulnerability",
+            "link": "https://www.cysecurity.news/2026/09/5-million-wordpress-sites-exposed-to.html"
+        }
+    ],
+    "CVE-2026-49869": [
+        {
+            "title": "CISA Adds 7 Exploited Flaws as Attackers Target AI Infrastructure",
+            "link": "https://www.esecurityplanet.com/news/news-cisa-exploited-ai-flaws/"
+        }
+    ],
+    "CVE-2026-83549": [
+        {
+            "title": "CISA Adds 7 Exploited Flaws as Attackers Target AI Infrastructure",
+            "link": "https://www.esecurityplanet.com/news/news-cisa-exploited-ai-flaws/"
+        }
+    ],
+    "CVE-2026-82329": [
+        {
+            "title": "CISA Adds 7 Exploited Flaws as Attackers Target AI Infrastructure",
+            "link": "https://www.esecurityplanet.com/news/news-cisa-exploited-ai-flaws/"
+        }
+    ],
+    "CVE-2026-83548": [
+        {
+            "title": "CISA Adds 7 Exploited Flaws as Attackers Target AI Infrastructure",
+            "link": "https://www.esecurityplanet.com/news/news-cisa-exploited-ai-flaws/"
+        }
+    ],
+    "CVE-2026-48710": [
+        {
+            "title": "CISA Adds 7 Exploited Flaws as Attackers Target AI Infrastructure",
+            "link": "https://www.esecurityplanet.com/news/news-cisa-exploited-ai-flaws/"
+        }
+    ],
+    "CVE-2026-59822": [
+        {
+            "title": "CISA Adds 7 Exploited Flaws as Attackers Target AI Infrastructure",
+            "link": "https://www.esecurityplanet.com/news/news-cisa-exploited-ai-flaws/"
+        }
+    ],
+    "CVE-2026-65105": [
+        {
+            "title": "AI Attack Surfaces and Supply Chain Threats Define the Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/ai-attack-surfaces-and-supply-chain-threats-define-the-week/"
         }
     ]
 }
