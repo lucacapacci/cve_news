@@ -41,6 +41,10 @@
         {
             "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
             "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html"
+        },
+        {
+            "title": "Broadcom Patches Critical VMware Workstation and Fusion Flaws That Let VM Admins Reach the Host",
+            "link": "https://www.webpronews.com/broadcom-patches-critical-vmware-workstation-and-fusion-flaws-that-let-vm-admins-reach-the-host/"
         }
     ],
     "CVE-2026-3909": [
@@ -95,6 +99,12 @@
         {
             "title": "Switchvox Vulnerability Triggers Active Exploitation Risk",
             "link": "https://www.cysecurity.news/2026/09/switchvox-vulnerability-triggers-active.html"
+        }
+    ],
+    "CVE-2026-59347": [
+        {
+            "title": "Broadcom Patches Critical VMware Workstation and Fusion Flaws That Let VM Admins Reach the Host",
+            "link": "https://www.webpronews.com/broadcom-patches-critical-vmware-workstation-and-fusion-flaws-that-let-vm-admins-reach-the-host/"
         }
     ]
 }
