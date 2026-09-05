@@ -3,12 +3,20 @@
         {
             "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
             "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html"
+        },
+        {
+            "title": "PaperCut Flaws Exploited in Attacks on U.S. and European Schools",
+            "link": "https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html"
         }
     ],
     "CVE-2026-81578": [
         {
             "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
             "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html"
+        },
+        {
+            "title": "PaperCut Flaws Exploited in Attacks on U.S. and European Schools",
+            "link": "https://securityaffairs.com/198476/hacking/papercut-flaws-exploited-in-attacks-on-u-s-and-european-schools.html"
         }
     ],
     "CVE-2026-6471": [
@@ -35,6 +43,10 @@
         {
             "title": "CISA Flags Old ownCloud Flaw After Reported Philippine Nuclear Data Theft",
             "link": "https://www.techrepublic.com/article/news-owncloud-nuclear-data-breach-apac-philippines/"
+        },
+        {
+            "title": "Philippine Nuclear Files Exposed: How an Old ownCloud Bug Opened the Door to Sensitive Reactor Data",
+            "link": "https://www.webpronews.com/philippine-nuclear-files-exposed-how-an-old-owncloud-bug-opened-the-door-to-sensitive-reactor-data/"
         }
     ],
     "CVE-2026-59346": [
@@ -105,6 +117,12 @@
         {
             "title": "Broadcom Patches Critical VMware Workstation and Fusion Flaws That Let VM Admins Reach the Host",
             "link": "https://www.webpronews.com/broadcom-patches-critical-vmware-workstation-and-fusion-flaws-that-let-vm-admins-reach-the-host/"
+        }
+    ],
+    "CVE-2024-28000": [
+        {
+            "title": "Philippine Nuclear Files Exposed: How an Old ownCloud Bug Opened the Door to Sensitive Reactor Data",
+            "link": "https://www.webpronews.com/philippine-nuclear-files-exposed-how-an-old-owncloud-bug-opened-the-door-to-sensitive-reactor-data/"
         }
     ]
 }
