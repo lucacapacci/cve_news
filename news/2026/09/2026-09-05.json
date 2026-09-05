@@ -25,12 +25,76 @@
         {
             "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
             "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/"
+        },
+        {
+            "title": "Elementor Pro WordPress Flaw Exploited to Upload Webshells and Execute Commands",
+            "link": "https://www.cysecurity.news/2026/09/elementor-pro-wordpress-flaw-exploited.html"
         }
     ],
     "CVE-2023-49105": [
         {
             "title": "CISA Flags Old ownCloud Flaw After Reported Philippine Nuclear Data Theft",
             "link": "https://www.techrepublic.com/article/news-owncloud-nuclear-data-breach-apac-philippines/"
+        }
+    ],
+    "CVE-2026-59346": [
+        {
+            "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
+            "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html"
+        }
+    ],
+    "CVE-2026-3909": [
+        {
+            "title": "Google\u2019s Sixth Chrome Zero-Day of 2026 Exposes Browser Fragility as EU Rules Loom",
+            "link": "https://www.webpronews.com/googles-sixth-chrome-zero-day-of-2026-exposes-browser-fragility-as-eu-rules-loom/"
+        }
+    ],
+    "CVE-2026-5281": [
+        {
+            "title": "Google\u2019s Sixth Chrome Zero-Day of 2026 Exposes Browser Fragility as EU Rules Loom",
+            "link": "https://www.webpronews.com/googles-sixth-chrome-zero-day-of-2026-exposes-browser-fragility-as-eu-rules-loom/"
+        }
+    ],
+    "CVE-2026-3910": [
+        {
+            "title": "Google\u2019s Sixth Chrome Zero-Day of 2026 Exposes Browser Fragility as EU Rules Loom",
+            "link": "https://www.webpronews.com/googles-sixth-chrome-zero-day-of-2026-exposes-browser-fragility-as-eu-rules-loom/"
+        }
+    ],
+    "CVE-2026-2441": [
+        {
+            "title": "Google\u2019s Sixth Chrome Zero-Day of 2026 Exposes Browser Fragility as EU Rules Loom",
+            "link": "https://www.webpronews.com/googles-sixth-chrome-zero-day-of-2026-exposes-browser-fragility-as-eu-rules-loom/"
+        }
+    ],
+    "CVE-2026-85046": [
+        {
+            "title": "Google\u2019s Sixth Chrome Zero-Day of 2026 Exposes Browser Fragility as EU Rules Loom",
+            "link": "https://www.webpronews.com/googles-sixth-chrome-zero-day-of-2026-exposes-browser-fragility-as-eu-rules-loom/"
+        }
+    ],
+    "CVE-2026-11645": [
+        {
+            "title": "Google\u2019s Sixth Chrome Zero-Day of 2026 Exposes Browser Fragility as EU Rules Loom",
+            "link": "https://www.webpronews.com/googles-sixth-chrome-zero-day-of-2026-exposes-browser-fragility-as-eu-rules-loom/"
+        }
+    ],
+    "CVE-2026-20212": [
+        {
+            "title": "Critical Nexus 9000 Flaw Could Permit Threat Actors to Gain Root Access",
+            "link": "https://www.cysecurity.news/2026/09/critical-nexus-9000-flaw-could-permit.html"
+        }
+    ],
+    "CVE-2026-85012": [
+        {
+            "title": "AWS CodeCatalyst Blueprints SDK Hit by High-Severity Command Injection Flaw",
+            "link": "https://www.cysecurity.news/2026/09/aws-codecatalyst-blueprints-sdk-hit-by.html"
+        }
+    ],
+    "CVE-2026-9586": [
+        {
+            "title": "Switchvox Vulnerability Triggers Active Exploitation Risk",
+            "link": "https://www.cysecurity.news/2026/09/switchvox-vulnerability-triggers-active.html"
         }
     ]
 }
