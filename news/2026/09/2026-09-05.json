@@ -15,6 +15,22 @@
         {
             "title": "12-Year-Old PostgreSQL Flaw Lets Attackers Execute Code and Take Over Database Servers",
             "link": "https://gbhackers.com/12-year-old-postgresql-flaw/"
+        },
+        {
+            "title": "12-Year-Old PostgreSQL Flaw Lets Backup Accounts Execute Code and Take Over Databases",
+            "link": "https://cyberpress.org/12-year-old-postgresql-flaw/"
+        }
+    ],
+    "CVE-2026-32475": [
+        {
+            "title": "Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites",
+            "link": "https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/"
+        }
+    ],
+    "CVE-2023-49105": [
+        {
+            "title": "CISA Flags Old ownCloud Flaw After Reported Philippine Nuclear Data Theft",
+            "link": "https://www.techrepublic.com/article/news-owncloud-nuclear-data-breach-apac-philippines/"
         }
     ]
 }
