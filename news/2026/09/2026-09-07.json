@@ -125,6 +125,10 @@
         {
             "title": "Linux Rootkit Injects Fileless PHP Web Shells Into Compromised F5 BIG-IP Servers",
             "link": "https://cybersecuritynews.com/linux-rootkit/"
+        },
+        {
+            "title": "PoisonedRefresh Malware Backdoors F5 BIG-IP Servers With Memory-Only PHP Web Shells",
+            "link": "https://gbhackers.com/poisonedrefresh-malware/"
         }
     ],
     "CVE-2026-72898": [
