@@ -1,0 +1,12 @@
+{
+    "CVE-2026-75754": [
+        {
+            "title": "Critical ASUS Control Center CVE-2026-75754 Flaw Allows Unauthenticated Root Access",
+            "link": "https://gbhackers.com/critical-asus-control-center-cve-2026-75754-flaw/"
+        },
+        {
+            "title": "Critical ASUS Control Center Flaw Lets Unauthenticated Attackers Gain Root Access",
+            "link": "https://cyberpress.org/critical-asus-control-center-flaw/"
+        }
+    ]
+}
