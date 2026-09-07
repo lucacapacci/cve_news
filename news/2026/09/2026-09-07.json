@@ -8,5 +8,95 @@
             "title": "Critical ASUS Control Center Flaw Lets Unauthenticated Attackers Gain Root Access",
             "link": "https://cyberpress.org/critical-asus-control-center-flaw/"
         }
+    ],
+    "CVE-2026-13184": [
+        {
+            "title": "Telerik Flaw Chain Lets Unauthenticated Attackers Turn Padding Oracle Into Remote Code Execution",
+            "link": "https://cybersecuritynews.com/telerik-flaw-chain/"
+        }
+    ],
+    "CVE-2026-13183": [
+        {
+            "title": "Telerik Flaw Chain Lets Unauthenticated Attackers Turn Padding Oracle Into Remote Code Execution",
+            "link": "https://cybersecuritynews.com/telerik-flaw-chain/"
+        }
+    ],
+    "CVE-2026-13182": [
+        {
+            "title": "Telerik Flaw Chain Lets Unauthenticated Attackers Turn Padding Oracle Into Remote Code Execution",
+            "link": "https://cybersecuritynews.com/telerik-flaw-chain/"
+        }
+    ],
+    "CVE-2026-13181": [
+        {
+            "title": "Telerik Flaw Chain Lets Unauthenticated Attackers Turn Padding Oracle Into Remote Code Execution",
+            "link": "https://cybersecuritynews.com/telerik-flaw-chain/"
+        }
+    ],
+    "CVE-2026-82312": [
+        {
+            "title": "OpenVPN Fixes 7 Security Flaws Affecting VPN Connections and Windows Systems",
+            "link": "https://cybersecuritynews.com/openvpn-fixes-7-security-flaws/"
+        }
+    ],
+    "CVE-2026-81738": [
+        {
+            "title": "OpenVPN Fixes 7 Security Flaws Affecting VPN Connections and Windows Systems",
+            "link": "https://cybersecuritynews.com/openvpn-fixes-7-security-flaws/"
+        }
+    ],
+    "CVE-2026-78221": [
+        {
+            "title": "OpenVPN Fixes 7 Security Flaws Affecting VPN Connections and Windows Systems",
+            "link": "https://cybersecuritynews.com/openvpn-fixes-7-security-flaws/"
+        }
+    ],
+    "CVE-2026-84256": [
+        {
+            "title": "OpenVPN Fixes 7 Security Flaws Affecting VPN Connections and Windows Systems",
+            "link": "https://cybersecuritynews.com/openvpn-fixes-7-security-flaws/"
+        }
+    ],
+    "CVE-2026-78043": [
+        {
+            "title": "OpenVPN Fixes 7 Security Flaws Affecting VPN Connections and Windows Systems",
+            "link": "https://cybersecuritynews.com/openvpn-fixes-7-security-flaws/"
+        }
+    ],
+    "CVE-2026-84226": [
+        {
+            "title": "OpenVPN Fixes 7 Security Flaws Affecting VPN Connections and Windows Systems",
+            "link": "https://cybersecuritynews.com/openvpn-fixes-7-security-flaws/"
+        }
+    ],
+    "CVE-2026-84732": [
+        {
+            "title": "OpenVPN Fixes 7 Security Flaws Affecting VPN Connections and Windows Systems",
+            "link": "https://cybersecuritynews.com/openvpn-fixes-7-security-flaws/"
+        }
+    ],
+    "CVE-2026-86218": [
+        {
+            "title": "N-able Released Hotfix for RCE Vulnerability Affecting Platform",
+            "link": "https://cybersecuritynews.com/n-able-released-hotfix/"
+        }
+    ],
+    "CVE-2026-86060": [
+        {
+            "title": "MikroTik Routers Targeted Through Internet-Exposed SSH Access",
+            "link": "https://www.cysecurity.news/2026/09/mikrotik-routers-targeted-through.html"
+        }
+    ],
+    "CVE-2026-67276": [
+        {
+            "title": "MikroTik Routers Targeted Through Internet-Exposed SSH Access",
+            "link": "https://www.cysecurity.news/2026/09/mikrotik-routers-targeted-through.html"
+        }
+    ],
+    "CVE-2026-67277": [
+        {
+            "title": "MikroTik Routers Targeted Through Internet-Exposed SSH Access",
+            "link": "https://www.cysecurity.news/2026/09/mikrotik-routers-targeted-through.html"
+        }
     ]
 }
