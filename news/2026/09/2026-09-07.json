@@ -79,6 +79,10 @@
         {
             "title": "N-able Released Hotfix for RCE Vulnerability Affecting Platform",
             "link": "https://cybersecuritynews.com/n-able-released-hotfix/"
+        },
+        {
+            "title": "N-able patches critical N-central zero-day exploited in the wild (CVE-2026-86218)",
+            "link": "https://www.helpnetsecurity.com/2026/09/07/n-able-n-central-hotfix-cve-2026-86218/"
         }
     ],
     "CVE-2026-86060": [
@@ -97,6 +101,24 @@
         {
             "title": "MikroTik Routers Targeted Through Internet-Exposed SSH Access",
             "link": "https://www.cysecurity.news/2026/09/mikrotik-routers-targeted-through.html"
+        }
+    ],
+    "CVE-2025-61882": [
+        {
+            "title": "Bimbo Bakeries USA Confirms Data Breach in Oracle EBS Zero-Day Attack",
+            "link": "https://cybersecuritynews.com/bimbo-oracle-ebs-data-breach/"
+        }
+    ],
+    "CVE-2025-53521": [
+        {
+            "title": "Linux Rootkit Injects Fileless PHP Web Shells Into Compromised F5 BIG-IP Servers",
+            "link": "https://cybersecuritynews.com/linux-rootkit/"
+        }
+    ],
+    "CVE-2026-72898": [
+        {
+            "title": "Online Maths Learning Platform Mathspace Disclosed Data Breach Impacts 1 Million Users",
+            "link": "https://cybersecuritynews.com/mathspace-data-breach/"
         }
     ]
 }
