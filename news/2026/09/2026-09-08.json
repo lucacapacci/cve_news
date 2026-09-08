@@ -1,0 +1,26 @@
+{
+    "CVE-2026-75650": [
+        {
+            "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+            "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html"
+        }
+    ],
+    "CVE-2026-19397": [
+        {
+            "title": "ASUS Control Center Critical Flaw Allows Unauthenticated Attackers to Gain Root Access",
+            "link": "https://gbhackers.com/asus-control-center-critical-flaw/"
+        }
+    ],
+    "CVE-2026-44756": [
+        {
+            "title": "SAP September 2026 Security Update Fixes 4 Critical Vulnerabilities and 15 Other Flaws",
+            "link": "https://gbhackers.com/sap-september-2026-security-update/"
+        }
+    ],
+    "CVE-2026-63077": [
+        {
+            "title": "Attackers Exploit TeamCity Flaw to Breach JetBrains Cadence",
+            "link": "https://www.cysecurity.news/2026/09/attackers-exploit-teamcity-flaw-to.html"
+        }
+    ]
+}
