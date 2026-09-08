@@ -11,6 +11,18 @@
         {
             "title": "StyleSmuggler (CVE-2026-75650): Frequently asked questions about Adobe Commerce and Magento zero-day",
             "link": "https://www.tenable.com/blog/stylesmuggler-cve-2026-75650-frequently-asked-questions-about-adobe-commerce-and-magento-zero"
+        },
+        {
+            "title": "Adobe Patches Over 170 Vulnerabilities, Including Commerce Zero-Day",
+            "link": "https://www.securityweek.com/adobe-patches-over-170-vulnerabilities-including-commerce-zero-day/"
+        },
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-75650",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-75650"
         }
     ],
     "CVE-2026-19397": [
@@ -173,6 +185,1112 @@
         {
             "title": "WordPress Under Siege: Critical Flaws in Popular Plugins Expose Millions to Takeover",
             "link": "https://www.webpronews.com/wordpress-under-siege-critical-flaws-in-popular-plugins-expose-millions-to-takeover/"
+        }
+    ],
+    "CVE-2026-69989": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        }
+    ],
+    "CVE-2023-28252": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        }
+    ],
+    "CVE-2026-69551": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        }
+    ],
+    "CVE-2026-69813": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        },
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69539": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        }
+    ],
+    "CVE-2026-69858": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        },
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72928": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        }
+    ],
+    "CVE-2026-69782": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        }
+    ],
+    "CVE-2023-21674": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        }
+    ],
+    "CVE-2026-69827": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        },
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69514": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        }
+    ],
+    "CVE-2026-69599": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        }
+    ],
+    "CVE-2026-69525": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        },
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69676": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        },
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-85880": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        },
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-85880",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-85880"
+        }
+    ],
+    "CVE-2026-69380": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        }
+    ],
+    "CVE-2026-77505": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        },
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69536": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        }
+    ],
+    "CVE-2026-81963": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        },
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-81963",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-81963"
+        }
+    ],
+    "CVE-2026-69730": [
+        {
+            "title": "Microsoft\u2019s September 2026 Patch Tuesday addresses 964 CVEs (CVE-2026-81963, CVE-2026-85880)",
+            "link": "https://www.tenable.com/blog/microsofts-september-2026-patch-tuesday-addresses-964-cves-cve-2026-81963-cve-2026-85880"
+        },
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69466": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72982": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69712": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-73017": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69436": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-80083": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83939": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78454": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69595": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69274": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69906": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69678": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69364": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-80098": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69478": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-70585": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-65818": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69757": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-81352": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72980": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78439": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78509": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69450": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-81955": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-73013": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-62916": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78445": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69921": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-70203": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69890": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-62906": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69740": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69305": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-81959": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-77495": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69601": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-70351": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-81950": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69310": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69777": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-77504": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69779": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69784": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-68846": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72950": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72981": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69623": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-67636": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69498": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-71343": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72961": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-81354": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69518": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69860": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69501": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-73018": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69649": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72936": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-70583": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72954": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69911": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69579": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-73023": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-70296": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69605": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-65669": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69385": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69829": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69473": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69406": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69391": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72962": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69710": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78520": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78450": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69714": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-68876": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69499": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69451": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69632": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69874": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-77500": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69769": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69857": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69337": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-81952": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69603": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-70289": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69723": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78510": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69460": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-66302": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-81948": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69366": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72979": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78444": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69799": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83711": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72983": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-70342": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-67643": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69820": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-73010": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69797": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-67378": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72987": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72986": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-67631": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69585": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72957": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-70586": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69767": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72960": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69459": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-81951": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83501": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69854": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69467": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69530": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-80093": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78449": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69301": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-70178": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69277": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-70562": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69285": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-81355": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69852": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72958": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78519": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-68880": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-58599": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69846": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-77898": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72940": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-68884": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-73009": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-77493": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69864": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-73006": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78505": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69832": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83941": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69845": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-72959": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-65772": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-78525": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69590": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83498": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-70352": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-81953": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-71340": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69600": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-81949": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69541": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-69725": [
+        {
+            "title": "Microsoft and Adobe Patch Tuesday,\u00a0September\u00a02026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-86218": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-86218",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-86218"
         }
     ]
 }
