@@ -3,6 +3,10 @@
         {
             "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
             "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html"
+        },
+        {
+            "title": "CISA Warns of N-able N-central RCE Vulnerability Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/n-able-n-central-rce/"
         }
     ],
     "CVE-2026-87628": [
@@ -4203,6 +4207,10 @@
         {
             "title": "Windows BitLocker RCE Flaw Lets Attackers Execute Malicious Code on Windows Systems",
             "link": "https://cyberpress.org/windows-bitlocker-rce-flaw/"
+        },
+        {
+            "title": "Windows BitLocker Flaw Lets Attackers Execute Code on Vulnerable Systems",
+            "link": "https://gbhackers.com/windows-bitlocker-flaw-2/"
         }
     ],
     "CVE-2026-69624": [
@@ -6323,6 +6331,14 @@
         {
             "title": "Microsoft Patch Tuesday Fixes Record 973 Vulnerabilities Including 2 Exploited Zero-Days",
             "link": "https://cyberpress.org/microsoft-patch-tuesday-fixes-973-vulnerabilities-2-exploited-zero-days/"
+        },
+        {
+            "title": "Microsoft Teams for Android Vulnerability Exposes Sensitive Information",
+            "link": "https://cybersecuritynews.com/microsoft-teams-android-vulnerability/"
+        },
+        {
+            "title": "Microsoft Teams for Android Flaw Lets Attackers Leak Sensitive Information Over Network",
+            "link": "https://cyberpress.org/microsoft-teams-for-android-flaw-2/"
         }
     ],
     "CVE-2026-69638": [
@@ -7331,12 +7347,264 @@
         {
             "title": "Critical MapLibre GL JS Flaw Allows Zero-Click XSS Attacks Without User Interaction",
             "link": "https://cyberpress.org/critical-maplibre-gl-js-flaw/"
+        },
+        {
+            "title": "MapLibre Vulnerability Exposes 2.7M Users to Zero-Click Attacks",
+            "link": "https://cybersecuritynews.com/maplibre-zero-click-vulnerability/"
+        },
+        {
+            "title": "Critical MapLibre GL JS Vulnerability Enables Zero-Click XSS Attacks",
+            "link": "https://gbhackers.com/critical-maplibre-gl-js-vulnerability/"
         }
     ],
     "CVE-2025-25249": [
         {
             "title": "Critical FortiGate Flaw Exploited to Deploy PivotC2 RAT and Steal Credentials",
             "link": "https://cyberpress.org/critical-fortigate-flaw-exploited/"
+        }
+    ],
+    "CVE-2026-81578": [
+        {
+            "title": "Hackers Use Hundreds of AI Agents to Exploit PaperCut Flaws and Compromise 440 Servers Worldwide",
+            "link": "https://cybersecuritynews.com/papercut-flaws-compromised-using-ai/"
+        }
+    ],
+    "CVE-2021-42278": [
+        {
+            "title": "Hackers Use Hundreds of AI Agents to Exploit PaperCut Flaws and Compromise 440 Servers Worldwide",
+            "link": "https://cybersecuritynews.com/papercut-flaws-compromised-using-ai/"
+        }
+    ],
+    "CVE-2026-82078": [
+        {
+            "title": "Hackers Use Hundreds of AI Agents to Exploit PaperCut Flaws and Compromise 440 Servers Worldwide",
+            "link": "https://cybersecuritynews.com/papercut-flaws-compromised-using-ai/"
+        }
+    ],
+    "CVE-2021-42287": [
+        {
+            "title": "Hackers Use Hundreds of AI Agents to Exploit PaperCut Flaws and Compromise 440 Servers Worldwide",
+            "link": "https://cybersecuritynews.com/papercut-flaws-compromised-using-ai/"
+        }
+    ],
+    "CVE-2026-28666": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-33636": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-52993": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-28618": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-49919": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-55256": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-58848": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-28590": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-45531": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-49918": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-55273": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-58820": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-55277": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-58823": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-28604": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-27280": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-49884": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-49927": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-25289": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-49882": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-28639": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-55285": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-28653": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-49932": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-45515": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-49879": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-31629": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-28662": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-49921": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-58941": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-49926": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-58846": [
+        {
+            "title": "Android Security Update September 2026 \u2013 Fix for Critical Flaws that Enable RCE Attacks",
+            "link": "https://cybersecuritynews.com/android-security-update-september-2026/"
+        }
+    ],
+    "CVE-2026-86207": [
+        {
+            "title": "CISA Warns of N-able N-central RCE Vulnerability Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/n-able-n-central-rce/"
+        }
+    ],
+    "CVE-2026-86206": [
+        {
+            "title": "CISA Warns of N-able N-central RCE Vulnerability Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/n-able-n-central-rce/"
+        }
+    ],
+    "CVE-2026-84388": [
+        {
+            "title": "FortiPAM Chrome Extension Vulnerability Lets Malicious Sites Control Browser Proxy and Record Tabs",
+            "link": "https://gbhackers.com/fortipam-chrome-extension-vulnerability/"
+        },
+        {
+            "title": "Fortinet FortiPAM Chrome Extension Flaw Lets Attackers Hijack Browser Proxy and Record Tabs",
+            "link": "https://cyberpress.org/fortinet-fortipam-chrome-extension-flaw/"
+        }
+    ],
+    "CVE-2026-76578": [
+        {
+            "title": "Critical FreeIPA Bug Can Let Attackers Take Over Admin Rights",
+            "link": "https://www.cysecurity.news/2026/09/critical-freeipa-bug-can-let-attackers.html"
         }
     ]
 }
