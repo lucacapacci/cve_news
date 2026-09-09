@@ -7688,5 +7688,113 @@
             "title": "ZDI-26-624: Backblaze Personal Computer Backup bzbackup Link Following Denial-of-Service Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-624/"
         }
+    ],
+    "CVE-2026-59346": [
+        {
+            "title": "ZDI-26-647: VMware Workstation VMXNET3 TSO Segmentation Integer Overflow Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-647/"
+        }
+    ],
+    "CVE-2026-8037": [
+        {
+            "title": "ZDI-26-646: Progress Software Kemp LoadMaster escape_quotes Uninitialized Memory Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-646/"
+        }
+    ],
+    "CVE-2026-84387": [
+        {
+            "title": "ZDI-26-645: Fortinet FortiSandbox write_remote_backup_to_crontab cronValue Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-645/"
+        }
+    ],
+    "CVE-2026-60155": [
+        {
+            "title": "ZDI-26-644: Oracle VirtualBox VMSVGA Race Condition Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-644/"
+        }
+    ],
+    "CVE-2026-60162": [
+        {
+            "title": "ZDI-26-643: Oracle VirtualBox VMSVGA Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-643/"
+        }
+    ],
+    "CVE-2026-60159": [
+        {
+            "title": "ZDI-26-642: Oracle VirtualBox IDisplay Out-Of-Bounds Read Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-642/"
+        }
+    ],
+    "CVE-2026-71114": [
+        {
+            "title": "ZDI-26-641: Oracle VirtualBox VirtioSCSI Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-641/"
+        }
+    ],
+    "CVE-2026-71132": [
+        {
+            "title": "ZDI-26-640: Oracle VirtualBox VirtioSCSI Uninitialized Memory Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-640/"
+        }
+    ],
+    "CVE-2026-71116": [
+        {
+            "title": "ZDI-26-639: Oracle VirtualBox VMSVGA Heap-based Buffer Overflow Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-639/"
+        }
+    ],
+    "CVE-2026-60414": [
+        {
+            "title": "ZDI-26-638: Oracle Outside In Technology WPS File Parsing Memory Corruption Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-638/"
+        }
+    ],
+    "CVE-2026-60413": [
+        {
+            "title": "ZDI-26-637: Oracle Outside In Technology GEM File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-637/"
+        }
+    ],
+    "CVE-2026-60412": [
+        {
+            "title": "ZDI-26-636: Oracle Outside In Technology PostScript File Parsing Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-636/"
+        }
+    ],
+    "CVE-2026-60392": [
+        {
+            "title": "ZDI-26-635: Oracle Outside In Technology PDF File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-635/"
+        }
+    ],
+    "CVE-2026-70477": [
+        {
+            "title": "ZDI-26-634: Flowise CSV Agent Prompt Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-634/"
+        }
+    ],
+    "CVE-2026-4153": [
+        {
+            "title": "ZDI-26-633: GIMP PSP File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-633/"
+        }
+    ],
+    "CVE-2026-13086": [
+        {
+            "title": "ZDI-26-632: WatchGuard FireWare OS epm connect Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-632/"
+        }
+    ],
+    "CVE-2026-18444": [
+        {
+            "title": "ZDI-26-631: NI LabVIEW VI File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-631/"
+        }
+    ],
+    "CVE-2026-18445": [
+        {
+            "title": "ZDI-26-630: NI LabVIEW VI File Parsing Integer Overflow Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-630/"
+        }
     ]
 }
