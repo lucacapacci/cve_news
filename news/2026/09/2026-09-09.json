@@ -4837,6 +4837,10 @@
         {
             "title": "Microsoft\u2019s Record 974 Patches Signal New Era of AI-Driven Vulnerability Flood",
             "link": "https://www.webpronews.com/microsofts-record-974-patches-signal-new-era-of-ai-driven-vulnerability-flood/"
+        },
+        {
+            "title": "Microsoft\u2019s September Patch Tuesday Fixes Nearly 1,000 Flaws, Including 2 Exploited Zero-Days",
+            "link": "https://www.esecurityplanet.com/threats/news-microsoft-september-2026-patch-tuesday-zero-days/"
         }
     ],
     "CVE-2026-69265": [
@@ -5653,6 +5657,10 @@
         {
             "title": "Microsoft Patch Tuesday Fixes Record 973 Vulnerabilities Including 2 Exploited Zero-Days",
             "link": "https://cyberpress.org/microsoft-patch-tuesday-fixes-973-vulnerabilities-2-exploited-zero-days/"
+        },
+        {
+            "title": "Microsoft\u2019s September Patch Tuesday Fixes Nearly 1,000 Flaws, Including 2 Exploited Zero-Days",
+            "link": "https://www.esecurityplanet.com/threats/news-microsoft-september-2026-patch-tuesday-zero-days/"
         }
     ],
     "CVE-2026-71345": [
@@ -5691,6 +5699,10 @@
         {
             "title": "Hackers Chain Chrome and Windows Zero-Days in New BlueMoon Exploit Kit Attacks",
             "link": "https://cybersecuritynews.com/bluemoon-exploit-chain/"
+        },
+        {
+            "title": "Microsoft\u2019s September Patch Tuesday Fixes Nearly 1,000 Flaws, Including 2 Exploited Zero-Days",
+            "link": "https://www.esecurityplanet.com/threats/news-microsoft-september-2026-patch-tuesday-zero-days/"
         }
     ],
     "CVE-2026-84001": [
@@ -6569,6 +6581,10 @@
         {
             "title": "Microsoft Patch Tuesday Fixes Record 973 Vulnerabilities Including 2 Exploited Zero-Days",
             "link": "https://cyberpress.org/microsoft-patch-tuesday-fixes-973-vulnerabilities-2-exploited-zero-days/"
+        },
+        {
+            "title": "Microsoft\u2019s September Patch Tuesday Fixes Nearly 1,000 Flaws, Including 2 Exploited Zero-Days",
+            "link": "https://www.esecurityplanet.com/threats/news-microsoft-september-2026-patch-tuesday-zero-days/"
         }
     ],
     "CVE-2026-57099": [
@@ -7645,6 +7661,32 @@
         {
             "title": "CISA KEV Addition: CVE-2026-20079",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20079"
+        },
+        {
+            "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-19820": [
+        {
+            "title": "ZDI-26-628: Backblaze Personal Computer Backup bzreports Link Following Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-628/"
+        },
+        {
+            "title": "ZDI-26-627: Backblaze Personal Computer Backup bztransmit Link Following Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-627/"
+        },
+        {
+            "title": "ZDI-26-626: Backblaze Personal Computer Backup bzfilelist Link Following Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-626/"
+        },
+        {
+            "title": "ZDI-26-625: Backblaze Personal Computer Backup bzserv Link Following Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-625/"
+        },
+        {
+            "title": "ZDI-26-624: Backblaze Personal Computer Backup bzbackup Link Following Denial-of-Service Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-624/"
         }
     ]
 }
