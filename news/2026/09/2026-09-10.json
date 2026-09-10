@@ -27,12 +27,20 @@
         {
             "title": "Cisco FMC bugs exploited by nation-state and ransomware actors (CVE-2026-20079, CVE-2026-20316)",
             "link": "https://www.helpnetsecurity.com/2026/09/10/cisco-fmc-exploited-cve-2026-20079-cve-2026-20316/"
+        },
+        {
+            "title": "Hackers Exploit Critical Cisco Firewall Flaw to Gain Root Access and Deploy Malware",
+            "link": "https://cybersecuritynews.com/cisco-firewall-root-access-flaw/"
         }
     ],
     "CVE-2026-19490": [
         {
             "title": "Critical NetScaler Vulnerability Exploited in Attacks",
             "link": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/"
+        },
+        {
+            "title": "CISA Warns of Citrix NetScaler Authentication Bypass Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-citrix-netscaler-authentication/"
         }
     ],
     "CVE-2026-75862": [
@@ -259,12 +267,20 @@
         {
             "title": "Palo Alto PAN-OS Buffer Overflow Lets Attackers Execute Arbitrary Code as Root",
             "link": "https://gbhackers.com/palo-alto-pan-os-buffer-overflow/"
+        },
+        {
+            "title": "Palo Alto PAN-OS Flaw Lets Unauthenticated Attackers Execute Code as Root",
+            "link": "https://cyberpress.org/palo-alto-pan-os-flaw/"
         }
     ],
     "CVE-2026-20316": [
         {
             "title": "Cisco FMC bugs exploited by nation-state and ransomware actors (CVE-2026-20079, CVE-2026-20316)",
             "link": "https://www.helpnetsecurity.com/2026/09/10/cisco-fmc-exploited-cve-2026-20079-cve-2026-20316/"
+        },
+        {
+            "title": "Hackers Exploit Critical Cisco Firewall Flaw to Gain Root Access and Deploy Malware",
+            "link": "https://cybersecuritynews.com/cisco-firewall-root-access-flaw/"
         }
     ],
     "CVE-2026-85880": [
@@ -295,6 +311,24 @@
         {
             "title": "Google Just Patched a Chrome Security Flaw That Hackers Were Already Exploiting",
             "link": "https://www.cysecurity.news/2026/09/google-just-patched-chrome-security.html"
+        }
+    ],
+    "CVE-2025-20701": [
+        {
+            "title": "Skullcandy Dime 3 Bluetooth Flaw Lets Nearby Attackers Hijack Audio and Microphone",
+            "link": "https://cyberpress.org/skullcandy-dime-3-bluetooth-flaw-lets-nearby-attackers-hijack-audio-and-microphone/"
+        }
+    ],
+    "CVE-2026-86060": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-86060",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-86060"
+        }
+    ],
+    "CVE-2026-67277": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-67277",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-67277"
         }
     ]
 }
