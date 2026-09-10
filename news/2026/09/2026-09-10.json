@@ -284,5 +284,17 @@
             "title": "Microsoft Patches Nearly 1,000 Vulnerabilities in September Update",
             "link": "https://www.cysecurity.news/2026/09/microsoft-patches-nearly-1000.html"
         }
+    ],
+    "CVE-2026-87491": [
+        {
+            "title": "Google Just Patched a Chrome Security Flaw That Hackers Were Already Exploiting",
+            "link": "https://www.cysecurity.news/2026/09/google-just-patched-chrome-security.html"
+        }
+    ],
+    "CVE-2026-85046": [
+        {
+            "title": "Google Just Patched a Chrome Security Flaw That Hackers Were Already Exploiting",
+            "link": "https://www.cysecurity.news/2026/09/google-just-patched-chrome-security.html"
+        }
     ]
 }
