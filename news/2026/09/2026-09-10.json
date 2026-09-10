@@ -3,12 +3,286 @@
         {
             "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
             "link": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/"
+        },
+        {
+            "title": "CISA Warns of Fortinet Heap-based Buffer Overflow Flaw Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/fortinet-heap-based-buffer-overflow/"
         }
     ],
     "CVE-2026-75650": [
         {
             "title": "U.S. CISA adds Microsoft Windows, N-able N-central, and Adobe flaws to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/198802/hacking/u-s-cisa-adds-microsoft-windows-n-able-n-central-and-adobe-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ],
+    "CVE-2026-20079": [
+        {
+            "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+            "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html"
+        },
+        {
+            "title": "Organizations Warned of Cisco Secure FMC Exploitation",
+            "link": "https://www.securityweek.com/organizations-warned-of-cisco-secure-fmc-exploitation/"
+        },
+        {
+            "title": "Cisco FMC bugs exploited by nation-state and ransomware actors (CVE-2026-20079, CVE-2026-20316)",
+            "link": "https://www.helpnetsecurity.com/2026/09/10/cisco-fmc-exploited-cve-2026-20079-cve-2026-20316/"
+        }
+    ],
+    "CVE-2026-19490": [
+        {
+            "title": "Critical NetScaler Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-75862": [
+        {
+            "title": "ZDI-26-679: Adobe Photoshop DCM JPEG Image Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-679/"
+        }
+    ],
+    "CVE-2026-75863": [
+        {
+            "title": "ZDI-26-678: Adobe Photoshop DCM File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-678/"
+        }
+    ],
+    "CVE-2026-75771": [
+        {
+            "title": "ZDI-26-677: Adobe Photoshop DCM JPEG-LS Image Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-677/"
+        }
+    ],
+    "CVE-2026-81973": [
+        {
+            "title": "ZDI-26-676: Adobe Acrobat Reader DC DigSig Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-676/"
+        }
+    ],
+    "CVE-2026-81976": [
+        {
+            "title": "ZDI-26-675: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-675/"
+        }
+    ],
+    "CVE-2026-81981": [
+        {
+            "title": "ZDI-26-674: Adobe Acrobat Reader DC Annotation Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-674/"
+        }
+    ],
+    "CVE-2026-81988": [
+        {
+            "title": "ZDI-26-673: Adobe Acrobat Pro DC Doc Object Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-673/"
+        }
+    ],
+    "CVE-2026-81977": [
+        {
+            "title": "ZDI-26-672: Adobe Acrobat Reader DC PDF File Parsing Integer Underflow Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-672/"
+        }
+    ],
+    "CVE-2026-80161": [
+        {
+            "title": "ZDI-26-671: Adobe Acrobat Reader DC Dialog Object Type Confusion Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-671/"
+        }
+    ],
+    "CVE-2026-81991": [
+        {
+            "title": "ZDI-26-670: Adobe Acrobat Pro DC Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-670/"
+        }
+    ],
+    "CVE-2026-81978": [
+        {
+            "title": "ZDI-26-669: Adobe Acrobat Reader DC JBIG2 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-669/"
+        }
+    ],
+    "CVE-2026-81984": [
+        {
+            "title": "ZDI-26-668: Adobe Acrobat Reader DC Annotation Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-668/"
+        }
+    ],
+    "CVE-2026-81975": [
+        {
+            "title": "ZDI-26-667: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-667/"
+        }
+    ],
+    "CVE-2026-79910": [
+        {
+            "title": "ZDI-26-666: Adobe Acrobat Reader DC JPEG2000 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-666/"
+        }
+    ],
+    "CVE-2026-79909": [
+        {
+            "title": "ZDI-26-665: Adobe Acrobat Reader DC Annots Report Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-665/"
+        }
+    ],
+    "CVE-2026-81986": [
+        {
+            "title": "ZDI-26-664: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-664/"
+        }
+    ],
+    "CVE-2026-81989": [
+        {
+            "title": "ZDI-26-663: Adobe Acrobat Pro DC Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-663/"
+        }
+    ],
+    "CVE-2026-81990": [
+        {
+            "title": "ZDI-26-662: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-662/"
+        }
+    ],
+    "CVE-2026-81985": [
+        {
+            "title": "ZDI-26-661: Adobe Acrobat Reader DC Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-661/"
+        }
+    ],
+    "CVE-2026-80162": [
+        {
+            "title": "ZDI-26-660: Adobe Acrobat Reader DC Font Parsing Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-660/"
+        }
+    ],
+    "CVE-2026-80160": [
+        {
+            "title": "ZDI-26-659: Adobe Acrobat Reader DC JPEG2000 File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-659/"
+        }
+    ],
+    "CVE-2026-81987": [
+        {
+            "title": "ZDI-26-658: Adobe Acrobat Pro DC JPEG Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-658/"
+        }
+    ],
+    "CVE-2026-19397": [
+        {
+            "title": "ZDI-26-657: ASUS Control Center Express Agent Missing Authentication Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-657/"
+        }
+    ],
+    "CVE-2025-71414": [
+        {
+            "title": "ZDI-26-654: TrendAI Apex One Incomplete Cleanup Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-654/"
+        }
+    ],
+    "CVE-2025-71415": [
+        {
+            "title": "ZDI-26-653: TrendAI Apex One Security Agent Cache Mechanism Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-653/"
+        }
+    ],
+    "CVE-2025-71416": [
+        {
+            "title": "ZDI-26-652: TrendAI Apex One Security Agent Cache Mechanism Time-Of-Check Time-Of-Use Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-652/"
+        }
+    ],
+    "CVE-2026-19593": [
+        {
+            "title": "ZDI-26-651: (Pwn2Own) OpenAI Codex External Control of System or Configuration Setting Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-651/"
+        }
+    ],
+    "CVE-2026-19592": [
+        {
+            "title": "ZDI-26-650: (Pwn2Own) OpenAI Codex External Control of Configuration Setting Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-650/"
+        }
+    ],
+    "CVE-2026-19591": [
+        {
+            "title": "ZDI-26-649: (Pwn2Own) OpenAI Codex Improper Neutralization of Control Sequences Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-649/"
+        }
+    ],
+    "CVE-2026-19590": [
+        {
+            "title": "ZDI-26-648: (Pwn2Own) OpenAI Codex External Control of System or Configuration Setting Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-648/"
+        }
+    ],
+    "CVE-2026-85102": [
+        {
+            "title": "Critical Check Point VPN Vulnerabilities Enable Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/check-point-vpn-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-85103": [
+        {
+            "title": "Critical Check Point VPN Vulnerabilities Enable Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/check-point-vpn-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-50751": [
+        {
+            "title": "Critical Check Point VPN Vulnerabilities Enable Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/check-point-vpn-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59821": [
+        {
+            "title": "LiteLLM Flaws Let Attackers Execute Code as Root and Steal Cloud Credentials",
+            "link": "https://cybersecuritynews.com/litellm-flaws/"
+        }
+    ],
+    "CVE-2026-35029": [
+        {
+            "title": "LiteLLM Flaws Let Attackers Execute Code as Root and Steal Cloud Credentials",
+            "link": "https://cybersecuritynews.com/litellm-flaws/"
+        }
+    ],
+    "CVE-2026-59822": [
+        {
+            "title": "LiteLLM Flaws Let Attackers Execute Code as Root and Steal Cloud Credentials",
+            "link": "https://cybersecuritynews.com/litellm-flaws/"
+        }
+    ],
+    "CVE-2026-0310": [
+        {
+            "title": "Palo Alto PAN-OS Vulnerability Enables Arbitrary Code Execution as Root User",
+            "link": "https://cybersecuritynews.com/palo-alto-pan-os-vulnerability-code-execution/"
+        },
+        {
+            "title": "Palo Alto PAN-OS Buffer Overflow Lets Attackers Execute Arbitrary Code as Root",
+            "link": "https://gbhackers.com/palo-alto-pan-os-buffer-overflow/"
+        }
+    ],
+    "CVE-2026-20316": [
+        {
+            "title": "Cisco FMC bugs exploited by nation-state and ransomware actors (CVE-2026-20079, CVE-2026-20316)",
+            "link": "https://www.helpnetsecurity.com/2026/09/10/cisco-fmc-exploited-cve-2026-20079-cve-2026-20316/"
+        }
+    ],
+    "CVE-2026-85880": [
+        {
+            "title": "Microsoft Patches Nearly 1,000 Vulnerabilities in September Update",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-patches-nearly-1000.html"
+        }
+    ],
+    "CVE-2026-81963": [
+        {
+            "title": "Microsoft Patches Nearly 1,000 Vulnerabilities in September Update",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-patches-nearly-1000.html"
+        }
+    ],
+    "CVE-2026-65669": [
+        {
+            "title": "Microsoft Patches Nearly 1,000 Vulnerabilities in September Update",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-patches-nearly-1000.html"
         }
     ]
 }
