@@ -21,6 +21,10 @@
         {
             "title": "GitLab urges users to patch max severity path traversal flaw",
             "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/"
+        },
+        {
+            "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+            "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
         }
     ],
     "CVE-2026-87719": [
@@ -213,6 +217,36 @@
         {
             "title": "Microsoft Defender\u2019s ShieldBreak Fix May Already Have Another Bypass",
             "link": "https://www.esecurityplanet.com/threats/news-microsoft-defender-shieldcrash-patch-bypass/"
+        }
+    ],
+    "CVE-2026-42271": [
+        {
+            "title": "The Four-Character Password Guarding Your Company's AI Keys",
+            "link": "https://www.cysecurity.news/2026/09/the-four-character-password-guarding.html"
+        }
+    ],
+    "CVE-2026-48710": [
+        {
+            "title": "The Four-Character Password Guarding Your Company's AI Keys",
+            "link": "https://www.cysecurity.news/2026/09/the-four-character-password-guarding.html"
+        }
+    ],
+    "CVE-2026-59822": [
+        {
+            "title": "The Four-Character Password Guarding Your Company's AI Keys",
+            "link": "https://www.cysecurity.news/2026/09/the-four-character-password-guarding.html"
+        }
+    ],
+    "CVE-2026-40217": [
+        {
+            "title": "The Four-Character Password Guarding Your Company's AI Keys",
+            "link": "https://www.cysecurity.news/2026/09/the-four-character-password-guarding.html"
+        }
+    ],
+    "CVE-2026-59821": [
+        {
+            "title": "The Four-Character Password Guarding Your Company's AI Keys",
+            "link": "https://www.cysecurity.news/2026/09/the-four-character-password-guarding.html"
         }
     ]
 }
