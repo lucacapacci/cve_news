@@ -1,0 +1,142 @@
+{
+    "CVE-2026-20079": [
+        {
+            "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+            "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html"
+        },
+        {
+            "title": "Critical Cisco Firewall Management Flaw Exploited in Attacks",
+            "link": "https://www.cysecurity.news/2026/09/critical-cisco-firewall-management-flaw.html"
+        }
+    ],
+    "CVE-2026-85706": [
+        {
+            "title": "GitLab Patches Critical Flaws Enabling Arbitrary File Read, Credential Theft and Remote Code Execution",
+            "link": "https://cybersecuritynews.com/gitlab-patches-critical-flaws/"
+        },
+        {
+            "title": "GitLab Patches Critical Flaws Enabling Arbitrary File Read, Credential Theft and Remote Code Execution",
+            "link": "https://cyberpress.org/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-remote-code-execution/"
+        }
+    ],
+    "CVE-2026-87719": [
+        {
+            "title": "GitLab Patches Critical Flaws Enabling Arbitrary File Read, Credential Theft and Remote Code Execution",
+            "link": "https://cybersecuritynews.com/gitlab-patches-critical-flaws/"
+        },
+        {
+            "title": "GitLab Patches Critical Flaws Enabling Arbitrary File Read, Credential Theft and Remote Code Execution",
+            "link": "https://cyberpress.org/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-remote-code-execution/"
+        }
+    ],
+    "CVE-2026-88765": [
+        {
+            "title": "GitLab Patches Critical Flaws Enabling Arbitrary File Read, Credential Theft and Remote Code Execution",
+            "link": "https://cybersecuritynews.com/gitlab-patches-critical-flaws/"
+        },
+        {
+            "title": "GitLab Patches Critical Flaws Enabling Arbitrary File Read, Credential Theft and Remote Code Execution",
+            "link": "https://cyberpress.org/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-remote-code-execution/"
+        }
+    ],
+    "CVE-2026-82329": [
+        {
+            "title": "JFrog Artifactory Vulnerabilities Actively Exploited in the Wild to Gain Administrative Control",
+            "link": "https://cybersecuritynews.com/jfrog-artifactory-vulnerabilities-actively-exploited/"
+        },
+        {
+            "title": "Hackers Exploit JFrog Artifactory Flaws to Bypass Authentication and Gain Admin Access",
+            "link": "https://cyberpress.org/hackers-exploit-jfrog-artifactory-flaws/"
+        }
+    ],
+    "CVE-2026-42016": [
+        {
+            "title": "JFrog Artifactory Vulnerabilities Actively Exploited in the Wild to Gain Administrative Control",
+            "link": "https://cybersecuritynews.com/jfrog-artifactory-vulnerabilities-actively-exploited/"
+        },
+        {
+            "title": "Hackers Exploit JFrog Artifactory Flaws to Bypass Authentication and Gain Admin Access",
+            "link": "https://cyberpress.org/hackers-exploit-jfrog-artifactory-flaws/"
+        }
+    ],
+    "CVE-2026-4201": [
+        {
+            "title": "JFrog Artifactory Vulnerabilities Actively Exploited in the Wild to Gain Administrative Control",
+            "link": "https://cybersecuritynews.com/jfrog-artifactory-vulnerabilities-actively-exploited/"
+        },
+        {
+            "title": "Hackers Exploit JFrog Artifactory Flaws to Bypass Authentication and Gain Admin Access",
+            "link": "https://cyberpress.org/hackers-exploit-jfrog-artifactory-flaws/"
+        }
+    ],
+    "CVE-2026-42018": [
+        {
+            "title": "JFrog Artifactory Vulnerabilities Actively Exploited in the Wild to Gain Administrative Control",
+            "link": "https://cybersecuritynews.com/jfrog-artifactory-vulnerabilities-actively-exploited/"
+        },
+        {
+            "title": "Hackers Exploit JFrog Artifactory Flaws to Bypass Authentication and Gain Admin Access",
+            "link": "https://cyberpress.org/hackers-exploit-jfrog-artifactory-flaws/"
+        }
+    ],
+    "CVE-2026-85982": [
+        {
+            "title": "Okta Fixes Auth0 and Access Gateway Flaws Enabling XSS, Auth Bypass, and SQL Injection",
+            "link": "https://cybersecuritynews.com/okta-fixes-auth0-and-access-gateway-flaws/"
+        },
+        {
+            "title": "Critical Auth0 AD/LDAP Connector Flaw Lets Attackers Execute Stored XSS in Admin Browsers",
+            "link": "https://cyberpress.org/critical-auth0-ad-ldap-connector-flaw/"
+        }
+    ],
+    "CVE-2026-78626": [
+        {
+            "title": "Okta Fixes Auth0 and Access Gateway Flaws Enabling XSS, Auth Bypass, and SQL Injection",
+            "link": "https://cybersecuritynews.com/okta-fixes-auth0-and-access-gateway-flaws/"
+        },
+        {
+            "title": "Critical Auth0 AD/LDAP Connector Flaw Lets Attackers Execute Stored XSS in Admin Browsers",
+            "link": "https://cyberpress.org/critical-auth0-ad-ldap-connector-flaw/"
+        }
+    ],
+    "CVE-2026-78623": [
+        {
+            "title": "Okta Fixes Auth0 and Access Gateway Flaws Enabling XSS, Auth Bypass, and SQL Injection",
+            "link": "https://cybersecuritynews.com/okta-fixes-auth0-and-access-gateway-flaws/"
+        },
+        {
+            "title": "Critical Auth0 AD/LDAP Connector Flaw Lets Attackers Execute Stored XSS in Admin Browsers",
+            "link": "https://cyberpress.org/critical-auth0-ad-ldap-connector-flaw/"
+        }
+    ],
+    "CVE-2026-79708": [
+        {
+            "title": "GitLab Patches Critical Flaws Enabling Arbitrary File Read, Credential Theft and Remote Code Execution",
+            "link": "https://cyberpress.org/gitlab-patches-critical-flaws-enabling-arbitrary-file-read-credential-theft-and-remote-code-execution/"
+        }
+    ],
+    "CVE-2026-43284": [
+        {
+            "title": "New IoT Malware Uses Public Linux Exploits to Gain Root and Turn Devices Into DDoS Bots",
+            "link": "https://cyberpress.org/linux-exploits-create-botnets/"
+        }
+    ],
+    "CVE-2026-46300": [
+        {
+            "title": "New IoT Malware Uses Public Linux Exploits to Gain Root and Turn Devices Into DDoS Bots",
+            "link": "https://cyberpress.org/linux-exploits-create-botnets/"
+        }
+    ],
+    "CVE-2026-31431": [
+        {
+            "title": "New IoT Malware Uses Public Linux Exploits to Gain Root and Turn Devices Into DDoS Bots",
+            "link": "https://cyberpress.org/linux-exploits-create-botnets/"
+        }
+    ],
+    "CVE-2026-87491": [
+        {
+            "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+            "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html"
+        }
+    ]
+}
