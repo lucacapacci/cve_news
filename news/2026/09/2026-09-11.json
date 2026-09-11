@@ -25,6 +25,10 @@
         {
             "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
             "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-85706",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-85706"
         }
     ],
     "CVE-2026-87719": [
@@ -73,6 +77,10 @@
         {
             "title": "Hackers Exploit JFrog Artifactory Flaws to Bypass Authentication and Gain Admin Access",
             "link": "https://gbhackers.com/hackers-exploit-jfrog-artifactory-flaws/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-42016",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-42016"
         }
     ],
     "CVE-2026-4201": [
@@ -97,6 +105,10 @@
         {
             "title": "Hackers Exploit JFrog Artifactory Flaws to Bypass Authentication and Gain Admin Access",
             "link": "https://gbhackers.com/hackers-exploit-jfrog-artifactory-flaws/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-42018",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-42018"
         }
     ],
     "CVE-2026-85982": [
@@ -139,18 +151,30 @@
         {
             "title": "New IoT Malware Uses Public Linux Exploits to Gain Root and Turn Devices Into DDoS Bots",
             "link": "https://cyberpress.org/linux-exploits-create-botnets/"
+        },
+        {
+            "title": "New KATARU IoT Malware Packs Linux Privilege Escalation Exploits and Mirai-Style DDoS Attacks",
+            "link": "https://cybersecuritynews.com/new-kataru-iot-malware/"
         }
     ],
     "CVE-2026-46300": [
         {
             "title": "New IoT Malware Uses Public Linux Exploits to Gain Root and Turn Devices Into DDoS Bots",
             "link": "https://cyberpress.org/linux-exploits-create-botnets/"
+        },
+        {
+            "title": "New KATARU IoT Malware Packs Linux Privilege Escalation Exploits and Mirai-Style DDoS Attacks",
+            "link": "https://cybersecuritynews.com/new-kataru-iot-malware/"
         }
     ],
     "CVE-2026-31431": [
         {
             "title": "New IoT Malware Uses Public Linux Exploits to Gain Root and Turn Devices Into DDoS Bots",
             "link": "https://cyberpress.org/linux-exploits-create-botnets/"
+        },
+        {
+            "title": "New KATARU IoT Malware Packs Linux Privilege Escalation Exploits and Mirai-Style DDoS Attacks",
+            "link": "https://cybersecuritynews.com/new-kataru-iot-malware/"
         }
     ],
     "CVE-2026-87491": [
@@ -193,6 +217,10 @@
         {
             "title": "cPanel Urges Users to Patch ConfigServer Firewall Remote Code Execution Flaw",
             "link": "https://gbhackers.com/cpanel-urges-users-to-patch-configserver-firewall/"
+        },
+        {
+            "title": "cPanel ConfigServer Security & Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands",
+            "link": "https://cybersecuritynews.com/cpanel-configserver-security-firewall-vulnerability/"
         }
     ],
     "CVE-2026-69414": [
@@ -247,6 +275,54 @@
         {
             "title": "The Four-Character Password Guarding Your Company's AI Keys",
             "link": "https://www.cysecurity.news/2026/09/the-four-character-password-guarding.html"
+        }
+    ],
+    "CVE-2026-81963": [
+        {
+            "title": "Windows 11 Security Update KB5124008 Breaks Always-On VPN Connections",
+            "link": "https://cybersecuritynews.com/windows-11-security-update-kb5124008/"
+        }
+    ],
+    "CVE-2026-85880": [
+        {
+            "title": "Windows 11 Security Update KB5124008 Breaks Always-On VPN Connections",
+            "link": "https://cybersecuritynews.com/windows-11-security-update-kb5124008/"
+        }
+    ],
+    "CVE-2025-66376": [
+        {
+            "title": "Rhysida Publishes 1.4 Million Berlin Government Files After Ransom Refusal",
+            "link": "https://www.esecurityplanet.com/threats/news-berlin-cyberattack-rhysida-dark-web-emea/"
+        }
+    ],
+    "CVE-2026-9586": [
+        {
+            "title": "AI-Accelerated Attacks and Zero-Days Push Defenders Toward Machine Speed",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/ai-accelerated-attacks-and-zero-days-push-defenders-toward-machine-speed/"
+        }
+    ],
+    "CVE-2026-75650": [
+        {
+            "title": "AI-Accelerated Attacks and Zero-Days Push Defenders Toward Machine Speed",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/ai-accelerated-attacks-and-zero-days-push-defenders-toward-machine-speed/"
+        }
+    ],
+    "CVE-2026-19949": [
+        {
+            "title": "AI-Accelerated Attacks and Zero-Days Push Defenders Toward Machine Speed",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/ai-accelerated-attacks-and-zero-days-push-defenders-toward-machine-speed/"
+        }
+    ],
+    "CVE-2026-85046": [
+        {
+            "title": "AI-Accelerated Attacks and Zero-Days Push Defenders Toward Machine Speed",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/ai-accelerated-attacks-and-zero-days-push-defenders-toward-machine-speed/"
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-84869",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-84869"
         }
     ]
 }
