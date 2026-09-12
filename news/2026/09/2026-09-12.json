@@ -18,5 +18,35 @@
             "title": "U.S. CISA adds Microsoft Windows, N-able N-central, and Adobe flaws to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/198802/hacking/u-s-cisa-adds-microsoft-windows-n-able-n-central-and-adobe-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
         }
+    ],
+    "CVE-2026-85880": [
+        {
+            "title": "Chinese Hackers Chain Chrome and Windows Zero-Days to Deploy Backdoors and Steal Credentials",
+            "link": "https://cyberpress.org/chinese-hackers-chain-chrome-and-windows-zero-days/"
+        }
+    ],
+    "CVE-2026-87491": [
+        {
+            "title": "Chinese Hackers Chain Chrome and Windows Zero-Days to Deploy Backdoors and Steal Credentials",
+            "link": "https://cyberpress.org/chinese-hackers-chain-chrome-and-windows-zero-days/"
+        }
+    ],
+    "CVE-2026-85046": [
+        {
+            "title": "Chinese Hackers Chain Chrome and Windows Zero-Days to Deploy Backdoors and Steal Credentials",
+            "link": "https://cyberpress.org/chinese-hackers-chain-chrome-and-windows-zero-days/"
+        }
+    ],
+    "CVE-2026-85102": [
+        {
+            "title": "Check Point Discloses Two Critical VPN Vulnerabilities Allowing RCE",
+            "link": "https://www.cysecurity.news/2026/09/check-point-discloses-two-critical-vpn.html"
+        }
+    ],
+    "CVE-2026-85103": [
+        {
+            "title": "Check Point Discloses Two Critical VPN Vulnerabilities Allowing RCE",
+            "link": "https://www.cysecurity.news/2026/09/check-point-discloses-two-critical-vpn.html"
+        }
     ]
 }
