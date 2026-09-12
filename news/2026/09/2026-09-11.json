@@ -199,18 +199,30 @@
         {
             "title": "VLC Media Player Flaws Let Attackers Corrupt Memory and Leak Sensitive Data",
             "link": "https://gbhackers.com/vlc-media-player-flaws/"
+        },
+        {
+            "title": "VLC Media Player Flaws Let Attackers Corrupt Memory and Leak Sensitive Data",
+            "link": "https://cyberpress.org/vlc-media-player-flaws/"
         }
     ],
     "CVE-2026-67277": [
         {
             "title": "CISA Adds Exploited MikroTik RouterOS Flaws to Security Alert",
             "link": "https://gbhackers.com/cisa-adds-exploited-mikrotik-routeros-flaws/"
+        },
+        {
+            "title": "CISA Warns MikroTik RouterOS Flaw Is Exploited to Escalate Privileges",
+            "link": "https://cyberpress.org/cisa-warns-mikrotik-routeros-flaw/"
         }
     ],
     "CVE-2026-86060": [
         {
             "title": "CISA Adds Exploited MikroTik RouterOS Flaws to Security Alert",
             "link": "https://gbhackers.com/cisa-adds-exploited-mikrotik-routeros-flaws/"
+        },
+        {
+            "title": "CISA Warns MikroTik RouterOS Flaw Is Exploited to Escalate Privileges",
+            "link": "https://cyberpress.org/cisa-warns-mikrotik-routeros-flaw/"
         }
     ],
     "CVE-2026-65638": [
@@ -221,6 +233,10 @@
         {
             "title": "cPanel ConfigServer Security & Firewall Vulnerability Allows Remote Attacker to Execute Arbitrary Commands",
             "link": "https://cybersecuritynews.com/cpanel-configserver-security-firewall-vulnerability/"
+        },
+        {
+            "title": "Critical ConfigServer Security & Firewall Flaw Lets Remote Attackers Execute Arbitrary Commands",
+            "link": "https://cyberpress.org/critical-configserver-security-firewall-flaw/"
         }
     ],
     "CVE-2026-69414": [
@@ -323,6 +339,12 @@
         {
             "title": "CISA KEV Addition: CVE-2026-84869",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-84869"
+        }
+    ],
+    "CVE-2026-73324": [
+        {
+            "title": "VLC Media Player Flaws Let Attackers Corrupt Memory and Leak Sensitive Data",
+            "link": "https://cyberpress.org/vlc-media-player-flaws/"
         }
     ]
 }

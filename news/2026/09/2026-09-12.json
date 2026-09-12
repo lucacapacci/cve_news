@@ -1,0 +1,22 @@
+{
+    "CVE-2026-85706": [
+        {
+            "title": "CISA Warns of Critical GitLab Vulnerability Exploited in Attacks",
+            "link": "https://gbhackers.com/cisa-warns-of-critical-gitlab-vulnerability-exploited-in-attacks/"
+        },
+        {
+            "title": "CISA Warns of Critical GitLab Path Traversal Flaw Exploited to Read Arbitrary Server Files",
+            "link": "https://cyberpress.org/cisa-warns-of-critical-gitlab-path-traversal-flaw-exploited-to-read-arbitrary-server-files/"
+        },
+        {
+            "title": "CISA Warns of GitLab Path Traversal Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-gitlab-path-traversal/"
+        }
+    ],
+    "CVE-2026-75650": [
+        {
+            "title": "U.S. CISA adds Microsoft Windows, N-able N-central, and Adobe flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/198802/hacking/u-s-cisa-adds-microsoft-windows-n-able-n-central-and-adobe-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ]
+}
