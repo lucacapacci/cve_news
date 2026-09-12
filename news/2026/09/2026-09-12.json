@@ -41,12 +41,56 @@
         {
             "title": "Check Point Discloses Two Critical VPN Vulnerabilities Allowing RCE",
             "link": "https://www.cysecurity.news/2026/09/check-point-discloses-two-critical-vpn.html"
+        },
+        {
+            "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+            "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/"
         }
     ],
     "CVE-2026-85103": [
         {
             "title": "Check Point Discloses Two Critical VPN Vulnerabilities Allowing RCE",
             "link": "https://www.cysecurity.news/2026/09/check-point-discloses-two-critical-vpn.html"
+        },
+        {
+            "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
+            "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/"
+        }
+    ],
+    "CVE-2026-82079": [
+        {
+            "title": "Nintendo Switch Security Flaw Lets Nearby Attackers Exploit QR Codes Used to Share Screenshots",
+            "link": "https://www.cysecurity.news/2026/09/nintendo-switch-security-flaw-lets.html"
+        }
+    ],
+    "CVE-2021-38003": [
+        {
+            "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+            "link": "https://www.cysecurity.news/2026/09/china-linked-unc3569-exploited-sogou.html"
+        }
+    ],
+    "CVE-2026-51990": [
+        {
+            "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+            "link": "https://www.cysecurity.news/2026/09/china-linked-unc3569-exploited-sogou.html"
+        }
+    ],
+    "CVE-2026-56711": [
+        {
+            "title": "Multiple VLC Media Player Vulnerabilities Allow Attackers to Corrupt or Read Heap Memory",
+            "link": "https://cybersecuritynews.com/multiple-vlc-media-player-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-73324": [
+        {
+            "title": "Multiple VLC Media Player Vulnerabilities Allow Attackers to Corrupt or Read Heap Memory",
+            "link": "https://cybersecuritynews.com/multiple-vlc-media-player-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20079": [
+        {
+            "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+            "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html"
         }
     ]
 }
