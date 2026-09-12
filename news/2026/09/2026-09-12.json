@@ -92,5 +92,11 @@
             "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
             "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html"
         }
+    ],
+    "CVE-2026-42016": [
+        {
+            "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
+            "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
+        }
     ]
 }
