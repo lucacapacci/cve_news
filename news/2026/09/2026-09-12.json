@@ -23,6 +23,10 @@
         {
             "title": "Chinese Hackers Chain Chrome and Windows Zero-Days to Deploy Backdoors and Steal Credentials",
             "link": "https://cyberpress.org/chinese-hackers-chain-chrome-and-windows-zero-days/"
+        },
+        {
+            "title": "Microsoft Patches Nearly 1,000 Vulnerabilities in September Update",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-patches-nearly-1000.html"
         }
     ],
     "CVE-2026-87491": [
@@ -97,6 +101,18 @@
         {
             "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
             "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html"
+        }
+    ],
+    "CVE-2026-65669": [
+        {
+            "title": "Microsoft Patches Nearly 1,000 Vulnerabilities in September Update",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-patches-nearly-1000.html"
+        }
+    ],
+    "CVE-2026-81963": [
+        {
+            "title": "Microsoft Patches Nearly 1,000 Vulnerabilities in September Update",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-patches-nearly-1000.html"
         }
     ]
 }
