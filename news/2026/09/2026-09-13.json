@@ -44,5 +44,11 @@
             "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
             "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
         }
+    ],
+    "CVE-2026-51990": [
+        {
+            "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/"
+        }
     ]
 }
