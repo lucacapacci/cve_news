@@ -10,5 +10,11 @@
             "title": "Plesk Backup Manager Flaw Lets Low-Privileged Users Gain Root Access to Servers",
             "link": "https://cybersecuritynews.com/plesk-backup-manager-flaw/"
         }
+    ],
+    "CVE-2026-85706": [
+        {
+            "title": "GitLab CVE-2026-85706: One HTTP Request, No Authentication, Full File Read \u2013 Exploited Within 24 Hours",
+            "link": "https://securityaffairs.com/198945/hacking/gitlab-cve-2026-85706-one-http-request-no-authentication-full-file-read-exploited-within-24-hours.html"
+        }
     ]
 }
