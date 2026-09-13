@@ -15,6 +15,34 @@
         {
             "title": "GitLab CVE-2026-85706: One HTTP Request, No Authentication, Full File Read \u2013 Exploited Within 24 Hours",
             "link": "https://securityaffairs.com/198945/hacking/gitlab-cve-2026-85706-one-http-request-no-authentication-full-file-read-exploited-within-24-hours.html"
+        },
+        {
+            "title": "GitLab's Worst-Rated Vulnerability Is Already Being Exploited",
+            "link": "https://www.cysecurity.news/2026/09/gitlabs-worst-rated-vulnerability-is.html"
+        }
+    ],
+    "CVE-2026-87719": [
+        {
+            "title": "GitLab's Worst-Rated Vulnerability Is Already Being Exploited",
+            "link": "https://www.cysecurity.news/2026/09/gitlabs-worst-rated-vulnerability-is.html"
+        }
+    ],
+    "CVE-2026-88765": [
+        {
+            "title": "GitLab's Worst-Rated Vulnerability Is Already Being Exploited",
+            "link": "https://www.cysecurity.news/2026/09/gitlabs-worst-rated-vulnerability-is.html"
+        }
+    ],
+    "CVE-2026-19478": [
+        {
+            "title": "GitLab's Worst-Rated Vulnerability Is Already Being Exploited",
+            "link": "https://www.cysecurity.news/2026/09/gitlabs-worst-rated-vulnerability-is.html"
+        }
+    ],
+    "CVE-2026-70416": [
+        {
+            "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+            "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
         }
     ]
 }
