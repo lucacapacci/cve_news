@@ -3,18 +3,30 @@
         {
             "title": "GitHub Pays $100,000 Bounty for Critical RCE Flaw in Git Push Pipeline",
             "link": "https://cybersecuritynews.com/github-pays-bounty-for-rce-flaw-in-git-push/"
+        },
+        {
+            "title": "GitHub Pays $100,000 Bounty for Critical RCE Flaw Triggered by a Single Git Push",
+            "link": "https://cyberpress.org/github-pays-100000-bounty-for-critical-rce-flaw/"
         }
     ],
     "CVE-2026-85102": [
         {
             "title": "NCSC Warns of Critical Check Point VPN Flaws as Large-Scale Exploitation Is Expected",
             "link": "https://cybersecuritynews.com/ncsc-warns-check-point-vpn-flaws-exploitation/"
+        },
+        {
+            "title": "Critical Check Point VPN Flaws Could Face Large-Scale Exploitation, NCSC Warns",
+            "link": "https://cyberpress.org/critical-check-point-vpn-flaws-2/"
         }
     ],
     "CVE-2026-85103": [
         {
             "title": "NCSC Warns of Critical Check Point VPN Flaws as Large-Scale Exploitation Is Expected",
             "link": "https://cybersecuritynews.com/ncsc-warns-check-point-vpn-flaws-exploitation/"
+        },
+        {
+            "title": "Critical Check Point VPN Flaws Could Face Large-Scale Exploitation, NCSC Warns",
+            "link": "https://cyberpress.org/critical-check-point-vpn-flaws-2/"
         }
     ],
     "CVE-2026-51990": [
@@ -183,12 +195,50 @@
         {
             "title": "AWS Systems Manager Agent Vulnerability Allows Attackers to Bypass Port-Forwarding Restrictions",
             "link": "https://cybersecuritynews.com/aws-systems-manager-agent-vulnerability/"
+        },
+        {
+            "title": "Critical AWS Flaw Lets Attackers Bypass Port Forwarding Restrictions and Steal IAM Credentials",
+            "link": "https://cyberpress.org/critical-aws-flaw/"
         }
     ],
     "CVE-2026-43502": [
         {
             "title": "New ZcopyReaper Linux Kernel Vulnerability Enables Privilege Escalation Attacks",
             "link": "https://cybersecuritynews.com/zcopyreaper-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-85706": [
+        {
+            "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
+            "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk"
+        },
+        {
+            "title": "GitLab\u2019s Perfect-Score Flaw Exposes Servers to Unauthenticated File Theft as CISA Sounds Alarm",
+            "link": "https://www.webpronews.com/gitlabs-perfect-score-flaw-exposes-servers-to-unauthenticated-file-theft-as-cisa-sounds-alarm/"
+        }
+    ],
+    "CVE-2026-66066": [
+        {
+            "title": "Ruby\u2019s Wake-Up Call: When OpenAI Agents Flooded RubyGems With Malicious Packages",
+            "link": "https://www.webpronews.com/rubys-wake-up-call-when-openai-agents-flooded-rubygems-with-malicious-packages/"
+        }
+    ],
+    "CVE-2026-61511": [
+        {
+            "title": "Critical vBulletin Pre-Auth RCE Flaw Enables Arbitrary PHP Code Execution",
+            "link": "https://cyberpress.org/critical-vbulletin-pre-auth-rce-flaw/"
+        }
+    ],
+    "CVE-2026-19490": [
+        {
+            "title": "Microsoft 365 Passkey Phishing Turns Login Into a Cloud Breach",
+            "link": "https://www.esecurityplanet.com/threats/news-passkey-phishing-microsoft-365-cloud-data/"
+        }
+    ],
+    "CVE-2026-76461": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-76461",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-76461"
         }
     ]
 }
