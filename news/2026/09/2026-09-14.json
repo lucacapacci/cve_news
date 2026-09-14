@@ -22,5 +22,173 @@
             "title": "China-Linked Hackers Exploit Sogou One-Click RCE to Deploy GRAYRABBIT Backdoor",
             "link": "https://gbhackers.com/grayrabbit-backdoor/"
         }
+    ],
+    "CVE-2025-22050": [
+        {
+            "title": "ZDI-26-702: Linux Kernel usbnet Driver Race Condition Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-702/"
+        }
+    ],
+    "CVE-2026-64046": [
+        {
+            "title": "ZDI-26-701: Linux Kernel TLS Protocol Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-701/"
+        }
+    ],
+    "CVE-2026-22999": [
+        {
+            "title": "ZDI-26-700: Linux Kernel QFQ Plus Scheduler Use-After-Free Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-700/"
+        }
+    ],
+    "CVE-2026-72196": [
+        {
+            "title": "ZDI-26-696: Linux Kernel NTFS3 Journal Heap-based Buffer Overflow Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-696/"
+        }
+    ],
+    "CVE-2026-89688": [
+        {
+            "title": "ZDI-26-695: Linux Kernel NFSv4 Server Race Condition Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-695/"
+        }
+    ],
+    "CVE-2026-23413": [
+        {
+            "title": "ZDI-26-694: Linux Kernel Net Scheduler Clsact Qdisc Use-After-Free Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-694/"
+        }
+    ],
+    "CVE-2026-31583": [
+        {
+            "title": "ZDI-26-692: Linux Kernel eMPIA USB Device Driver Race Condition Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-692/"
+        }
+    ],
+    "CVE-2026-53182": [
+        {
+            "title": "ZDI-26-691: Linux Kernel Netlink-based Wireless Configuration Integer Overflow Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-691/"
+        }
+    ],
+    "CVE-2026-45930": [
+        {
+            "title": "ZDI-26-690: Linux Kernel MCTP Routing Uninitialized Memory Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-690/"
+        }
+    ],
+    "CVE-2026-46227": [
+        {
+            "title": "ZDI-26-689: Linux Kernel SCTP Subsystem Race Condition Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-689/"
+        }
+    ],
+    "CVE-2026-74465": [
+        {
+            "title": "ZDI-26-688: Linux Kernel OpenvSwitch Race Condition Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-688/"
+        }
+    ],
+    "CVE-2026-80994": [
+        {
+            "title": "ZDI-26-687: Linux Kernel Open vSwitch Flow Delete Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-687/"
+        }
+    ],
+    "CVE-2026-74565": [
+        {
+            "title": "ZDI-26-686: Linux Kernel nftables Race Condition Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-686/"
+        }
+    ],
+    "CVE-2025-38416": [
+        {
+            "title": "ZDI-26-685: Linux Kernel NFC NCI UART Driver Race Condition Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-685/"
+        }
+    ],
+    "CVE-2026-64397": [
+        {
+            "title": "ZDI-26-684: Linux Kernel KSMBD Query Directory Request Race Condition Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-684/"
+        }
+    ],
+    "CVE-2026-72463": [
+        {
+            "title": "ZDI-26-683: Linux Kernel IPv6 VTI Subsystem Use-After-Free Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-683/"
+        }
+    ],
+    "CVE-2026-43040": [
+        {
+            "title": "ZDI-26-682: Linux Kernel IPv6 Neighbour Discovery Uninitialized Memory Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-682/"
+        }
+    ],
+    "CVE-2026-64265": [
+        {
+            "title": "ZDI-26-681: Linux Kernel FUSE Subsystem Race Condition Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-681/"
+        }
+    ],
+    "CVE-2026-31719": [
+        {
+            "title": "ZDI-26-680: Linux Kernel Crypto Subsystem Use-After-Free Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-680/"
+        }
+    ],
+    "CVE-2024-21762": [
+        {
+            "title": "Hackers Exploit FortiGate SSL-VPN Vulnerability to Attack Broadband Provider",
+            "link": "https://cybersecuritynews.com/fortigate-ssl-vpn-vulnerability/"
+        }
+    ],
+    "CVE-2024-45811": [
+        {
+            "title": "Hackers Mass-Scan Exposed Vite Servers to Steal AWS and Azure Cloud Credentials",
+            "link": "https://cybersecuritynews.com/vite-servers-under-attack/"
+        }
+    ],
+    "CVE-2025-31125": [
+        {
+            "title": "Hackers Mass-Scan Exposed Vite Servers to Steal AWS and Azure Cloud Credentials",
+            "link": "https://cybersecuritynews.com/vite-servers-under-attack/"
+        }
+    ],
+    "CVE-2025-29927": [
+        {
+            "title": "Hackers Mass-Scan Exposed Vite Servers to Steal AWS and Azure Cloud Credentials",
+            "link": "https://cybersecuritynews.com/vite-servers-under-attack/"
+        }
+    ],
+    "CVE-2026-39364": [
+        {
+            "title": "Hackers Mass-Scan Exposed Vite Servers to Steal AWS and Azure Cloud Credentials",
+            "link": "https://cybersecuritynews.com/vite-servers-under-attack/"
+        }
+    ],
+    "CVE-2025-30208": [
+        {
+            "title": "Hackers Mass-Scan Exposed Vite Servers to Steal AWS and Azure Cloud Credentials",
+            "link": "https://cybersecuritynews.com/vite-servers-under-attack/"
+        }
+    ],
+    "CVE-2026-82079": [
+        {
+            "title": "Nintendo Switch Vulnerability Allows Attackers to Run Unauthorized Code on Your Console",
+            "link": "https://cybersecuritynews.com/nintendo-switch-code-execution-flaw/"
+        }
+    ],
+    "CVE-2026-89049": [
+        {
+            "title": "AWS Systems Manager Agent Vulnerability Allows Attackers to Bypass Port-Forwarding Restrictions",
+            "link": "https://cybersecuritynews.com/aws-systems-manager-agent-vulnerability/"
+        }
+    ],
+    "CVE-2026-43502": [
+        {
+            "title": "New ZcopyReaper Linux Kernel Vulnerability Enables Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/zcopyreaper-linux-kernel-vulnerability/"
+        }
     ]
 }
