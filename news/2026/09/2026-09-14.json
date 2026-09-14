@@ -1,0 +1,26 @@
+{
+    "CVE-2026-3854": [
+        {
+            "title": "GitHub Pays $100,000 Bounty for Critical RCE Flaw in Git Push Pipeline",
+            "link": "https://cybersecuritynews.com/github-pays-bounty-for-rce-flaw-in-git-push/"
+        }
+    ],
+    "CVE-2026-85102": [
+        {
+            "title": "NCSC Warns of Critical Check Point VPN Flaws as Large-Scale Exploitation Is Expected",
+            "link": "https://cybersecuritynews.com/ncsc-warns-check-point-vpn-flaws-exploitation/"
+        }
+    ],
+    "CVE-2026-85103": [
+        {
+            "title": "NCSC Warns of Critical Check Point VPN Flaws as Large-Scale Exploitation Is Expected",
+            "link": "https://cybersecuritynews.com/ncsc-warns-check-point-vpn-flaws-exploitation/"
+        }
+    ],
+    "CVE-2026-51990": [
+        {
+            "title": "China-Linked Hackers Exploit Sogou One-Click RCE to Deploy GRAYRABBIT Backdoor",
+            "link": "https://gbhackers.com/grayrabbit-backdoor/"
+        }
+    ]
+}

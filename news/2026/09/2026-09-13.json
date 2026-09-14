@@ -50,5 +50,65 @@
             "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
             "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/"
         }
+    ],
+    "CVE-2025-43936": [
+        {
+            "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+            "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-34477": [
+        {
+            "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+            "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-34743": [
+        {
+            "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+            "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-34480": [
+        {
+            "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+            "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-26947": [
+        {
+            "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+            "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-34478": [
+        {
+            "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+            "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-76104": [
+        {
+            "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+            "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-36591": [
+        {
+            "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+            "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-43499": [
+        {
+            "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+            "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-31694": [
+        {
+            "title": "Critical Dell ObjectScale Vulnerabilities Allows Malicious Users to Compromise the Affected system",
+            "link": "https://cybersecuritynews.com/dell-objectscale-vulnerabilities/"
+        }
     ]
 }
