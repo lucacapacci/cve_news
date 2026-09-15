@@ -916,5 +916,17 @@
             "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
             "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/"
         }
+    ],
+    "CVE-2026-91131": [
+        {
+            "title": "ZDI-26-563: (Pwn2Own) Home Assistant Green Simple Service Discovery Protocol Server-Side Request Forgery Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-563/"
+        }
+    ],
+    "CVE-2026-91129": [
+        {
+            "title": "ZDI-26-562: (Pwn2Own) Home Assistant Green mDNS Server-Side Request Forgery Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-562/"
+        }
     ]
 }
