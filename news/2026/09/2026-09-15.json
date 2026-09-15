@@ -15,6 +15,14 @@
         {
             "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
             "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/"
+        },
+        {
+            "title": "Cisco patches actively exploited email gateway zero-day (CVE-2026-76461)",
+            "link": "https://www.helpnetsecurity.com/2026/09/15/cve-2026-76461-cisco-email-gateway-zero-day-exploited/"
+        },
+        {
+            "title": "Cisco Warns of Ongoing Exploitation of Critical Email Gateway Zero-Day",
+            "link": "https://securityaffairs.com/199137/hacking/cisco-warns-of-ongoing-exploitation-of-critical-email-gateway-zero-day.html"
         }
     ],
     "CVE-2026-78006": [
@@ -67,6 +75,18 @@
         {
             "title": "Linux Kernel ZcopyReaper Vulnerability Lets Local Attackers Gain Root Privileges",
             "link": "https://gbhackers.com/linux-kernel-zcopyreaper-vulnerability/"
+        }
+    ],
+    "CVE-2026-19478": [
+        {
+            "title": "CISA Warns of Active GitLab Exploitation as Attackers Target Server Files",
+            "link": "https://www.esecurityplanet.com/threats/news-cisa-active-gitlab-exploitation-server-files/"
+        }
+    ],
+    "CVE-2026-85706": [
+        {
+            "title": "CISA Warns of Active GitLab Exploitation as Attackers Target Server Files",
+            "link": "https://www.esecurityplanet.com/threats/news-cisa-active-gitlab-exploitation-server-files/"
         }
     ]
 }
