@@ -7,6 +7,66 @@
         {
             "title": "Hackers Exploit Critical Cisco Secure Email Gateway Flaw to Execute Commands as Root",
             "link": "https://cyberpress.org/hackers-exploit-critical-cisco-secure-email-gateway-flaw/"
+        },
+        {
+            "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
+            "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html"
+        },
+        {
+            "title": "Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation",
+            "link": "https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/"
+        }
+    ],
+    "CVE-2026-78006": [
+        {
+            "title": "Critical WordPress Plugin Flaws Put Over 600,000 Websites at Risk of Takeover",
+            "link": "https://cybersecuritynews.com/critical-wordpress-plugin-flaws/"
+        }
+    ],
+    "CVE-2026-78159": [
+        {
+            "title": "Critical WordPress Plugin Flaws Put Over 600,000 Websites at Risk of Takeover",
+            "link": "https://cybersecuritynews.com/critical-wordpress-plugin-flaws/"
+        }
+    ],
+    "CVE-2026-60004": [
+        {
+            "title": "Hackers Actively Exploiting Gitea n-day RCE Vulnerability in the Wild to Hijack Instances",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-gitea-n-day-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-81954": [
+        {
+            "title": "Microsoft Confirms KB5002914 Update Breaks Copy and Paste on Excel",
+            "link": "https://cybersecuritynews.com/kb5002914-update-breaks-copy-paste/"
+        }
+    ],
+    "CVE-2026-81390": [
+        {
+            "title": "Microsoft Confirms KB5002914 Update Breaks Copy and Paste on Excel",
+            "link": "https://cybersecuritynews.com/kb5002914-update-breaks-copy-paste/"
+        }
+    ],
+    "CVE-2026-81399": [
+        {
+            "title": "Microsoft Confirms KB5002914 Update Breaks Copy and Paste on Excel",
+            "link": "https://cybersecuritynews.com/kb5002914-update-breaks-copy-paste/"
+        }
+    ],
+    "CVE-2026-39987": [
+        {
+            "title": "Hackers Exploit Marimo RCE to Steal AWS Credentials and Reach Bastion Host in 8 Seconds",
+            "link": "https://cybersecuritynews.com/marimo-rce-to-steal-aws-credentials-in-8-seconds/"
+        },
+        {
+            "title": "Marimo RCE Flaw Lets Hackers Steal AWS Credentials and Pivot to Bastion Host in 8 Seconds",
+            "link": "https://gbhackers.com/marimo-rce-flaw/"
+        }
+    ],
+    "CVE-2026-43502": [
+        {
+            "title": "Linux Kernel ZcopyReaper Vulnerability Lets Local Attackers Gain Root Privileges",
+            "link": "https://gbhackers.com/linux-kernel-zcopyreaper-vulnerability/"
         }
     ]
 }
