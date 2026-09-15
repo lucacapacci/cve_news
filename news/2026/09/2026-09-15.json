@@ -23,6 +23,10 @@
         {
             "title": "Cisco Warns of Ongoing Exploitation of Critical Email Gateway Zero-Day",
             "link": "https://securityaffairs.com/199137/hacking/cisco-warns-of-ongoing-exploitation-of-critical-email-gateway-zero-day.html"
+        },
+        {
+            "title": "CISA Warns of Cisco Secure Email Gateway 0-Day Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisco-secure-email-gateway-0-day-vulnerability-exploited/"
         }
     ],
     "CVE-2026-78006": [
@@ -87,6 +91,18 @@
         {
             "title": "CISA Warns of Active GitLab Exploitation as Attackers Target Server Files",
             "link": "https://www.esecurityplanet.com/threats/news-cisa-active-gitlab-exploitation-server-files/"
+        }
+    ],
+    "CVE-2026-20316": [
+        {
+            "title": "Cisco FMC Flaws Give Ransomware and APTs a Path Into Internal Networks",
+            "link": "https://www.esecurityplanet.com/threats/news-cisco-fmc-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20079": [
+        {
+            "title": "Cisco FMC Flaws Give Ransomware and APTs a Path Into Internal Networks",
+            "link": "https://www.esecurityplanet.com/threats/news-cisco-fmc-vulnerabilities/"
         }
     ]
 }
