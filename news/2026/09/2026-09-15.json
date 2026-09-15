@@ -1,0 +1,12 @@
+{
+    "CVE-2026-76461": [
+        {
+            "title": "Hackers Exploit Critical Cisco Secure Email Gateway Vulnerability in the Wild to Run Malicious Code",
+            "link": "https://cybersecuritynews.com/cisco-secure-email-gateway-flaw-exploited/"
+        },
+        {
+            "title": "Hackers Exploit Critical Cisco Secure Email Gateway Flaw to Execute Commands as Root",
+            "link": "https://cyberpress.org/hackers-exploit-critical-cisco-secure-email-gateway-flaw/"
+        }
+    ]
+}
