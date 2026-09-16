@@ -35,12 +35,28 @@
         {
             "title": "Acronis Backup Plugin Vulnerability in cPanel and Plesk Exploited in the Wild",
             "link": "https://cyberpress.org/acronis-backup-plugin-vulnerability-in-cpanel-and-plesk-exploited-in-the-wild/"
+        },
+        {
+            "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+            "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html"
         }
     ],
     "CVE-2026-58704": [
         {
             "title": "Android 0-day Vulnerability on Google Pixel Devices Actively Exploited in Attacks",
             "link": "https://cybersecuritynews.com/android-pixel-zero-day/"
+        },
+        {
+            "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+            "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html"
+        },
+        {
+            "title": "Pixel Modem Zero-Day Exploited in Targeted Attacks",
+            "link": "https://www.securityweek.com/pixel-modem-zero-day-exploited-in-targeted-attacks/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-58704",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-58704"
         }
     ],
     "CVE-2026-28662": [
@@ -57,6 +73,10 @@
         {
             "title": "Parallels Desktop Flaw Lets Unprivileged Mac Users Gain Root Access",
             "link": "https://cyberpress.org/parallels-desktop-flaw/"
+        },
+        {
+            "title": "Parallels Desktop flaw hands any local user root on a Mac (CVE-2026-90894)",
+            "link": "https://www.helpnetsecurity.com/2026/09/16/parallels-desktop-cve-2026-90894-parashells-vulnerability/"
         }
     ],
     "CVE-2026-23980": [
@@ -89,6 +109,144 @@
         {
             "title": "36,769 Self-Hosted AI Services Exposed Online \u2014 What Security Teams Should Check",
             "link": "https://www.esecurityplanet.com/news/news-self-hosted-ai-security/"
+        }
+    ],
+    "CVE-2026-92207": [
+        {
+            "title": "ZDI-26-707: (0Day) MindsDB OpenBBtable Code Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-707/"
+        }
+    ],
+    "CVE-2026-92206": [
+        {
+            "title": "ZDI-26-706: (0Day) CrewAI crewAI Framework Agent Loading Unsafe Reflection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-706/"
+        }
+    ],
+    "CVE-2026-92205": [
+        {
+            "title": "ZDI-26-705: (0Day) BusyBox libarchive Symlink Directory Traversal Arbitrary File Creation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-705/"
+        }
+    ],
+    "CVE-2026-92204": [
+        {
+            "title": "ZDI-26-704: (0Day) Airbyte OneDrive Connector _get_shared_drive_object Server-Side Request Forgery Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-704/"
+        }
+    ],
+    "CVE-2026-92203": [
+        {
+            "title": "ZDI-26-703: (0Day) Airbyte SharePoint Connector _get_shared_drive_object Server-Side Request Forgery Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-703/"
+        }
+    ],
+    "CVE-2026-83196": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83269": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83229": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83283": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83462": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83202": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83154": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83452": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83327": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83201": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83282": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83268": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-83197": [
+        {
+            "title": "Oracle Critical Security Patch Update, September 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2025-20393": [
+        {
+            "title": "Cisco Secure Email Gateway Zero-Day Exploited for Root Command Execution",
+            "link": "https://www.esecurityplanet.com/threats/news-cisco-secure-email-gateway-cve-2026-76461/"
+        }
+    ],
+    "CVE-2026-76461": [
+        {
+            "title": "Cisco Secure Email Gateway Zero-Day Exploited for Root Command Execution",
+            "link": "https://www.esecurityplanet.com/threats/news-cisco-secure-email-gateway-cve-2026-76461/"
+        }
+    ],
+    "CVE-2026-89026": [
+        {
+            "title": "Critical Issabel PBX Command Execution Vulnerability Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/issabel-pbx-command-execution-vulnerability/"
+        }
+    ],
+    "CVE-2026-15316": [
+        {
+            "title": "TP-Link Cameras 0-Day Vulnerabilities Allow Attackers to Spy on Users",
+            "link": "https://cybersecuritynews.com/tp-link-cameras-0-day-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-15315": [
+        {
+            "title": "TP-Link Cameras 0-Day Vulnerabilities Allow Attackers to Spy on Users",
+            "link": "https://cybersecuritynews.com/tp-link-cameras-0-day-vulnerabilities/"
         }
     ]
 }
