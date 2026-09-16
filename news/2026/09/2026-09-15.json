@@ -31,6 +31,10 @@
         {
             "title": "U.S. CISA adds Cisco Secure Email Gateway flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/199156/security/u-s-cisa-adds-cisco-secure-email-gateway-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "Cisco Email Gateways Fall to One Malicious Message: Root Access via SQL Injection Now in the Wild",
+            "link": "https://www.webpronews.com/cisco-email-gateways-fall-to-one-malicious-message-root-access-via-sql-injection-now-in-the-wild/"
         }
     ],
     "CVE-2026-78006": [
@@ -113,6 +117,72 @@
         {
             "title": "Hackers Actively Exploit Critical WooCommerce Plugin Vulnerability to Upload PHP Backdoors",
             "link": "https://gbhackers.com/woocommerce-plugin-vulnerability/"
+        }
+    ],
+    "CVE-2026-43692": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-86898": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-84568": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65395": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-84607": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65393": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64753": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-64752": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65400": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65414": [
+        {
+            "title": "Apple Rolls Out Massive Security Update Fixing 273 Vulnerabilities Across Its Devices",
+            "link": "https://cybersecuritynews.com/apple-security-update-273-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-20393": [
+        {
+            "title": "Cisco Email Gateways Fall to One Malicious Message: Root Access via SQL Injection Now in the Wild",
+            "link": "https://www.webpronews.com/cisco-email-gateways-fall-to-one-malicious-message-root-access-via-sql-injection-now-in-the-wild/"
         }
     ]
 }
