@@ -47,6 +47,10 @@
         {
             "title": "Acronis Discloses Actively Exploited Privilege Escalation Bug in Its cPanel Backup Plugin",
             "link": "https://www.cysecurity.news/2026/09/acronis-discloses-actively-exploited.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-87886",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-87886"
         }
     ],
     "CVE-2026-58704": [
