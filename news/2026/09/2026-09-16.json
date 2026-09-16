@@ -558,5 +558,17 @@
             "title": "CISA KEV Addition: CVE-2026-76460",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-76460"
         }
+    ],
+    "CVE-2026-0628": [
+        {
+            "title": "One Malicious Extension Can Seize Control of Browser AI Agents in Chrome, Edge and Beyond",
+            "link": "https://www.webpronews.com/one-malicious-extension-can-seize-control-of-browser-ai-agents-in-chrome-edge-and-beyond/"
+        }
+    ],
+    "CVE-2026-55945": [
+        {
+            "title": "One Malicious Extension Can Seize Control of Browser AI Agents in Chrome, Edge and Beyond",
+            "link": "https://www.webpronews.com/one-malicious-extension-can-seize-control-of-browser-ai-agents-in-chrome-edge-and-beyond/"
+        }
     ]
 }
