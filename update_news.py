@@ -47,7 +47,7 @@ def extract_cves(text):
     matches = re.findall(CVE_REGEX, text, re.IGNORECASE)
     return {m.replace('—', '-').replace('–', '-').upper() for m in matches}
 
-def save_cve_entry(date_str, cve_id, title, link):
+def save_cve_entry(date_str, cve_id, title, link, list_only=False):
     print(f"Saving {cve_id} for {date_str}")
 
     is_itsec = "itsecuritynews.info" in link
@@ -155,7 +155,11 @@ def save_cve_entry(date_str, cve_id, title, link):
         news_data[cve_id] = []
     
     if not any(item.get('link') == link for item in news_data[cve_id]):
-        news_data[cve_id].append({"title": title, "link": link})
+        new_entry = {"title": title, "link": link}
+        if list_only:
+            new_entry["listOnly"] = True
+            
+        news_data[cve_id].append(new_entry)
         with open(news_file, 'w') as f:
             json.dump(news_data, f, indent=4)
 
@@ -225,9 +229,21 @@ def process_rss_feeds():
             except:
                 date_str = datetime.now().strftime('%Y-%m-%d')
 
-            found_cves = extract_cves(f"{title} {description} {content}")
+            full_text = f"{title} {description} {content}"
+            
+            # Extract just the tables, and the text without tables
+            table_matches = re.findall(r'<table[^>]*>.*?</table>', full_text, flags=re.IGNORECASE | re.DOTALL)
+            table_text = " ".join(table_matches)
+            non_table_text = re.sub(r'<table[^>]*>.*?</table>', '', full_text, flags=re.IGNORECASE | re.DOTALL)
+            
+            found_cves = extract_cves(full_text)
+            table_cves = extract_cves(table_text)
+            non_table_cves = extract_cves(non_table_text)
+
             for cve in found_cves:
-                save_cve_entry(date_str, cve, title, link)
+                # True if the CVE is in the tables but nowhere else in the article
+                is_list_only = (cve in table_cves) and (cve not in non_table_cves)
+                save_cve_entry(date_str, cve, title, link, is_list_only)
 
 def process_cisa_kev():
     print(f"Fetching CISA KEV...")
