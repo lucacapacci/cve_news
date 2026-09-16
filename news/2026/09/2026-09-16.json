@@ -4,5 +4,91 @@
             "title": "Google Chrome 153 Update Fixes 42 Security Flaws, Including 3 Critical Ones",
             "link": "https://cybersecuritynews.com/google-chrome-fixes-42-flaws/"
         }
+    ],
+    "CVE-2026-5430": [
+        {
+            "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+            "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html"
+        },
+        {
+            "title": "Enterprises Warned of Attacks Exploiting WSO2 Vulnerability",
+            "link": "https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/"
+        }
+    ],
+    "CVE-2026-87886": [
+        {
+            "title": "Acronis Patches Exploited Vulnerability in cPanel Backup Plugin",
+            "link": "https://www.securityweek.com/acronis-patches-exploited-vulnerability-in-cpanel-backup-plugin/"
+        },
+        {
+            "title": "Acronis Plugin Vulnerability in cPanel and Plesk Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/acronis-plugin-vulnerability-exploited/"
+        },
+        {
+            "title": "Acronis Backup Plugin Vulnerability Exploited in the Wild to Gain Elevated Linux Privileges",
+            "link": "https://gbhackers.com/acronis-backup-plugin-vulnerability/"
+        },
+        {
+            "title": "Acronis backup plugin flaw exploited in targeted attacks (CVE-2026-87886)",
+            "link": "https://www.helpnetsecurity.com/2026/09/16/acronis-backup-plugin-vulnerability-exploited-cve-2026-87886/"
+        },
+        {
+            "title": "Acronis Backup Plugin Vulnerability in cPanel and Plesk Exploited in the Wild",
+            "link": "https://cyberpress.org/acronis-backup-plugin-vulnerability-in-cpanel-and-plesk-exploited-in-the-wild/"
+        }
+    ],
+    "CVE-2026-58704": [
+        {
+            "title": "Android 0-day Vulnerability on Google Pixel Devices Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/android-pixel-zero-day/"
+        }
+    ],
+    "CVE-2026-28662": [
+        {
+            "title": "Android 0-day Vulnerability on Google Pixel Devices Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/android-pixel-zero-day/"
+        }
+    ],
+    "CVE-2026-90894": [
+        {
+            "title": "Parallels Desktop Vulnerability Lets Non-Admin Mac Users Execute Code as Root",
+            "link": "https://cybersecuritynews.com/parallels-desktop-vulnerability/"
+        },
+        {
+            "title": "Parallels Desktop Flaw Lets Unprivileged Mac Users Gain Root Access",
+            "link": "https://cyberpress.org/parallels-desktop-flaw/"
+        }
+    ],
+    "CVE-2026-23980": [
+        {
+            "title": "Public PoC Released for Apache Superset SQL Injection Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-apache-superset-sql-injection/"
+        },
+        {
+            "title": "Apache Superset SQL Injection Flaw Gets Public PoC Exploit",
+            "link": "https://gbhackers.com/apache-superset-sql-injection-flaw/"
+        },
+        {
+            "title": "PoC Exploit Released for Apache Superset SQL Injection Vulnerability",
+            "link": "https://cyberpress.org/poc-exploit-released-apache-superset-sql-injection/"
+        }
+    ],
+    "CVE-2026-62721": [
+        {
+            "title": "Microsoft Releases Emergency Windows 11 Update Following Patch Tuesday Bugs",
+            "link": "https://cybersecuritynews.com/emergency-windows-11-update/"
+        }
+    ],
+    "CVE-2024-37032": [
+        {
+            "title": "36,769 Self-Hosted AI Services Exposed Online \u2014 What Security Teams Should Check",
+            "link": "https://www.esecurityplanet.com/news/news-self-hosted-ai-security/"
+        }
+    ],
+    "CVE-2026-65105": [
+        {
+            "title": "36,769 Self-Hosted AI Services Exposed Online \u2014 What Security Teams Should Check",
+            "link": "https://www.esecurityplanet.com/news/news-self-hosted-ai-security/"
+        }
     ]
 }
