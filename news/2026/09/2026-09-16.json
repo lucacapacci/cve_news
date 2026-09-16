@@ -13,6 +13,10 @@
         {
             "title": "Enterprises Warned of Attacks Exploiting WSO2 Vulnerability",
             "link": "https://www.securityweek.com/enterprises-warned-of-attacks-exploiting-wso2-vulnerability/"
+        },
+        {
+            "title": "Critical WSO2 Vulnerability Allow Hackers to Gain Full Admin Access",
+            "link": "https://cybersecuritynews.com/critical-wso2-vulnerability/"
         }
     ],
     "CVE-2026-87886": [
@@ -39,6 +43,10 @@
         {
             "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
             "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html"
+        },
+        {
+            "title": "Acronis Discloses Actively Exploited Privilege Escalation Bug in Its cPanel Backup Plugin",
+            "link": "https://www.cysecurity.news/2026/09/acronis-discloses-actively-exploited.html"
         }
     ],
     "CVE-2026-58704": [
@@ -77,6 +85,10 @@
         {
             "title": "Parallels Desktop flaw hands any local user root on a Mac (CVE-2026-90894)",
             "link": "https://www.helpnetsecurity.com/2026/09/16/parallels-desktop-cve-2026-90894-parashells-vulnerability/"
+        },
+        {
+            "title": "Parallels Desktop Flaw Lets Unprivileged Mac Users Gain Root Access",
+            "link": "https://gbhackers.com/parallels-desktop-flaw/"
         }
     ],
     "CVE-2026-23980": [
@@ -235,18 +247,312 @@
         {
             "title": "Critical Issabel PBX Command Execution Vulnerability Exploited in the Wild",
             "link": "https://cybersecuritynews.com/issabel-pbx-command-execution-vulnerability/"
+        },
+        {
+            "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+            "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html"
+        },
+        {
+            "title": "Issabel PBX JWT Key Flaw Enables Unauthenticated Remote Code Execution",
+            "link": "https://cyberpress.org/issabel-pbx-jwt-key-flaw/"
         }
     ],
     "CVE-2026-15316": [
         {
             "title": "TP-Link Cameras 0-Day Vulnerabilities Allow Attackers to Spy on Users",
             "link": "https://cybersecuritynews.com/tp-link-cameras-0-day-vulnerabilities/"
+        },
+        {
+            "title": "TP-Link Tapo Camera Flaw Lets Attackers Gain Admin Access Without Password",
+            "link": "https://gbhackers.com/tp-link-tapo-camera-flaw/"
+        },
+        {
+            "title": "TP-Link Tapo Camera Flaw Lets Attackers Gain Admin Access Without Password",
+            "link": "https://cyberpress.org/tp-link-tapo-camera-flaw/"
         }
     ],
     "CVE-2026-15315": [
         {
             "title": "TP-Link Cameras 0-Day Vulnerabilities Allow Attackers to Spy on Users",
             "link": "https://cybersecuritynews.com/tp-link-cameras-0-day-vulnerabilities/"
+        },
+        {
+            "title": "TP-Link Tapo Camera Flaw Lets Attackers Gain Admin Access Without Password",
+            "link": "https://gbhackers.com/tp-link-tapo-camera-flaw/"
+        },
+        {
+            "title": "TP-Link Tapo Camera Flaw Lets Attackers Gain Admin Access Without Password",
+            "link": "https://cyberpress.org/tp-link-tapo-camera-flaw/"
+        }
+    ],
+    "CVE-2026-91843": [
+        {
+            "title": "Check Point Vulnerability Lets Remote Hackers Gain Root Access Without Authentication",
+            "link": "https://cybersecuritynews.com/check-point-root-access-flaw/"
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "CISA Warns of Critical ScreenConnect Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/screenconnect-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-73178": [
+        {
+            "title": "Apache Syncope Flaws Enable SQL Injection, JWT Token Takeover and Code Injection",
+            "link": "https://cyberpress.org/apache-syncope-flaws-2/"
+        }
+    ],
+    "CVE-2026-82232": [
+        {
+            "title": "Apache Syncope Flaws Enable SQL Injection, JWT Token Takeover and Code Injection",
+            "link": "https://cyberpress.org/apache-syncope-flaws-2/"
+        }
+    ],
+    "CVE-2026-77147": [
+        {
+            "title": "Apache Syncope Flaws Enable SQL Injection, JWT Token Takeover and Code Injection",
+            "link": "https://cyberpress.org/apache-syncope-flaws-2/"
+        }
+    ],
+    "CVE-2026-76698": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76695": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76707": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76687": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76678": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76677": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76691": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76685": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76701": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76703": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76681": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76669": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76704": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76692": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76679": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76700": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76682": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76675": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76672": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76699": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76676": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76673": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76683": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76684": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76690": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76706": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76670": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76680": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76697": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2024-32664": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76686": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76688": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76705": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76693": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76702": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76694": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76674": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76696": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76689": [
+        {
+            "title": "Critical HPE EdgeConnect SD-WAN Flaws Let Attackers Gain Admin Access and Execute Remote Code",
+            "link": "https://cyberpress.org/critical-hpe-edgeconnect-sd-wan-flaws/"
+        }
+    ],
+    "CVE-2026-76460": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-76460",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-76460"
         }
     ]
 }
