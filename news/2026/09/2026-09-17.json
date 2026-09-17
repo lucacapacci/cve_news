@@ -1,0 +1,141 @@
+{
+    "CVE-2026-91843": [
+        {
+            "title": "Critical Check Point Vulnerability Allows Remote Root Code Execution Without Authentication",
+            "link": "https://gbhackers.com/critical-check-point-vulnerability/"
+        },
+        {
+            "title": "Critical Check Point Flaw Lets Remote Attackers Gain Root Code Execution Without Login",
+            "link": "https://cyberpress.org/critical-check-point-flaw-3/"
+        }
+    ],
+    "CVE-2026-92128": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92136": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92139": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92137": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92123": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92141": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92135": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92131": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92126": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92138": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92129": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92127": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92140": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92122": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92130": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92134": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92132": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92125": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92133": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92124": [
+        {
+            "title": "Jenkins Fixes 20 Plugin Vulnerabilities Enabling RCE, Sandbox Bypass and Credential Theft",
+            "link": "https://cyberpress.org/jenkins-fixes-20-plugin-vulnerabilities/"
+        }
+    ]
+}
