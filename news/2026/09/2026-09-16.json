@@ -259,6 +259,10 @@
         {
             "title": "Issabel PBX JWT Key Flaw Enables Unauthenticated Remote Code Execution",
             "link": "https://cyberpress.org/issabel-pbx-jwt-key-flaw/"
+        },
+        {
+            "title": "Hard-Coded JWT Secret in Issabel PBX Opens Door to Unauthenticated Server Takeover",
+            "link": "https://www.webpronews.com/hard-coded-jwt-secret-in-issabel-pbx-opens-door-to-unauthenticated-server-takeover/"
         }
     ],
     "CVE-2026-15316": [
@@ -569,6 +573,36 @@
         {
             "title": "One Malicious Extension Can Seize Control of Browser AI Agents in Chrome, Edge and Beyond",
             "link": "https://www.webpronews.com/one-malicious-extension-can-seize-control-of-browser-ai-agents-in-chrome-edge-and-beyond/"
+        }
+    ],
+    "CVE-2026-92183": [
+        {
+            "title": "ZDI-26-713: GIMP APNG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-713/"
+        }
+    ],
+    "CVE-2026-92210": [
+        {
+            "title": "ZDI-26-712: NoMachine nxhtd Server-Side Request Forgery Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-712/"
+        }
+    ],
+    "CVE-2026-92209": [
+        {
+            "title": "ZDI-26-711: NoMachine Redis Improper Authentication Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-711/"
+        }
+    ],
+    "CVE-2026-92208": [
+        {
+            "title": "ZDI-26-710: NoMachine mDNS Heap-based Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-710/"
+        }
+    ],
+    "CVE-2026-20242": [
+        {
+            "title": "ZDI-26-709: Cisco Secure Firewall Management Center CommandSinkRmi Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-709/"
         }
     ]
 }
