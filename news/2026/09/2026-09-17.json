@@ -166,6 +166,10 @@
         {
             "title": "Critical Cisco ISE Authentication Bypass (CVE-2026-76460) Under Active Exploitation",
             "link": "https://hackersonlineclub.com/critical-cisco-ise-authentication-bypass/"
+        },
+        {
+            "title": "CISA Drops Weekly Vulnerability List as Risk-Based Prioritization Takes Over",
+            "link": "https://www.webpronews.com/cisa-drops-weekly-vulnerability-list-as-risk-based-prioritization-takes-over/"
         }
     ],
     "CVE-2021-3129": [
@@ -231,12 +235,20 @@
         {
             "title": "Docker Sandboxes Vulnerabilities Let Malicious Guests Escape Workspace and Access Host Files",
             "link": "https://gbhackers.com/docker-sandboxes-vulnerabilities/"
+        },
+        {
+            "title": "Critical Docker Sandbox Vulnerabilities Enable Malicious Guests to Escape Isolated microVM Workspaces",
+            "link": "https://cybersecuritynews.com/critical-docker-sandboxes-vulnerabilities/"
         }
     ],
     "CVE-2026-79994": [
         {
             "title": "Docker Sandboxes Vulnerabilities Let Malicious Guests Escape Workspace and Access Host Files",
             "link": "https://gbhackers.com/docker-sandboxes-vulnerabilities/"
+        },
+        {
+            "title": "Critical Docker Sandbox Vulnerabilities Enable Malicious Guests to Escape Isolated microVM Workspaces",
+            "link": "https://cybersecuritynews.com/critical-docker-sandboxes-vulnerabilities/"
         }
     ],
     "CVE-2026-81736": [
@@ -321,6 +333,128 @@
         {
             "title": "Google Confirms Pixel Modems Fell to Silent Zero-Click Attacks",
             "link": "https://www.webpronews.com/google-confirms-pixel-modems-fell-to-silent-zero-click-attacks/"
+        },
+        {
+            "title": "CISA Drops Weekly Vulnerability List as Risk-Based Prioritization Takes Over",
+            "link": "https://www.webpronews.com/cisa-drops-weekly-vulnerability-list-as-risk-based-prioritization-takes-over/"
+        }
+    ],
+    "CVE-2026-3591": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-40775": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-3119": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-3592": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-3104": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-8677": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-40778": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/"
+        }
+    ],
+    "CVE-2025-40777": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-3593": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/"
+        }
+    ],
+    "CVE-2025-40780": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/"
+        }
+    ],
+    "CVE-2026-1519": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-5947": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/"
+        }
+    ],
+    "CVE-2026-5950": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-5946": [
+        {
+            "title": "BIND DNS Servers Hit by 14 Security Flaws Enabling Cache Poisoning and Remote Crashes",
+            "link": "https://cybersecuritynews.com/bind-dns-servers-hit-by-14-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-17106": [
+        {
+            "title": "Critical Docker Sandbox Vulnerabilities Enable Malicious Guests to Escape Isolated microVM Workspaces",
+            "link": "https://cybersecuritynews.com/critical-docker-sandboxes-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-76461": [
+        {
+            "title": "CISA Drops Weekly Vulnerability List as Risk-Based Prioritization Takes Over",
+            "link": "https://www.webpronews.com/cisa-drops-weekly-vulnerability-list-as-risk-based-prioritization-takes-over/"
+        }
+    ],
+    "CVE-2026-87886": [
+        {
+            "title": "CISA Drops Weekly Vulnerability List as Risk-Based Prioritization Takes Over",
+            "link": "https://www.webpronews.com/cisa-drops-weekly-vulnerability-list-as-risk-based-prioritization-takes-over/"
+        }
+    ],
+    "CVE-2026-90894": [
+        {
+            "title": "Parallels Desktop Vulnerability Gives Any Local Mac User Full Root Access, Intel Mac Users Left Without a Clear Fix",
+            "link": "https://www.cysecurity.news/2026/09/parallels-desktop-vulnerability-gives.html"
         }
     ]
 }
