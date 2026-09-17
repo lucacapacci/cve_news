@@ -456,5 +456,11 @@
             "title": "Parallels Desktop Vulnerability Gives Any Local Mac User Full Root Access, Intel Mac Users Left Without a Clear Fix",
             "link": "https://www.cysecurity.news/2026/09/parallels-desktop-vulnerability-gives.html"
         }
+    ],
+    "CVE-2025-20281": [
+        {
+            "title": "Cisco Identity Services Engine Zero-Day (CVE-2025-20281) Actively Exploited \u2014 Patch Immediately",
+            "link": "https://www.webpronews.com/cisco-identity-services-engine-zero-day-cve-2025-20281-actively-exploited-patch-immediately/"
+        }
     ]
 }
