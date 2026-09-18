@@ -256,5 +256,45 @@
             "title": "CISA KEV Addition: CVE-2026-53266",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-53266"
         }
+    ],
+    "CVE-2026-77179": [
+        {
+            "title": "Docker Fixes Critical Sandboxes Flaw That Could Expose Host Files",
+            "link": "https://www.cysecurity.news/2026/09/docker-fixes-critical-sandboxes-flaw.html"
+        }
+    ],
+    "CVE-2026-79994": [
+        {
+            "title": "Docker Fixes Critical Sandboxes Flaw That Could Expose Host Files",
+            "link": "https://www.cysecurity.news/2026/09/docker-fixes-critical-sandboxes-flaw.html"
+        }
+    ],
+    "CVE-2026-58704": [
+        {
+            "title": "Zero-Days, AI Agents, and Massive Data Leaks Define the Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-massive-data-leaks-define-the-week/"
+        }
+    ],
+    "CVE-2026-76461": [
+        {
+            "title": "Zero-Days, AI Agents, and Massive Data Leaks Define the Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-massive-data-leaks-define-the-week/"
+        },
+        {
+            "title": "Cisco Secure Email Gateway Zero-Day Exploited for Root Command Execution",
+            "link": "https://www.esecurityplanet.com/threats/news-cisco-secure-email-gateway-cve-2026-76461/"
+        }
+    ],
+    "CVE-2026-27540": [
+        {
+            "title": "Zero-Days, AI Agents, and Massive Data Leaks Define the Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-massive-data-leaks-define-the-week/"
+        }
+    ],
+    "CVE-2026-85706": [
+        {
+            "title": "Zero-Days, AI Agents, and Massive Data Leaks Define the Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-massive-data-leaks-define-the-week/"
+        }
     ]
 }
