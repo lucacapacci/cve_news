@@ -1,0 +1,180 @@
+{
+    "CVE-2026-58138": [
+        {
+            "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-93387": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93373": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93377": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93380": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93382": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93386": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93376": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93378": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93384": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93372": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93381": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93375": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93383": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93374": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93379": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93385": [
+        {
+            "title": "Chrome 153 Patches 16 Security Vulnerabilities Including Critical Dawn and WebGL Flaws",
+            "link": "https://cybersecuritynews.com/chrome-153-patches-16-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86060": [
+        {
+            "title": "MikroTrick Attack Lets Hackers Gain Full Admin Control of MikroTik Routers Without Login",
+            "link": "https://cybersecuritynews.com/mikrotrick-attack/"
+        },
+        {
+            "title": "MikroTik SSH Rekeying and Username Flaws Chain Into Unauthenticated RouterOS Admin Access",
+            "link": "https://cyberpress.org/mikrotik-flaws-enable-admin-access/"
+        }
+    ],
+    "CVE-2026-67279": [
+        {
+            "title": "MikroTrick Attack Lets Hackers Gain Full Admin Control of MikroTik Routers Without Login",
+            "link": "https://cybersecuritynews.com/mikrotrick-attack/"
+        },
+        {
+            "title": "MikroTik SSH Rekeying and Username Flaws Chain Into Unauthenticated RouterOS Admin Access",
+            "link": "https://cyberpress.org/mikrotik-flaws-enable-admin-access/"
+        }
+    ],
+    "CVE-2026-81000": [
+        {
+            "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
+            "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        }
+    ],
+    "CVE-2026-74469": [
+        {
+            "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
+            "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        }
+    ],
+    "CVE-2026-68121": [
+        {
+            "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
+            "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        }
+    ],
+    "CVE-2026-80844": [
+        {
+            "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
+            "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        }
+    ],
+    "CVE-2026-86863": [
+        {
+            "title": "Critical pgAdmin Authentication Bypass Lets Attackers Login as Administrator Without Credentials",
+            "link": "https://gbhackers.com/critical-pgadmin-authentication-bypass/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "Agentic Ransomware Lets AI Agents Execute Cyberattacks Without Human Operators",
+            "link": "https://cyberpress.org/ai-ransomware-goes-autonomous/"
+        }
+    ],
+    "CVE-2026-78175": [
+        {
+            "title": "Tutor LMS PHP Object Injection Flaw Lets Attackers Plant Web Shells on WordPress Sites",
+            "link": "https://cyberpress.org/tutor-lms-enables-webshells/"
+        }
+    ]
+}
