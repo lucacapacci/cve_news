@@ -139,24 +139,40 @@
         {
             "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
             "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        },
+        {
+            "title": "Linux Kernel Hit by Four Privilege Escalation Flaws Enabling Root Access",
+            "link": "https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/"
         }
     ],
     "CVE-2026-74469": [
         {
             "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
             "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        },
+        {
+            "title": "Linux Kernel Hit by Four Privilege Escalation Flaws Enabling Root Access",
+            "link": "https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/"
         }
     ],
     "CVE-2026-68121": [
         {
             "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
             "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        },
+        {
+            "title": "Linux Kernel Hit by Four Privilege Escalation Flaws Enabling Root Access",
+            "link": "https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/"
         }
     ],
     "CVE-2026-80844": [
         {
             "title": "Linux Kernel Hit by 4 LPE Flaws Enabling Attackers to Gain Root Shell",
             "link": "https://gbhackers.com/linux-kernel-hit-by-4-lpe-flaws/"
+        },
+        {
+            "title": "Linux Kernel Hit by Four Privilege Escalation Flaws Enabling Root Access",
+            "link": "https://cybersecuritynews.com/linux-kernel-privilege-escalation-flaws/"
         }
     ],
     "CVE-2026-86863": [
@@ -175,6 +191,70 @@
         {
             "title": "Tutor LMS PHP Object Injection Flaw Lets Attackers Plant Web Shells on WordPress Sites",
             "link": "https://cyberpress.org/tutor-lms-enables-webshells/"
+        }
+    ],
+    "CVE-2026-85889": [
+        {
+            "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+            "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html"
+        },
+        {
+            "title": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges",
+            "link": "https://cybersecuritynews.com/microsoft-azure-ai-foundry-vulnerability/"
+        }
+    ],
+    "CVE-2026-20235": [
+        {
+            "title": "ZDI-26-718: Cisco Identity Services Engine MnTRESTLivelogService XML External Entity Processing Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-718/"
+        }
+    ],
+    "CVE-2026-20211": [
+        {
+            "title": "ZDI-26-717: Cisco Identity Services Engine AlarmMessageDiskQueue Deserialization of Untrusted Data Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-717/"
+        }
+    ],
+    "CVE-2026-20176": [
+        {
+            "title": "ZDI-26-716: Cisco Identity Services Engine createDBLink Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-716/"
+        }
+    ],
+    "CVE-2026-19772": [
+        {
+            "title": "ZDI-26-715: Linux Mint Xreader PDF File Parsing Type Confusion Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-715/"
+        }
+    ],
+    "CVE-2024-33655": [
+        {
+            "title": "Unbound 1.26.1 Patches Critical RCE, DoS, and DNSSEC Flaws",
+            "link": "https://www.cysecurity.news/2026/09/unbound-1261-patches-critical-rce-dos.html"
+        }
+    ],
+    "CVE-2026-75650": [
+        {
+            "title": "CISA Warns Attackers Are Exploiting Acronis Backup Flaw on Linux Servers",
+            "link": "https://www.esecurityplanet.com/news/news-acronis-backup-flaw-exploited/"
+        }
+    ],
+    "CVE-2026-87886": [
+        {
+            "title": "CISA Warns Attackers Are Exploiting Acronis Backup Flaw on Linux Servers",
+            "link": "https://www.esecurityplanet.com/news/news-acronis-backup-flaw-exploited/"
+        }
+    ],
+    "CVE-2025-39964": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-39964",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-39964"
+        }
+    ],
+    "CVE-2026-53266": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-53266",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-53266"
         }
     ]
 }
