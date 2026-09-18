@@ -185,12 +185,20 @@
         {
             "title": "Agentic Ransomware Lets AI Agents Execute Cyberattacks Without Human Operators",
             "link": "https://cyberpress.org/ai-ransomware-goes-autonomous/"
+        },
+        {
+            "title": "AI Agents Now Run Ransomware Attacks End-to-End Without Human Operators",
+            "link": "https://cybersecuritynews.com/ai-agents-3/"
         }
     ],
     "CVE-2026-78175": [
         {
             "title": "Tutor LMS PHP Object Injection Flaw Lets Attackers Plant Web Shells on WordPress Sites",
             "link": "https://cyberpress.org/tutor-lms-enables-webshells/"
+        },
+        {
+            "title": "Tutor LMS Flaw Exposes 100,000+ WordPress Sites to Remote Code Execution",
+            "link": "https://cybersecuritynews.com/tutor-lms-flaw/"
         }
     ],
     "CVE-2026-85889": [
@@ -295,6 +303,43 @@
         {
             "title": "Zero-Days, AI Agents, and Massive Data Leaks Define the Week",
             "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-massive-data-leaks-define-the-week/"
+        }
+    ],
+    "CVE-2026-76460": [
+        {
+            "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+            "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues"
+        }
+    ],
+    "CVE-2026-85885": [
+        {
+            "title": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges",
+            "link": "https://cybersecuritynews.com/microsoft-azure-ai-foundry-vulnerability/"
+        }
+    ],
+    "CVE-2026-85878": [
+        {
+            "title": "Critical Microsoft Azure AI Foundry Vulnerability Allows Attackers to Escalate Privileges",
+            "link": "https://cybersecuritynews.com/microsoft-azure-ai-foundry-vulnerability/"
+        }
+    ],
+    "CVE-2023-22515": [
+        {
+            "title": "Feral Wolf Ransomware Attacks Exploit Atlassian Confluence and Misconfigured 1C Systems",
+            "link": "https://cybersecuritynews.com/feral-wolf-ransomware/"
+        }
+    ],
+    "CVE-2026-24858": [
+        {
+            "title": "AI Agents Now Run Ransomware Attacks End-to-End Without Human Operators",
+            "link": "https://cybersecuritynews.com/ai-agents-3/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-39682": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-39682",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-39682"
         }
     ]
 }
