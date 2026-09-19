@@ -10,5 +10,29 @@
             "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
             "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html"
         }
+    ],
+    "CVE-2026-28326": [
+        {
+            "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+            "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html"
+        }
+    ],
+    "CVE-2026-45321": [
+        {
+            "title": "TanStack Supply Chain Attack Lets Hackers Steal 170 Private CrowdSec GitHub Repositories",
+            "link": "https://cybersecuritynews.com/tanstack-supply-chain-attack/"
+        }
+    ],
+    "CVE-2026-0628": [
+        {
+            "title": "BragJack Attack Lets Malicious Extensions Hijack AI Agents Across 5 Major Browsers",
+            "link": "https://cybersecuritynews.com/bragjack-ai-agent-hijacking/"
+        }
+    ],
+    "CVE-2026-55945": [
+        {
+            "title": "BragJack Attack Lets Malicious Extensions Hijack AI Agents Across 5 Major Browsers",
+            "link": "https://cybersecuritynews.com/bragjack-ai-agent-hijacking/"
+        }
     ]
 }
