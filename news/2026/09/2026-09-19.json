@@ -9,6 +9,10 @@
         {
             "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
             "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html"
+        },
+        {
+            "title": "CISA Warns of Linux Kernel Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/linux-kernel-vulnerabilities-actively-exploited/"
         }
     ],
     "CVE-2026-28326": [
@@ -33,6 +37,54 @@
         {
             "title": "BragJack Attack Lets Malicious Extensions Hijack AI Agents Across 5 Major Browsers",
             "link": "https://cybersecuritynews.com/bragjack-ai-agent-hijacking/"
+        }
+    ],
+    "CVE-2026-53266": [
+        {
+            "title": "CISA Warns of Linux Kernel Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/linux-kernel-vulnerabilities-actively-exploited/"
+        }
+    ],
+    "CVE-2025-39964": [
+        {
+            "title": "CISA Warns of Linux Kernel Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/linux-kernel-vulnerabilities-actively-exploited/"
+        }
+    ],
+    "CVE-2026-85889": [
+        {
+            "title": "Microsoft Fixes Critical Azure AI Flaw Rated CVSS 10.0",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-fixes-critical-azure-ai-flaw.html"
+        }
+    ],
+    "CVE-2026-87701": [
+        {
+            "title": "Microsoft Fixes Critical Azure AI Flaw Rated CVSS 10.0",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-fixes-critical-azure-ai-flaw.html"
+        }
+    ],
+    "CVE-2026-85878": [
+        {
+            "title": "Microsoft Fixes Critical Azure AI Flaw Rated CVSS 10.0",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-fixes-critical-azure-ai-flaw.html"
+        }
+    ],
+    "CVE-2026-85885": [
+        {
+            "title": "Microsoft Fixes Critical Azure AI Flaw Rated CVSS 10.0",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-fixes-critical-azure-ai-flaw.html"
+        }
+    ],
+    "CVE-2026-62721": [
+        {
+            "title": "Microsoft Fixes Critical Azure AI Flaw Rated CVSS 10.0",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-fixes-critical-azure-ai-flaw.html"
+        }
+    ],
+    "CVE-2026-85921": [
+        {
+            "title": "Microsoft Fixes Critical Azure AI Flaw Rated CVSS 10.0",
+            "link": "https://www.cysecurity.news/2026/09/microsoft-fixes-critical-azure-ai-flaw.html"
         }
     ]
 }
