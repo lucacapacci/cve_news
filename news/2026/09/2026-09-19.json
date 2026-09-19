@@ -1,0 +1,14 @@
+{
+    "CVE-2026-58138": [
+        {
+            "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+            "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html"
+        }
+    ],
+    "CVE-2025-39682": [
+        {
+            "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+            "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html"
+        }
+    ]
+}
