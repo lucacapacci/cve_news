@@ -4,5 +4,11 @@
             "title": "When Ransomware Targets AI Models: Defending the AI/ML Recovery Chain",
             "link": "https://cybersecuritynews.com/when-ransomware-targets-ai-models-defending-the-ai-ml-recovery-chain/"
         }
+    ],
+    "CVE-2026-28326": [
+        {
+            "title": "Unauthenticated RCE Bug Fixed in SolarWinds Access Rights Manager",
+            "link": "https://www.cysecurity.news/2026/09/unauthenticated-rce-bug-fixed-in.html"
+        }
     ]
 }
