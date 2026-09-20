@@ -10,5 +10,17 @@
             "title": "Unauthenticated RCE Bug Fixed in SolarWinds Access Rights Manager",
             "link": "https://www.cysecurity.news/2026/09/unauthenticated-rce-bug-fixed-in.html"
         }
+    ],
+    "CVE-2026-58138": [
+        {
+            "title": "Critical Orkes Conductor Flaw Exploited for Unauthenticated Remote Code Execution",
+            "link": "https://www.cysecurity.news/2026/09/critical-orkes-conductor-flaw-exploited.html"
+        }
+    ],
+    "CVE-2026-32882": [
+        {
+            "title": "An AI Helped Researchers Break Into OpenAI",
+            "link": "https://www.cysecurity.news/2026/09/an-ai-helped-researchers-break-into.html"
+        }
     ]
 }
