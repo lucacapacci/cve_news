@@ -52,5 +52,11 @@
             "title": "Malicious HEIF Upload Reached OpenAI\u2019s Internal GitHub, Researchers Reveal",
             "link": "https://www.esecurityplanet.com/news/news-openai-heif-github-vulnerability/"
         }
+    ],
+    "CVE-2026-7273": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-7273",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-7273"
+        }
     ]
 }
