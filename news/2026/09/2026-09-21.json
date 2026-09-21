@@ -4,5 +4,53 @@
             "title": "Hackers Abuse Critical cPanel Authentication Bypass to Compromise Hosting Servers",
             "link": "https://gbhackers.com/cpanel-authentication-exploited/"
         }
+    ],
+    "CVE-2019-0708": [
+        {
+            "title": "NightEagle Deploys GhostContainer Backdoor on Microsoft Exchange Servers in Russian Attacks",
+            "link": "https://cyberpress.org/night-eagle-ghostcontainer-exchange/"
+        }
+    ],
+    "CVE-2020-0688": [
+        {
+            "title": "NightEagle Deploys GhostContainer Backdoor on Microsoft Exchange Servers in Russian Attacks",
+            "link": "https://cyberpress.org/night-eagle-ghostcontainer-exchange/"
+        }
+    ],
+    "CVE-2025-61882": [
+        {
+            "title": "Hacker vs. Hacker: ShinyHunters Outsmarts Clop Ransomware Gang",
+            "link": "https://www.cysecurity.news/2026/09/hacker-vs-hacker-shinyhunters-outsmarts.html"
+        }
+    ],
+    "CVE-2026-81000": [
+        {
+            "title": "Four Linux Kernel Flaws Expose Systems to Local Root Exploits",
+            "link": "https://www.cysecurity.news/2026/09/four-linux-kernel-flaws-expose-systems.html"
+        }
+    ],
+    "CVE-2026-68121": [
+        {
+            "title": "Four Linux Kernel Flaws Expose Systems to Local Root Exploits",
+            "link": "https://www.cysecurity.news/2026/09/four-linux-kernel-flaws-expose-systems.html"
+        }
+    ],
+    "CVE-2026-80844": [
+        {
+            "title": "Four Linux Kernel Flaws Expose Systems to Local Root Exploits",
+            "link": "https://www.cysecurity.news/2026/09/four-linux-kernel-flaws-expose-systems.html"
+        }
+    ],
+    "CVE-2026-74469": [
+        {
+            "title": "Four Linux Kernel Flaws Expose Systems to Local Root Exploits",
+            "link": "https://www.cysecurity.news/2026/09/four-linux-kernel-flaws-expose-systems.html"
+        }
+    ],
+    "CVE-2026-32882": [
+        {
+            "title": "Malicious HEIF Upload Reached OpenAI\u2019s Internal GitHub, Researchers Reveal",
+            "link": "https://www.esecurityplanet.com/news/news-openai-heif-github-vulnerability/"
+        }
     ]
 }
