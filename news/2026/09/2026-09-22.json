@@ -31,12 +31,28 @@
         {
             "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
             "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html"
+        },
+        {
+            "title": "Linux KVM/arm64 Vulnerability Lets Attackers Escape Virtual Machines and Gain Host Access",
+            "link": "https://cybersecuritynews.com/linux-kvm-arm64-vulnerability/"
+        },
+        {
+            "title": "Critical Linux KVM Flaw Enables Guest-to-Host Escape on ARM64 Systems",
+            "link": "https://gbhackers.com/critical-linux-kvm-flaw/"
+        },
+        {
+            "title": "Critical Linux KVM Flaw Lets Attackers Escape Virtual Machines and Gain Root Access",
+            "link": "https://cyberpress.org/critical-linux-kvm-flaw/"
         }
     ],
     "CVE-2026-65660": [
         {
             "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
             "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html"
+        },
+        {
+            "title": "Microsoft SharePoint Flaw Lets Attackers Execute Code Remotely With Low Privileges",
+            "link": "https://cybersecuritynews.com/microsoft-sharepoint-rce-flaw/"
         }
     ],
     "CVE-2026-53266": [
@@ -67,18 +83,50 @@
         {
             "title": "Hackers Exploit Veeam Agent Vulnerability to Gain SYSTEM-Level Access on Windows",
             "link": "https://gbhackers.com/hackers-exploit-veeam-agent-vulnerability/"
+        },
+        {
+            "title": "Veeam Agent Flaw Actively Exploited to Gain SYSTEM Privileges on Windows",
+            "link": "https://cybersecuritynews.com/veeam-agent-flaw-exploited/"
+        },
+        {
+            "title": "Hackers Exploit Veeam Agent Flaw to Gain SYSTEM Privileges on Windows",
+            "link": "https://cyberpress.org/hackers-exploit-veeam-agent-flaw/"
         }
     ],
     "CVE-2026-75939": [
         {
             "title": "Red Hat OpenShift Flaw Lets Attackers Poison Disconnected Registries With Malicious Releases",
             "link": "https://gbhackers.com/red-hat-openshift-flaw/"
+        },
+        {
+            "title": "Red Hat OpenShift Flaw Lets Attackers Bypass PGP Checks and Push Malicious Releases",
+            "link": "https://cybersecuritynews.com/red-hat-openshift-flaw/"
+        },
+        {
+            "title": "Red Hat OpenShift Flaw Lets Attackers Bypass Signature Checks and Inject Malicious Release Images",
+            "link": "https://cyberpress.org/red-hat-openshift-flaw-lets-attackers-bypass-signature-checks-and-inject-malicious-release-images/"
         }
     ],
     "CVE-2026-77521": [
         {
             "title": "Critical MaxKB AI Agent Flaw Lets Prompt Injection Execute System Commands",
             "link": "https://gbhackers.com/critical-maxkb-ai-agent-flaw/"
+        },
+        {
+            "title": "Critical MaxKB AI Agent Flaw Lets Prompt Injection Execute Commands as Root",
+            "link": "https://cyberpress.org/critical-maxkb-ai-agent-flaw/"
+        }
+    ],
+    "CVE-2026-93952": [
+        {
+            "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+            "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html"
+        }
+    ],
+    "CVE-2026-86296": [
+        {
+            "title": "D-Link DIR-822A Router Vulnerability Scores CVSS 10.0 With Public PoC Available",
+            "link": "https://gbhackers.com/d-link-dir-822a-router-vulnerability/"
         }
     ]
 }
