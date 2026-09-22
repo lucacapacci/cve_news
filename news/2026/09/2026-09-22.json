@@ -9,6 +9,10 @@
         {
             "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
             "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html"
+        },
+        {
+            "title": "Attacker compromised nearly 1000 Zyxel switches since August (CVE-2026-7273)",
+            "link": "https://www.helpnetsecurity.com/2026/09/22/zyxel-switches-cve-2026-7273-vulnerability-exploited/"
         }
     ],
     "CVE-2026-63030": [
@@ -21,6 +25,60 @@
         {
             "title": "Hackers Exploit WordPress CVE-2026-63030 and CVE-2026-60137 to Steal Government Data",
             "link": "https://gbhackers.com/wordpress-vulnerability-exploitation/"
+        }
+    ],
+    "CVE-2026-89775": [
+        {
+            "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+            "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html"
+        }
+    ],
+    "CVE-2026-65660": [
+        {
+            "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+            "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html"
+        }
+    ],
+    "CVE-2026-53266": [
+        {
+            "title": "CISA Sounds Alarm on Three Exploited Linux Kernel Flaws: Federal Agencies Face Tight Deadline",
+            "link": "https://www.webpronews.com/cisa-sounds-alarm-on-three-exploited-linux-kernel-flaws-federal-agencies-face-tight-deadline/"
+        }
+    ],
+    "CVE-2025-39964": [
+        {
+            "title": "CISA Sounds Alarm on Three Exploited Linux Kernel Flaws: Federal Agencies Face Tight Deadline",
+            "link": "https://www.webpronews.com/cisa-sounds-alarm-on-three-exploited-linux-kernel-flaws-federal-agencies-face-tight-deadline/"
+        }
+    ],
+    "CVE-2025-39682": [
+        {
+            "title": "CISA Sounds Alarm on Three Exploited Linux Kernel Flaws: Federal Agencies Face Tight Deadline",
+            "link": "https://www.webpronews.com/cisa-sounds-alarm-on-three-exploited-linux-kernel-flaws-federal-agencies-face-tight-deadline/"
+        }
+    ],
+    "CVE-2026-58138": [
+        {
+            "title": "Orkes Conductor RCE Draws Nearly 7,000 Exploit Attempts",
+            "link": "https://www.esecurityplanet.com/threats/news-orkes-conductor-rce-cve-2026-58138/"
+        }
+    ],
+    "CVE-2026-32996": [
+        {
+            "title": "Hackers Exploit Veeam Agent Vulnerability to Gain SYSTEM-Level Access on Windows",
+            "link": "https://gbhackers.com/hackers-exploit-veeam-agent-vulnerability/"
+        }
+    ],
+    "CVE-2026-75939": [
+        {
+            "title": "Red Hat OpenShift Flaw Lets Attackers Poison Disconnected Registries With Malicious Releases",
+            "link": "https://gbhackers.com/red-hat-openshift-flaw/"
+        }
+    ],
+    "CVE-2026-77521": [
+        {
+            "title": "Critical MaxKB AI Agent Flaw Lets Prompt Injection Execute System Commands",
+            "link": "https://gbhackers.com/critical-maxkb-ai-agent-flaw/"
         }
     ]
 }
