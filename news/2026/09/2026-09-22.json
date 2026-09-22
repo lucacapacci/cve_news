@@ -121,12 +121,48 @@
         {
             "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
             "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-93952",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-93952"
         }
     ],
     "CVE-2026-86296": [
         {
             "title": "D-Link DIR-822A Router Vulnerability Scores CVSS 10.0 With Public PoC Available",
             "link": "https://gbhackers.com/d-link-dir-822a-router-vulnerability/"
+        }
+    ],
+    "CVE-2026-93616": [
+        {
+            "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+            "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html"
+        },
+        {
+            "title": "Check Point Management Server 0-Day Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/check-point-management-server-0-day-exploited/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-93616",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-93616"
+        }
+    ],
+    "CVE-2026-90898": [
+        {
+            "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+            "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html"
+        }
+    ],
+    "CVE-2026-94127": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-94127",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-94127"
+        }
+    ],
+    "CVE-2026-85102": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-85102",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-85102"
         }
     ]
 }
