@@ -1,0 +1,26 @@
+{
+    "CVE-2026-93485": [
+        {
+            "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+            "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html"
+        }
+    ],
+    "CVE-2026-7273": [
+        {
+            "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+            "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html"
+        }
+    ],
+    "CVE-2026-63030": [
+        {
+            "title": "Hackers Exploit WordPress CVE-2026-63030 and CVE-2026-60137 to Steal Government Data",
+            "link": "https://gbhackers.com/wordpress-vulnerability-exploitation/"
+        }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "Hackers Exploit WordPress CVE-2026-63030 and CVE-2026-60137 to Steal Government Data",
+            "link": "https://gbhackers.com/wordpress-vulnerability-exploitation/"
+        }
+    ]
+}
