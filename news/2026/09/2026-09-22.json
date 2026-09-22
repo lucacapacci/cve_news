@@ -131,6 +131,10 @@
         {
             "title": "D-Link DIR-822A Router Vulnerability Scores CVSS 10.0 With Public PoC Available",
             "link": "https://gbhackers.com/d-link-dir-822a-router-vulnerability/"
+        },
+        {
+            "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+            "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/"
         }
     ],
     "CVE-2026-93616": [
@@ -145,6 +149,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-93616",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-93616"
+        },
+        {
+            "title": "Check Point Fixes a New Actively Exploited Critical Security Flaw",
+            "link": "https://securityaffairs.com/199549/security/check-point-fixes-a-new-actively-exploited-critical-security-flaw.html"
         }
     ],
     "CVE-2026-90898": [
@@ -163,6 +171,12 @@
         {
             "title": "CISA KEV Addition: CVE-2026-85102",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-85102"
+        }
+    ],
+    "CVE-2026-20350": [
+        {
+            "title": "ZDI-26-719: Cisco ThousandEyes Virtual Appliance DHCP Client Command Injection Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-719/"
         }
     ]
 }
