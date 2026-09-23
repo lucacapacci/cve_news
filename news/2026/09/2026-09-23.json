@@ -205,6 +205,10 @@
         {
             "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
             "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/"
+        },
+        {
+            "title": "U.S. CISA adds Check Point, Arista VeloCloud Orchestrator, and F5 BIG-IP APM\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/199631/hacking/u-s-cisa-adds-check-point-arista-velocloud-orchestrator-and-f5-big-ip-apm-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
         }
     ],
     "CVE-2026-7273": [
@@ -229,24 +233,210 @@
         {
             "title": "CISA BOD 26-04 Timelines for Three Linux Kernel CVEs",
             "link": "https://blog.qualys.com/category/product-tech"
+        },
+        {
+            "title": "Linux Kernel Zero-Days Meet Their Match: eBPF, Module Blacklisting and User Namespace Tricks Keep Systems Alive",
+            "link": "https://www.webpronews.com/linux-kernel-zero-days-meet-their-match-ebpf-module-blacklisting-and-user-namespace-tricks-keep-systems-alive/"
         }
     ],
     "CVE-2025-39682": [
         {
             "title": "CISA BOD 26-04 Timelines for Three Linux Kernel CVEs",
             "link": "https://blog.qualys.com/category/product-tech"
+        },
+        {
+            "title": "Linux Kernel Zero-Days Meet Their Match: eBPF, Module Blacklisting and User Namespace Tricks Keep Systems Alive",
+            "link": "https://www.webpronews.com/linux-kernel-zero-days-meet-their-match-ebpf-module-blacklisting-and-user-namespace-tricks-keep-systems-alive/"
         }
     ],
     "CVE-2025-39964": [
         {
             "title": "CISA BOD 26-04 Timelines for Three Linux Kernel CVEs",
             "link": "https://blog.qualys.com/category/product-tech"
+        },
+        {
+            "title": "Linux Kernel Zero-Days Meet Their Match: eBPF, Module Blacklisting and User Namespace Tricks Keep Systems Alive",
+            "link": "https://www.webpronews.com/linux-kernel-zero-days-meet-their-match-ebpf-module-blacklisting-and-user-namespace-tricks-keep-systems-alive/"
         }
     ],
     "CVE-2026-93952": [
         {
             "title": "Arista Warns of Critical Actively Exploited VCO Vulnerability",
             "link": "https://www.cysecurity.news/2026/09/arista-warns-of-critical-actively.html"
+        }
+    ],
+    "CVE-2026-92202": [
+        {
+            "title": "ZDI-26-748: Luxion KeyShot BIP File Parsing Uncontrolled Search Path Element Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-748/"
+        }
+    ],
+    "CVE-2026-96417": [
+        {
+            "title": "ZDI-26-747: Wireshark RF4CE Packet Parsing Buffer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-747/"
+        }
+    ],
+    "CVE-2026-91818": [
+        {
+            "title": "ZDI-26-746: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-746/"
+        }
+    ],
+    "CVE-2026-91817": [
+        {
+            "title": "ZDI-26-745: Foxit PDF Reader AcroForm Out-of-Bounds Read Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-745/"
+        }
+    ],
+    "CVE-2026-91816": [
+        {
+            "title": "ZDI-26-744: Foxit PDF Reader AcroForm Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-744/"
+        }
+    ],
+    "CVE-2026-91815": [
+        {
+            "title": "ZDI-26-743: Foxit PDF Reader JPEG2000 Parsing Memory Corruption Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-743/"
+        }
+    ],
+    "CVE-2026-91813": [
+        {
+            "title": "ZDI-26-742: Foxit PDF Reader FoxitUpdater Race Condition Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-742/"
+        }
+    ],
+    "CVE-2026-91812": [
+        {
+            "title": "ZDI-26-741: Foxit PDF Reader FoxitUpdater Improper Certificate Validation Local Privilege Escalation Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-741/"
+        }
+    ],
+    "CVE-2026-91811": [
+        {
+            "title": "ZDI-26-740: Foxit PDF Reader PRC Stream Parsing Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-740/"
+        }
+    ],
+    "CVE-2026-91810": [
+        {
+            "title": "ZDI-26-739: Foxit PDF Reader Doc Object Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-739/"
+        }
+    ],
+    "CVE-2026-91809": [
+        {
+            "title": "ZDI-26-738: Foxit PDF Reader Annotation Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-738/"
+        }
+    ],
+    "CVE-2026-91808": [
+        {
+            "title": "ZDI-26-737: Foxit PDF Reader JPEG File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-737/"
+        }
+    ],
+    "CVE-2026-91807": [
+        {
+            "title": "ZDI-26-736: Foxit PDF Reader PDF File Parsing Out-Of-Bounds Read Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-736/"
+        }
+    ],
+    "CVE-2026-91806": [
+        {
+            "title": "ZDI-26-735: Foxit PDF Reader Doc Object Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-735/"
+        }
+    ],
+    "CVE-2026-91801": [
+        {
+            "title": "ZDI-26-734: Foxit PDF Reader RichMedia Annotation Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-734/"
+        }
+    ],
+    "CVE-2026-91797": [
+        {
+            "title": "ZDI-26-733: Foxit PDF Reader Portfolio Directory Traversal Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-733/"
+        }
+    ],
+    "CVE-2026-91796": [
+        {
+            "title": "ZDI-26-732: Foxit PDF Reader importIcon NTLM Response Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-732/"
+        }
+    ],
+    "CVE-2026-91795": [
+        {
+            "title": "ZDI-26-731: Foxit PDF Reader FileOpen Uninitialized Variable Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-731/"
+        }
+    ],
+    "CVE-2026-91794": [
+        {
+            "title": "ZDI-26-730: Foxit PDF Reader DeviceN Colorspace Out-Of-Bounds Write Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-730/"
+        }
+    ],
+    "CVE-2026-91793": [
+        {
+            "title": "ZDI-26-729: Foxit PDF Reader Doc Object Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-729/"
+        }
+    ],
+    "CVE-2026-57238": [
+        {
+            "title": "ZDI-26-728: Foxit PDF Reader Doc Object Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-728/"
+        }
+    ],
+    "CVE-2026-13128": [
+        {
+            "title": "ZDI-26-727: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-727/"
+        }
+    ],
+    "CVE-2026-13129": [
+        {
+            "title": "ZDI-26-726: Foxit PDF Reader Doc Object Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-726/"
+        }
+    ],
+    "CVE-2026-57256": [
+        {
+            "title": "ZDI-26-725: Foxit PDF Reader Doc Object Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-725/"
+        }
+    ],
+    "CVE-2026-91792": [
+        {
+            "title": "ZDI-26-724: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-724/"
+        }
+    ],
+    "CVE-2026-91790": [
+        {
+            "title": "ZDI-26-723: Foxit PDF Reader Doc Object Use-After-Free Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-723/"
+        }
+    ],
+    "CVE-2026-91791": [
+        {
+            "title": "ZDI-26-722: Foxit PDF Reader Annotation Use-After-Free Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-722/"
+        }
+    ],
+    "CVE-2026-91789": [
+        {
+            "title": "ZDI-26-721: Foxit PDF Reader U3D File Parsing Integer Overflow Remote Code Execution Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-721/"
+        }
+    ],
+    "CVE-2026-91788": [
+        {
+            "title": "ZDI-26-720: Foxit PDF Reader activeDocs Missing Authorization Information Disclosure Vulnerability",
+            "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-720/"
         }
     ]
 }
