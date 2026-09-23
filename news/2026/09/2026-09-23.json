@@ -1,0 +1,18 @@
+{
+    "CVE-2026-93616": [
+        {
+            "title": "Hackers Exploit Check Point 0-Day Flaw to Execute Code on Management Servers",
+            "link": "https://gbhackers.com/hackers-exploit-check-point-0-day-flaw/"
+        }
+    ],
+    "CVE-2026-94127": [
+        {
+            "title": "Critical F5 BIG-IP APM Flaw Actively Exploited for Remote Code Execution",
+            "link": "https://gbhackers.com/critical-f5-big-ip-apm-flaw/"
+        },
+        {
+            "title": "Hackers Exploiting F5 BIG-IP OAuth Server 0-day Flaw to Gain Remote Code Execution",
+            "link": "https://cybersecuritynews.com/f5-big-ip-oauth-server-0-day-flaw/"
+        }
+    ]
+}
