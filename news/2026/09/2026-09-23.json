@@ -200,5 +200,41 @@
             "title": "Chinese Hackers Exploit ZyXEL Switch Flaw to Steal Data From Nearly 1,000 Devices",
             "link": "https://www.cysecurity.news/2026/09/chinese-hackers-exploit-zyxel-switch.html"
         }
+    ],
+    "CVE-2026-86060": [
+        {
+            "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+            "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html"
+        }
+    ],
+    "CVE-2026-67279": [
+        {
+            "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+            "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html"
+        }
+    ],
+    "CVE-2026-53266": [
+        {
+            "title": "CISA BOD 26-04 Timelines for Three Linux Kernel CVEs",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2025-39682": [
+        {
+            "title": "CISA BOD 26-04 Timelines for Three Linux Kernel CVEs",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2025-39964": [
+        {
+            "title": "CISA BOD 26-04 Timelines for Three Linux Kernel CVEs",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-93952": [
+        {
+            "title": "Arista Warns of Critical Actively Exploited VCO Vulnerability",
+            "link": "https://www.cysecurity.news/2026/09/arista-warns-of-critical-actively.html"
+        }
     ]
 }
