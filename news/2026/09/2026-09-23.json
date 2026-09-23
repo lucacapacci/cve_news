@@ -3,6 +3,10 @@
         {
             "title": "Hackers Exploit Check Point 0-Day Flaw to Execute Code on Management Servers",
             "link": "https://gbhackers.com/hackers-exploit-check-point-0-day-flaw/"
+        },
+        {
+            "title": "Attackers hit Check Point Management Servers and Spark firewalls, F5 BIG-IP APM instances",
+            "link": "https://www.helpnetsecurity.com/2026/09/23/check-point-f5-big-ip-apm-zero-days-targeted/"
         }
     ],
     "CVE-2026-94127": [
@@ -13,6 +17,188 @@
         {
             "title": "Hackers Exploiting F5 BIG-IP OAuth Server 0-day Flaw to Gain Remote Code Execution",
             "link": "https://cybersecuritynews.com/f5-big-ip-oauth-server-0-day-flaw/"
+        },
+        {
+            "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+            "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html"
+        }
+    ],
+    "CVE-2026-80521": [
+        {
+            "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+            "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html"
+        }
+    ],
+    "CVE-2026-87491": [
+        {
+            "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+            "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html"
+        }
+    ],
+    "CVE-2026-85880": [
+        {
+            "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+            "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html"
+        }
+    ],
+    "CVE-2026-85046": [
+        {
+            "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+            "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html"
+        }
+    ],
+    "CVE-2026-65121": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/"
+        }
+    ],
+    "CVE-2026-65124": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-65125": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-65112": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/"
+        }
+    ],
+    "CVE-2026-65117": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-65128": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/"
+        }
+    ],
+    "CVE-2026-65130": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/"
+        }
+    ],
+    "CVE-2026-65118": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-65127": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/"
+        }
+    ],
+    "CVE-2026-65126": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-65114": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/"
+        }
+    ],
+    "CVE-2026-65113": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/"
+        }
+    ],
+    "CVE-2026-65129": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-65115": [
+        {
+            "title": "NVIDIA Fixes Linux Component Flaws That Could Expose Sensitive System Information",
+            "link": "https://cybersecuritynews.com/nvidia-fixes-linux-component-flaws/"
+        }
+    ],
+    "CVE-2026-28324": [
+        {
+            "title": "Critical SolarWinds Flaws Let Attackers Remotely Execute Code on Observability Servers",
+            "link": "https://cybersecuritynews.com/solarwinds-flaws-execute-code-on-observability-servers/"
+        },
+        {
+            "title": "SolarWinds Observability Flaws Let Unauthenticated Attackers Execute Remote Code",
+            "link": "https://gbhackers.com/solarwinds-observability-flaws/"
+        }
+    ],
+    "CVE-2026-28325": [
+        {
+            "title": "Critical SolarWinds Flaws Let Attackers Remotely Execute Code on Observability Servers",
+            "link": "https://cybersecuritynews.com/solarwinds-flaws-execute-code-on-observability-servers/"
+        },
+        {
+            "title": "SolarWinds Observability Flaws Let Unauthenticated Attackers Execute Remote Code",
+            "link": "https://gbhackers.com/solarwinds-observability-flaws/"
+        }
+    ],
+    "CVE-2026-74849": [
+        {
+            "title": "Critical ManageEngine Flaw Lets Attackers Gain SYSTEM Access Through Windows Login Screen",
+            "link": "https://cybersecuritynews.com/critical-manageengine-flaw/"
+        },
+        {
+            "title": "ManageEngine RCE Flaw Enables SYSTEM Code Execution From Windows Login Screen",
+            "link": "https://gbhackers.com/manageengine-rce-flaw/"
+        }
+    ],
+    "CVE-2026-76709": [
+        {
+            "title": "HPE Networking Analytics Engine Flaws Let Attackers Gain Root Access",
+            "link": "https://gbhackers.com/hpe-networking-analytics-engine-flaws-let-attackers-gain-root-access/"
+        }
+    ],
+    "CVE-2026-76708": [
+        {
+            "title": "HPE Networking Analytics Engine Flaws Let Attackers Gain Root Access",
+            "link": "https://gbhackers.com/hpe-networking-analytics-engine-flaws-let-attackers-gain-root-access/"
+        }
+    ],
+    "CVE-2026-87902": [
+        {
+            "title": "Critical WordPress Flaw Lets Unauthenticated Attackers Execute Remote Code",
+            "link": "https://gbhackers.com/critical-wordpress-flaw/"
+        },
+        {
+            "title": "WordPress 7.1.2 fixes critical unauthenticated path traversal vulnerability (CVE-2026-87902)",
+            "link": "https://www.helpnetsecurity.com/2026/09/23/cve-2026-87902-wordpress-7-1-2-security-release/"
+        }
+    ],
+    "CVE-2026-85102": [
+        {
+            "title": "Attackers hit Check Point Management Servers and Spark firewalls, F5 BIG-IP APM instances",
+            "link": "https://www.helpnetsecurity.com/2026/09/23/check-point-f5-big-ip-apm-zero-days-targeted/"
+        }
+    ],
+    "CVE-2026-7273": [
+        {
+            "title": "Chinese Hackers Exploit ZyXEL Switch Flaw to Steal Data From Nearly 1,000 Devices",
+            "link": "https://www.cysecurity.news/2026/09/chinese-hackers-exploit-zyxel-switch.html"
         }
     ]
 }
