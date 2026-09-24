@@ -22,5 +22,35 @@
             "title": "cPanel CalDAV/CardDAV Flaw Lets Local Users Access Other Accounts\u2019 Contacts and Calendars",
             "link": "https://cyberpress.org/cpanel-caldav-carddav-flaw/"
         }
+    ],
+    "CVE-2026-28325": [
+        {
+            "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
+            "link": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/"
+        }
+    ],
+    "CVE-2026-28324": [
+        {
+            "title": "SolarWinds Patches Critical RCE Flaws in Observability Self-Hosted",
+            "link": "https://www.securityweek.com/solarwinds-patches-critical-rce-flaws-in-observability-self-hosted/"
+        }
+    ],
+    "CVE-2026-48842": [
+        {
+            "title": "Hackers Exploit Roundcube Webmail SQL Injection Flaw Without Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-roundcube-webmail-sql-injection-flaw/"
+        }
+    ],
+    "CVE-2026-85102": [
+        {
+            "title": "Critical Check Point VPN and Management Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cyberpress.org/critical-check-point-vpn-and-management-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93616": [
+        {
+            "title": "Critical Check Point VPN and Management Vulnerabilities Actively Exploited in Attacks",
+            "link": "https://cyberpress.org/critical-check-point-vpn-and-management-vulnerabilities/"
+        }
     ]
 }
