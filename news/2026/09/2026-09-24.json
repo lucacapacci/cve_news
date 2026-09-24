@@ -7,6 +7,10 @@
         {
             "title": "Hackers Exploit Critical WordPress Flaw to Execute PHP Code on Vulnerable Sites",
             "link": "https://cyberpress.org/hackers-exploit-critical-wordpress-flaw/"
+        },
+        {
+            "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+            "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html"
         }
     ],
     "CVE-2026-68490": [
