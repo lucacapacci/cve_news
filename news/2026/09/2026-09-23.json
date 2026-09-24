@@ -438,5 +438,107 @@
             "title": "ZDI-26-720: Foxit PDF Reader activeDocs Missing Authorization Information Disclosure Vulnerability",
             "link": "http://www.zerodayinitiative.com/advisories/ZDI-26-720/"
         }
+    ],
+    "CVE-2026-65643": [
+        {
+            "title": "New Cpanel Vulnerability Allows Attackers to Access Other Users\u2019 Accounts",
+            "link": "https://cybersecuritynews.com/cpanel-user-account-access-flaw/"
+        }
+    ],
+    "CVE-2026-65638": [
+        {
+            "title": "New Cpanel Vulnerability Allows Attackers to Access Other Users\u2019 Accounts",
+            "link": "https://cybersecuritynews.com/cpanel-user-account-access-flaw/"
+        }
+    ],
+    "CVE-2026-67401": [
+        {
+            "title": "New Cpanel Vulnerability Allows Attackers to Access Other Users\u2019 Accounts",
+            "link": "https://cybersecuritynews.com/cpanel-user-account-access-flaw/"
+        }
+    ],
+    "CVE-2026-68490": [
+        {
+            "title": "New Cpanel Vulnerability Allows Attackers to Access Other Users\u2019 Accounts",
+            "link": "https://cybersecuritynews.com/cpanel-user-account-access-flaw/"
+        }
+    ],
+    "CVE-2026-87900": [
+        {
+            "title": "New Cpanel Vulnerability Allows Attackers to Access Other Users\u2019 Accounts",
+            "link": "https://cybersecuritynews.com/cpanel-user-account-access-flaw/"
+        }
+    ],
+    "CVE-2026-87899": [
+        {
+            "title": "New Cpanel Vulnerability Allows Attackers to Access Other Users\u2019 Accounts",
+            "link": "https://cybersecuritynews.com/cpanel-user-account-access-flaw/"
+        }
+    ],
+    "CVE-2026-18169": [
+        {
+            "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems",
+            "link": "https://cybersecuritynews.com/critical-ibm-ftm-flaws/"
+        }
+    ],
+    "CVE-2026-18137": [
+        {
+            "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems",
+            "link": "https://cybersecuritynews.com/critical-ibm-ftm-flaws/"
+        }
+    ],
+    "CVE-2026-18163": [
+        {
+            "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems",
+            "link": "https://cybersecuritynews.com/critical-ibm-ftm-flaws/"
+        }
+    ],
+    "CVE-2026-18162": [
+        {
+            "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems",
+            "link": "https://cybersecuritynews.com/critical-ibm-ftm-flaws/"
+        }
+    ],
+    "CVE-2026-17635": [
+        {
+            "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems",
+            "link": "https://cybersecuritynews.com/critical-ibm-ftm-flaws/"
+        }
+    ],
+    "CVE-2026-17645": [
+        {
+            "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems",
+            "link": "https://cybersecuritynews.com/critical-ibm-ftm-flaws/"
+        }
+    ],
+    "CVE-2026-18872": [
+        {
+            "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems",
+            "link": "https://cybersecuritynews.com/critical-ibm-ftm-flaws/"
+        }
+    ],
+    "CVE-2026-18177": [
+        {
+            "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems",
+            "link": "https://cybersecuritynews.com/critical-ibm-ftm-flaws/"
+        }
+    ],
+    "CVE-2026-18132": [
+        {
+            "title": "Critical IBM FTM Flaws Let Attackers Execute Code and Access Payment Systems",
+            "link": "https://cybersecuritynews.com/critical-ibm-ftm-flaws/"
+        }
+    ],
+    "CVE-2026-94384": [
+        {
+            "title": "AWS Lambda Flaw Lets Attackers Bypass IAM Permissions and Access Cloud Services",
+            "link": "https://cybersecuritynews.com/aws-lambda-flaw/"
+        }
+    ],
+    "CVE-2026-94545": [
+        {
+            "title": "Critical NEXT.JS Flaw Enables RCE Attacks Via Weaponized SVG File",
+            "link": "https://cybersecuritynews.com/critical-next-js-flaw-allows-remote-code-execution/"
+        }
     ]
 }
