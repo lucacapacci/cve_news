@@ -26,7 +26,6 @@ FEEDS = [
     "https://www.bleepingcomputer.com/feed/",
     "https://www.darkreading.com/rss.xml",
     "https://feeds.feedburner.com/tenable/qaXL",
-    "https://www.zerodayinitiative.com/rss/published/",
     "https://cybersecuritynews.com/feed/",
     "https://gbhackers.com/feed/",
     "https://www.helpnetsecurity.com/feed/",
