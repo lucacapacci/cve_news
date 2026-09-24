@@ -39,18 +39,42 @@
         {
             "title": "Hackers Exploit Roundcube Webmail SQL Injection Flaw Without Authentication",
             "link": "https://cyberpress.org/hackers-exploit-roundcube-webmail-sql-injection-flaw/"
+        },
+        {
+            "title": "Roundcube Webmail SQL Injection Vulnerability Exploited in the Wild",
+            "link": "https://cybersecuritynews.com/roundcube-webmail-vulnerability-exploited/"
         }
     ],
     "CVE-2026-85102": [
         {
             "title": "Critical Check Point VPN and Management Vulnerabilities Actively Exploited in Attacks",
             "link": "https://cyberpress.org/critical-check-point-vpn-and-management-vulnerabilities/"
+        },
+        {
+            "title": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-check-point-vpn-flaws/"
         }
     ],
     "CVE-2026-93616": [
         {
             "title": "Critical Check Point VPN and Management Vulnerabilities Actively Exploited in Attacks",
             "link": "https://cyberpress.org/critical-check-point-vpn-and-management-vulnerabilities/"
+        },
+        {
+            "title": "Hackers Exploit Critical Check Point VPN Flaws to Gain Remote Access Without Login",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-check-point-vpn-flaws/"
+        }
+    ],
+    "CVE-2026-94127": [
+        {
+            "title": "F5 Fixes BIG-IP APM Zero-Day Enabling Unauthenticated RCE",
+            "link": "https://www.cysecurity.news/2026/09/f5-fixes-big-ip-apm-zero-day-enabling.html"
+        }
+    ],
+    "CVE-2026-58138": [
+        {
+            "title": "Orkes Conductor RCE Draws Nearly 7,000 Exploit Attempts",
+            "link": "https://www.esecurityplanet.com/threats/news-orkes-conductor-rce-cve-2026-58138/"
         }
     ]
 }
