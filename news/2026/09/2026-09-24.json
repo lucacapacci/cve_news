@@ -1,0 +1,22 @@
+{
+    "CVE-2026-87902": [
+        {
+            "title": "Critical WordPress Vulnerability Exploited Immediately After Disclosure",
+            "link": "https://www.securityweek.com/critical-wordpress-vulnerability-exploited-immediately-after-disclosure/"
+        },
+        {
+            "title": "Hackers Exploit Critical WordPress Flaw to Execute PHP Code on Vulnerable Sites",
+            "link": "https://cyberpress.org/hackers-exploit-critical-wordpress-flaw/"
+        }
+    ],
+    "CVE-2026-68490": [
+        {
+            "title": "cPanel Permissions Flaw Allows Local Users to Read Other Accounts\u2019 Calendar Data",
+            "link": "https://gbhackers.com/cpanel-permissions-flaw/"
+        },
+        {
+            "title": "cPanel CalDAV/CardDAV Flaw Lets Local Users Access Other Accounts\u2019 Contacts and Calendars",
+            "link": "https://cyberpress.org/cpanel-caldav-carddav-flaw/"
+        }
+    ]
+}
