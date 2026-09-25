@@ -11,6 +11,10 @@
         {
             "title": "Critical Roundcube Flaw Under Active Exploitation in Code Injection Attacks",
             "link": "https://www.cysecurity.news/2026/09/critical-roundcube-flaw-under-active.html"
+        },
+        {
+            "title": "Attackers Target Unpatched Roundcube Servers With CVE-2026-48842",
+            "link": "https://www.techrepublic.com/article/attackers-target-unpatched-roundcube-servers-with-cve-2026-48842/"
         }
     ],
     "CVE-2026-5430": [
@@ -29,6 +33,10 @@
         {
             "title": "CISA Warns of Actively Exploited Critical WSO2 Authentication Bypass Flaw",
             "link": "https://cyberpress.org/cisa-warns-wso2-authentication-bypass-flaw/"
+        },
+        {
+            "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/"
         }
     ],
     "CVE-2026-96512": [
@@ -49,6 +57,10 @@
         {
             "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
             "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        },
+        {
+            "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/"
         }
     ],
     "CVE-2026-86857": [
@@ -59,6 +71,10 @@
         {
             "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
             "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        },
+        {
+            "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/"
         }
     ],
     "CVE-2026-13016": [
@@ -69,6 +85,10 @@
         {
             "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
             "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        },
+        {
+            "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/"
         }
     ],
     "CVE-2026-86858": [
@@ -79,6 +99,10 @@
         {
             "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
             "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        },
+        {
+            "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/"
         }
     ],
     "CVE-2025-39964": [
@@ -95,6 +119,10 @@
         {
             "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
             "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        },
+        {
+            "title": "Critical ServiceNow Vulnerabilities Let Attackers Bypass Authorization \u2013 Update Now!",
+            "link": "https://cybersecuritynews.com/critical-servicenow-vulnerabilities/"
         }
     ],
     "CVE-2025-4632": [
@@ -149,6 +177,22 @@
         {
             "title": "CISA KEV Addition: CVE-2026-65660",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-65660"
+        }
+    ],
+    "CVE-2026-87902": [
+        {
+            "title": "WordPress Flaw Under Active Attack: Hackers Target CVE-2026-87902 for Code Execution",
+            "link": "https://www.techrepublic.com/article/news-wordpress-cve-2026-87902-active-exploitation/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-87902",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-87902"
+        }
+    ],
+    "CVE-2026-93485": [
+        {
+            "title": "WordPress Comment2Shell Vulnerability Lets Hackers Take Over Sites Through Comments",
+            "link": "https://cybersecuritynews.com/wordpress-comment2shell-vulnerability/"
         }
     ]
 }
