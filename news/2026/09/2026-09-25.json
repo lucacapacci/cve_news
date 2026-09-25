@@ -32,5 +32,29 @@
             "title": "Sudo Flaw Lets Unprivileged Users Bypass Time-Based Restrictions on Privileged Commands",
             "link": "https://cyberpress.org/sudo-flaw-lets-unprivileged-users-bypass/"
         }
+    ],
+    "CVE-2026-86859": [
+        {
+            "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
+            "link": "https://gbhackers.com/servicenow-security-flaws/"
+        }
+    ],
+    "CVE-2026-86857": [
+        {
+            "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
+            "link": "https://gbhackers.com/servicenow-security-flaws/"
+        }
+    ],
+    "CVE-2026-13016": [
+        {
+            "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
+            "link": "https://gbhackers.com/servicenow-security-flaws/"
+        }
+    ],
+    "CVE-2026-86858": [
+        {
+            "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
+            "link": "https://gbhackers.com/servicenow-security-flaws/"
+        }
     ]
 }
