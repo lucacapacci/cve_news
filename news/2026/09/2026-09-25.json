@@ -1,0 +1,36 @@
+{
+    "CVE-2026-48842": [
+        {
+            "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
+            "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html"
+        },
+        {
+            "title": "Roundcube Webmail Vulnerability in Attackers\u2019 Crosshairs",
+            "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/"
+        }
+    ],
+    "CVE-2026-5430": [
+        {
+            "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
+            "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html"
+        },
+        {
+            "title": "CISA Flags WSO2 Security Flaw Under Active Exploitation",
+            "link": "https://gbhackers.com/cisa-flags-wso2-security-flaw/"
+        },
+        {
+            "title": "U.S. CISA adds Adobe and WSO2\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/199704/hacking/u-s-cisa-adds-adobe-and-wso2-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ],
+    "CVE-2026-96512": [
+        {
+            "title": "Sudo Vulnerability Lets Attackers Bypass Time-Based Authorization Controls",
+            "link": "https://gbhackers.com/sudo-vulnerability/"
+        },
+        {
+            "title": "Sudo Flaw Lets Unprivileged Users Bypass Time-Based Restrictions on Privileged Commands",
+            "link": "https://cyberpress.org/sudo-flaw-lets-unprivileged-users-bypass/"
+        }
+    ]
+}
