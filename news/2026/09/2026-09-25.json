@@ -7,6 +7,10 @@
         {
             "title": "Roundcube Webmail Vulnerability in Attackers\u2019 Crosshairs",
             "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/"
+        },
+        {
+            "title": "Critical Roundcube Flaw Under Active Exploitation in Code Injection Attacks",
+            "link": "https://www.cysecurity.news/2026/09/critical-roundcube-flaw-under-active.html"
         }
     ],
     "CVE-2026-5430": [
@@ -21,6 +25,10 @@
         {
             "title": "U.S. CISA adds Adobe and WSO2\u00a0flaws to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/199704/hacking/u-s-cisa-adds-adobe-and-wso2-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Critical WSO2 Authentication Bypass Flaw",
+            "link": "https://cyberpress.org/cisa-warns-wso2-authentication-bypass-flaw/"
         }
     ],
     "CVE-2026-96512": [
@@ -37,24 +45,110 @@
         {
             "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
             "link": "https://gbhackers.com/servicenow-security-flaws/"
+        },
+        {
+            "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
+            "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
         }
     ],
     "CVE-2026-86857": [
         {
             "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
             "link": "https://gbhackers.com/servicenow-security-flaws/"
+        },
+        {
+            "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
+            "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
         }
     ],
     "CVE-2026-13016": [
         {
             "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
             "link": "https://gbhackers.com/servicenow-security-flaws/"
+        },
+        {
+            "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
+            "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
         }
     ],
     "CVE-2026-86858": [
         {
             "title": "ServiceNow Security Flaws Allow Attackers to Execute SQL and Modify Instance Data",
             "link": "https://gbhackers.com/servicenow-security-flaws/"
+        },
+        {
+            "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
+            "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        }
+    ],
+    "CVE-2025-39964": [
+        {
+            "title": "14-Year-Old Linux Kernel Vulnerability Enables Root Access and Docker Escape",
+            "link": "https://gbhackers.com/14-year-old-linux-kernel-vulnerability/"
+        },
+        {
+            "title": "14-Year-Old Linux Kernel Vulnerability Lets Attackers Gain Root and Escape Containers",
+            "link": "https://cyberpress.org/14-year-old-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2026-86860": [
+        {
+            "title": "ServiceNow Fixes Five AI Platform Flaws Enabling SQL Injection, Data Theft and Privilege Escalation",
+            "link": "https://cyberpress.org/servicenow-fixes-five-ai-platform-flaws/"
+        }
+    ],
+    "CVE-2025-4632": [
+        {
+            "title": "Samsung MagicINFO Flaw Used to Deploy AnyDesk and Compile Stealthy Cryptominer Payloads",
+            "link": "https://cyberpress.org/magicinfo-flaw-fuels-cryptomining/"
+        }
+    ],
+    "CVE-2026-85102": [
+        {
+            "title": "CISA Warns of Check Point VPN and Management Flaws Exploited for Unauthenticated Code Execution",
+            "link": "https://cyberpress.org/cisa-warns-of-check-point-vpn-and-management-flaws/"
+        },
+        {
+            "title": "Check Point Warns of Active Exploitation of Two Critical Pre-Authentication Vulnerabilities",
+            "link": "https://www.cysecurity.news/2026/09/check-point-warns-of-active.html"
+        }
+    ],
+    "CVE-2026-93616": [
+        {
+            "title": "CISA Warns of Check Point VPN and Management Flaws Exploited for Unauthenticated Code Execution",
+            "link": "https://cyberpress.org/cisa-warns-of-check-point-vpn-and-management-flaws/"
+        },
+        {
+            "title": "Check Point Warns of Active Exploitation of Two Critical Pre-Authentication Vulnerabilities",
+            "link": "https://www.cysecurity.news/2026/09/check-point-warns-of-active.html"
+        },
+        {
+            "title": "Zero-Days, AI Agents, and Identity Attacks Define Cybersecurity Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-identity-attacks-define-cybersecurity-week/"
+        }
+    ],
+    "CVE-2023-5631": [
+        {
+            "title": "Critical Roundcube Flaw Under Active Exploitation in Code Injection Attacks",
+            "link": "https://www.cysecurity.news/2026/09/critical-roundcube-flaw-under-active.html"
+        }
+    ],
+    "CVE-2026-58138": [
+        {
+            "title": "Zero-Days, AI Agents, and Identity Attacks Define Cybersecurity Week",
+            "link": "https://www.esecurityplanet.com/weekly-roundup/zero-days-ai-agents-and-identity-attacks-define-cybersecurity-week/"
+        }
+    ],
+    "CVE-2026-67279": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-67279",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-67279"
+        }
+    ],
+    "CVE-2026-65660": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-65660",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-65660"
         }
     ]
 }
