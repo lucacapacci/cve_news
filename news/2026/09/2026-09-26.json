@@ -28,5 +28,45 @@
             "title": "U.S. CISA adds WordPress\u00a0flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
         }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+            "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html"
+        },
+        {
+            "title": "ShinyHunters Bypass WAF Rules to Resume Oracle PeopleSoft Attacks",
+            "link": "https://hackread.com/shinyhunters-bypass-waf-rules-oracle-peoplesoft-attacks/"
+        }
+    ],
+    "CVE-2026-28326": [
+        {
+            "title": "SolarWinds Patches Critical Unauthenticated RCE Vulnerabilities in Observability Self-Hosted",
+            "link": "https://www.cysecurity.news/2026/09/solarwinds-patches-critical.html"
+        }
+    ],
+    "CVE-2026-28324": [
+        {
+            "title": "SolarWinds Patches Critical Unauthenticated RCE Vulnerabilities in Observability Self-Hosted",
+            "link": "https://www.cysecurity.news/2026/09/solarwinds-patches-critical.html"
+        }
+    ],
+    "CVE-2026-28325": [
+        {
+            "title": "SolarWinds Patches Critical Unauthenticated RCE Vulnerabilities in Observability Self-Hosted",
+            "link": "https://www.cysecurity.news/2026/09/solarwinds-patches-critical.html"
+        }
+    ],
+    "CVE-2026-71362": [
+        {
+            "title": "CISA Adds Actively Exploited WSO2 and Adobe Commerce Flaws to KEV Catalog",
+            "link": "https://www.cysecurity.news/2026/09/cisa-adds-actively-exploited-wso2-and.html"
+        }
+    ],
+    "CVE-2026-5430": [
+        {
+            "title": "CISA Adds Actively Exploited WSO2 and Adobe Commerce Flaws to KEV Catalog",
+            "link": "https://www.cysecurity.news/2026/09/cisa-adds-actively-exploited-wso2-and.html"
+        }
     ]
 }
