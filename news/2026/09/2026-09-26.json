@@ -1,0 +1,32 @@
+{
+    "CVE-2026-65660": [
+        {
+            "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+            "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html"
+        }
+    ],
+    "CVE-2026-60004": [
+        {
+            "title": "Red Heron Exploits Critical Gitea Flaw to Steal Repositories and Deploy Linux Rootkit",
+            "link": "https://gbhackers.com/red-heron-exploits-critical-gitea-flaw/"
+        }
+    ],
+    "CVE-2026-56711": [
+        {
+            "title": "VLC 3.0.24 Overhauls Core Libraries With Massive Security Push and Fresh Codec Support",
+            "link": "https://www.webpronews.com/vlc-3-0-24-overhauls-core-libraries-with-massive-security-push-and-fresh-codec-support/"
+        }
+    ],
+    "CVE-2026-73324": [
+        {
+            "title": "VLC 3.0.24 Overhauls Core Libraries With Massive Security Push and Fresh Codec Support",
+            "link": "https://www.webpronews.com/vlc-3-0-24-overhauls-core-libraries-with-massive-security-push-and-fresh-codec-support/"
+        }
+    ],
+    "CVE-2026-87902": [
+        {
+            "title": "U.S. CISA adds WordPress\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ]
+}
