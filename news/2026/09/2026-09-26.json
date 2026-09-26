@@ -68,5 +68,11 @@
             "title": "CISA Adds Actively Exploited WSO2 and Adobe Commerce Flaws to KEV Catalog",
             "link": "https://www.cysecurity.news/2026/09/cisa-adds-actively-exploited-wso2-and.html"
         }
+    ],
+    "CVE-2026-48842": [
+        {
+            "title": "Critical Roundcube Webmail RCE Vulnerability CVE-2026-48842 Actively Exploited",
+            "link": "https://www.webpronews.com/critical-roundcube-webmail-rce-vulnerability-cve-2026-48842-actively-exploited/"
+        }
     ]
 }
