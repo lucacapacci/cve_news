@@ -45,6 +45,10 @@
         {
             "title": "ShinyHunters Bypass WAF Rules to Resume Oracle PeopleSoft Attacks",
             "link": "https://hackread.com/shinyhunters-bypass-waf-rules-oracle-peoplesoft-attacks/"
+        },
+        {
+            "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/"
         }
     ],
     "CVE-2026-28326": [
