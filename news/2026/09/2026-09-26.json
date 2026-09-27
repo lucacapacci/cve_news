@@ -9,6 +9,10 @@
         {
             "title": "Red Heron Exploits Critical Gitea Flaw to Steal Repositories and Deploy Linux Rootkit",
             "link": "https://gbhackers.com/red-heron-exploits-critical-gitea-flaw/"
+        },
+        {
+            "title": "Red Heron Hackers Exploit Critical Gitea RCE to Steal Source Code and Deploy Linux Rootkit",
+            "link": "https://cyberpress.org/red-heron-hackers-exploit-critical-gitea-rce-2/"
         }
     ],
     "CVE-2026-56711": [
@@ -27,6 +31,10 @@
         {
             "title": "U.S. CISA adds WordPress\u00a0flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/199790/security/u-s-cisa-adds-wordpress-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "Critical Contact Form 7 Vulnerability CVE-2026-87902 Actively Exploited in WordPress 6.6",
+            "link": "https://www.webpronews.com/critical-contact-form-7-vulnerability-cve-2026-87902-actively-exploited-in-wordpress-6-6/"
         }
     ],
     "CVE-2026-35273": [
@@ -73,6 +81,18 @@
         {
             "title": "Critical Roundcube Webmail RCE Vulnerability CVE-2026-48842 Actively Exploited",
             "link": "https://www.webpronews.com/critical-roundcube-webmail-rce-vulnerability-cve-2026-48842-actively-exploited/"
+        }
+    ],
+    "CVE-2024-12130": [
+        {
+            "title": "Google Chrome 154 Fixes 154 Security Vulnerabilities: Update Now",
+            "link": "https://www.webpronews.com/google-chrome-154-fixes-154-security-vulnerabilities-update-now/"
+        }
+    ],
+    "CVE-2024-12129": [
+        {
+            "title": "Google Chrome 154 Fixes 154 Security Vulnerabilities: Update Now",
+            "link": "https://www.webpronews.com/google-chrome-154-fixes-154-security-vulnerabilities-update-now/"
         }
     ]
 }
