@@ -3,6 +3,18 @@
         {
             "title": "Two new NetScaler zero-days exploited, ShinyHunters steals FBI medical files, OpenAI Australia hack disputed",
             "link": "https://cybersecuritytoday.libsyn.com/two-new-netscaler-zero-days-exploited-shinyhunters-steals-fbi-medical-files-openai-australia-hack-disputed"
+        },
+        {
+            "title": "Google Warns of ShinyHunters\u2019 Fresh Oracle PeopleSoft Campaign",
+            "link": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/"
+        },
+        {
+            "title": "ShinyHunters Bypasses WAF Protections to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+            "link": "https://cybersecuritynews.com/shinyhunters-bypasses/"
+        },
+        {
+            "title": "Oracle PeopleSoft Servers Targeted Again as ShinyHunters Expands Extortion Operations",
+            "link": "https://gbhackers.com/oracle-peoplesoft-servers/"
         }
     ],
     "CVE-2026-88771": [
@@ -13,6 +25,22 @@
         {
             "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
             "link": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/"
+        },
+        {
+            "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+            "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html"
+        },
+        {
+            "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/"
+        },
+        {
+            "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
+            "link": "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/"
+        },
+        {
+            "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild",
+            "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
         }
     ],
     "CVE-2026-88772": [
@@ -23,12 +51,28 @@
         {
             "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
             "link": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/"
+        },
+        {
+            "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/"
+        },
+        {
+            "title": "Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)",
+            "link": "https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/"
+        },
+        {
+            "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild",
+            "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
         }
     ],
     "CVE-2026-0257": [
         {
             "title": "Hackers Exploit GlobalProtect Flaw and Turn Stolen Data Into 2.4 Million Fraud Messages",
             "link": "https://cybersecuritynews.com/hackers-exploit-globalprotect-flaw/"
+        },
+        {
+            "title": "Operation Master Exploits GlobalProtect CVE-2026-0257 and Deploys AdaptixC2 Across Enterprise Networks",
+            "link": "https://gbhackers.com/adaptixc2-deployment/"
         }
     ],
     "CVE-2026-96419": [
@@ -41,6 +85,70 @@
         {
             "title": "Roundcube SQL injection CVE-2026-48842 is now being exploited in the wild",
             "link": "https://securityaffairs.com/199882/security/roundcube-sql-injection-cve-2026-48842-is-now-being-exploited-in-the-wild.html"
+        }
+    ],
+    "CVE-2026-88773": [
+        {
+            "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-8452": [
+        {
+            "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-88774": [
+        {
+            "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-88776": [
+        {
+            "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-88777": [
+        {
+            "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-88775": [
+        {
+            "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-88778": [
+        {
+            "title": "NCSC Urges UK organizations to Patch for Citrix NetScaler ADC and Gateway 0-Day Vulnerabilities",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65660": [
+        {
+            "title": "CISA Warns of Microsoft SharePoint Code Injection Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/microsoft-sharepoint-code-injection/"
+        }
+    ],
+    "CVE-2025-68788": [
+        {
+            "title": "Other users can watch your browsing and time your keystrokes through OS file notifications",
+            "link": "https://www.helpnetsecurity.com/2026/09/28/cve-2025-68788-file-notification-attacks/"
+        },
+        {
+            "title": "File Notification APIs in Windows, Linux, and Android Are Leaking What You Do on Your Computer",
+            "link": "https://www.cysecurity.news/2026/09/file-notification-apis-in-windows-linux.html"
+        }
+    ],
+    "CVE-2007-0843": [
+        {
+            "title": "File Notification APIs in Windows, Linux, and Android Are Leaking What You Do on Your Computer",
+            "link": "https://www.cysecurity.news/2026/09/file-notification-apis-in-windows-linux.html"
         }
     ]
 }
