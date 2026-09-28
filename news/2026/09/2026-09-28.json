@@ -15,6 +15,10 @@
         {
             "title": "Oracle PeopleSoft Servers Targeted Again as ShinyHunters Expands Extortion Operations",
             "link": "https://gbhackers.com/oracle-peoplesoft-servers/"
+        },
+        {
+            "title": "ShinyHunters Exploits Oracle PeopleSoft Vulnerability CVE-2026-35273 in New Attack Wave",
+            "link": "https://cyberpress.org/shinyhunters-renew-peoplesoft-attacks/"
         }
     ],
     "CVE-2026-88771": [
@@ -41,6 +45,10 @@
         {
             "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild",
             "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
+        },
+        {
+            "title": "Citrix NetScaler Zero-Days Exploited in Attacks",
+            "link": "https://www.cysecurity.news/2026/09/citrix-netscaler-zero-days-exploited-in.html"
         }
     ],
     "CVE-2026-88772": [
@@ -63,6 +71,10 @@
         {
             "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild",
             "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
+        },
+        {
+            "title": "Citrix NetScaler Zero-Days Exploited in Attacks",
+            "link": "https://www.cysecurity.news/2026/09/citrix-netscaler-zero-days-exploited-in.html"
         }
     ],
     "CVE-2026-0257": [
@@ -149,6 +161,18 @@
         {
             "title": "File Notification APIs in Windows, Linux, and Android Are Leaking What You Do on Your Computer",
             "link": "https://www.cysecurity.news/2026/09/file-notification-apis-in-windows-linux.html"
+        }
+    ],
+    "CVE-2026-85706": [
+        {
+            "title": "IT Security News Roundup: 2026-09-28",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-09-28/"
+        }
+    ],
+    "CVE-2026-86950": [
+        {
+            "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+            "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html"
         }
     ]
 }

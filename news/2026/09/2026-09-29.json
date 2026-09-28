@@ -1,0 +1,8 @@
+{
+    "CVE-2026-86950": [
+        {
+            "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+            "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html"
+        }
+    ]
+}
