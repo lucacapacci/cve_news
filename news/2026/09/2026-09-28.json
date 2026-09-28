@@ -9,12 +9,38 @@
         {
             "title": "Two new NetScaler zero-days exploited, ShinyHunters steals FBI medical files, OpenAI Australia hack disputed",
             "link": "https://cybersecuritytoday.libsyn.com/two-new-netscaler-zero-days-exploited-shinyhunters-steals-fbi-medical-files-openai-australia-hack-disputed"
+        },
+        {
+            "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
+            "link": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/"
         }
     ],
     "CVE-2026-88772": [
         {
             "title": "Two new NetScaler zero-days exploited, ShinyHunters steals FBI medical files, OpenAI Australia hack disputed",
             "link": "https://cybersecuritytoday.libsyn.com/two-new-netscaler-zero-days-exploited-shinyhunters-steals-fbi-medical-files-openai-australia-hack-disputed"
+        },
+        {
+            "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
+            "link": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/"
+        }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Hackers Exploit GlobalProtect Flaw and Turn Stolen Data Into 2.4 Million Fraud Messages",
+            "link": "https://cybersecuritynews.com/hackers-exploit-globalprotect-flaw/"
+        }
+    ],
+    "CVE-2026-96419": [
+        {
+            "title": "Wireshark 4.6.9 Fixes 19 Vulnerabilities Including Code Execution Via Malicious Packet",
+            "link": "https://cybersecuritynews.com/wireshark-4-6-9-fixes-19-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-48842": [
+        {
+            "title": "Roundcube SQL injection CVE-2026-48842 is now being exploited in the wild",
+            "link": "https://securityaffairs.com/199882/security/roundcube-sql-injection-cve-2026-48842-is-now-being-exploited-in-the-wild.html"
         }
     ]
 }
