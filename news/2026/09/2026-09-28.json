@@ -173,6 +173,10 @@
         {
             "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
             "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html"
+        },
+        {
+            "title": "Apple Emergency Patch for iOS 26, macOS26, macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
+            "link": "https://isc.sans.edu/diary/rss/33376"
         }
     ]
 }
