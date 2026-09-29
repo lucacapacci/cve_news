@@ -23,6 +23,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-86950",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-86950"
+        },
+        {
+            "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
+            "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks"
         }
     ],
     "CVE-2026-87969": [
@@ -121,6 +125,12 @@
         {
             "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
             "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-47272": [
+        {
+            "title": "Kiteworks Urgently Patches Critical Authentication Bypass (CVE-2025-47272)",
+            "link": "https://www.webpronews.com/kiteworks-urgently-patches-critical-authentication-bypass-cve-2025-47272/"
         }
     ]
 }
