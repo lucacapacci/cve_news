@@ -59,12 +59,20 @@
         {
             "title": "Octopus Server Flaw Lets Authenticated Attackers Execute Arbitrary Code",
             "link": "https://gbhackers.com/octopus-server-flaw/"
+        },
+        {
+            "title": "Octopus Server Flaw Lets Authenticated Attackers Execute Arbitrary Code Through Malicious JSON",
+            "link": "https://cyberpress.org/octopus-server-flaw/"
         }
     ],
     "CVE-2026-93302": [
         {
             "title": "wolfSSL 5.9.4 Patches 11 Security Flaws Affecting TLS and Certificate Validation",
             "link": "https://gbhackers.com/wolfssl-5-9-4-patches-11-security-flaws/"
+        },
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
         }
     ],
     "CVE-2026-88771": [
@@ -77,6 +85,42 @@
         {
             "title": "Apple Releases September 2026 Security Updates Fixing Actively Exploited WebKit Zero-Day (CVE-2025-4287)",
             "link": "https://www.webpronews.com/apple-releases-september-2026-security-updates-fixing-actively-exploited-webkit-zero-day-cve-2025-4287/"
+        }
+    ],
+    "CVE-2026-93304": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89133": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89135": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89102": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89134": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89136": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Vulnerabilities Enabling Authentication and Certificate Validation Bypass",
+            "link": "https://cyberpress.org/wolfssl-5-9-4-patches-11-vulnerabilities/"
         }
     ]
 }
