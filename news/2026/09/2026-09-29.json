@@ -19,6 +19,10 @@
         {
             "title": "Apple Patches iPhone CoreGraphics Flaw Allowing Arbitrary Code Execution",
             "link": "https://cyberpress.org/apple-patches-iphone-coregraphics-flaw/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-86950",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-86950"
         }
     ],
     "CVE-2026-87969": [
@@ -49,6 +53,30 @@
         {
             "title": "Critical WatchGuard AP Flaws Let Unauthenticated Attackers Execute Arbitrary Commands",
             "link": "https://cyberpress.org/critical-watchguard-ap-flaws/"
+        }
+    ],
+    "CVE-2026-101169": [
+        {
+            "title": "Octopus Server Flaw Lets Authenticated Attackers Execute Arbitrary Code",
+            "link": "https://gbhackers.com/octopus-server-flaw/"
+        }
+    ],
+    "CVE-2026-93302": [
+        {
+            "title": "wolfSSL 5.9.4 Patches 11 Security Flaws Affecting TLS and Certificate Validation",
+            "link": "https://gbhackers.com/wolfssl-5-9-4-patches-11-security-flaws/"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "NetScaler zero-day exploitation escalates into mass attacks (CVE-2026-88771)",
+            "link": "https://www.helpnetsecurity.com/2026/09/29/netscaler-zero-day-exploitation-escalates-into-mass-attacks-cve-2026-88771/"
+        }
+    ],
+    "CVE-2025-4287": [
+        {
+            "title": "Apple Releases September 2026 Security Updates Fixing Actively Exploited WebKit Zero-Day (CVE-2025-4287)",
+            "link": "https://www.webpronews.com/apple-releases-september-2026-security-updates-fixing-actively-exploited-webkit-zero-day-cve-2025-4287/"
         }
     ]
 }
