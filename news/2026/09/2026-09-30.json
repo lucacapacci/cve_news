@@ -333,6 +333,10 @@
         {
             "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
             "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-76504",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-76504"
         }
     ],
     "CVE-2026-35273": [
@@ -345,6 +349,16 @@
         {
             "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
             "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/"
+        },
+        {
+            "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+            "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html"
+        }
+    ],
+    "CVE-2026-86131": [
+        {
+            "title": "WatchGuard fixes critical Fireware OS flaw allowing remote code execution",
+            "link": "https://securityaffairs.com/200108/security/watchguard-fixes-critical-fireware-os-flaw-allowing-remote-code-execution.html"
         }
     ]
 }
