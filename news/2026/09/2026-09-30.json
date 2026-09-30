@@ -10,5 +10,299 @@
             "title": "OpenSSL Fixes High-Severity Flaw That Can Leak Server Memory in Plaintext",
             "link": "https://cybersecuritynews.com/openssl-leak-server-memory/"
         }
+    ],
+    "CVE-2026-88772": [
+        {
+            "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+            "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html"
+        },
+        {
+            "title": "Hackers Exploit Citrix NetScaler Zero-Day to Gain Root Access and Deploy Web Shells",
+            "link": "https://gbhackers.com/hackers-exploit-citrix-netscaler-zero-day/"
+        },
+        {
+            "title": "Hackers Exploit Citrix NetScaler Zero-Days to Gain Root Access and Deploy Web Shells",
+            "link": "https://cyberpress.org/hackers-exploit-citrix-netscaler-zero-days/"
+        }
+    ],
+    "CVE-2026-82078": [
+        {
+            "title": "Attackers Use PaperCut RCE Chain to Steal Tokens and Access Domain Controller",
+            "link": "https://gbhackers.com/papercut-rce-chain/"
+        },
+        {
+            "title": "PaperCut Zero-Days Exploited to Deploy AdaptixC2 and Compromise Active Directory",
+            "link": "https://cyberpress.org/papercut-zero-days-under-attack/"
+        }
+    ],
+    "CVE-2026-81578": [
+        {
+            "title": "Attackers Use PaperCut RCE Chain to Steal Tokens and Access Domain Controller",
+            "link": "https://gbhackers.com/papercut-rce-chain/"
+        },
+        {
+            "title": "PaperCut Zero-Days Exploited to Deploy AdaptixC2 and Compromise Active Directory",
+            "link": "https://cyberpress.org/papercut-zero-days-under-attack/"
+        }
+    ],
+    "CVE-2026-72018": [
+        {
+            "title": "Linux Kernel CVE-2026-72018 Flaw Lets Local Attackers Gain Root Access",
+            "link": "https://gbhackers.com/linux-kernel-cve-2026-72018-flaw/"
+        },
+        {
+            "title": "AI Agent Finds Linux Kernel Bug That Turns a Tiny Memory Write Into Root Access",
+            "link": "https://cybersecuritynews.com/ai-agent-finds-linux-kernel-bug/"
+        }
+    ],
+    "CVE-2026-82329": [
+        {
+            "title": "OpenInfra Europe\u2019s JFrog Artifactory instance breached, packages potentially compromised",
+            "link": "https://www.helpnetsecurity.com/2026/09/30/openinfra-jfrog-artifactory-instance-compromised/"
+        }
+    ],
+    "CVE-2026-84411": [
+        {
+            "title": "Critical MikroTik RouterOS Flaw Lets Unauthenticated Attackers Execute Code as Root",
+            "link": "https://cyberpress.org/critical-mikrotik-routeros-flaw/"
+        }
+    ],
+    "CVE-2026-102331": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/"
+        }
+    ],
+    "CVE-2026-102303": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102317": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102302": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102314": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102312": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102318": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102313": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102327": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102319": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102329": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102304": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102301": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102311": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102310": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102323": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/"
+        }
+    ],
+    "CVE-2026-102324": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102326": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/"
+        }
+    ],
+    "CVE-2026-102309": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102328": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/"
+        }
+    ],
+    "CVE-2026-102306": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102320": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102305": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102300": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102308": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102321": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102307": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102315": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102299": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102316": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102330": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102325": [
+        {
+            "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
+            "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "Hackers Exploit Citrix NetScaler Zero-Days to Gain Root Access and Deploy Web Shells",
+            "link": "https://cyberpress.org/hackers-exploit-citrix-netscaler-zero-days/"
+        }
+    ],
+    "CVE-2026-6389": [
+        {
+            "title": "Kubernetes Operators With Excessive Privileges Can Expose Secrets Across Entire Clusters",
+            "link": "https://cyberpress.org/kubernetes-operators-with-excessive-privileges/"
+        }
+    ],
+    "CVE-2026-86950": [
+        {
+            "title": "Apple Patches CoreGraphics Zero Day Exploited in Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/"
+        }
     ]
 }
