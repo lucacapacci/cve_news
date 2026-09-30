@@ -23,6 +23,18 @@
         {
             "title": "Hackers Exploit Citrix NetScaler Zero-Days to Gain Root Access and Deploy Web Shells",
             "link": "https://cyberpress.org/hackers-exploit-citrix-netscaler-zero-days/"
+        },
+        {
+            "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+            "link": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/"
+        },
+        {
+            "title": "Suspected state-sponsored hackers exploited NetScaler zero-day since early September (CVE-2026-88772)",
+            "link": "https://www.helpnetsecurity.com/2026/09/30/cve-2026-88772-netscaler-exploitation-zero-day/"
+        },
+        {
+            "title": "Two new NetScaler zero-days exploited, ShinyHunters steals FBI medical files, OpenAI Australia hack disputed",
+            "link": "https://cybersecuritytoday.libsyn.com/two-new-netscaler-zero-days-exploited-shinyhunters-steals-fbi-medical-files-openai-australia-hack-disputed"
         }
     ],
     "CVE-2026-82078": [
@@ -291,6 +303,14 @@
         {
             "title": "Hackers Exploit Citrix NetScaler Zero-Days to Gain Root Access and Deploy Web Shells",
             "link": "https://cyberpress.org/hackers-exploit-citrix-netscaler-zero-days/"
+        },
+        {
+            "title": "Government, Finance Orgs Targeted in Weeks-Long NetScaler Zero-Day Attacks",
+            "link": "https://www.securityweek.com/government-finance-orgs-targeted-in-weeks-long-netscaler-zero-day-attacks/"
+        },
+        {
+            "title": "Two new NetScaler zero-days exploited, ShinyHunters steals FBI medical files, OpenAI Australia hack disputed",
+            "link": "https://cybersecuritytoday.libsyn.com/two-new-netscaler-zero-days-exploited-shinyhunters-steals-fbi-medical-files-openai-australia-hack-disputed"
         }
     ],
     "CVE-2026-6389": [
@@ -303,6 +323,28 @@
         {
             "title": "Apple Patches CoreGraphics Zero Day Exploited in Attacks",
             "link": "https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/"
+        }
+    ],
+    "CVE-2026-76504": [
+        {
+            "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+            "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html"
+        },
+        {
+            "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "Two new NetScaler zero-days exploited, ShinyHunters steals FBI medical files, OpenAI Australia hack disputed",
+            "link": "https://cybersecuritytoday.libsyn.com/two-new-netscaler-zero-days-exploited-shinyhunters-steals-fbi-medical-files-openai-australia-hack-disputed"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570",
+            "link": "https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/"
         }
     ]
 }

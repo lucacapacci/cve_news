@@ -138,5 +138,11 @@
             "title": "Apple Urgently Patches Actively Exploited iOS Zero-Day in Core Graphics (CVE-2024-23222)",
             "link": "https://www.webpronews.com/apple-urgently-patches-actively-exploited-ios-zero-day-in-core-graphics-cve-2024-23222/"
         }
+    ],
+    "CVE-2026-88772": [
+        {
+            "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/"
+        }
     ]
 }
