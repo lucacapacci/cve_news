@@ -1,0 +1,14 @@
+{
+    "CVE-2026-101169": [
+        {
+            "title": "Octopus Server Flaw Lets Authenticated Users Execute Code Through Insecure JSON Deserialization",
+            "link": "https://cybersecuritynews.com/octopus-server-flaw-2/"
+        }
+    ],
+    "CVE-2026-84782": [
+        {
+            "title": "OpenSSL Fixes High-Severity Flaw That Can Leak Server Memory in Plaintext",
+            "link": "https://cybersecuritynews.com/openssl-leak-server-memory/"
+        }
+    ]
+}

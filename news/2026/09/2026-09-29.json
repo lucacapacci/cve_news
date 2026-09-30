@@ -132,5 +132,11 @@
             "title": "Kiteworks Urgently Patches Critical Authentication Bypass (CVE-2025-47272)",
             "link": "https://www.webpronews.com/kiteworks-urgently-patches-critical-authentication-bypass-cve-2025-47272/"
         }
+    ],
+    "CVE-2024-23222": [
+        {
+            "title": "Apple Urgently Patches Actively Exploited iOS Zero-Day in Core Graphics (CVE-2024-23222)",
+            "link": "https://www.webpronews.com/apple-urgently-patches-actively-exploited-ios-zero-day-in-core-graphics-cve-2024-23222/"
+        }
     ]
 }
