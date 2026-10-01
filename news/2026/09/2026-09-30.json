@@ -35,6 +35,14 @@
         {
             "title": "Two new NetScaler zero-days exploited, ShinyHunters steals FBI medical files, OpenAI Australia hack disputed",
             "link": "https://cybersecuritytoday.libsyn.com/two-new-netscaler-zero-days-exploited-shinyhunters-steals-fbi-medical-files-openai-australia-hack-disputed"
+        },
+        {
+            "title": "Google Warns of Hackers Actively Exploiting Citrix 0-Day Vulnerabilities to Deploy\u00a0Web Shells",
+            "link": "https://cybersecuritynews.com/citrix-0-day-vulnerabilities-webshells/"
+        },
+        {
+            "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+            "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
         }
     ],
     "CVE-2026-82078": [
@@ -45,6 +53,10 @@
         {
             "title": "PaperCut Zero-Days Exploited to Deploy AdaptixC2 and Compromise Active Directory",
             "link": "https://cyberpress.org/papercut-zero-days-under-attack/"
+        },
+        {
+            "title": "Hackers Turned a PaperCut Print Server Into a Path to the Domain Controller",
+            "link": "https://cybersecuritynews.com/hackers-turned-a-papercut-print-server/"
         }
     ],
     "CVE-2026-81578": [
@@ -55,6 +67,10 @@
         {
             "title": "PaperCut Zero-Days Exploited to Deploy AdaptixC2 and Compromise Active Directory",
             "link": "https://cyberpress.org/papercut-zero-days-under-attack/"
+        },
+        {
+            "title": "Hackers Turned a PaperCut Print Server Into a Path to the Domain Controller",
+            "link": "https://cybersecuritynews.com/hackers-turned-a-papercut-print-server/"
         }
     ],
     "CVE-2026-72018": [
@@ -83,6 +99,10 @@
         {
             "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
             "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/"
+        },
+        {
+            "title": "Google Releases Chrome Update With 32 Security Fixes for Windows, Mac and Linux",
+            "link": "https://cybersecuritynews.com/chrome-update-with-32-security-fixes/"
         }
     ],
     "CVE-2026-102303": [
@@ -104,6 +124,10 @@
             "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
             "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
             "listOnly": true
+        },
+        {
+            "title": "Google Releases Chrome Update With 32 Security Fixes for Windows, Mac and Linux",
+            "link": "https://cybersecuritynews.com/chrome-update-with-32-security-fixes/"
         }
     ],
     "CVE-2026-102314": [
@@ -153,6 +177,10 @@
             "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
             "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
             "listOnly": true
+        },
+        {
+            "title": "Google Releases Chrome Update With 32 Security Fixes for Windows, Mac and Linux",
+            "link": "https://cybersecuritynews.com/chrome-update-with-32-security-fixes/"
         }
     ],
     "CVE-2026-102304": [
@@ -187,6 +215,10 @@
         {
             "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
             "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/"
+        },
+        {
+            "title": "Google Releases Chrome Update With 32 Security Fixes for Windows, Mac and Linux",
+            "link": "https://cybersecuritynews.com/chrome-update-with-32-security-fixes/"
         }
     ],
     "CVE-2026-102324": [
@@ -200,6 +232,10 @@
         {
             "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
             "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/"
+        },
+        {
+            "title": "Google Releases Chrome Update With 32 Security Fixes for Windows, Mac and Linux",
+            "link": "https://cybersecuritynews.com/chrome-update-with-32-security-fixes/"
         }
     ],
     "CVE-2026-102309": [
@@ -213,6 +249,10 @@
         {
             "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
             "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/"
+        },
+        {
+            "title": "Google Releases Chrome Update With 32 Security Fixes for Windows, Mac and Linux",
+            "link": "https://cybersecuritynews.com/chrome-update-with-32-security-fixes/"
         }
     ],
     "CVE-2026-102306": [
@@ -255,6 +295,10 @@
             "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
             "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
             "listOnly": true
+        },
+        {
+            "title": "Google Releases Chrome Update With 32 Security Fixes for Windows, Mac and Linux",
+            "link": "https://cybersecuritynews.com/chrome-update-with-32-security-fixes/"
         }
     ],
     "CVE-2026-102307": [
@@ -276,6 +320,10 @@
             "title": "Google Chrome 154 Update Fixes 32 Security Flaws Including Critical ANGLE Bug",
             "link": "https://cyberpress.org/google-chrome-154-update-fixes-32-security-flaws-including-critical-angle-bug/",
             "listOnly": true
+        },
+        {
+            "title": "Google Releases Chrome Update With 32 Security Fixes for Windows, Mac and Linux",
+            "link": "https://cybersecuritynews.com/chrome-update-with-32-security-fixes/"
         }
     ],
     "CVE-2026-102316": [
@@ -311,6 +359,14 @@
         {
             "title": "Two new NetScaler zero-days exploited, ShinyHunters steals FBI medical files, OpenAI Australia hack disputed",
             "link": "https://cybersecuritytoday.libsyn.com/two-new-netscaler-zero-days-exploited-shinyhunters-steals-fbi-medical-files-openai-australia-hack-disputed"
+        },
+        {
+            "title": "Google Warns of Hackers Actively Exploiting Citrix 0-Day Vulnerabilities to Deploy\u00a0Web Shells",
+            "link": "https://cybersecuritynews.com/citrix-0-day-vulnerabilities-webshells/"
+        },
+        {
+            "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+            "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
         }
     ],
     "CVE-2026-6389": [
@@ -359,6 +415,24 @@
         {
             "title": "WatchGuard fixes critical Fireware OS flaw allowing remote code execution",
             "link": "https://securityaffairs.com/200108/security/watchguard-fixes-critical-fireware-os-flaw-allowing-remote-code-execution.html"
+        }
+    ],
+    "CVE-2026-17106": [
+        {
+            "title": "Docker CopyEscape Vulnerability Lets Containers Write Outside Intended Host Paths",
+            "link": "https://cyberpress.org/docker-copyescape-vulnerability/"
+        }
+    ],
+    "CVE-2026-64508": [
+        {
+            "title": "New BTR Spectre-v2 Attack Leaks Linux Kernel Memory and Steals Root Password Hashes",
+            "link": "https://cyberpress.org/new-btr-spectre-v2-attack/"
+        }
+    ],
+    "CVE-2026-64507": [
+        {
+            "title": "New BTR Spectre-v2 Attack Leaks Linux Kernel Memory and Steals Root Password Hashes",
+            "link": "https://cyberpress.org/new-btr-spectre-v2-attack/"
         }
     ]
 }
