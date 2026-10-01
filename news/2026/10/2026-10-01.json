@@ -1,0 +1,14 @@
+{
+    "CVE-2026-17106": [
+        {
+            "title": "CopyEscape Docker Flaw Lets Malicious Containers Overwrite Host Files and Gain Root Access",
+            "link": "https://cybersecuritynews.com/copyescape-docker-flaw/"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "Zimbra Vulnerability Exploited to Gain Root Access and Steal Mailbox Authentication Secrets",
+            "link": "https://gbhackers.com/zimbra-vulnerability-exploited/"
+        }
+    ]
+}
