@@ -9,6 +9,84 @@
         {
             "title": "Zimbra Vulnerability Exploited to Gain Root Access and Steal Mailbox Authentication Secrets",
             "link": "https://gbhackers.com/zimbra-vulnerability-exploited/"
+        },
+        {
+            "title": "Zimbra Vulnerability Exploited in the Wild Prior to Public Disclosure",
+            "link": "https://www.securityweek.com/zimbra-vulnerability-exploited-in-the-wild-prior-to-public-disclosure/"
+        },
+        {
+            "title": "Hackers Exploit Zimbra Mail Servers With Crafted Emails to Gain Remote Access",
+            "link": "https://cybersecuritynews.com/hackers-exploit-zimbra-mail-servers/"
+        }
+    ],
+    "CVE-2026-76504": [
+        {
+            "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+            "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html"
+        },
+        {
+            "title": "New Cisco SD-WAN zero-day exploited in-the-wild (CVE-2026-76504)",
+            "link": "https://www.helpnetsecurity.com/2026/10/01/new-cisco-sd-wan-zero-day-exploited-in-the-wild-cve-2026-76504/"
+        }
+    ],
+    "CVE-2026-86950": [
+        {
+            "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+            "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html"
+        }
+    ],
+    "CVE-2025-53771": [
+        {
+            "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
+            "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/"
+        }
+    ],
+    "CVE-2025-49704": [
+        {
+            "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
+            "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/"
+        }
+    ],
+    "CVE-2025-53770": [
+        {
+            "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
+            "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/"
+        }
+    ],
+    "CVE-2025-1055": [
+        {
+            "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
+            "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/"
+        }
+    ],
+    "CVE-2025-49706": [
+        {
+            "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
+            "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/"
+        }
+    ],
+    "CVE-2026-94545": [
+        {
+            "title": "Node.js ImageResponse Implementation Vulnerability Enables Remote Code Execution",
+            "link": "https://cybersecuritynews.com/node-js-imageresponse-implementation-vulnerability/"
+        }
+    ],
+    "CVE-2026-101898": [
+        {
+            "title": "Axios HTTP/2 Flaws Enable SSRF Control Bypass and Node.js Denial of Service",
+            "link": "https://cybersecuritynews.com/axios-http-2-flaws/"
+        }
+    ],
+    "CVE-2026-101901": [
+        {
+            "title": "Axios HTTP/2 Flaws Enable SSRF Control Bypass and Node.js Denial of Service",
+            "link": "https://cybersecuritynews.com/axios-http-2-flaws/"
+        }
+    ],
+    "CVE-2026-19743": [
+        {
+            "title": "Multiple TeamViewer Vulnerabilities Enable RCE, Access Control Bypass and Privilege Escalation",
+            "link": "https://gbhackers.com/multiple-teamviewer-vulnerabilities/"
         }
     ]
 }
