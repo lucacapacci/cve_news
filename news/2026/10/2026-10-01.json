@@ -31,6 +31,10 @@
         {
             "title": "New Cisco SD-WAN zero-day exploited in-the-wild (CVE-2026-76504)",
             "link": "https://www.helpnetsecurity.com/2026/10/01/new-cisco-sd-wan-zero-day-exploited-in-the-wild-cve-2026-76504/"
+        },
+        {
+            "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/"
         }
     ],
     "CVE-2026-86950": [
@@ -43,36 +47,60 @@
         {
             "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
             "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/"
+        },
+        {
+            "title": "Warlock Attackers Abuse Vulnerable Driver to Disable Security Tools Before Ransomware Deployment",
+            "link": "https://cyberpress.org/warlock-ransomware-sharepoint/"
         }
     ],
     "CVE-2025-49704": [
         {
             "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
             "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/"
+        },
+        {
+            "title": "Warlock Attackers Abuse Vulnerable Driver to Disable Security Tools Before Ransomware Deployment",
+            "link": "https://cyberpress.org/warlock-ransomware-sharepoint/"
         }
     ],
     "CVE-2025-53770": [
         {
             "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
             "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/"
+        },
+        {
+            "title": "Warlock Attackers Abuse Vulnerable Driver to Disable Security Tools Before Ransomware Deployment",
+            "link": "https://cyberpress.org/warlock-ransomware-sharepoint/"
         }
     ],
     "CVE-2025-1055": [
         {
             "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
             "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/"
+        },
+        {
+            "title": "Warlock Attackers Abuse Vulnerable Driver to Disable Security Tools Before Ransomware Deployment",
+            "link": "https://cyberpress.org/warlock-ransomware-sharepoint/"
         }
     ],
     "CVE-2025-49706": [
         {
             "title": "Warlock Ransomware Exploiting SharePoint Flaws to Attack Water and Telecom Operators",
             "link": "https://cybersecuritynews.com/warlock-ransomware-exploiting-sharepoint-flaws/"
+        },
+        {
+            "title": "Warlock Attackers Abuse Vulnerable Driver to Disable Security Tools Before Ransomware Deployment",
+            "link": "https://cyberpress.org/warlock-ransomware-sharepoint/"
         }
     ],
     "CVE-2026-94545": [
         {
             "title": "Node.js ImageResponse Implementation Vulnerability Enables Remote Code Execution",
             "link": "https://cybersecuritynews.com/node-js-imageresponse-implementation-vulnerability/"
+        },
+        {
+            "title": "Critical Next.js ImageResponse Flaw Enables Remote Code Execution via Malicious SVG Input",
+            "link": "https://cyberpress.org/critical-next-js-imageresponse-flaw/"
         }
     ],
     "CVE-2026-101898": [
@@ -91,6 +119,44 @@
         {
             "title": "Multiple TeamViewer Vulnerabilities Enable RCE, Access Control Bypass and Privilege Escalation",
             "link": "https://gbhackers.com/multiple-teamviewer-vulnerabilities/"
+        },
+        {
+            "title": "Critical TeamViewer Vulnerabilities Enable Remote Code Execution and Privilege Escalation Attacks",
+            "link": "https://cyberpress.org/critical-teamviewer-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-104286": [
+        {
+            "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-104286",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-104286"
+        }
+    ],
+    "CVE-2026-92370": [
+        {
+            "title": "Critical TeamViewer Vulnerabilities Enable Remote Code Execution and Privilege Escalation Attacks",
+            "link": "https://cyberpress.org/critical-teamviewer-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92369": [
+        {
+            "title": "Critical TeamViewer Vulnerabilities Enable Remote Code Execution and Privilege Escalation Attacks",
+            "link": "https://cyberpress.org/critical-teamviewer-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92371": [
+        {
+            "title": "Critical TeamViewer Vulnerabilities Enable Remote Code Execution and Privilege Escalation Attacks",
+            "link": "https://cyberpress.org/critical-teamviewer-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92368": [
+        {
+            "title": "Critical TeamViewer Vulnerabilities Enable Remote Code Execution and Privilege Escalation Attacks",
+            "link": "https://cyberpress.org/critical-teamviewer-vulnerabilities/"
         }
     ]
 }
