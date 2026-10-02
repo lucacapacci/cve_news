@@ -152,5 +152,23 @@
             "title": "WatchGuard fixes critical Fireware OS flaw allowing remote code execution",
             "link": "https://securityaffairs.com/200108/security/watchguard-fixes-critical-fireware-os-flaw-allowing-remote-code-execution.html"
         }
+    ],
+    "CVE-2026-63688": [
+        {
+            "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+            "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html"
+        }
+    ],
+    "CVE-2026-58704": [
+        {
+            "title": "Google Pixel Update Leaves Owners Locked Out as Lock Screen Bug Spreads",
+            "link": "https://www.webpronews.com/google-pixel-update-leaves-owners-locked-out-as-lock-screen-bug-spreads/"
+        }
+    ],
+    "CVE-2026-86950": [
+        {
+            "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+            "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html"
+        }
     ]
 }
