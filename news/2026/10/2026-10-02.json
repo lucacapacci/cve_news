@@ -3,6 +3,24 @@
         {
             "title": "Critical Fortinet FortiMail 0-Day Vulnerability Actively Exploited in Attacks",
             "link": "https://cybersecuritynews.com/fortimail-0-day-vulnerability-exploited/"
+        },
+        {
+            "title": "Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes",
+            "link": "https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html"
+        },
+        {
+            "title": "Exploited Fortinet FortiMail Zero-Day Calls for Urgent Action",
+            "link": "https://www.securityweek.com/exploited-fortinet-fortimail-zero-day-calls-for-urgent-action/"
+        },
+        {
+            "title": "Critical FortiMail zero-day exploited in the wild (CVE-2026-104286)",
+            "link": "https://www.helpnetsecurity.com/2026/10/02/fortinet-fortimail-vulnerability-cve-2026-104286/"
+        }
+    ],
+    "CVE-2026-88772": [
+        {
+            "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+            "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html"
         }
     ]
 }
