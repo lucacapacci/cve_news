@@ -21,6 +21,136 @@
         {
             "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
             "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html"
+        },
+        {
+            "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+            "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
+        }
+    ],
+    "CVE-2026-96658": [
+        {
+            "title": "Critical Red Hat Satellite Flaw Could Enable Root Password Theft and Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/red-hat-satellite-vulnerability/"
+        }
+    ],
+    "CVE-2026-96659": [
+        {
+            "title": "Critical Red Hat Satellite Flaw Could Enable Root Password Theft and Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/red-hat-satellite-vulnerability/"
+        }
+    ],
+    "CVE-2026-93029": [
+        {
+            "title": "Multiple Cpanel/WHM Vulnerabilities Allow Arbitrary Command Execution On Server",
+            "link": "https://cybersecuritynews.com/multiple-cpanel-whm-vulnerabilities/"
+        },
+        {
+            "title": "Multiple cPanel & WHM Vulnerabilities Enable Root Code Execution and Admin Session Hijacking",
+            "link": "https://cyberpress.org/multiple-cpanel-whm-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93698": [
+        {
+            "title": "Multiple Cpanel/WHM Vulnerabilities Allow Arbitrary Command Execution On Server",
+            "link": "https://cybersecuritynews.com/multiple-cpanel-whm-vulnerabilities/"
+        },
+        {
+            "title": "Multiple cPanel & WHM Vulnerabilities Enable Root Code Execution and Admin Session Hijacking",
+            "link": "https://cyberpress.org/multiple-cpanel-whm-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93697": [
+        {
+            "title": "Multiple Cpanel/WHM Vulnerabilities Allow Arbitrary Command Execution On Server",
+            "link": "https://cybersecuritynews.com/multiple-cpanel-whm-vulnerabilities/"
+        },
+        {
+            "title": "Multiple cPanel & WHM Vulnerabilities Enable Root Code Execution and Admin Session Hijacking",
+            "link": "https://cyberpress.org/multiple-cpanel-whm-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "Exposed WordPress Backups Became a Gold Mine of AWS and Email Credentials",
+            "link": "https://cybersecuritynews.com/exposed-wordpress-backups/"
+        },
+        {
+            "title": "TIKTOUK WordPress Credential Toolkit Harvests 50,000 Secrets From 37,000 Domains",
+            "link": "https://cyberpress.org/tiktouk-harvests-wordpress-credentials/"
+        }
+    ],
+    "CVE-2026-63030": [
+        {
+            "title": "Exposed WordPress Backups Became a Gold Mine of AWS and Email Credentials",
+            "link": "https://cybersecuritynews.com/exposed-wordpress-backups/"
+        },
+        {
+            "title": "TIKTOUK WordPress Credential Toolkit Harvests 50,000 Secrets From 37,000 Domains",
+            "link": "https://cyberpress.org/tiktouk-harvests-wordpress-credentials/"
+        }
+    ],
+    "CVE-2026-102489": [
+        {
+            "title": "Zammad 0-Day Vulnerabilities Exploited to Gain Remote Code Execution and Root Access",
+            "link": "https://cybersecuritynews.com/zammad-0-day-vulnerabilities-exploited/"
+        },
+        {
+            "title": "Zammad Vulnerabilities Let Attackers Execute Code and Escalate Privileges to Root",
+            "link": "https://gbhackers.com/zammad-vulnerabilities/"
+        },
+        {
+            "title": "Zammad Vulnerabilities Enable Remote Code Execution and Root Privilege Escalation",
+            "link": "https://cyberpress.org/zammad-vulnerabilities/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-102489",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-102489"
+        }
+    ],
+    "CVE-2026-102490": [
+        {
+            "title": "Zammad 0-Day Vulnerabilities Exploited to Gain Remote Code Execution and Root Access",
+            "link": "https://cybersecuritynews.com/zammad-0-day-vulnerabilities-exploited/"
+        },
+        {
+            "title": "Zammad Vulnerabilities Let Attackers Execute Code and Escalate Privileges to Root",
+            "link": "https://gbhackers.com/zammad-vulnerabilities/"
+        },
+        {
+            "title": "Zammad Vulnerabilities Enable Remote Code Execution and Root Privilege Escalation",
+            "link": "https://cyberpress.org/zammad-vulnerabilities/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-102490",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-102490"
+        }
+    ],
+    "CVE-2026-103922": [
+        {
+            "title": "Capacitor Vulnerability Lets Remote Content Run With Full App Origin Trust",
+            "link": "https://gbhackers.com/capacitor-vulnerability/"
+        },
+        {
+            "title": "Critical Capacitor Flaw Lets Malicious Links Access App Data and Native Features",
+            "link": "https://cyberpress.org/critical-capacitor-flaw-lets-malicious-links-access-app-data-and-native-features/"
+        }
+    ],
+    "CVE-2026-41940": [
+        {
+            "title": "Multiple cPanel & WHM Vulnerabilities Enable Root Code Execution and Admin Session Hijacking",
+            "link": "https://cyberpress.org/multiple-cpanel-whm-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "Threat Brief: NetScaler Zero Days CVE-2026-88771 and CVE-2026-88772 Exploited in the Wild (Updated September 30)",
+            "link": "https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/"
+        }
+    ],
+    "CVE-2026-86131": [
+        {
+            "title": "WatchGuard fixes critical Fireware OS flaw allowing remote code execution",
+            "link": "https://securityaffairs.com/200108/security/watchguard-fixes-critical-fireware-os-flaw-allowing-remote-code-execution.html"
         }
     ]
 }
