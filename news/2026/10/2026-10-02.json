@@ -170,5 +170,11 @@
             "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
             "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html"
         }
+    ],
+    "CVE-2026-76504": [
+        {
+            "title": "U.S. CISA adds Cisco Catalyst SD-WAN Manager\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/200152/security/u-s-cisa-adds-cisco-catalyst-sd-wan-manager-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
     ]
 }
