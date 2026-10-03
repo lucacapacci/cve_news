@@ -4,5 +4,27 @@
             "title": "U.S. CISA adds Zammad GmbH Zammad\u00a0flaws to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/200248/security/u-s-cisa-adds-zammad-gmbh-zammad-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
         }
+    ],
+    "CVE-2026-86950": [
+        {
+            "title": "Public PoC Released for Apple CoreGraphics Zero-Day CVE-2026-86950",
+            "link": "https://securityaffairs.com/200175/hacking/public-poc-released-for-apple-coregraphics-zero-day-cve-2026-86950.html"
+        }
+    ],
+    "CVE-2026-90970": [
+        {
+            "title": "Critical GitLab AI Gateway Flaw Lets Attackers Execute Arbitrary Commands",
+            "link": "https://gbhackers.com/critical-gitlab-ai-gateway-flaw/"
+        },
+        {
+            "title": "Critical GitLab AI Gateway Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/gitlab-ai-gateway-vulnerability/"
+        }
+    ],
+    "CVE-2026-76504": [
+        {
+            "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+            "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html"
+        }
     ]
 }
