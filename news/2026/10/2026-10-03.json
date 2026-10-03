@@ -26,5 +26,95 @@
             "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
             "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html"
         }
+    ],
+    "CVE-2026-96940": [
+        {
+            "title": "Microsoft Pushes New Exchange V2 Update After Discovering New Security Flaw",
+            "link": "https://cybersecuritynews.com/microsoft-reissues-exchange-server-update/"
+        }
+    ],
+    "CVE-2026-62911": [
+        {
+            "title": "Microsoft Pushes New Exchange V2 Update After Discovering New Security Flaw",
+            "link": "https://cybersecuritynews.com/microsoft-reissues-exchange-server-update/"
+        }
+    ],
+    "CVE-2026-54472": [
+        {
+            "title": "Critical Dell Container Storage Flaws Let Unauthenticated Attackers Gain Full Administrative Control",
+            "link": "https://cybersecuritynews.com/critical-dell-container-storage-flaws/"
+        }
+    ],
+    "CVE-2026-67269": [
+        {
+            "title": "Critical Dell Container Storage Flaws Let Unauthenticated Attackers Gain Full Administrative Control",
+            "link": "https://cybersecuritynews.com/critical-dell-container-storage-flaws/"
+        }
+    ],
+    "CVE-2026-67273": [
+        {
+            "title": "Critical Dell Container Storage Flaws Let Unauthenticated Attackers Gain Full Administrative Control",
+            "link": "https://cybersecuritynews.com/critical-dell-container-storage-flaws/"
+        }
+    ],
+    "CVE-2026-61421": [
+        {
+            "title": "Critical Dell Container Storage Flaws Let Unauthenticated Attackers Gain Full Administrative Control",
+            "link": "https://cybersecuritynews.com/critical-dell-container-storage-flaws/"
+        }
+    ],
+    "CVE-2026-63688": [
+        {
+            "title": "Critical Dell Container Storage Flaws Let Unauthenticated Attackers Gain Full Administrative Control",
+            "link": "https://cybersecuritynews.com/critical-dell-container-storage-flaws/"
+        }
+    ],
+    "CVE-2026-63692": [
+        {
+            "title": "Critical Dell Container Storage Flaws Let Unauthenticated Attackers Gain Full Administrative Control",
+            "link": "https://cybersecuritynews.com/critical-dell-container-storage-flaws/"
+        }
+    ],
+    "CVE-2026-88772": [
+        {
+            "title": "Citrix NetScaler Keeps Rebooting Following the 0-Day Patch",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-patch/"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "Citrix NetScaler Keeps Rebooting Following the 0-Day Patch",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-patch/"
+        }
+    ],
+    "CVE-2026-23137": [
+        {
+            "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/debian-1313-security-flaws/"
+        }
+    ],
+    "CVE-2026-100079": [
+        {
+            "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/debian-1313-security-flaws/"
+        }
+    ],
+    "CVE-2025-21817": [
+        {
+            "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/debian-1313-security-flaws/"
+        }
+    ],
+    "CVE-2024-52560": [
+        {
+            "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/debian-1313-security-flaws/"
+        }
+    ],
+    "CVE-2023-3390": [
+        {
+            "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/debian-1313-security-flaws/"
+        }
     ]
 }
