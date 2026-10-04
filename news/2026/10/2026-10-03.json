@@ -19,6 +19,10 @@
         {
             "title": "Critical GitLab AI Gateway Vulnerability Enables Remote Code Execution Attacks",
             "link": "https://cybersecuritynews.com/gitlab-ai-gateway-vulnerability/"
+        },
+        {
+            "title": "GitLab Patches Critical AI Gateway Flaw Allowing Arbitrary Command Execution",
+            "link": "https://cyberpress.org/gitlab-patches-critical-ai-gateway-flaw/"
         }
     ],
     "CVE-2026-76504": [
@@ -79,12 +83,20 @@
         {
             "title": "Citrix NetScaler Keeps Rebooting Following the 0-Day Patch",
             "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-patch/"
+        },
+        {
+            "title": "New Citrix NetScaler SAML Flaw Triggers Crashes and Suspected Exploitation Attempts",
+            "link": "https://cyberpress.org/new-citrix-netscaler-saml-flaw-triggers-crashes-and-suspected-exploitation-attempts/"
         }
     ],
     "CVE-2026-88771": [
         {
             "title": "Citrix NetScaler Keeps Rebooting Following the 0-Day Patch",
             "link": "https://cybersecuritynews.com/citrix-netscaler-0-day-patch/"
+        },
+        {
+            "title": "New Citrix NetScaler SAML Flaw Triggers Crashes and Suspected Exploitation Attempts",
+            "link": "https://cyberpress.org/new-citrix-netscaler-saml-flaw-triggers-crashes-and-suspected-exploitation-attempts/"
         }
     ],
     "CVE-2026-23137": [
@@ -115,6 +127,36 @@
         {
             "title": "Debian has Patched 1,313 Flaws in Massive Update Leading to DoS and Privilege Escalation Attacks",
             "link": "https://cybersecuritynews.com/debian-1313-security-flaws/"
+        }
+    ],
+    "CVE-2026-103957": [
+        {
+            "title": "AWS Fixes Critical Loom and SageMaker Flaws Enabling Code Execution and Credential Theft",
+            "link": "https://cyberpress.org/aws-fixes-critical-loom-and-sagemaker-flaws-enabling-code-execution-and-credential-theft/"
+        }
+    ],
+    "CVE-2026-104019": [
+        {
+            "title": "AWS Fixes Critical Loom and SageMaker Flaws Enabling Code Execution and Credential Theft",
+            "link": "https://cyberpress.org/aws-fixes-critical-loom-and-sagemaker-flaws-enabling-code-execution-and-credential-theft/"
+        }
+    ],
+    "CVE-2026-103956": [
+        {
+            "title": "AWS Fixes Critical Loom and SageMaker Flaws Enabling Code Execution and Credential Theft",
+            "link": "https://cyberpress.org/aws-fixes-critical-loom-and-sagemaker-flaws-enabling-code-execution-and-credential-theft/"
+        }
+    ],
+    "CVE-2026-103958": [
+        {
+            "title": "AWS Fixes Critical Loom and SageMaker Flaws Enabling Code Execution and Credential Theft",
+            "link": "https://cyberpress.org/aws-fixes-critical-loom-and-sagemaker-flaws-enabling-code-execution-and-credential-theft/"
+        }
+    ],
+    "CVE-2021-35394": [
+        {
+            "title": "Cling IoT Malware Masquerades as Google STUN Traffic to Hide C2 Communications",
+            "link": "https://cyberpress.org/cling-iot-malware-masquerades-as-google-stun/"
         }
     ]
 }
