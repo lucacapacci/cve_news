@@ -16,5 +16,53 @@
             "title": "Security Affairs newsletter Round 598 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
             "link": "https://securityaffairs.com/200326/breaking-news/security-affairs-newsletter-round-598-by-pierluigi-paganini-international-edition.html"
         }
+    ],
+    "CVE-2026-54472": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2021-21551": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-22769": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-67273": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-61421": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-63692": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-63688": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
+    ],
+    "CVE-2026-67269": [
+        {
+            "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
+            "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
+        }
     ]
 }
