@@ -64,5 +64,11 @@
             "title": "Dell Patches Six Critical Flaws in Container Storage Modules, Some Scoring a Perfect 10",
             "link": "https://www.cysecurity.news/2026/10/dell-patches-six-critical-flaws-in.html"
         }
+    ],
+    "CVE-2026-88779": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-88779",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-88779"
+        }
     ]
 }
