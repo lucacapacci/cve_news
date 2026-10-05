@@ -19,6 +19,10 @@
         {
             "title": "CISA flags new exploited NetScaler flaw as attackers crash appliances (CVE-2026-88779)",
             "link": "https://www.helpnetsecurity.com/2026/10/05/cisa-flags-new-exploited-netscaler-flaw-as-attackers-crash-appliances-cve-2026-88779/"
+        },
+        {
+            "title": "Citrix NetScaler security snafus get even worse amid more 0-day reports",
+            "link": "https://www.theregister.com/security/2026/10/05/citrix-netscaler-security-snafus-get-even-worse-amid-more-0-day-reports/5301232"
         }
     ],
     "CVE-2026-96940": [
@@ -29,6 +33,10 @@
         {
             "title": "Out-of-band Exchange Server update fixes high-severity mailbox access bug (CVE-2026-96940)",
             "link": "https://www.helpnetsecurity.com/2026/10/05/exchange-server-vulnerability-cve-2026-96940/"
+        },
+        {
+            "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+            "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html"
         }
     ],
     "CVE-2026-61500": [
@@ -39,6 +47,14 @@
         {
             "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
             "link": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/"
+        },
+        {
+            "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+            "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/"
+        },
+        {
+            "title": "Anthropic Mythos Found A Bug in Rejetto HFS. Attackers Are Now Exploiting It.",
+            "link": "https://securityaffairs.com/200444/ai/anthropic-mythos-found-a-bug-in-rejetto-hfs-attackers-are-now-exploiting-it.html"
         }
     ],
     "CVE-2026-102489": [
