@@ -7,12 +7,50 @@
         {
             "title": "Citrix NetScaler SAML Vulnerability Enables Unauthenticated Remote DoS Attacks",
             "link": "https://gbhackers.com/citrix-netscaler-saml-vulnerability/"
+        },
+        {
+            "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+            "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html"
+        },
+        {
+            "title": "CISA Warns of Citrix NetScaler Vulnerability Actively Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-citrix-netscaler-vulnerability-exploited/"
+        },
+        {
+            "title": "CISA flags new exploited NetScaler flaw as attackers crash appliances (CVE-2026-88779)",
+            "link": "https://www.helpnetsecurity.com/2026/10/05/cisa-flags-new-exploited-netscaler-flaw-as-attackers-crash-appliances-cve-2026-88779/"
         }
     ],
     "CVE-2026-96940": [
         {
             "title": "Microsoft Releases Emergency Exchange Server Update to Fix CVE-2026-96940",
             "link": "https://gbhackers.com/microsoft-releases-emergency-exchange-server-update/"
+        },
+        {
+            "title": "Out-of-band Exchange Server update fixes high-severity mailbox access bug (CVE-2026-96940)",
+            "link": "https://www.helpnetsecurity.com/2026/10/05/exchange-server-vulnerability-cve-2026-96940/"
+        }
+    ],
+    "CVE-2026-61500": [
+        {
+            "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+            "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html"
+        },
+        {
+            "title": "Exploitation Hits Rejetto HFS Vulnerability Discovered by AI",
+            "link": "https://www.securityweek.com/exploitation-hits-rejetto-hfs-vulnerability-discovered-by-ai/"
+        }
+    ],
+    "CVE-2026-102489": [
+        {
+            "title": "Zammad Zero-Day Chain Lets AI Agent Hijack Sessions, Execute Code and Escalate to Root",
+            "link": "https://cybersecuritynews.com/zammad-zero-day/"
+        }
+    ],
+    "CVE-2026-102490": [
+        {
+            "title": "Zammad Zero-Day Chain Lets AI Agent Hijack Sessions, Execute Code and Escalate to Root",
+            "link": "https://cybersecuritynews.com/zammad-zero-day/"
         }
     ]
 }
