@@ -206,5 +206,11 @@
             "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
             "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities"
         }
+    ],
+    "CVE-2026-88779": [
+        {
+            "title": "Frequently asked questions about reported Citrix NetScaler zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/frequently-asked-questions-about-reported-citrix-netscaler-zero-day-vulnerabilities"
+        }
     ]
 }

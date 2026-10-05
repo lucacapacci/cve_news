@@ -69,6 +69,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-88779",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-88779"
+        },
+        {
+            "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+            "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/"
         }
     ]
 }
