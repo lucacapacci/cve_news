@@ -1,0 +1,18 @@
+{
+    "CVE-2026-88779": [
+        {
+            "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
+            "link": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/"
+        },
+        {
+            "title": "Citrix NetScaler SAML Vulnerability Enables Unauthenticated Remote DoS Attacks",
+            "link": "https://gbhackers.com/citrix-netscaler-saml-vulnerability/"
+        }
+    ],
+    "CVE-2026-96940": [
+        {
+            "title": "Microsoft Releases Emergency Exchange Server Update to Fix CVE-2026-96940",
+            "link": "https://gbhackers.com/microsoft-releases-emergency-exchange-server-update/"
+        }
+    ]
+}
