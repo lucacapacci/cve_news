@@ -266,5 +266,11 @@
             "title": "Cling Botnet Spoofs Google STUN Traffic to Hide Commands Sent to Infected IoT Devices",
             "link": "https://gbhackers.com/cling-iot-botnet/"
         }
+    ],
+    "CVE-2026-100754": [
+        {
+            "title": "Meta's AI Agent Read 187,000 Private Messages. Now Apple Is Changing the Rules",
+            "link": "https://www.cysecurity.news/2026/10/metas-ai-agent-read-187000-private.html"
+        }
     ]
 }
