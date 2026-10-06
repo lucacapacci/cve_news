@@ -7,6 +7,10 @@
         {
             "title": "Atlassian CVE-2026-21589 Flaw Exposes Files in Jira and Confluence Data Center",
             "link": "https://gbhackers.com/atlassian-cve-2026-21589-flaw/"
+        },
+        {
+            "title": "Atlassian urges immediate patching of critical Data Center file access vulnerability (CVE-2026-21589)",
+            "link": "https://www.helpnetsecurity.com/2026/10/06/atlassian-data-center-cve-2026-21589/"
         }
     ],
     "CVE-2026-13043": [
@@ -23,24 +27,40 @@
         {
             "title": "Apache Struts Vulnerabilities Enable Remote Code Execution, DoS and Data Disclosure",
             "link": "https://cyberpress.org/apache-struts-vulnerabilities/"
+        },
+        {
+            "title": "Critical Apache Struts Vulnerabilities Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/apache-struts-vulnerabilities/"
         }
     ],
     "CVE-2026-104712": [
         {
             "title": "Apache Struts Vulnerabilities Enable Remote Code Execution, DoS and Data Disclosure",
             "link": "https://cyberpress.org/apache-struts-vulnerabilities/"
+        },
+        {
+            "title": "Critical Apache Struts Vulnerabilities Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/apache-struts-vulnerabilities/"
         }
     ],
     "CVE-2026-104711": [
         {
             "title": "Apache Struts Vulnerabilities Enable Remote Code Execution, DoS and Data Disclosure",
             "link": "https://cyberpress.org/apache-struts-vulnerabilities/"
+        },
+        {
+            "title": "Critical Apache Struts Vulnerabilities Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/apache-struts-vulnerabilities/"
         }
     ],
     "CVE-2026-104713": [
         {
             "title": "Apache Struts Vulnerabilities Enable Remote Code Execution, DoS and Data Disclosure",
             "link": "https://cyberpress.org/apache-struts-vulnerabilities/"
+        },
+        {
+            "title": "Critical Apache Struts Vulnerabilities Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/apache-struts-vulnerabilities/"
         }
     ],
     "CVE-2026-93678": [
@@ -235,6 +255,16 @@
         {
             "title": "Dell Urges Customers to Patch Critical DSU Flaw That Can Give Attackers Root Access",
             "link": "https://securityaffairs.com/200458/security/dell-urges-customers-to-patch-critical-dsu-flaw-that-can-give-attackers-root-access.html"
+        },
+        {
+            "title": "Dell System Update flaw allows attackers to gain root privileges (CVE-2026-86360)",
+            "link": "https://www.helpnetsecurity.com/2026/10/06/dell-system-update-vulnerability-cve-2026-86360/"
+        }
+    ],
+    "CVE-2021-35394": [
+        {
+            "title": "Cling Botnet Spoofs Google STUN Traffic to Hide Commands Sent to Infected IoT Devices",
+            "link": "https://gbhackers.com/cling-iot-botnet/"
         }
     ]
 }
