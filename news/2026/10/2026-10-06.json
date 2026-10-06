@@ -1,0 +1,240 @@
+{
+    "CVE-2026-21589": [
+        {
+            "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+            "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html"
+        },
+        {
+            "title": "Atlassian CVE-2026-21589 Flaw Exposes Files in Jira and Confluence Data Center",
+            "link": "https://gbhackers.com/atlassian-cve-2026-21589-flaw/"
+        }
+    ],
+    "CVE-2026-13043": [
+        {
+            "title": "Critical WatchGuard Endpoint Security Flaw Exposes Kernel and Process Memory",
+            "link": "https://gbhackers.com/critical-watchguard-endpoint-security-flaw-exposes-kernel-and-process-memory/"
+        },
+        {
+            "title": "Critical WatchGuard Endpoint Flaw Enables Arbitrary Kernel and Process Memory Reads",
+            "link": "https://cyberpress.org/critical-watchguard-endpoint-flaw/"
+        }
+    ],
+    "CVE-2026-104714": [
+        {
+            "title": "Apache Struts Vulnerabilities Enable Remote Code Execution, DoS and Data Disclosure",
+            "link": "https://cyberpress.org/apache-struts-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-104712": [
+        {
+            "title": "Apache Struts Vulnerabilities Enable Remote Code Execution, DoS and Data Disclosure",
+            "link": "https://cyberpress.org/apache-struts-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-104711": [
+        {
+            "title": "Apache Struts Vulnerabilities Enable Remote Code Execution, DoS and Data Disclosure",
+            "link": "https://cyberpress.org/apache-struts-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-104713": [
+        {
+            "title": "Apache Struts Vulnerabilities Enable Remote Code Execution, DoS and Data Disclosure",
+            "link": "https://cyberpress.org/apache-struts-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93678": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-104335": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93449": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97674": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97673": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93443": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93675": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93445": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97655": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-101329": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93448": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93677": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-103360": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97678": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93447": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-97680": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88962": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93674": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-104334": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93679": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97676": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97671": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101331": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97679": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97677": [
+        {
+            "title": "IBM Patches Critical Langflow Vulnerabilities Enabling Remote Code Execution",
+            "link": "https://cyberpress.org/ibm-patches-critical-langflow-vulnerabilities/"
+        }
+    ],
+    "CVE-2023-6332": [
+        {
+            "title": "Critical WatchGuard Endpoint Flaw Enables Arbitrary Kernel and Process Memory Reads",
+            "link": "https://cyberpress.org/critical-watchguard-endpoint-flaw/"
+        }
+    ],
+    "CVE-2023-6330": [
+        {
+            "title": "Critical WatchGuard Endpoint Flaw Enables Arbitrary Kernel and Process Memory Reads",
+            "link": "https://cyberpress.org/critical-watchguard-endpoint-flaw/"
+        }
+    ],
+    "CVE-2023-6331": [
+        {
+            "title": "Critical WatchGuard Endpoint Flaw Enables Arbitrary Kernel and Process Memory Reads",
+            "link": "https://cyberpress.org/critical-watchguard-endpoint-flaw/"
+        }
+    ],
+    "CVE-2026-86360": [
+        {
+            "title": "Dell Urges Customers to Patch Critical DSU Flaw That Can Give Attackers Root Access",
+            "link": "https://securityaffairs.com/200458/security/dell-urges-customers-to-patch-critical-dsu-flaw-that-can-give-attackers-root-access.html"
+        }
+    ]
+}
