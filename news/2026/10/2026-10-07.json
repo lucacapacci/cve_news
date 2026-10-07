@@ -16,5 +16,33 @@
             "title": "Russia-Aligned Earth Sirrush Uses 10+ Malware Families to Spy on Ukrainian Government and Defense",
             "link": "https://cyberpress.org/earth-sirrush-targets-ukraine/"
         }
+    ],
+    "CVE-2026-21589": [
+        {
+            "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+            "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html"
+        },
+        {
+            "title": "Exploitation attempts against critical Atlassian flaw have begun (CVE-2026-21589)",
+            "link": "https://www.helpnetsecurity.com/2026/10/07/exploitation-critical-atlassian-flaw-cve-2026-21589/"
+        }
+    ],
+    "CVE-2024-30044": [
+        {
+            "title": "Microsoft Exchange Server Vulnerability CVE-2024-30044 Allows Mailbox Access Bypass",
+            "link": "https://www.webpronews.com/microsoft-exchange-server-vulnerability-cve-2024-30044-allows-mailbox-access-bypass/"
+        }
+    ],
+    "CVE-2026-61500": [
+        {
+            "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+            "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html"
+        }
+    ],
+    "CVE-2026-88779": [
+        {
+            "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+            "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html"
+        }
     ]
 }
