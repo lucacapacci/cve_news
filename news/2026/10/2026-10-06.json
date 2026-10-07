@@ -11,6 +11,10 @@
         {
             "title": "Atlassian urges immediate patching of critical Data Center file access vulnerability (CVE-2026-21589)",
             "link": "https://www.helpnetsecurity.com/2026/10/06/atlassian-data-center-cve-2026-21589/"
+        },
+        {
+            "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+            "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/"
         }
     ],
     "CVE-2026-13043": [
