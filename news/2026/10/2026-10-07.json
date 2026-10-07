@@ -1,0 +1,20 @@
+{
+    "CVE-2026-93536": [
+        {
+            "title": "Check your X.Org server version because a dozen vulnerabilities have been patched",
+            "link": "https://www.helpnetsecurity.com/2026/10/07/x-org-server-fixed-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93524": [
+        {
+            "title": "Check your X.Org server version because a dozen vulnerabilities have been patched",
+            "link": "https://www.helpnetsecurity.com/2026/10/07/x-org-server-fixed-vulnerabilities/"
+        }
+    ],
+    "CVE-2023-38831": [
+        {
+            "title": "Russia-Aligned Earth Sirrush Uses 10+ Malware Families to Spy on Ukrainian Government and Defense",
+            "link": "https://cyberpress.org/earth-sirrush-targets-ukraine/"
+        }
+    ]
+}

@@ -263,6 +263,10 @@
         {
             "title": "Dell System Update flaw allows attackers to gain root privileges (CVE-2026-86360)",
             "link": "https://www.helpnetsecurity.com/2026/10/06/dell-system-update-vulnerability-cve-2026-86360/"
+        },
+        {
+            "title": "Dell System Update Tool Flaw Enables Code Execution Attacks",
+            "link": "https://cyberpress.org/dell-system-update-flaw-code-execution/"
         }
     ],
     "CVE-2021-35394": [
@@ -275,6 +279,52 @@
         {
             "title": "Meta's AI Agent Read 187,000 Private Messages. Now Apple Is Changing the Rules",
             "link": "https://www.cysecurity.news/2026/10/metas-ai-agent-read-187000-private.html"
+        }
+    ],
+    "CVE-2025-59145": [
+        {
+            "title": "GitHub Copilot CLI Vulnerability Could Enable Developer Secret and Local File Theft",
+            "link": "https://cyberpress.org/github-copilot-cli-vulnerability/"
+        }
+    ],
+    "CVE-2026-63697": [
+        {
+            "title": "Dell System Update Tool Flaw Enables Code Execution Attacks",
+            "link": "https://cyberpress.org/dell-system-update-flaw-code-execution/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86361": [
+        {
+            "title": "Dell System Update Tool Flaw Enables Code Execution Attacks",
+            "link": "https://cyberpress.org/dell-system-update-flaw-code-execution/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-71168": [
+        {
+            "title": "Dell System Update Tool Flaw Enables Code Execution Attacks",
+            "link": "https://cyberpress.org/dell-system-update-flaw-code-execution/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86362": [
+        {
+            "title": "Dell System Update Tool Flaw Enables Code Execution Attacks",
+            "link": "https://cyberpress.org/dell-system-update-flaw-code-execution/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-59536": [
+        {
+            "title": "Meta and Microsoft Scale Back Claude AI Use as Coding Tool Competition Intensifies",
+            "link": "https://cyberpress.org/meta-and-microsoft-scale-back-claude-ai/"
+        }
+    ],
+    "CVE-2026-21852": [
+        {
+            "title": "Meta and Microsoft Scale Back Claude AI Use as Coding Tool Competition Intensifies",
+            "link": "https://cyberpress.org/meta-and-microsoft-scale-back-claude-ai/"
         }
     ]
 }
