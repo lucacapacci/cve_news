@@ -25,6 +25,14 @@
         {
             "title": "Exploitation attempts against critical Atlassian flaw have begun (CVE-2026-21589)",
             "link": "https://www.helpnetsecurity.com/2026/10/07/exploitation-critical-atlassian-flaw-cve-2026-21589/"
+        },
+        {
+            "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/"
+        },
+        {
+            "title": "PoC Exploit Released for Critical Atlassian Flaw That Can Lead to Jira Admin Access",
+            "link": "https://cybersecuritynews.com/poc-exploit-released-for-atlassian-flaw/"
         }
     ],
     "CVE-2024-30044": [
@@ -37,12 +45,82 @@
         {
             "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
             "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html"
+        },
+        {
+            "title": "Anthropic Mythos Found A Bug in Rejetto HFS. Attackers Are Now Exploiting It.",
+            "link": "https://securityaffairs.com/200444/ai/anthropic-mythos-found-a-bug-in-rejetto-hfs-attackers-are-now-exploiting-it.html"
         }
     ],
     "CVE-2026-88779": [
         {
             "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
             "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html"
+        }
+    ],
+    "CVE-2026-4815": [
+        {
+            "title": "CyberXero Combines Claude Code, PentAGI and Cobalt Strike in AI-Augmented Cyberattacks",
+            "link": "https://cybersecuritynews.com/cyberxero-combines-claude-code/"
+        }
+    ],
+    "CVE-2026-83549": [
+        {
+            "title": "SonicWall Patches 4 SMA1000 Flaws, Including Critical Pre-Auth SSRF Rated CVSS 10",
+            "link": "https://cybersecuritynews.com/sonicwall-patches-sma1000-flaws/"
+        }
+    ],
+    "CVE-2026-83548": [
+        {
+            "title": "SonicWall Patches 4 SMA1000 Flaws, Including Critical Pre-Auth SSRF Rated CVSS 10",
+            "link": "https://cybersecuritynews.com/sonicwall-patches-sma1000-flaws/"
+        }
+    ],
+    "CVE-2026-102257": [
+        {
+            "title": "SonicWall Patches 4 SMA1000 Flaws, Including Critical Pre-Auth SSRF Rated CVSS 10",
+            "link": "https://cybersecuritynews.com/sonicwall-patches-sma1000-flaws/"
+        }
+    ],
+    "CVE-2026-102256": [
+        {
+            "title": "SonicWall Patches 4 SMA1000 Flaws, Including Critical Pre-Auth SSRF Rated CVSS 10",
+            "link": "https://cybersecuritynews.com/sonicwall-patches-sma1000-flaws/"
+        }
+    ],
+    "CVE-2026-102255": [
+        {
+            "title": "SonicWall Patches 4 SMA1000 Flaws, Including Critical Pre-Auth SSRF Rated CVSS 10",
+            "link": "https://cybersecuritynews.com/sonicwall-patches-sma1000-flaws/"
+        }
+    ],
+    "CVE-2026-102258": [
+        {
+            "title": "SonicWall Patches 4 SMA1000 Flaws, Including Critical Pre-Auth SSRF Rated CVSS 10",
+            "link": "https://cybersecuritynews.com/sonicwall-patches-sma1000-flaws/"
+        }
+    ],
+    "CVE-2023-20598": [
+        {
+            "title": "Hackers Compromise 100+ Websites With Fake Cloudflare Checks to Spread LUNEXSTEALER",
+            "link": "https://cybersecuritynews.com/spread-lunexstealer/"
+        }
+    ],
+    "CVE-2026-91140": [
+        {
+            "title": "Critical Progress DataDirect GenAI Flaw Lets Attackers Execute Arbitrary OS Commands",
+            "link": "https://gbhackers.com/critical-progress-datadirect-genai-flaw/"
+        }
+    ],
+    "CVE-2025-64393": [
+        {
+            "title": "Critical Veeam Backup & Replication Flaw Allows Low-Privileged Users to Execute Remote Code",
+            "link": "https://gbhackers.com/critical-veeam-backup-replication-flaw/"
+        }
+    ],
+    "CVE-2026-96940": [
+        {
+            "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users\u2019 Mailboxes",
+            "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html"
         }
     ]
 }
