@@ -19,6 +19,10 @@
         {
             "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
             "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/"
+        },
+        {
+            "title": "Critical Gitea Vulnerabilities Allow Attackers to Bypass Authentication and Execute Code",
+            "link": "https://cyberpress.org/critical-gitea-vulnerabilities/"
         }
     ],
     "CVE-2026-101029": [
@@ -37,18 +41,30 @@
         {
             "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
             "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/"
+        },
+        {
+            "title": "Critical Gitea Vulnerabilities Allow Attackers to Bypass Authentication and Execute Code",
+            "link": "https://cyberpress.org/critical-gitea-vulnerabilities/"
         }
     ],
     "CVE-2026-103059": [
         {
             "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
             "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/"
+        },
+        {
+            "title": "Critical Gitea Vulnerabilities Allow Attackers to Bypass Authentication and Execute Code",
+            "link": "https://cyberpress.org/critical-gitea-vulnerabilities/"
         }
     ],
     "CVE-2026-70357": [
         {
             "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
             "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/"
+        },
+        {
+            "title": "Critical Gitea Vulnerabilities Allow Attackers to Bypass Authentication and Execute Code",
+            "link": "https://cyberpress.org/critical-gitea-vulnerabilities/"
         }
     ],
     "CVE-2026-101027": [
@@ -61,6 +77,10 @@
         {
             "title": "wolfSSH 1.6.0 Fixes 5 Security Flaws Including Critical MITM Host Key Verification Bypass",
             "link": "https://cybersecuritynews.com/wolfssh-1-6-0-fixes-5-security-flaws/"
+        },
+        {
+            "title": "wolfSSH Fixes 5 Security Flaws Including Critical SSH Authentication Bypass Vulnerability",
+            "link": "https://cyberpress.org/wolfssh-fixes-5-security-flaws/"
         }
     ],
     "CVE-2026-16516": [
@@ -71,54 +91,178 @@
         {
             "title": "wolfSSH Patches 5 Security Vulnerabilities, Including Critical SSH Authentication Bypass",
             "link": "https://gbhackers.com/wolfssh-patches-5-security-vulnerabilities/"
+        },
+        {
+            "title": "wolfSSH Fixes 5 Security Flaws Including Critical SSH Authentication Bypass Vulnerability",
+            "link": "https://cyberpress.org/wolfssh-fixes-5-security-flaws/"
         }
     ],
     "CVE-2026-81535": [
         {
             "title": "wolfSSH 1.6.0 Fixes 5 Security Flaws Including Critical MITM Host Key Verification Bypass",
             "link": "https://cybersecuritynews.com/wolfssh-1-6-0-fixes-5-security-flaws/"
+        },
+        {
+            "title": "wolfSSH Fixes 5 Security Flaws Including Critical SSH Authentication Bypass Vulnerability",
+            "link": "https://cyberpress.org/wolfssh-fixes-5-security-flaws/"
         }
     ],
     "CVE-2026-84897": [
         {
             "title": "wolfSSH 1.6.0 Fixes 5 Security Flaws Including Critical MITM Host Key Verification Bypass",
             "link": "https://cybersecuritynews.com/wolfssh-1-6-0-fixes-5-security-flaws/"
+        },
+        {
+            "title": "wolfSSH Fixes 5 Security Flaws Including Critical SSH Authentication Bypass Vulnerability",
+            "link": "https://cyberpress.org/wolfssh-fixes-5-security-flaws/"
         }
     ],
     "CVE-2026-83742": [
         {
             "title": "wolfSSH 1.6.0 Fixes 5 Security Flaws Including Critical MITM Host Key Verification Bypass",
             "link": "https://cybersecuritynews.com/wolfssh-1-6-0-fixes-5-security-flaws/"
+        },
+        {
+            "title": "wolfSSH Fixes 5 Security Flaws Including Critical SSH Authentication Bypass Vulnerability",
+            "link": "https://cyberpress.org/wolfssh-fixes-5-security-flaws/"
         }
     ],
     "CVE-2026-102489": [
         {
             "title": "PoC Exploit Released for Zammad Vulnerability Enabling Session Hijacking and Remote Code Execution",
             "link": "https://gbhackers.com/poc-exploit-released-for-zammad-vulnerability/"
+        },
+        {
+            "title": "PoC Released for Zammad Session Leak Flaw Enabling Remote Code Execution",
+            "link": "https://cybersecuritynews.com/poc-released-for-zammad-session-leak-flaw/"
+        },
+        {
+            "title": "PoC Exploit Released for Critical Zammad Flaw Enabling Session Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/poc-exploit-released-for-critical-zammad-flaw/"
         }
     ],
     "CVE-2026-105192": [
         {
             "title": "Critical LMCache RCE Vulnerability Remains Unpatched, Public PoC Exploit Available",
             "link": "https://gbhackers.com/critical-lmcache-rce-vulnerability/"
+        },
+        {
+            "title": "PoC Released for Critical LMCache Flaw Enabling Unauthenticated Remote Code Execution",
+            "link": "https://cybersecuritynews.com/poc-lmcache-flaw/"
+        },
+        {
+            "title": "Critical LMCache Vulnerability Lets Unauthenticated Attackers Execute Code With Root Privileges",
+            "link": "https://cyberpress.org/critical-lmcache-vulnerability/"
         }
     ],
     "CVE-2026-76486": [
         {
             "title": "Critical Cisco Nexus Switch Vulnerabilities Allow Unauthenticated Attackers to Execute Code as Root",
             "link": "https://gbhackers.com/critical-cisco-nexus-switch-vulnerabilities/"
+        },
+        {
+            "title": "Critical Cisco NX-OS Vulnerabilities Allow Remote Attackers to Gain Root Access",
+            "link": "https://cyberpress.org/critical-cisco-nx-os-vulnerabilities/"
         }
     ],
     "CVE-2026-76485": [
         {
             "title": "Critical Cisco Nexus Switch Vulnerabilities Allow Unauthenticated Attackers to Execute Code as Root",
             "link": "https://gbhackers.com/critical-cisco-nexus-switch-vulnerabilities/"
+        },
+        {
+            "title": "Critical Cisco NX-OS Vulnerabilities Allow Remote Attackers to Gain Root Access",
+            "link": "https://cyberpress.org/critical-cisco-nx-os-vulnerabilities/"
         }
     ],
     "CVE-2026-59346": [
         {
             "title": "PoC Exploit Released for Critical VMware Vulnerability Enabling Guest-to-Host Attacks",
             "link": "https://gbhackers.com/poc-exploit-released-for-critical-vmware-vulnerability/"
+        },
+        {
+            "title": "PoC Exploit Released for Critical VMware Flaw That Could Enable Guest-to-Host Code Execution",
+            "link": "https://cyberpress.org/poc-exploit-released-for-critical-vmware-flaw/"
+        }
+    ],
+    "CVE-2021-36260": [
+        {
+            "title": "Hikvision Camera Vulnerability Targeted in Remote Code Execution Exploitation Attempts",
+            "link": "https://cybersecuritynews.com/hikvision-camera-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-31001": [
+        {
+            "title": "DarkSword iOS Exploit Platform Uses Coruna Malware to Steal Crypto Wallet Recovery Phrases",
+            "link": "https://cybersecuritynews.com/darksword-ios-exploit-platform/"
+        },
+        {
+            "title": "DarkSword Coruna iOS Exploit Kit Targets Crypto Wallets With Live C2 Infrastructure",
+            "link": "https://cyberpress.org/darksword-coruna-targets-crypto-wallets/"
+        }
+    ],
+    "CVE-2026-102490": [
+        {
+            "title": "PoC Released for Zammad Session Leak Flaw Enabling Remote Code Execution",
+            "link": "https://cybersecuritynews.com/poc-released-for-zammad-session-leak-flaw/"
+        },
+        {
+            "title": "PoC Exploit Released for Critical Zammad Flaw Enabling Session Hijacking and Remote Code Execution",
+            "link": "https://cyberpress.org/poc-exploit-released-for-critical-zammad-flaw/"
+        }
+    ],
+    "CVE-2026-96404": [
+        {
+            "title": "Critical Gitea Vulnerabilities Allow Attackers to Bypass Authentication and Execute Code",
+            "link": "https://cyberpress.org/critical-gitea-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-76501": [
+        {
+            "title": "Critical Cisco NX-OS Vulnerabilities Allow Remote Attackers to Gain Root Access",
+            "link": "https://cyberpress.org/critical-cisco-nx-os-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-41236": [
+        {
+            "title": "PoC Exploit Released for Critical VMware Flaw That Could Enable Guest-to-Host Code Execution",
+            "link": "https://cyberpress.org/poc-exploit-released-for-critical-vmware-flaw/"
+        }
+    ],
+    "CVE-2026-42271": [
+        {
+            "title": "PoeLLM Campaign Compromises 3,400+ Servers for Crypto Mining",
+            "link": "https://www.cysecurity.news/2026/10/poellm-campaign-compromises-3400.html"
+        }
+    ],
+    "CVE-2015-5477": [
+        {
+            "title": "CISA KEV Addition: CVE-2015-5477",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2015-5477"
+        }
+    ],
+    "CVE-2016-3081": [
+        {
+            "title": "CISA KEV Addition: CVE-2016-3081",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2016-3081"
+        }
+    ],
+    "CVE-2023-22894": [
+        {
+            "title": "CISA KEV Addition: CVE-2023-22894",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-22894"
+        }
+    ],
+    "CVE-2021-3199": [
+        {
+            "title": "CISA KEV Addition: CVE-2021-3199",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2021-3199"
+        }
+    ],
+    "CVE-2015-3306": [
+        {
+            "title": "CISA KEV Addition: CVE-2015-3306",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2015-3306"
         }
     ]
 }
