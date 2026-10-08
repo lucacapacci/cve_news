@@ -33,6 +33,18 @@
         {
             "title": "PoC Exploit Released for Critical Atlassian Flaw That Can Lead to Jira Admin Access",
             "link": "https://cybersecuritynews.com/poc-exploit-released-for-atlassian-flaw/"
+        },
+        {
+            "title": "Atlassian Data Center Flaw Sparks Attacks in Hours as Enterprises Race to Patch Eight Products",
+            "link": "https://www.webpronews.com/atlassian-data-center-flaw-sparks-attacks-in-hours-as-enterprises-race-to-patch-eight-products/"
+        },
+        {
+            "title": "Critical Atlassian File Access Flaw Draws Attacks Across Eight Products",
+            "link": "https://www.esecurityplanet.com/news/news-atlassian-cve-2026-21589-file-read-flaw/"
+        },
+        {
+            "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+            "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html"
         }
     ],
     "CVE-2024-30044": [
@@ -121,6 +133,12 @@
         {
             "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users\u2019 Mailboxes",
             "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html"
+        }
+    ],
+    "CVE-2026-77805": [
+        {
+            "title": "Progress Patches Four Telerik Fiddler Classic Flaws, Including Privilege Escalation Risk",
+            "link": "https://www.esecurityplanet.com/cybersecurity-threats/news-telerik-fiddler-classic-cve-2026-77805/"
         }
     ]
 }
