@@ -1,0 +1,124 @@
+{
+    "CVE-2026-21589": [
+        {
+            "title": "Attackers Target Critical Atlassian Vulnerability Within Hours of PoC Publication",
+            "link": "https://www.securityweek.com/attackers-target-critical-atlassian-vulnerability-within-hours-of-poc-publication/"
+        },
+        {
+            "title": "CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "Hackers Exploit Critical Citrix NetScaler Flaw to Deploy Web Shells and Steal Configuration Data",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-flaw/"
+        }
+    ],
+    "CVE-2026-94205": [
+        {
+            "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
+            "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-101029": [
+        {
+            "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
+            "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-89430": [
+        {
+            "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
+            "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-104632": [
+        {
+            "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
+            "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-103059": [
+        {
+            "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
+            "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-70357": [
+        {
+            "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
+            "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-101027": [
+        {
+            "title": "Gitea Patches 27 Security Flaws, Including Critical SSH Authentication Bypass and SSRF",
+            "link": "https://cybersecuritynews.com/gitea-patches-27-security-flaws/"
+        }
+    ],
+    "CVE-2026-83540": [
+        {
+            "title": "wolfSSH 1.6.0 Fixes 5 Security Flaws Including Critical MITM Host Key Verification Bypass",
+            "link": "https://cybersecuritynews.com/wolfssh-1-6-0-fixes-5-security-flaws/"
+        }
+    ],
+    "CVE-2026-16516": [
+        {
+            "title": "wolfSSH 1.6.0 Fixes 5 Security Flaws Including Critical MITM Host Key Verification Bypass",
+            "link": "https://cybersecuritynews.com/wolfssh-1-6-0-fixes-5-security-flaws/"
+        },
+        {
+            "title": "wolfSSH Patches 5 Security Vulnerabilities, Including Critical SSH Authentication Bypass",
+            "link": "https://gbhackers.com/wolfssh-patches-5-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-81535": [
+        {
+            "title": "wolfSSH 1.6.0 Fixes 5 Security Flaws Including Critical MITM Host Key Verification Bypass",
+            "link": "https://cybersecuritynews.com/wolfssh-1-6-0-fixes-5-security-flaws/"
+        }
+    ],
+    "CVE-2026-84897": [
+        {
+            "title": "wolfSSH 1.6.0 Fixes 5 Security Flaws Including Critical MITM Host Key Verification Bypass",
+            "link": "https://cybersecuritynews.com/wolfssh-1-6-0-fixes-5-security-flaws/"
+        }
+    ],
+    "CVE-2026-83742": [
+        {
+            "title": "wolfSSH 1.6.0 Fixes 5 Security Flaws Including Critical MITM Host Key Verification Bypass",
+            "link": "https://cybersecuritynews.com/wolfssh-1-6-0-fixes-5-security-flaws/"
+        }
+    ],
+    "CVE-2026-102489": [
+        {
+            "title": "PoC Exploit Released for Zammad Vulnerability Enabling Session Hijacking and Remote Code Execution",
+            "link": "https://gbhackers.com/poc-exploit-released-for-zammad-vulnerability/"
+        }
+    ],
+    "CVE-2026-105192": [
+        {
+            "title": "Critical LMCache RCE Vulnerability Remains Unpatched, Public PoC Exploit Available",
+            "link": "https://gbhackers.com/critical-lmcache-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-76486": [
+        {
+            "title": "Critical Cisco Nexus Switch Vulnerabilities Allow Unauthenticated Attackers to Execute Code as Root",
+            "link": "https://gbhackers.com/critical-cisco-nexus-switch-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-76485": [
+        {
+            "title": "Critical Cisco Nexus Switch Vulnerabilities Allow Unauthenticated Attackers to Execute Code as Root",
+            "link": "https://gbhackers.com/critical-cisco-nexus-switch-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59346": [
+        {
+            "title": "PoC Exploit Released for Critical VMware Vulnerability Enabling Guest-to-Host Attacks",
+            "link": "https://gbhackers.com/poc-exploit-released-for-critical-vmware-vulnerability/"
+        }
+    ]
+}
