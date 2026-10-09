@@ -7,6 +7,10 @@
         {
             "title": "CVE-2026-21589: Critical unauthenticated arbitrary file access in Atlassian products",
             "link": "https://www.rapid7.com/blog/post/etr-cve-2026-21589-critical-unauthenticated-arbitrary-file-access-in-atlassian-products"
+        },
+        {
+            "title": "Critical Atlassian File Access Flaw Draws Attacks Across Eight Products",
+            "link": "https://www.esecurityplanet.com/news/news-atlassian-cve-2026-21589-file-read-flaw/"
         }
     ],
     "CVE-2026-88771": [
@@ -233,6 +237,10 @@
         {
             "title": "PoeLLM Campaign Compromises 3,400+ Servers for Crypto Mining",
             "link": "https://www.cysecurity.news/2026/10/poellm-campaign-compromises-3400.html"
+        },
+        {
+            "title": "Poetry as a Weapon: How One GitHub Poem Steers a Botnet Mining AI Servers",
+            "link": "https://www.webpronews.com/poetry-as-a-weapon-how-one-github-poem-steers-a-botnet-mining-ai-servers/"
         }
     ],
     "CVE-2015-5477": [
