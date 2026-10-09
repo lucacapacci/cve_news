@@ -11,12 +11,24 @@
         {
             "title": "Critical Citrix NetScaler Vulnerability Allows Remote Code Execution Attacks \u2013 CVSS 9.5",
             "link": "https://gbhackers.com/critical-citrix-netscaler-vulnerability/"
+        },
+        {
+            "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+            "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html"
+        },
+        {
+            "title": "Citrix NetScaler Critical RCE Flaw CVE-2026-107406",
+            "link": "https://www.cybermaterial.com/p/citrix-netscaler-critical-rce-flaw"
         }
     ],
     "CVE-2026-23870": [
         {
             "title": "React Server Components Flaw Lets Attackers Freeze Next.js Servers With a Single POST Request",
             "link": "https://cybersecuritynews.com/react-server-components-dos-vulnerability/"
+        },
+        {
+            "title": "React Server Components Flaw Lets Attackers Freeze Next.js Servers With a Single Request",
+            "link": "https://cyberpress.org/react-server-components-flaw-2/"
         }
     ],
     "CVE-2026-81963": [
@@ -29,6 +41,34 @@
         {
             "title": "October 2026 Patch Tuesday forecast: Time for an Office cleanup",
             "link": "https://www.helpnetsecurity.com/2026/10/09/october-2026-patch-tuesday-forecast/"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+            "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html"
+        },
+        {
+            "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
+            "link": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/"
+        }
+    ],
+    "CVE-2015-3306": [
+        {
+            "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+            "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html"
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "Unpatched AhsayCBS Vulnerabilities Exploited in the Wild",
+            "link": "https://www.securityweek.com/unpatched-ahsaycbs-vulnerabilities-exploited-in-the-wild/"
+        }
+    ],
+    "CVE-2026-47483": [
+        {
+            "title": "High-severity NVIDIA vulnerability lets unauthenticated attackers crash GPU monitoring",
+            "link": "https://www.helpnetsecurity.com/2026/10/09/nvidia-dcgm-exporter-vulnerability-cve-2026-47483/"
         }
     ]
 }
