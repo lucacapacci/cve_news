@@ -1,0 +1,34 @@
+{
+    "CVE-2026-107406": [
+        {
+            "title": "Citrix Urges Immediate Patching of Critical NetScaler Vulnerability",
+            "link": "https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/"
+        },
+        {
+            "title": "Citrix Urges NetScaler ADC and Gateway Customers to Patch for New Critical RCE Vulnerability",
+            "link": "https://cybersecuritynews.com/citrix-netscaler-adc-and-gateway-rce/"
+        },
+        {
+            "title": "Critical Citrix NetScaler Vulnerability Allows Remote Code Execution Attacks \u2013 CVSS 9.5",
+            "link": "https://gbhackers.com/critical-citrix-netscaler-vulnerability/"
+        }
+    ],
+    "CVE-2026-23870": [
+        {
+            "title": "React Server Components Flaw Lets Attackers Freeze Next.js Servers With a Single POST Request",
+            "link": "https://cybersecuritynews.com/react-server-components-dos-vulnerability/"
+        }
+    ],
+    "CVE-2026-81963": [
+        {
+            "title": "October 2026 Patch Tuesday forecast: Time for an Office cleanup",
+            "link": "https://www.helpnetsecurity.com/2026/10/09/october-2026-patch-tuesday-forecast/"
+        }
+    ],
+    "CVE-2026-85880": [
+        {
+            "title": "October 2026 Patch Tuesday forecast: Time for an Office cleanup",
+            "link": "https://www.helpnetsecurity.com/2026/10/09/october-2026-patch-tuesday-forecast/"
+        }
+    ]
+}
