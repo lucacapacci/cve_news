@@ -52,5 +52,17 @@
             "title": "Atlassian CVE-2026-21589 Exploited Hours After Public Disclosure",
             "link": "https://www.cysecurity.news/2026/10/atlassian-cve-2026-21589-exploited.html"
         }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "Hackers Exploit Two AhsayCBS Zero-Day Flaws to Gain SYSTEM Access on Backup Servers",
+            "link": "https://cyberpress.org/hackers-exploit-two-ahsaycbs-zero-day-flaws/"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "Hackers Exploit Two AhsayCBS Zero-Day Flaws to Gain SYSTEM Access on Backup Servers",
+            "link": "https://cyberpress.org/hackers-exploit-two-ahsaycbs-zero-day-flaws/"
+        }
     ]
 }
