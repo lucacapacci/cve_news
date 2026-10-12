@@ -104,5 +104,11 @@
             "title": "CISA Adds Actively Exploited Apache Struts Command Injection Flaw to KEV Catalog",
             "link": "https://gbhackers.com/cisa-adds-actively-exploited-apache-struts-command-injection-flaw/"
         }
+    ],
+    "CVE-2026-39919": [
+        {
+            "title": "Wordfence Argus Discovers Critical Vulnerability in Ghostscript, the Program That Turns Uploaded PDFs into Thumbnails on Your Server",
+            "link": "https://www.wordfence.com/blog/2026/10/wordfence-argus-discovers-critical-vulnerability-in-ghostscript-the-program-that-turns-uploaded-pdfs-into-thumbnails-on-your-server/"
+        }
     ]
 }
