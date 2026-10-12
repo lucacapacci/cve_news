@@ -3,6 +3,106 @@
         {
             "title": "Critical SonicWall Vulnerability Exploited Days After Disclosure",
             "link": "https://www.securityweek.com/critical-sonicwall-vulnerability-exploited-days-after-disclosure/"
+        },
+        {
+            "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+            "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html"
+        },
+        {
+            "title": "SonicWall Patches CVSS 10.0 SSRF Flaw as Attacks Begin",
+            "link": "https://securityaffairs.com/200816/hacking/sonicwall-patches-cvss-10-0-ssrf-flaw-as-attacks-begin.html"
+        }
+    ],
+    "CVE-2026-85097": [
+        {
+            "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+            "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html"
+        },
+        {
+            "title": "Bricksforge WordPress Plugin Vulnerability Exploited in the Wild",
+            "link": "https://www.securityweek.com/bricksforge-wordpress-plugin-vulnerability-exploited-in-the-wild/"
+        },
+        {
+            "title": "Critical WordPress Bricksforge Flaw Lets Unauthenticated Attackers Execute Remote Code",
+            "link": "https://gbhackers.com/critical-wordpress-bricksforge-flaw/"
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "Critical GitLab Vulnerability Enables Arbitrary Code Execution Attacks on Servers",
+            "link": "https://cybersecuritynews.com/gitlab-vulnerability-code-execution/"
+        }
+    ],
+    "CVE-2026-16823": [
+        {
+            "title": "IBM Patches 22 Verify Access Flaws, Including Critical Remote Code Execution Bugs",
+            "link": "https://cybersecuritynews.com/ibm-patches-22-verify-access-flaw/"
+        }
+    ],
+    "CVE-2026-19482": [
+        {
+            "title": "IBM Patches 22 Verify Access Flaws, Including Critical Remote Code Execution Bugs",
+            "link": "https://cybersecuritynews.com/ibm-patches-22-verify-access-flaw/"
+        }
+    ],
+    "CVE-2026-19493": [
+        {
+            "title": "IBM Patches 22 Verify Access Flaws, Including Critical Remote Code Execution Bugs",
+            "link": "https://cybersecuritynews.com/ibm-patches-22-verify-access-flaw/"
+        }
+    ],
+    "CVE-2026-78401": [
+        {
+            "title": "IBM Patches 22 Verify Access Flaws, Including Critical Remote Code Execution Bugs",
+            "link": "https://cybersecuritynews.com/ibm-patches-22-verify-access-flaw/"
+        }
+    ],
+    "CVE-2026-78406": [
+        {
+            "title": "IBM Patches 22 Verify Access Flaws, Including Critical Remote Code Execution Bugs",
+            "link": "https://cybersecuritynews.com/ibm-patches-22-verify-access-flaw/"
+        }
+    ],
+    "CVE-2026-18740": [
+        {
+            "title": "IBM Patches 22 Verify Access Flaws, Including Critical Remote Code Execution Bugs",
+            "link": "https://cybersecuritynews.com/ibm-patches-22-verify-access-flaw/"
+        }
+    ],
+    "CVE-2026-19491": [
+        {
+            "title": "IBM Patches 22 Verify Access Flaws, Including Critical Remote Code Execution Bugs",
+            "link": "https://cybersecuritynews.com/ibm-patches-22-verify-access-flaw/"
+        }
+    ],
+    "CVE-2026-16916": [
+        {
+            "title": "IBM Patches 22 Verify Access Flaws, Including Critical Remote Code Execution Bugs",
+            "link": "https://cybersecuritynews.com/ibm-patches-22-verify-access-flaw/"
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "Hackers Exploit Critical AhsayCBS Flaws to Deploy Webshells and XMRig Miners",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-ahsaycbs-flaws/"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "Hackers Exploit Critical AhsayCBS Flaws to Deploy Webshells and XMRig Miners",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-ahsaycbs-flaws/"
+        }
+    ],
+    "CVE-2026-55420": [
+        {
+            "title": "Discourse ImageMagick Vulnerability Enables Arbitrary File Read Through Malicious Image Uploads",
+            "link": "https://gbhackers.com/discourse-imagemagick-vulnerability-enables-arbitrary-file-read-through-malicious-image-uploads/"
+        }
+    ],
+    "CVE-2016-3081": [
+        {
+            "title": "CISA Adds Actively Exploited Apache Struts Command Injection Flaw to KEV Catalog",
+            "link": "https://gbhackers.com/cisa-adds-actively-exploited-apache-struts-command-injection-flaw/"
         }
     ]
 }
