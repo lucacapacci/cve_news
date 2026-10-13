@@ -1,0 +1,178 @@
+{
+    "CVE-2026-85097": [
+        {
+            "title": "WordPress Sites Face Immediate Threat as Attackers Weaponize Bricksforge Plugin Flaw for Unauthenticated Server Takeover",
+            "link": "https://www.webpronews.com/wordpress-sites-face-immediate-threat-as-attackers-weaponize-bricksforge-plugin-flaw-for-unauthenticated-server-takeover/"
+        }
+    ],
+    "CVE-2026-7767": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-9268": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92528": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-5954": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92883": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/"
+        },
+        {
+            "title": "Critical GitLab Vulnerability Allows Unauthenticated Attackers to Execute Remote Code",
+            "link": "https://gbhackers.com/critical-gitlab-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-6567": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-85529": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-14552": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-16301": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-16275": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-100755": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-78335": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-103549": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101168": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-82632": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-104661": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-96893": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-81839": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-100104": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-105458": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-84284": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/"
+        }
+    ],
+    "CVE-2026-14814": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-14210": [
+        {
+            "title": "Critical GitLab Flaw Lets Unauthenticated Attackers Execute Remote Code on Servers",
+            "link": "https://cyberpress.org/critical-gitlab-flaw/",
+            "listOnly": true
+        }
+    ]
+}
