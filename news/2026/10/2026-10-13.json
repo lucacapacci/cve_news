@@ -207,6 +207,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-104935",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-104935"
+        },
+        {
+            "title": "Ivanti Zero-Day Chain Gave Attackers Root Access to Fully Patched VPN",
+            "link": "https://www.securityweek.com/ivanti-zero-day-chain-gave-attackers-root-access-to-fully-patched-vpn/"
         }
     ],
     "CVE-2025-41451": [
@@ -243,6 +247,10 @@
         {
             "title": "CISA Warns of Hackers Exploiting Two Citrix NetScaler 0-Days to Execute Code Remotely",
             "link": "https://cybersecuritynews.com/citrix-netscaler-zero-day-exploits/"
+        },
+        {
+            "title": "Hackers Exploit Citrix NetScaler Zero-Days to Deploy Modified Platypus Backdoor",
+            "link": "https://cyberpress.org/hackers-exploit-citrix-netscaler-zero-days-2/"
         }
     ],
     "CVE-2026-107406": [
@@ -259,6 +267,10 @@
         {
             "title": "CISA Warns of Hackers Exploiting Two Citrix NetScaler 0-Days to Execute Code Remotely",
             "link": "https://cybersecuritynews.com/citrix-netscaler-zero-day-exploits/"
+        },
+        {
+            "title": "Hackers Exploit Citrix NetScaler Zero-Days to Deploy Modified Platypus Backdoor",
+            "link": "https://cyberpress.org/hackers-exploit-citrix-netscaler-zero-days-2/"
         }
     ],
     "CVE-2026-88779": [
@@ -281,6 +293,210 @@
         {
             "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
             "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/"
+        },
+        {
+            "title": "Critical Docker Hub Flaw Lets Attackers Impersonate Users and Push Container Images",
+            "link": "https://cybersecuritynews.com/docker-hub-vulnerability/"
+        }
+    ],
+    "CVE-2026-107656": [
+        {
+            "title": "Critical FortiSandbox GUI Vulnerability Allows Remote Attackers to Bypass Authentication",
+            "link": "https://cybersecuritynews.com/fortisandbox-gui-vulnerability/"
+        }
+    ],
+    "CVE-2026-89110": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89122": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-76975": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89111": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-76972": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-42938": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89112": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89105": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89124": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89118": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89113": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89120": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-58242": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89117": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-58249": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89107": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89116": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89106": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89108": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-89121": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-76976": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-24316": [
+        {
+            "title": "Critical SAP NetWeaver and S/4HANA Vulnerabilities Could Enable System Compromise",
+            "link": "https://cyberpress.org/critical-sap-netweaver-and-s-4hana-vulnerabilities/"
+        }
+    ],
+    "CVE-2022-38181": [
+        {
+            "title": "Amazon Fire TV Cube Exploit Lets Users Gain Root Access and Unlock Bootloader",
+            "link": "https://cyberpress.org/amazon-fire-tv-cube-exploit/"
+        }
+    ],
+    "CVE-2022-46395": [
+        {
+            "title": "Amazon Fire TV Cube Exploit Lets Users Gain Root Access and Unlock Bootloader",
+            "link": "https://cyberpress.org/amazon-fire-tv-cube-exploit/"
+        }
+    ],
+    "CVE-2026-43499": [
+        {
+            "title": "Amazon Fire TV Cube Exploit Lets Users Gain Root Access and Unlock Bootloader",
+            "link": "https://cyberpress.org/amazon-fire-tv-cube-exploit/"
+        }
+    ],
+    "CVE-2026-107815": [
+        {
+            "title": "MariaDB Patches Multiple Security Flaws Enabling Remote Code Execution and Data Theft",
+            "link": "https://cyberpress.org/mariadb-patches-multiple-security-flaws/"
+        }
+    ],
+    "CVE-2026-107819": [
+        {
+            "title": "MariaDB Patches Multiple Security Flaws Enabling Remote Code Execution and Data Theft",
+            "link": "https://cyberpress.org/mariadb-patches-multiple-security-flaws/"
+        }
+    ],
+    "CVE-2026-102523": [
+        {
+            "title": "MariaDB Patches Multiple Security Flaws Enabling Remote Code Execution and Data Theft",
+            "link": "https://cyberpress.org/mariadb-patches-multiple-security-flaws/"
+        }
+    ],
+    "CVE-2026-107821": [
+        {
+            "title": "MariaDB Patches Multiple Security Flaws Enabling Remote Code Execution and Data Theft",
+            "link": "https://cyberpress.org/mariadb-patches-multiple-security-flaws/"
+        }
+    ],
+    "CVE-2026-96951": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-96951",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-96951"
         }
     ]
 }
