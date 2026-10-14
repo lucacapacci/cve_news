@@ -287,6 +287,10 @@
         {
             "title": "IT Security News Roundup: 2026-10-13 Afternoon",
             "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-13-afternoon/"
+        },
+        {
+            "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+            "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/"
         }
     ],
     "CVE-2026-105445": [
@@ -497,6 +501,156 @@
         {
             "title": "CISA KEV Addition: CVE-2026-96951",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-96951"
+        },
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951"
+        }
+    ],
+    "CVE-2026-70571": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951"
+        }
+    ],
+    "CVE-2026-69718": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102217": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-96940": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-69783": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-69673": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21510": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951"
+        }
+    ],
+    "CVE-2026-69882": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21513": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951"
+        }
+    ],
+    "CVE-2026-69880": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-108398": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951"
+        }
+    ],
+    "CVE-2026-32202": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951"
+        }
+    ],
+    "CVE-2026-69923": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-32201": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951"
+        }
+    ],
+    "CVE-2026-69926": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-69918": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88159": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-69733": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-70279": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951"
+        }
+    ],
+    "CVE-2026-100214": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-70229": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951"
+        }
+    ],
+    "CVE-2026-70054": [
+        {
+            "title": "Microsoft\u2019s October 2026 Patch Tuesday addresses 1407 CVEs (CVE-2026-96951)",
+            "link": "https://www.tenable.com/blog/microsofts-october-2026-patch-tuesday-addresses-1407-cves-cve-2026-96951",
+            "listOnly": true
         }
     ]
 }
