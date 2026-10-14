@@ -3,6 +3,18 @@
         {
             "title": "Microsoft Windows Shell 0-Day Vulnerability Actively Exploited in Attacks",
             "link": "https://cybersecuritynews.com/windows-shell-0-day-exploited/"
+        },
+        {
+            "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
+            "link": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/"
+        },
+        {
+            "title": "Microsoft fixes exploited Mark of the Web bypass vulnerability (CVE-2026-96951)",
+            "link": "https://www.helpnetsecurity.com/2026/10/14/microsoft-patch-tuesday-cve-2026-96951-motw-bypass/"
+        },
+        {
+            "title": "IT Security News Roundup: 2026-10-14 Morning",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-14-morning/"
         }
     ],
     "CVE-2026-107656": [
@@ -19,6 +31,48 @@
         {
             "title": "Hackers Exploit Ivanti Connect Secure Zero-Day to Gain Root Access Without Authentication",
             "link": "https://cyberpress.org/hackers-exploit-ivanti-connect-secure-zero-day/"
+        },
+        {
+            "title": "Ivanti Connect Secure CVE-2026-104935 Flaw Enables Unauthenticated Remote Code Execution",
+            "link": "https://gbhackers.com/ivanti-connect-secure-cve-2026-104935-flaw/"
+        },
+        {
+            "title": "IT Security News Roundup: 2026-10-14 Morning",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-14-morning/"
+        }
+    ],
+    "CVE-2026-74580": [
+        {
+            "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+            "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html"
+        }
+    ],
+    "CVE-2026-70111": [
+        {
+            "title": "Windows Server Zero-Day Flaw Lets Attackers Crash Servers With a Single Malicious Packet",
+            "link": "https://gbhackers.com/windows-server-zero-day-flaw/"
+        }
+    ],
+    "CVE-2026-108185": [
+        {
+            "title": "Zoom Certificate Validation Vulnerability Allows Attackers to Access Sensitive Information",
+            "link": "https://gbhackers.com/zoom-certificate-validation-vulnerability/"
+        },
+        {
+            "title": "IT Security News Roundup: 2026-10-14 Morning",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-14-morning/"
+        }
+    ],
+    "CVE-2026-105445": [
+        {
+            "title": "Critical Docker Hub Vulnerability Lets Attackers Impersonate Users and Tamper With Container Images",
+            "link": "https://gbhackers.com/critical-docker-hub-vulnerability/"
+        }
+    ],
+    "CVE-2026-85851": [
+        {
+            "title": "Windows SmartScreen Vulnerability Enables Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/windows-smartscreen-escalation-vulnerability/"
         }
     ]
 }
