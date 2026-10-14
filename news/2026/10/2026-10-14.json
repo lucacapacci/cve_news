@@ -389,5 +389,200 @@
             "title": "SonicWall Patches CVSS 10.0 SSRF Flaw as Attacks Begin",
             "link": "https://securityaffairs.com/200816/hacking/sonicwall-patches-cvss-10-0-ssrf-flaw-as-attacks-begin.html"
         }
+    ],
+    "CVE-2026-15176": [
+        {
+            "title": "Multiple NGINX Flaws Let Remote Attackers Crash Servers and Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/multiple-nginx-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93479": [
+        {
+            "title": "Multiple NGINX Flaws Let Remote Attackers Crash Servers and Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/multiple-nginx-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-97205": [
+        {
+            "title": "Multiple NGINX Flaws Let Remote Attackers Crash Servers and Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/multiple-nginx-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-86412": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92391": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-87863": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92390": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86414": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-86411": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86409": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-94266": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92386": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86415": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-87862": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-94265": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86410": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92389": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86413": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-92387": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-87864": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92388": [
+        {
+            "title": "24 Security Vulnerabilities Patched in curl Used Across 30 Billion Installations",
+            "link": "https://cybersecuritynews.com/curl-security-update-24-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-85956": [
+        {
+            "title": "Progress Discloses 31 MarkLogic Flaws as Persistent Admin Takeovers Loom",
+            "link": "https://www.webpronews.com/progress-discloses-31-marklogic-flaws-as-persistent-admin-takeovers-loom/"
+        }
+    ],
+    "CVE-2026-9191": [
+        {
+            "title": "Progress Discloses 31 MarkLogic Flaws as Persistent Admin Takeovers Loom",
+            "link": "https://www.webpronews.com/progress-discloses-31-marklogic-flaws-as-persistent-admin-takeovers-loom/"
+        }
+    ],
+    "CVE-2026-85948": [
+        {
+            "title": "Progress Discloses 31 MarkLogic Flaws as Persistent Admin Takeovers Loom",
+            "link": "https://www.webpronews.com/progress-discloses-31-marklogic-flaws-as-persistent-admin-takeovers-loom/"
+        }
+    ],
+    "CVE-2026-85955": [
+        {
+            "title": "Progress Discloses 31 MarkLogic Flaws as Persistent Admin Takeovers Loom",
+            "link": "https://www.webpronews.com/progress-discloses-31-marklogic-flaws-as-persistent-admin-takeovers-loom/"
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "GitLab\u2019s CVSS 10.0 RCE Exposes Self-Managed Servers as PoC Surfaces",
+            "link": "https://www.webpronews.com/gitlabs-cvss-10-0-rce-exposes-self-managed-servers-as-poc-surfaces/"
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-105134",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-105134"
+        }
+    ],
+    "CVE-2026-76519": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-76519",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-76519"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-105133",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-105133"
+        }
+    ],
+    "CVE-2026-0322": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-0322",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-0322"
+        }
     ]
 }
