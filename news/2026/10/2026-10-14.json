@@ -39,18 +39,30 @@
         {
             "title": "IT Security News Roundup: 2026-10-14 Morning",
             "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-14-morning/"
+        },
+        {
+            "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+            "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html"
         }
     ],
     "CVE-2026-74580": [
         {
             "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
             "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html"
+        },
+        {
+            "title": "PoC Released for Linux Vhost Flaw Enabling Root Privilege Escalation and VM Escape",
+            "link": "https://cybersecuritynews.com/poc-released-for-linux-vhost-flaw/"
         }
     ],
     "CVE-2026-70111": [
         {
             "title": "Windows Server Zero-Day Flaw Lets Attackers Crash Servers With a Single Malicious Packet",
             "link": "https://gbhackers.com/windows-server-zero-day-flaw/"
+        },
+        {
+            "title": "Windows Server Zero-Day Flaw Lets Attackers Crash Systems With a Single Malicious Packet",
+            "link": "https://cyberpress.org/windows-server-zero-day-flaw/"
         }
     ],
     "CVE-2026-108185": [
@@ -73,6 +85,309 @@
         {
             "title": "Windows SmartScreen Vulnerability Enables Privilege Escalation Attacks",
             "link": "https://cybersecuritynews.com/windows-smartscreen-escalation-vulnerability/"
+        }
+    ],
+    "CVE-2026-83504": [
+        {
+            "title": "Windows SmartScreen Vulnerability Enables Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/windows-smartscreen-escalation-vulnerability/"
+        }
+    ],
+    "CVE-2024-21412": [
+        {
+            "title": "Windows SmartScreen Vulnerability Enables Privilege Escalation Attacks",
+            "link": "https://cybersecuritynews.com/windows-smartscreen-escalation-vulnerability/"
+        }
+    ],
+    "CVE-2025-59287": [
+        {
+            "title": "Attackers Breach European Bank Through Third-Party Gateway and Target WSUS Server",
+            "link": "https://cybersecuritynews.com/attackers-breach-european-bank/"
+        }
+    ],
+    "CVE-2026-110161": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110152": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/"
+        }
+    ],
+    "CVE-2026-110170": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110143": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110169": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/"
+        }
+    ],
+    "CVE-2026-110158": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110163": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110154": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110142": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/"
+        }
+    ],
+    "CVE-2026-110144": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110148": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110151": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110140": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110155": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110150": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110166": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110141": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110136": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110167": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110172": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110147": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110138": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110168": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110171": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110165": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110146": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110159": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110139": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110162": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/"
+        }
+    ],
+    "CVE-2026-110145": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110164": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110137": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110149": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110153": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110156": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110157": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110160": [
+        {
+            "title": "Critical Google Chrome Flaws Could Expose Users to Memory Corruption Attacks",
+            "link": "https://cyberpress.org/critical-google-chrome-flaws-could-expose-users-to-memory-corruption-attacks/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-85920": [
+        {
+            "title": "Windows BitLocker Privilege Escalation Flaws Could Allow Attackers to Gain Elevated Access",
+            "link": "https://cyberpress.org/windows-bitlocker-privilege-escalation-flaws/"
+        }
+    ],
+    "CVE-2026-83500": [
+        {
+            "title": "Windows BitLocker Privilege Escalation Flaws Could Allow Attackers to Gain Elevated Access",
+            "link": "https://cyberpress.org/windows-bitlocker-privilege-escalation-flaws/"
+        }
+    ],
+    "CVE-2026-88070": [
+        {
+            "title": "Windows BitLocker Privilege Escalation Flaws Could Allow Attackers to Gain Elevated Access",
+            "link": "https://cyberpress.org/windows-bitlocker-privilege-escalation-flaws/"
+        }
+    ],
+    "CVE-2025-48818": [
+        {
+            "title": "Windows BitLocker Privilege Escalation Flaws Could Allow Attackers to Gain Elevated Access",
+            "link": "https://cyberpress.org/windows-bitlocker-privilege-escalation-flaws/"
+        }
+    ],
+    "CVE-2026-102255": [
+        {
+            "title": "SonicWall Patches CVSS 10.0 SSRF Flaw as Attacks Begin",
+            "link": "https://securityaffairs.com/200816/hacking/sonicwall-patches-cvss-10-0-ssrf-flaw-as-attacks-begin.html"
         }
     ]
 }
