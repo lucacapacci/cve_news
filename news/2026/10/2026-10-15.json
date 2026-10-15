@@ -13,6 +13,10 @@
         {
             "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
             "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+        },
+        {
+            "title": "Palo Alto Warns of PAN-OS 0-day Flaw Actively Exploited in Attacks",
+            "link": "https://gbhackers.com/palo-alto-pan-os-zero-day/"
         }
     ],
     "CVE-2026-105740": [
@@ -57,6 +61,58 @@
         {
             "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
             "link": "https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/"
+        }
+    ],
+    "CVE-2026-102701": [
+        {
+            "title": "Citrix XenServer Vulnerabilities Could Allow Malicious VM Users to Compromise Host Systems",
+            "link": "https://cybersecuritynews.com/citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-79610": [
+        {
+            "title": "Citrix XenServer Vulnerabilities Could Allow Malicious VM Users to Compromise Host Systems",
+            "link": "https://cybersecuritynews.com/citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-79611": [
+        {
+            "title": "Citrix XenServer Vulnerabilities Could Allow Malicious VM Users to Compromise Host Systems",
+            "link": "https://cybersecuritynews.com/citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-102700": [
+        {
+            "title": "Citrix XenServer Vulnerabilities Could Allow Malicious VM Users to Compromise Host Systems",
+            "link": "https://cybersecuritynews.com/citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-96889": [
+        {
+            "title": "Critical Next.js Vulnerabilities Allow Hackers to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/critical-next-js-vulnerabilities/"
+        },
+        {
+            "title": "Critical Next.js SVG Image Processing Vulnerability Could Enable Remote Code Execution",
+            "link": "https://gbhackers.com/nextjs-svg-image-processing-vulnerability/"
+        }
+    ],
+    "CVE-2026-78952": [
+        {
+            "title": "AI Agents Build Chrome Zero-Day Exploit in Six Days, Winning $250,000 Reward",
+            "link": "https://www.cysecurity.news/2026/10/ai-agents-build-chrome-zero-day-exploit.html"
+        }
+    ],
+    "CVE-2026-85045": [
+        {
+            "title": "AI Agents Build Chrome Zero-Day Exploit in Six Days, Winning $250,000 Reward",
+            "link": "https://www.cysecurity.news/2026/10/ai-agents-build-chrome-zero-day-exploit.html"
+        }
+    ],
+    "CVE-2026-21589": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-21589",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-21589"
         }
     ]
 }
