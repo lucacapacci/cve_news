@@ -19,6 +19,10 @@
         {
             "title": "U.S. CISA adds Microsoft Windows Shell\u00a0flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/200965/hacking/u-s-cisa-adds-microsoft-windows-shell-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "Microsoft\u2019s Record 1,413 Flaws Patched in October 2026 Expose Growing Security Burden",
+            "link": "https://www.webpronews.com/microsofts-record-1413-flaws-patched-in-october-2026-expose-growing-security-burden/"
         }
     ],
     "CVE-2026-107656": [
@@ -601,6 +605,12 @@
         {
             "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
             "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/"
+        }
+    ],
+    "CVE-2026-108398": [
+        {
+            "title": "Microsoft\u2019s Record 1,413 Flaws Patched in October 2026 Expose Growing Security Burden",
+            "link": "https://www.webpronews.com/microsofts-record-1413-flaws-patched-in-october-2026-expose-growing-security-burden/"
         }
     ]
 }
