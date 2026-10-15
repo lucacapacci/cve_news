@@ -4,5 +4,11 @@
             "title": "CVE-2026-97229: Critical Unauthenticated Remote Code Execution in GitLab",
             "link": "https://www.rapid7.com/blog/post/etr-cve-2026-97229-critical-unauthenticated-remote-code-execution-in-gitlab"
         }
+    ],
+    "CVE-2026-0322": [
+        {
+            "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+            "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html"
+        }
     ]
 }
