@@ -126,5 +126,35 @@
             "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
             "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html"
         }
+    ],
+    "CVE-2026-10631": [
+        {
+            "title": "From One Account to Every Mailbox: Breaking Zimbra\u2019s Identity Boundaries (Part 1)",
+            "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1"
+        }
+    ],
+    "CVE-2026-50055": [
+        {
+            "title": "From One Account to Every Mailbox: Breaking Zimbra\u2019s Identity Boundaries (Part 1)",
+            "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1"
+        }
+    ],
+    "CVE-2026-93637": [
+        {
+            "title": "From One Account to Every Mailbox: Breaking Zimbra\u2019s Identity Boundaries (Part 1)",
+            "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1"
+        }
+    ],
+    "CVE-2026-73571": [
+        {
+            "title": "From One Account to Every Mailbox: Breaking Zimbra\u2019s Identity Boundaries (Part 1)",
+            "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1"
+        }
+    ],
+    "CVE-2026-93635": [
+        {
+            "title": "From One Account to Every Mailbox: Breaking Zimbra\u2019s Identity Boundaries (Part 1)",
+            "link": "https://www.rapid7.com/blog/post/ve-breaking-zimbra-identity-boundaries-part-1"
+        }
     ]
 }
