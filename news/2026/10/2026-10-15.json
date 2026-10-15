@@ -114,5 +114,17 @@
             "title": "CISA KEV Addition: CVE-2026-21589",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-21589"
         }
+    ],
+    "CVE-2026-110447": [
+        {
+            "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/"
+        }
+    ],
+    "CVE-2026-99999": [
+        {
+            "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+            "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html"
+        }
     ]
 }

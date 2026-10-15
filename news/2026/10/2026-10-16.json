@@ -1,0 +1,8 @@
+{
+    "CVE-2026-99999": [
+        {
+            "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+            "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html"
+        }
+    ]
+}
