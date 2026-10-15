@@ -9,6 +9,54 @@
         {
             "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
             "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html"
+        },
+        {
+            "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
+            "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+        }
+    ],
+    "CVE-2026-105740": [
+        {
+            "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
+            "link": "https://thehackernews.com/2026/10/langflows-critical-authenticated-rce.html"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+            "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html"
+        },
+        {
+            "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
+            "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+            "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html"
+        },
+        {
+            "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
+            "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+        }
+    ],
+    "CVE-2026-76519": [
+        {
+            "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
+            "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+        }
+    ],
+    "CVE-2026-35029": [
+        {
+            "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
+            "link": "https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/"
+        }
+    ],
+    "CVE-2026-59823": [
+        {
+            "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
+            "link": "https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/"
         }
     ]
 }
