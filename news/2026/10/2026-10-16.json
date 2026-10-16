@@ -7,12 +7,24 @@
         {
             "title": "Critical Linux Kernel Flaw Lets Attackers Escape Virtual Machines and Take Control of Hosts",
             "link": "https://cybersecuritynews.com/linux-kernel-flaw-2/"
+        },
+        {
+            "title": "Researchers Use AI to Discover Critical Linux Kernel Flaw That Enables Virtual Machine Escape",
+            "link": "https://gbhackers.com/ai-linux-kernel-vm-escape-flaw/"
+        },
+        {
+            "title": "PwnEscape Exposes Linux Kernel Networking Flaw That Shatters VM Isolation",
+            "link": "https://www.webpronews.com/pwnescape-exposes-linux-kernel-networking-flaw-that-shatters-vm-isolation/"
         }
     ],
     "CVE-2026-0322": [
         {
             "title": "Spyware infects journalists through unclicked ads, Palo Alto firewall zero-day exploited, OpenAI engineer charged with bugging exec room",
             "link": "https://cybersecuritytoday.libsyn.com/spyware-infects-journalists-through-unclicked-ads-palo-alto-firewall-zero-day-exploited-openai-engineer-charged-with-bugging-exec-room"
+        },
+        {
+            "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+            "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html"
         }
     ],
     "CVE-2026-1080": [
@@ -25,12 +37,82 @@
         {
             "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
             "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html"
+        },
+        {
+            "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+            "link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/"
+        },
+        {
+            "title": "Hackers Exploit BeyondTrust Zero-Day and Erase Security Logs to Hide Their Tracks",
+            "link": "https://gbhackers.com/beyondtrust-zero-day-security-logs/"
         }
     ],
     "CVE-2025-61624": [
         {
             "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
             "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html"
+        }
+    ],
+    "CVE-2021-4034": [
+        {
+            "title": "Hackers Use AI-Generated Scripts to Hijack Linux Sudo Commands and Steal Passwords",
+            "link": "https://cybersecuritynews.com/hackers-use-ai-generated-scripts/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-55182": [
+        {
+            "title": "Hackers Use AI-Generated Scripts to Hijack Linux Sudo Commands and Steal Passwords",
+            "link": "https://cybersecuritynews.com/hackers-use-ai-generated-scripts/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-82078": [
+        {
+            "title": "Hackers Use Codex and DeepSeek AI Agents to Breach 440 PaperCut Servers Worldwide",
+            "link": "https://cybersecuritynews.com/breach-440-papercut-servers/"
+        }
+    ],
+    "CVE-2026-81578": [
+        {
+            "title": "Hackers Use Codex and DeepSeek AI Agents to Breach 440 PaperCut Servers Worldwide",
+            "link": "https://cybersecuritynews.com/breach-440-papercut-servers/"
+        }
+    ],
+    "CVE-2025-31324": [
+        {
+            "title": "Hackers Exploit D-Link, Ubiquiti and SAP Flaws to Hijack Devices for Proxy Networks",
+            "link": "https://cybersecuritynews.com/hackers-exploit-d-link/"
+        }
+    ],
+    "CVE-2021-44228": [
+        {
+            "title": "Hackers Exploit D-Link, Ubiquiti and SAP Flaws to Hijack Devices for Proxy Networks",
+            "link": "https://cybersecuritynews.com/hackers-exploit-d-link/"
+        }
+    ],
+    "CVE-2024-3272": [
+        {
+            "title": "Hackers Exploit D-Link, Ubiquiti and SAP Flaws to Hijack Devices for Proxy Networks",
+            "link": "https://cybersecuritynews.com/hackers-exploit-d-link/"
+        }
+    ],
+    "CVE-2024-3273": [
+        {
+            "title": "Hackers Exploit D-Link, Ubiquiti and SAP Flaws to Hijack Devices for Proxy Networks",
+            "link": "https://cybersecuritynews.com/hackers-exploit-d-link/"
+        }
+    ],
+    "CVE-2026-110922": [
+        {
+            "title": "Google Chrome 155 Patches Critical Use-After-Free Flaw and Nine Additional Security Bugs",
+            "link": "https://gbhackers.com/chrome-155-security-flaws/"
+        }
+    ],
+    "CVE-2026-110447": [
+        {
+            "title": "Critical Collabora Online Flaw Lets Attackers Execute Commands on Nextcloud Servers",
+            "link": "https://gbhackers.com/collabora-online-nextcloud-security-flaw/"
         }
     ]
 }

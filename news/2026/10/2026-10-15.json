@@ -49,6 +49,10 @@
         {
             "title": "CISA flags exploited flaws in Palo Alto, Cisco and Ahsay products",
             "link": "https://www.helpnetsecurity.com/2026/10/15/cve-2026-0322-cve-2026-76519-cve-2026-105133-cve-2026-105134-exploted/"
+        },
+        {
+            "title": "Cisco Email Gateway Zero-Day Under Attack, Root Access at Risk",
+            "link": "https://www.esecurityplanet.com/news/news-cisco-email-gateway-zero-day-exploited/"
         }
     ],
     "CVE-2026-35029": [
