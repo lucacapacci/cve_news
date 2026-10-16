@@ -3,6 +3,22 @@
         {
             "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
             "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html"
+        },
+        {
+            "title": "Critical Linux Kernel Flaw Lets Attackers Escape Virtual Machines and Take Control of Hosts",
+            "link": "https://cybersecuritynews.com/linux-kernel-flaw-2/"
+        }
+    ],
+    "CVE-2026-0322": [
+        {
+            "title": "Spyware infects journalists through unclicked ads, Palo Alto firewall zero-day exploited, OpenAI engineer charged with bugging exec room",
+            "link": "https://cybersecuritytoday.libsyn.com/spyware-infects-journalists-through-unclicked-ads-palo-alto-firewall-zero-day-exploited-openai-engineer-charged-with-bugging-exec-room"
+        }
+    ],
+    "CVE-2026-1080": [
+        {
+            "title": "Spyware infects journalists through unclicked ads, Palo Alto firewall zero-day exploited, OpenAI engineer charged with bugging exec room",
+            "link": "https://cybersecuritytoday.libsyn.com/spyware-infects-journalists-through-unclicked-ads-palo-alto-firewall-zero-day-exploited-openai-engineer-charged-with-bugging-exec-room"
         }
     ]
 }
