@@ -49,6 +49,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-102764",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-102764"
+        },
+        {
+            "title": "China-Linked Hackers Exploit Critical BeyondTrust Zero-Day to Steal Credentials",
+            "link": "https://cyberpress.org/china-linked-critical-beyondtrust-zero-day/"
         }
     ],
     "CVE-2025-61624": [
@@ -115,12 +119,20 @@
         {
             "title": "Google Chrome 155 Patches Critical Use-After-Free Flaw and Nine Additional Security Bugs",
             "link": "https://gbhackers.com/chrome-155-security-flaws/"
+        },
+        {
+            "title": "Google Chrome Fixes 10 Security Flaws, Including Critical Use-After-Free Vulnerability",
+            "link": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/"
         }
     ],
     "CVE-2026-110447": [
         {
             "title": "Critical Collabora Online Flaw Lets Attackers Execute Commands on Nextcloud Servers",
             "link": "https://gbhackers.com/collabora-online-nextcloud-security-flaw/"
+        },
+        {
+            "title": "Hackers Exploit Critical Nextcloud Collabora Flaw to Execute Remote Commands",
+            "link": "https://cyberpress.org/critical-nextcloud-collabora-flaw/"
         }
     ],
     "CVE-2026-105134": [
@@ -151,6 +163,184 @@
         {
             "title": "Cisco Urges Customers to Patch Email Gateway Flaw and Check for Compromise",
             "link": "https://securityaffairs.com/200985/security/cisco-urges-customers-to-patch-email-gateway-flaw-and-check-for-compromise.html"
+        }
+    ],
+    "CVE-2026-108097": [
+        {
+            "title": "Drupal\u2019s Field UI Flaw Opens Door to Unauthenticated Server Takeovers",
+            "link": "https://www.webpronews.com/drupals-field-ui-flaw-opens-door-to-unauthenticated-server-takeovers/"
+        }
+    ],
+    "CVE-2026-9082": [
+        {
+            "title": "Drupal\u2019s Field UI Flaw Opens Door to Unauthenticated Server Takeovers",
+            "link": "https://www.webpronews.com/drupals-field-ui-flaw-opens-door-to-unauthenticated-server-takeovers/"
+        }
+    ],
+    "CVE-2026-89070": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-89074": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-89068": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-89075": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-89076": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-89073": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-89069": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-89077": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-89067": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-89072": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-89071": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-87093": [
+        {
+            "title": "Multiple MOVEit Transfer Flaws Could Let Attackers Bypass MFA and Access Sensitive Data",
+            "link": "https://cyberpress.org/multiple-moveit-transfer-flaws/"
+        }
+    ],
+    "CVE-2026-110916": [
+        {
+            "title": "Google Chrome Fixes 10 Security Flaws, Including Critical Use-After-Free Vulnerability",
+            "link": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/"
+        }
+    ],
+    "CVE-2026-110918": [
+        {
+            "title": "Google Chrome Fixes 10 Security Flaws, Including Critical Use-After-Free Vulnerability",
+            "link": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/"
+        }
+    ],
+    "CVE-2026-110914": [
+        {
+            "title": "Google Chrome Fixes 10 Security Flaws, Including Critical Use-After-Free Vulnerability",
+            "link": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/"
+        }
+    ],
+    "CVE-2026-110915": [
+        {
+            "title": "Google Chrome Fixes 10 Security Flaws, Including Critical Use-After-Free Vulnerability",
+            "link": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/"
+        }
+    ],
+    "CVE-2026-110921": [
+        {
+            "title": "Google Chrome Fixes 10 Security Flaws, Including Critical Use-After-Free Vulnerability",
+            "link": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/"
+        }
+    ],
+    "CVE-2026-110913": [
+        {
+            "title": "Google Chrome Fixes 10 Security Flaws, Including Critical Use-After-Free Vulnerability",
+            "link": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/"
+        }
+    ],
+    "CVE-2026-110917": [
+        {
+            "title": "Google Chrome Fixes 10 Security Flaws, Including Critical Use-After-Free Vulnerability",
+            "link": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/"
+        }
+    ],
+    "CVE-2026-110919": [
+        {
+            "title": "Google Chrome Fixes 10 Security Flaws, Including Critical Use-After-Free Vulnerability",
+            "link": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/"
+        }
+    ],
+    "CVE-2026-110920": [
+        {
+            "title": "Google Chrome Fixes 10 Security Flaws, Including Critical Use-After-Free Vulnerability",
+            "link": "https://cyberpress.org/google-chrome-fixes-10-security-flaws/"
+        }
+    ],
+    "CVE-2025-66208": [
+        {
+            "title": "Hackers Exploit Critical Nextcloud Collabora Flaw to Execute Remote Commands",
+            "link": "https://cyberpress.org/critical-nextcloud-collabora-flaw/"
+        }
+    ],
+    "CVE-2026-59823": [
+        {
+            "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
+            "link": "https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/"
+        }
+    ],
+    "CVE-2026-35029": [
+        {
+            "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
+            "link": "https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "IT Security News Roundup: 2026-10-16 Evening",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-16-evening/"
+        },
+        {
+            "title": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
+            "link": "https://www.zscaler.com/blogs/security-research/cve-2026-88771-inside-exploitation-critical-netscaler-rce-vulnerability"
+        }
+    ],
+    "CVE-2026-107406": [
+        {
+            "title": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
+            "link": "https://www.zscaler.com/blogs/security-research/cve-2026-88771-inside-exploitation-critical-netscaler-rce-vulnerability"
+        }
+    ],
+    "CVE-2026-75650": [
+        {
+            "title": "CVE-2026-88771: Inside the Exploitation of a Critical NetScaler RCE Vulnerability",
+            "link": "https://www.zscaler.com/blogs/security-research/cve-2026-88771-inside-exploitation-critical-netscaler-rce-vulnerability"
         }
     ]
 }
