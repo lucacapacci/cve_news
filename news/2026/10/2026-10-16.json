@@ -45,12 +45,20 @@
         {
             "title": "Hackers Exploit BeyondTrust Zero-Day and Erase Security Logs to Hide Their Tracks",
             "link": "https://gbhackers.com/beyondtrust-zero-day-security-logs/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-102764",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-102764"
         }
     ],
     "CVE-2025-61624": [
         {
             "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
             "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2025-61624",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-61624"
         }
     ],
     "CVE-2021-4034": [
@@ -113,6 +121,24 @@
         {
             "title": "Critical Collabora Online Flaw Lets Attackers Execute Commands on Nextcloud Servers",
             "link": "https://gbhackers.com/collabora-online-nextcloud-security-flaw/"
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+            "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
+            "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html"
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "IT Security News Roundup: 2026-10-16 Afternoon",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-16-afternoon/"
         }
     ]
 }
