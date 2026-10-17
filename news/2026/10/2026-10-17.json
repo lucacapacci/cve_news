@@ -9,6 +9,10 @@
         {
             "title": "IT Security News Roundup: 2026-10-17 Morning",
             "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-17-morning/"
+        },
+        {
+            "title": "Hackers Exploit Critical Collabora Online Flaw to Backdoor Nextcloud Servers",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-collabora-online-flaw/"
         }
     ],
     "CVE-2026-105134": [
@@ -69,6 +73,75 @@
         {
             "title": "Cyber Attack Disrupts Refrigeration Systems at 700 French Supermarkets, Triggering Food Waste and Fires",
             "link": "https://www.cysecurity.news/2026/10/cyber-attack-disrupts-refrigeration.html"
+        }
+    ],
+    "CVE-2026-110914": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110916": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110917": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110920": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110921": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110913": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110922": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110915": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110919": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-110918": [
+        {
+            "title": "Google Fixes 10 Chrome Vulnerabilities, Including Memory Corruption Flaw Found With Claude AI",
+            "link": "https://cybersecuritynews.com/google-fixes-10-chrome-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-66208": [
+        {
+            "title": "Hackers Exploit Critical Collabora Online Flaw to Backdoor Nextcloud Servers",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-collabora-online-flaw/"
         }
     ]
 }
