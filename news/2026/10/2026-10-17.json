@@ -10,5 +10,41 @@
             "title": "IT Security News Roundup: 2026-10-17 Morning",
             "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-17-morning/"
         }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "Backup Servers Under Siege: How Two AhsayCBS Flaws Let Attackers Drop Webshells and Mine Crypto",
+            "link": "https://www.webpronews.com/backup-servers-under-siege-how-two-ahsaycbs-flaws-let-attackers-drop-webshells-and-mine-crypto/"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "Backup Servers Under Siege: How Two AhsayCBS Flaws Let Attackers Drop Webshells and Mine Crypto",
+            "link": "https://www.webpronews.com/backup-servers-under-siege-how-two-ahsaycbs-flaws-let-attackers-drop-webshells-and-mine-crypto/"
+        }
+    ],
+    "CVE-2026-105740": [
+        {
+            "title": "Langflow\u2019s MCP Flaw Exposes AI Workflows to Easy Server Takeover",
+            "link": "https://www.webpronews.com/langflows-mcp-flaw-exposes-ai-workflows-to-easy-server-takeover/"
+        }
+    ],
+    "CVE-2026-0768": [
+        {
+            "title": "Langflow\u2019s MCP Flaw Exposes AI Workflows to Easy Server Takeover",
+            "link": "https://www.webpronews.com/langflows-mcp-flaw-exposes-ai-workflows-to-easy-server-takeover/"
+        }
+    ],
+    "CVE-2026-105697": [
+        {
+            "title": "Langflow\u2019s MCP Flaw Exposes AI Workflows to Easy Server Takeover",
+            "link": "https://www.webpronews.com/langflows-mcp-flaw-exposes-ai-workflows-to-easy-server-takeover/"
+        }
+    ],
+    "CVE-2026-51886": [
+        {
+            "title": "Langflow\u2019s MCP Flaw Exposes AI Workflows to Easy Server Takeover",
+            "link": "https://www.webpronews.com/langflows-mcp-flaw-exposes-ai-workflows-to-easy-server-takeover/"
+        }
     ]
 }
