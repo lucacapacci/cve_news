@@ -56,8 +56,13 @@ def save_cve_entry(date_str, cve_id, title, link, list_only=False):
     # itsecuritynews.info
     if is_itsec:
         summaries = ["it security news hourly summary", "it security news daily summary", "it security news weekly summary", "it security news monthly summary"]
+        summary_links = ["security-news-roundup"]
         if any(summary in title.lower() for summary in summaries):
             return
+        for summary_link in summary_links:
+            if summary_link in link:
+                return
+                
     # cybersecuritynews.com
     if "cybersecuritynews.com" in link:
         summary_links = ["news-bulletin-weekly", "newsletter-bulletin", "-newsletter-"]
