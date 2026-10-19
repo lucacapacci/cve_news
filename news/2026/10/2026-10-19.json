@@ -38,5 +38,17 @@
             "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
             "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/"
         }
+    ],
+    "CVE-2026-106931": [
+        {
+            "title": "Japan\u2019s SiteGuard WAF flaw CVE-2026-106931 is already being exploited",
+            "link": "https://securityaffairs.com/201258/security/japans-siteguard-waf-flaw-cve-2026-106931-is-already-being-exploited.html"
+        }
+    ],
+    "CVE-2026-81376": [
+        {
+            "title": "Microsoft Pays Researcher $4,000 for Discovering Critical VS Code Security Bypass Flaw",
+            "link": "https://gbhackers.com/critical-vs-code-security-bypass-flaw/"
+        }
     ]
 }
