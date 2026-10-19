@@ -14,5 +14,29 @@
             "title": "ConnectWise backup app breaches 173 Microsoft tenants, Chinese spies exploit BeyondTrust zero-day, Japan declares first cyber state of emergency",
             "link": "https://cybersecuritytoday.libsyn.com/connectwise-backup-app-breaches-173-microsoft-tenants-chinese-spies-exploit-beyondtrust-zero-day-japan-declares-first-cyber-state-of-emergency"
         }
+    ],
+    "CVE-2026-96654": [
+        {
+            "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
+            "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/"
+        }
+    ],
+    "CVE-2026-96656": [
+        {
+            "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
+            "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/"
+        }
+    ],
+    "CVE-2026-96655": [
+        {
+            "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
+            "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/"
+        }
+    ],
+    "CVE-2026-96652": [
+        {
+            "title": "Hackers Exploiting Plex Vulnerabilities in the Wild to Deploy Cryptominer Malware",
+            "link": "https://cybersecuritynews.com/plex-vulnerabilities-exploited-in-wild/"
+        }
     ]
 }
