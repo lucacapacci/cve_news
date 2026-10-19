@@ -1,0 +1,18 @@
+{
+    "CVE-2026-99999": [
+        {
+            "title": "IT Security News Roundup: 2026-10-19 Overnight",
+            "link": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-19-overnight/"
+        },
+        {
+            "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+            "link": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744"
+        }
+    ],
+    "CVE-2026-102764": [
+        {
+            "title": "ConnectWise backup app breaches 173 Microsoft tenants, Chinese spies exploit BeyondTrust zero-day, Japan declares first cyber state of emergency",
+            "link": "https://cybersecuritytoday.libsyn.com/connectwise-backup-app-breaches-173-microsoft-tenants-chinese-spies-exploit-beyondtrust-zero-day-japan-declares-first-cyber-state-of-emergency"
+        }
+    ]
+}
