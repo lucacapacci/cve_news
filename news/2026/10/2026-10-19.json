@@ -43,12 +43,34 @@
         {
             "title": "Japan\u2019s SiteGuard WAF flaw CVE-2026-106931 is already being exploited",
             "link": "https://securityaffairs.com/201258/security/japans-siteguard-waf-flaw-cve-2026-106931-is-already-being-exploited.html"
+        },
+        {
+            "title": "CVE-2026-106931 SiteGuard WAF Flaw Exploited: Save Evidence Before Patching",
+            "link": "https://www.esecurityplanet.com/vulnerabilities/news-cve-2026-106931-siteguard-waf-exploited/"
         }
     ],
     "CVE-2026-81376": [
         {
             "title": "Microsoft Pays Researcher $4,000 for Discovering Critical VS Code Security Bypass Flaw",
             "link": "https://gbhackers.com/critical-vs-code-security-bypass-flaw/"
+        }
+    ],
+    "CVE-2026-88779": [
+        {
+            "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
+            "link": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779"
+        }
+    ],
+    "CVE-2026-88772": [
+        {
+            "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
+            "link": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779"
+        }
+    ],
+    "CVE-2026-88771": [
+        {
+            "title": "Rapid7 Analysis: NetScaler intrusions chaining CVE-2026-88771 and CVE-2026-88779",
+            "link": "https://www.rapid7.com/blog/post/ra-netscaler-intrusions-chaining-cve-2026-88771-and-cve-2026-88779"
         }
     ]
 }
