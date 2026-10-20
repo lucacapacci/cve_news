@@ -22,5 +22,53 @@
             "title": "Flatpak 1.18.4 Patches Six Vulnerabilities, Including Privileged File Overwrite and Deletion Bugs",
             "link": "https://www.webpronews.com/flatpak-1-18-4-patches-six-vulnerabilities-including-privileged-file-overwrite-and-deletion-bugs/"
         }
+    ],
+    "CVE-2026-110936": [
+        {
+            "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+            "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html"
+        }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Hackers Exploit Palo Alto VPN Flaw to Bypass MFA and Steal Credentials From VMware Disks",
+            "link": "https://cybersecuritynews.com/palo-alto-vpn-flaw-exploited/"
+        },
+        {
+            "title": "Qilin and INC Ransomware Hackers Exploit Palo Alto Networks VPN Flaw to Breach Networks",
+            "link": "https://cyberpress.org/qilin-inc-ransomware-palo-alto-networks-vpn/"
+        }
+    ],
+    "CVE-2023-27532": [
+        {
+            "title": "Hackers Exploit Palo Alto VPN Flaw to Bypass MFA and Steal Credentials From VMware Disks",
+            "link": "https://cybersecuritynews.com/palo-alto-vpn-flaw-exploited/"
+        },
+        {
+            "title": "Qilin and INC Ransomware Hackers Exploit Palo Alto Networks VPN Flaw to Breach Networks",
+            "link": "https://cyberpress.org/qilin-inc-ransomware-palo-alto-networks-vpn/"
+        }
+    ],
+    "CVE-2026-63030": [
+        {
+            "title": "Hackers Can Take Over WordPress Websites Without a Password Using Two Security Flaws",
+            "link": "https://gbhackers.com/wordpress-websites-at-risk/"
+        }
+    ],
+    "CVE-2026-60137": [
+        {
+            "title": "Hackers Can Take Over WordPress Websites Without a Password Using Two Security Flaws",
+            "link": "https://gbhackers.com/wordpress-websites-at-risk/"
+        }
+    ],
+    "CVE-2026-73570": [
+        {
+            "title": "Hackers Exploit Zimbra Zero-Click Flaw to Take Control of Email Servers",
+            "link": "https://gbhackers.com/hackers-exploit-zimbra-zero-click-flaw/"
+        },
+        {
+            "title": "Hackers Exploit Zimbra Mail Server Flaw to Execute Commands and Steal Emails",
+            "link": "https://cyberpress.org/hackers-exploit-zimbra-mail-server-flaw/"
+        }
     ]
 }
