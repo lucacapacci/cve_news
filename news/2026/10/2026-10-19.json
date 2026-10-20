@@ -47,6 +47,14 @@
         {
             "title": "CVE-2026-106931 SiteGuard WAF Flaw Exploited: Save Evidence Before Patching",
             "link": "https://www.esecurityplanet.com/vulnerabilities/news-cve-2026-106931-siteguard-waf-exploited/"
+        },
+        {
+            "title": "Hackers Exploit SiteGuard WAF Vulnerability That Could Give Them Full Control of Servers",
+            "link": "https://cybersecuritynews.com/hackers-exploit-siteguard-waf-vulnerability/"
+        },
+        {
+            "title": "SiteGuard Warns Patching Actively Exploited Security Flaw Could Erase Evidence of Attacks",
+            "link": "https://gbhackers.com/siteguard-warns-patching/"
         }
     ],
     "CVE-2026-81376": [
@@ -77,6 +85,28 @@
         {
             "title": "Critical Drupal RCE Vulnerability Could Let Attackers Take Over Websites Without Authentication",
             "link": "https://cybersecuritynews.com/drupal-rce-vulnerability/"
+        },
+        {
+            "title": "Drupal Warns Critical RCE Flaw Could Let Unauthenticated Attackers Compromise Websites",
+            "link": "https://gbhackers.com/drupal-warns-critical-rce-flaw/"
+        }
+    ],
+    "CVE-2026-104622": [
+        {
+            "title": "Bright Security Introduces STAR Fuzzer, Agentic Fuzzing That Writes Its Own Harnesses and Proves Every Finding",
+            "link": "https://cybersecuritynews.com/bright-security-introduces-star-fuzzer-agentic-fuzzing-that-writes-its-own-harnesses-and-proves-every-finding/"
+        }
+    ],
+    "CVE-2026-104621": [
+        {
+            "title": "Bright Security Introduces STAR Fuzzer, Agentic Fuzzing That Writes Its Own Harnesses and Proves Every Finding",
+            "link": "https://cybersecuritynews.com/bright-security-introduces-star-fuzzer-agentic-fuzzing-that-writes-its-own-harnesses-and-proves-every-finding/"
+        }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
+            "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
         }
     ]
 }
