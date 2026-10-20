@@ -53,6 +53,10 @@
         {
             "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
             "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html"
+        },
+        {
+            "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+            "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/"
         }
     ],
     "CVE-2023-27532": [
@@ -165,6 +169,12 @@
         {
             "title": "CISA KEV Addition: CVE-2026-106931",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-106931"
+        }
+    ],
+    "CVE-2026-44484": [
+        {
+            "title": "Stealthium Proposes Runtime Detection of In-Memory Model Weight Tampering",
+            "link": "https://www.webpronews.com/stealthium-proposes-runtime-detection-of-in-memory-model-weight-tampering/"
         }
     ]
 }
