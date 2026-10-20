@@ -31,6 +31,10 @@
         {
             "title": "Attackers exploit Siemens Software Center flaw in active ClickFix malware campaign",
             "link": "https://www.helpnetsecurity.com/2026/10/20/exploitation-siemens-software-center-vulnerability-cve-2026-110936/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-110936",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-110936"
         }
     ],
     "CVE-2026-0257": [
@@ -45,6 +49,10 @@
         {
             "title": "Hackers Exploit Palo Alto Networks PAN-OS Flaw to Bypass MFA and Deploy Ransomware",
             "link": "https://gbhackers.com/hackers-exploit-palo-alto-networks-pan-os-flaw/"
+        },
+        {
+            "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+            "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html"
         }
     ],
     "CVE-2023-27532": [
@@ -99,6 +107,64 @@
         {
             "title": "Hackers Use Critical Collabora Flaw to Compromise Nextcloud Servers",
             "link": "https://www.esecurityplanet.com/threats/news-collabora-nextcloud-cve-2026-110447/"
+        }
+    ],
+    "CVE-2026-106173": [
+        {
+            "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+            "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html"
+        }
+    ],
+    "CVE-2026-96652": [
+        {
+            "title": "Plex Media Server Vulnerabilities Under Active Exploitation After Public Disclosure",
+            "link": "https://www.webpronews.com/plex-media-server-vulnerabilities-under-active-exploitation-after-public-disclosure/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-96652",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-96652"
+        }
+    ],
+    "CVE-2026-96655": [
+        {
+            "title": "Plex Media Server Vulnerabilities Under Active Exploitation After Public Disclosure",
+            "link": "https://www.webpronews.com/plex-media-server-vulnerabilities-under-active-exploitation-after-public-disclosure/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-96655",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-96655"
+        }
+    ],
+    "CVE-2026-96656": [
+        {
+            "title": "Plex Media Server Vulnerabilities Under Active Exploitation After Public Disclosure",
+            "link": "https://www.webpronews.com/plex-media-server-vulnerabilities-under-active-exploitation-after-public-disclosure/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-96656",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-96656"
+        }
+    ],
+    "CVE-2026-96654": [
+        {
+            "title": "Plex Media Server Vulnerabilities Under Active Exploitation After Public Disclosure",
+            "link": "https://www.webpronews.com/plex-media-server-vulnerabilities-under-active-exploitation-after-public-disclosure/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-96654",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-96654"
+        }
+    ],
+    "CVE-2026-82814": [
+        {
+            "title": "Wordfence Argus Discovers High Severity Unauthenticated PHP Object Injection in Duplicator",
+            "link": "https://www.wordfence.com/blog/2026/10/wordfence-argus-discovers-high-severity-unauthenticated-php-object-injection-in-duplicator/"
+        }
+    ],
+    "CVE-2026-106931": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-106931",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-106931"
         }
     ]
 }
