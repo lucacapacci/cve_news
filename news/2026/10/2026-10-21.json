@@ -95,6 +95,14 @@
         {
             "title": "PSA: PHP Security Updates Available for Two Critical Vulnerabilities, Update Now",
             "link": "https://www.wordfence.com/blog/2026/10/psa-php-security-updates-available-for-two-critical-vulnerabilities-update-now/"
+        },
+        {
+            "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+            "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/"
+        },
+        {
+            "title": "PHP Releases Emergency Patches for PHP2Shell Flaws Threatening Millions of Web Servers",
+            "link": "https://cybersecuritynews.com/php-releases-emergency-patches/"
         }
     ],
     "CVE-2026-109619": [
@@ -133,6 +141,14 @@
         {
             "title": "PSA: PHP Security Updates Available for Two Critical Vulnerabilities, Update Now",
             "link": "https://www.wordfence.com/blog/2026/10/psa-php-security-updates-available-for-two-critical-vulnerabilities-update-now/"
+        },
+        {
+            "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
+            "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/"
+        },
+        {
+            "title": "PHP Releases Emergency Patches for PHP2Shell Flaws Threatening Millions of Web Servers",
+            "link": "https://cybersecuritynews.com/php-releases-emergency-patches/"
         }
     ],
     "CVE-2026-96652": [
@@ -2987,6 +3003,72 @@
         {
             "title": "The Science of Exploitability: Decoding BlueHammer",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-106073": [
+        {
+            "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
+            "link": "https://cybersecuritynews.com/node-js-releases-security-updates/"
+        }
+    ],
+    "CVE-2026-106069": [
+        {
+            "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
+            "link": "https://cybersecuritynews.com/node-js-releases-security-updates/"
+        }
+    ],
+    "CVE-2026-106070": [
+        {
+            "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
+            "link": "https://cybersecuritynews.com/node-js-releases-security-updates/"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
+            "link": "https://cybersecuritynews.com/node-js-releases-security-updates/"
+        }
+    ],
+    "CVE-2026-105482": [
+        {
+            "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
+            "link": "https://cybersecuritynews.com/node-js-releases-security-updates/"
+        }
+    ],
+    "CVE-2026-106074": [
+        {
+            "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
+            "link": "https://cybersecuritynews.com/node-js-releases-security-updates/"
+        }
+    ],
+    "CVE-2026-105483": [
+        {
+            "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
+            "link": "https://cybersecuritynews.com/node-js-releases-security-updates/"
+        }
+    ],
+    "CVE-2026-105481": [
+        {
+            "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
+            "link": "https://cybersecuritynews.com/node-js-releases-security-updates/"
+        }
+    ],
+    "CVE-2026-106071": [
+        {
+            "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
+            "link": "https://cybersecuritynews.com/node-js-releases-security-updates/"
+        }
+    ],
+    "CVE-2026-106072": [
+        {
+            "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
+            "link": "https://cybersecuritynews.com/node-js-releases-security-updates/"
+        }
+    ],
+    "CVE-2025-70795": [
+        {
+            "title": "Hackers Use Gentlemen Ransomware to Disable Windows Defender and Destroy Backups",
+            "link": "https://cybersecuritynews.com/hackers-use-gentlemen-ransomware/"
         }
     ]
 }
