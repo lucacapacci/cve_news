@@ -63,12 +63,2876 @@
         {
             "title": "PHP Announces Critical Security Release for Two Vulnerabilities",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
+            "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/"
+        },
+        {
+            "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+            "link": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote"
         }
     ],
     "CVE-2026-109619": [
         {
             "title": "PHP Announces Critical Security Release for Two Vulnerabilities",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
+            "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/"
+        },
+        {
+            "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+            "link": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote"
+        }
+    ],
+    "CVE-2026-96652": [
+        {
+            "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+            "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html"
+        }
+    ],
+    "CVE-2019-11043": [
+        {
+            "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+            "link": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote",
+            "listOnly": true
+        }
+    ],
+    "CVE-2012-1823": [
+        {
+            "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+            "link": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote"
+        }
+    ],
+    "CVE-2024-4577": [
+        {
+            "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+            "link": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote"
+        }
+    ],
+    "CVE-2026-106173": [
+        {
+            "title": "Critical Fortinet FortiSIEM RCE Vulnerability Gets Public PoC Exploit, Allowing Unauthenticated Attacks",
+            "link": "https://gbhackers.com/critical-fortinet-fortisiem-rce-vulnerability/"
+        },
+        {
+            "title": "Critical Fortinet FortiSIEM RCE Vulnerability Gets Public Exploit Code",
+            "link": "https://cyberpress.org/critical-fortinet-fortisiem-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Ransomware gangs have been exploiting Palo Alto GlobalProtect VPN flaw since June",
+            "link": "https://www.helpnetsecurity.com/2026/10/21/ransomware-groups-exploit-palo-alto-globalprotect-cve-2026-0257/"
+        }
+    ],
+    "CVE-2026-113313": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113265": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113106": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113213": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113110": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113257": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113204": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113202": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113185": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113222": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113175": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113069": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113178": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112998": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113102": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113077": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113338": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113154": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113196": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113091": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113025": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113052": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113064": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113098": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113086": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113255": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113217": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113321": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113343": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113189": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113002": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113333": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113083": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113280": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-113215": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113212": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113177": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113076": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113042": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113004": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113050": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113026": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113161": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113122": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113254": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113167": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113219": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113030": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113054": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113253": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113127": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113028": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113329": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113290": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113001": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113227": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113199": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113272": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113011": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113021": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113294": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112997": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113111": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113279": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-113123": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113095": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113120": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113162": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113176": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113241": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113271": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-113188": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113264": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113221": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113156": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113226": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113182": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113046": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113056": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113020": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113092": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113224": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113130": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113193": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113160": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113315": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113267": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113072": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-113075": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113159": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113068": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113085": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113179": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113018": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113013": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113284": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113310": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113268": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113309": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113198": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113037": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113003": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113063": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113242": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113281": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113023": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113051": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113249": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113109": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113173": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113138": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113078": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113248": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113073": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113150": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113041": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113289": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113170": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113157": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113192": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113184": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113019": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113285": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113104": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113276": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112993": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113263": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113079": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113165": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113012": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113008": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113093": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113245": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113259": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113223": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113340": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113105": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113124": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113097": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-113094": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113108": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112994": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113148": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113261": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113116": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113139": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113282": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113317": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113005": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113208": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113164": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113131": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113129": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113275": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113096": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113049": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113027": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113172": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113292": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112995": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113325": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113330": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113270": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113339": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113234": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113256": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113243": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113238": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113232": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113308": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113260": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113147": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113103": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113181": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113071": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113236": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113118": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113319": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113207": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112999": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113335": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113305": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113237": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113065": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113058": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113081": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113229": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113337": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113187": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113048": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113307": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113155": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113082": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113114": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113326": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113327": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113135": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113016": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113141": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113195": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113121": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113014": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113134": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113318": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113047": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113316": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113291": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113331": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113022": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113322": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113252": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113035": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113266": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113225": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113166": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113169": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113233": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113062": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113197": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113244": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113038": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113117": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113180": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113300": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113031": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113278": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113262": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113146": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113036": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113258": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113171": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113010": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113297": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113043": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112992": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113024": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113251": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113206": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113060": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113132": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112996": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113214": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113006": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113101": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-113143": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113015": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113107": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113306": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113247": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113113": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113218": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113269": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113045": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113302": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113168": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113089": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113099": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113287": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113323": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113186": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113007": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113216": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113201": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113209": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113000": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113032": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113274": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113044": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113115": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113312": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113210": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113324": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113332": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113087": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113034": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113288": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113231": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113140": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113174": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113334": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113341": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-113152": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113128": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113286": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113033": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113074": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113228": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113100": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113230": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113067": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113298": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113055": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113220": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113183": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113149": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113136": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113009": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113163": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113296": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113301": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113158": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113200": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113084": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113240": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113203": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113205": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113299": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113250": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113040": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113088": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113145": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113126": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113194": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113070": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113059": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113112": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113119": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113191": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113303": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-113190": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113277": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113080": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113039": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113053": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113342": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113057": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113273": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113328": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113144": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113029": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113153": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113336": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113090": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113137": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113304": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113246": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113295": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113283": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113151": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113320": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113066": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113142": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113235": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113239": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113293": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113133": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113017": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113211": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113314": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113344": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113125": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113061": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113311": [
+        {
+            "title": "Google Chrome Update Fixes 353 Security Vulnerabilities, Including 6 Critical Flaws",
+            "link": "https://cyberpress.org/google-chrome-update-353-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91220": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91233": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-83396": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91234": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-41635": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91490": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91251": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91221": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/"
+        }
+    ],
+    "CVE-2026-91250": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91236": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91495": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-83397": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91216": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/"
+        }
+    ],
+    "CVE-2026-87251": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91323": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/"
+        }
+    ],
+    "CVE-2026-4176": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-87347": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91218": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101634": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/"
+        }
+    ],
+    "CVE-2026-91230": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-8763": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91341": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91232": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101767": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/"
+        }
+    ],
+    "CVE-2026-91408": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91491": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91225": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101808": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/"
+        }
+    ],
+    "CVE-2026-91231": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/"
+        }
+    ],
+    "CVE-2026-87302": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91354": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101809": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/"
+        }
+    ],
+    "CVE-2026-47065": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-83399": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/"
+        }
+    ],
+    "CVE-2026-91243": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91222": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-42779": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91235": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91224": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-87337": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/"
+        }
+    ],
+    "CVE-2026-91214": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101590": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101499": [
+        {
+            "title": "Oracle Releases Massive Security Update for Fusion Middleware and E-Business Suite",
+            "link": "https://cyberpress.org/oracle-releases-massive-security-update/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-74049": [
+        {
+            "title": "Apache Tomcat Security Flaws Allow Attackers to Bypass Authentication and Expose User Data",
+            "link": "https://cyberpress.org/apache-tomcat-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101356": [
+        {
+            "title": "Apache Tomcat Security Flaws Allow Attackers to Bypass Authentication and Expose User Data",
+            "link": "https://cyberpress.org/apache-tomcat-security-flaws/"
+        }
+    ],
+    "CVE-2026-93446": [
+        {
+            "title": "Apache Tomcat Security Flaws Allow Attackers to Bypass Authentication and Expose User Data",
+            "link": "https://cyberpress.org/apache-tomcat-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101296": [
+        {
+            "title": "Apache Tomcat Security Flaws Allow Attackers to Bypass Authentication and Expose User Data",
+            "link": "https://cyberpress.org/apache-tomcat-security-flaws/"
+        }
+    ],
+    "CVE-2026-103119": [
+        {
+            "title": "Apache Tomcat Security Flaws Allow Attackers to Bypass Authentication and Expose User Data",
+            "link": "https://cyberpress.org/apache-tomcat-security-flaws/"
+        }
+    ],
+    "CVE-2026-88041": [
+        {
+            "title": "Apache Tomcat Security Flaws Allow Attackers to Bypass Authentication and Expose User Data",
+            "link": "https://cyberpress.org/apache-tomcat-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-74048": [
+        {
+            "title": "Apache Tomcat Security Flaws Allow Attackers to Bypass Authentication and Expose User Data",
+            "link": "https://cyberpress.org/apache-tomcat-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-80353": [
+        {
+            "title": "Apache Tomcat Security Flaws Allow Attackers to Bypass Authentication and Expose User Data",
+            "link": "https://cyberpress.org/apache-tomcat-security-flaws/",
+            "listOnly": true
         }
     ]
 }
