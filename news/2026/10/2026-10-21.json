@@ -71,6 +71,30 @@
         {
             "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
             "link": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote"
+        },
+        {
+            "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+        },
+        {
+            "title": "PHP2Shell: Critical PHP vulnerabilities patched, update now!",
+            "link": "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/"
+        },
+        {
+            "title": "Major PHP Flaws Have Web Admins Reeling Worldwide",
+            "link": "https://www.webpronews.com/major-php-flaws-have-web-admins-reeling-worldwide/"
+        },
+        {
+            "title": "Cloudflare Opens Response-Side WAF Rules to All Plans as Google Cloud Pushes php2shell Fixes",
+            "link": "https://www.webpronews.com/cloudflare-opens-response-side-waf-rules-to-all-plans-as-google-cloud-pushes-php2shell-fixes/"
+        },
+        {
+            "title": "PHP Ships Emergency Fixes for php2shell Remote Code Execution Flaws as Cloudflare Reports Attacks",
+            "link": "https://www.webpronews.com/php2shell-php-remote-code-execution-vulnerabilities-patch/"
+        },
+        {
+            "title": "PSA: PHP Security Updates Available for Two Critical Vulnerabilities, Update Now",
+            "link": "https://www.wordfence.com/blog/2026/10/psa-php-security-updates-available-for-two-critical-vulnerabilities-update-now/"
         }
     ],
     "CVE-2026-109619": [
@@ -85,6 +109,30 @@
         {
             "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
             "link": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote"
+        },
+        {
+            "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+        },
+        {
+            "title": "PHP2Shell: Critical PHP vulnerabilities patched, update now!",
+            "link": "https://www.helpnetsecurity.com/2026/10/21/php2shell-php-vulnerabilities-patched-cve-2026-109618-cve-2026-109619/"
+        },
+        {
+            "title": "Major PHP Flaws Have Web Admins Reeling Worldwide",
+            "link": "https://www.webpronews.com/major-php-flaws-have-web-admins-reeling-worldwide/"
+        },
+        {
+            "title": "Cloudflare Opens Response-Side WAF Rules to All Plans as Google Cloud Pushes php2shell Fixes",
+            "link": "https://www.webpronews.com/cloudflare-opens-response-side-waf-rules-to-all-plans-as-google-cloud-pushes-php2shell-fixes/"
+        },
+        {
+            "title": "PHP Ships Emergency Fixes for php2shell Remote Code Execution Flaws as Cloudflare Reports Attacks",
+            "link": "https://www.webpronews.com/php2shell-php-remote-code-execution-vulnerabilities-patch/"
+        },
+        {
+            "title": "PSA: PHP Security Updates Available for Two Critical Vulnerabilities, Update Now",
+            "link": "https://www.wordfence.com/blog/2026/10/psa-php-security-updates-available-for-two-critical-vulnerabilities-update-now/"
         }
     ],
     "CVE-2026-96652": [
@@ -2933,6 +2981,12 @@
             "title": "Apache Tomcat Security Flaws Allow Attackers to Bypass Authentication and Expose User Data",
             "link": "https://cyberpress.org/apache-tomcat-security-flaws/",
             "listOnly": true
+        }
+    ],
+    "CVE-2026-33825": [
+        {
+            "title": "The Science of Exploitability: Decoding BlueHammer",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
         }
     ]
 }
