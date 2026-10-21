@@ -1,0 +1,74 @@
+{
+    "CVE-2026-32202": [
+        {
+            "title": "Security Patches Increasingly Require Further Fixes as AI Empowers Attackers",
+            "link": "https://www.webpronews.com/security-patches-increasingly-require-further-fixes-as-ai-empowers-attackers/"
+        }
+    ],
+    "CVE-2026-21510": [
+        {
+            "title": "Security Patches Increasingly Require Further Fixes as AI Empowers Attackers",
+            "link": "https://www.webpronews.com/security-patches-increasingly-require-further-fixes-as-ai-empowers-attackers/"
+        }
+    ],
+    "CVE-2024-40711": [
+        {
+            "title": "FBI Reveals How SafePay Ransomware Hackers Breached 600+ Organizations Worldwide",
+            "link": "https://cyberpress.org/safepay-breaches-600-organizations/"
+        }
+    ],
+    "CVE-2024-40766": [
+        {
+            "title": "FBI Reveals How SafePay Ransomware Hackers Breached 600+ Organizations Worldwide",
+            "link": "https://cyberpress.org/safepay-breaches-600-organizations/"
+        }
+    ],
+    "CVE-2023-20269": [
+        {
+            "title": "FBI Reveals How SafePay Ransomware Hackers Breached 600+ Organizations Worldwide",
+            "link": "https://cyberpress.org/safepay-breaches-600-organizations/"
+        }
+    ],
+    "CVE-2020-3259": [
+        {
+            "title": "FBI Reveals How SafePay Ransomware Hackers Breached 600+ Organizations Worldwide",
+            "link": "https://cyberpress.org/safepay-breaches-600-organizations/"
+        }
+    ],
+    "CVE-2023-27532": [
+        {
+            "title": "FBI Reveals How SafePay Ransomware Hackers Breached 600+ Organizations Worldwide",
+            "link": "https://cyberpress.org/safepay-breaches-600-organizations/"
+        }
+    ],
+    "CVE-2026-35616": [
+        {
+            "title": "Ransomware Hackers Use Claude AI to Plan Attacks Against 62 Organizations, Researchers Reveal",
+            "link": "https://cyberpress.org/hackers-plan-claude-assisted-ransomware/"
+        }
+    ],
+    "CVE-2026-41940": [
+        {
+            "title": "Ransomware Hackers Use Claude AI to Plan Attacks Against 62 Organizations, Researchers Reveal",
+            "link": "https://cyberpress.org/hackers-plan-claude-assisted-ransomware/"
+        }
+    ],
+    "CVE-2024-57727": [
+        {
+            "title": "Ransomware Hackers Use Claude AI to Plan Attacks Against 62 Organizations, Researchers Reveal",
+            "link": "https://cyberpress.org/hackers-plan-claude-assisted-ransomware/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "PHP Announces Critical Security Release for Two Vulnerabilities",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "PHP Announces Critical Security Release for Two Vulnerabilities",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ]
+}
