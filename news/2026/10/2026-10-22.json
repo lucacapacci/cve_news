@@ -3,12 +3,131 @@
         {
             "title": "Special Report: PHP2Shell puts 70% of web at risk",
             "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        },
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        },
+        {
+            "title": "Critical PHP Vulnerabilities Were Under Attack Days Before Security Updates Were Released",
+            "link": "https://gbhackers.com/php-vulnerabilities/"
         }
     ],
     "CVE-2026-109618": [
         {
             "title": "Special Report: PHP2Shell puts 70% of web at risk",
             "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        },
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        },
+        {
+            "title": "Critical PHP Vulnerabilities Were Under Attack Days Before Security Updates Were Released",
+            "link": "https://gbhackers.com/php-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-112212": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        }
+    ],
+    "CVE-2026-112378": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-14288": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112326": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-105711": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-103515": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-105777": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-12664": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110264": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        },
+        {
+            "title": "GitLab Patches Critical 10.0 RCE Vulnerability Allowing Unauthenticated Remote Code Execution",
+            "link": "https://gbhackers.com/gitlab-patches-critical-10-0-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-13319": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-16255": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-15723": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
+            "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        }
+    ],
+    "CVE-2026-106173": [
+        {
+            "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
+            "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html"
+        }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
+            "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html"
         }
     ]
 }
