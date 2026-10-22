@@ -39,6 +39,10 @@
         {
             "title": "php2shell: Assessing Elastic detection coverage relevant to CVE-2026-109618 and CVE-2026-109619",
             "link": "https://www.elastic.co/security-labs/threat-command/php2shell-php-rce-detection"
+        },
+        {
+            "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year",
+            "link": "https://cybersecuritynews.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/"
         }
     ],
     "CVE-2026-109618": [
@@ -81,6 +85,10 @@
         {
             "title": "php2shell: Assessing Elastic detection coverage relevant to CVE-2026-109618 and CVE-2026-109619",
             "link": "https://www.elastic.co/security-labs/threat-command/php2shell-php-rce-detection"
+        },
+        {
+            "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year",
+            "link": "https://cybersecuritynews.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/"
         }
     ],
     "CVE-2026-112212": [
@@ -146,6 +154,10 @@
         {
             "title": "GitLab Patches Critical 10.0 RCE Vulnerability Allowing Unauthenticated Remote Code Execution",
             "link": "https://gbhackers.com/gitlab-patches-critical-10-0-rce-vulnerability/"
+        },
+        {
+            "title": "GitLab Patched Its Own Copy of Ruby to Close a CVSS 10 Hole Spanning 12 Years of Releases",
+            "link": "https://www.webpronews.com/gitlab-cve-2026-110264-ruby-onigmo-regex-rce/"
         }
     ],
     "CVE-2026-13319": [
@@ -172,6 +184,10 @@
         {
             "title": "12-Year-Old GitLab Vulnerability Allows Remote Code Execution on Self-Managed Server",
             "link": "https://cybersecuritynews.com/12-year-old-gitlab-vulnerability/"
+        },
+        {
+            "title": "GitLab Patched Its Own Copy of Ruby to Close a CVSS 10 Hole Spanning 12 Years of Releases",
+            "link": "https://www.webpronews.com/gitlab-cve-2026-110264-ruby-onigmo-regex-rce/"
         }
     ],
     "CVE-2026-106173": [
