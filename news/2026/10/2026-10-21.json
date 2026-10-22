@@ -103,6 +103,18 @@
         {
             "title": "PHP Releases Emergency Patches for PHP2Shell Flaws Threatening Millions of Web Servers",
             "link": "https://cybersecuritynews.com/php-releases-emergency-patches/"
+        },
+        {
+            "title": "PHP 8.5.12 Fixes Critical Flaws That Could Let Hackers Take Over Servers Without Login",
+            "link": "https://cyberpress.org/php-8-5-12-fixes-critical-flaws-that-could-let-hackers-take-over-servers-without-login/"
+        },
+        {
+            "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+            "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
+        },
+        {
+            "title": "Two critical PHP flaws put the web on alert as emergency patches arrive",
+            "link": "https://www.infoworld.com/article/4238778/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive-2.html"
         }
     ],
     "CVE-2026-109619": [
@@ -149,6 +161,14 @@
         {
             "title": "PHP Releases Emergency Patches for PHP2Shell Flaws Threatening Millions of Web Servers",
             "link": "https://cybersecuritynews.com/php-releases-emergency-patches/"
+        },
+        {
+            "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+            "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
+        },
+        {
+            "title": "Two critical PHP flaws put the web on alert as emergency patches arrive",
+            "link": "https://www.infoworld.com/article/4238778/two-critical-php-flaws-put-the-web-on-alert-as-emergency-patches-arrive-2.html"
         }
     ],
     "CVE-2026-96652": [
