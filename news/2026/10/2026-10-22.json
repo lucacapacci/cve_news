@@ -19,6 +19,26 @@
         {
             "title": "October 21 Cybersecurity Nightmare: PHP and Node.js Flaws, LiteLLM Backdoor, and Active Attacks",
             "link": "https://cybersecuritynews.com/october-21-cybersecurity-nightmare/"
+        },
+        {
+            "title": "Hackers Were Targeting Critical PHP Vulnerabilities Days Before They Were Patched",
+            "link": "https://cybersecuritynews.com/critical-php-vulnerabilities/"
+        },
+        {
+            "title": "New PHP2Shell scanner checks your hosts for CVE-2026-109618 and CVE-2026-109619",
+            "link": "https://www.helpnetsecurity.com/2026/10/22/php2shell-scanner-tool/"
+        },
+        {
+            "title": "Amazon Says Attackers Hit PHP2Shell Four Days Before the Bug Went Public",
+            "link": "https://www.webpronews.com/amazon-threat-intelligence-php2shell-exploitation-before-disclosure-madpot/"
+        },
+        {
+            "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+        },
+        {
+            "title": "php2shell: Assessing Elastic detection coverage relevant to CVE-2026-109618 and CVE-2026-109619",
+            "link": "https://www.elastic.co/security-labs/threat-command/php2shell-php-rce-detection"
         }
     ],
     "CVE-2026-109618": [
@@ -41,6 +61,26 @@
         {
             "title": "October 21 Cybersecurity Nightmare: PHP and Node.js Flaws, LiteLLM Backdoor, and Active Attacks",
             "link": "https://cybersecuritynews.com/october-21-cybersecurity-nightmare/"
+        },
+        {
+            "title": "Hackers Were Targeting Critical PHP Vulnerabilities Days Before They Were Patched",
+            "link": "https://cybersecuritynews.com/critical-php-vulnerabilities/"
+        },
+        {
+            "title": "New PHP2Shell scanner checks your hosts for CVE-2026-109618 and CVE-2026-109619",
+            "link": "https://www.helpnetsecurity.com/2026/10/22/php2shell-scanner-tool/"
+        },
+        {
+            "title": "Amazon Says Attackers Hit PHP2Shell Four Days Before the Bug Went Public",
+            "link": "https://www.webpronews.com/amazon-threat-intelligence-php2shell-exploitation-before-disclosure-madpot/"
+        },
+        {
+            "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+            "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/"
+        },
+        {
+            "title": "php2shell: Assessing Elastic detection coverage relevant to CVE-2026-109618 and CVE-2026-109619",
+            "link": "https://www.elastic.co/security-labs/threat-command/php2shell-php-rce-detection"
         }
     ],
     "CVE-2026-112212": [
@@ -240,6 +280,12 @@
         {
             "title": "Hackers Target FortiGate, FortiWeb and Palo Alto GlobalProtect, Exposing 70,000+ Credentials",
             "link": "https://cyberpress.org/hackers-expose-70000-credentials/"
+        }
+    ],
+    "CVE-2024-31621": [
+        {
+            "title": "A Hacker Tried to Turn an AI Chatbot Into a Tool for Attacking Other Servers",
+            "link": "https://cybersecuritynews.com/ai-chatbot-into-a-tool/"
         }
     ]
 }
