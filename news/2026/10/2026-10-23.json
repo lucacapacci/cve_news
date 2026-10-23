@@ -39,6 +39,14 @@
         {
             "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
             "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
+        },
+        {
+            "title": "PHP2Shell \u2013 Critical Vulnerabilities in PHP Core (CVE-2026-109618/CVE-2026-109619)",
+            "link": "https://www.offsec.com/blog/php2shell-critical-vulnerabilities-in-php-core/"
+        },
+        {
+            "title": "PHP2Shell Update: One in ten organizations impacted as Europe bears the brunt",
+            "link": "https://blog.checkpoint.com/ai-security/php2shell-one-in-ten-organizations-impacted-as-europe-bears-the-brunt/"
         }
     ],
     "CVE-2026-109618": [
@@ -81,6 +89,14 @@
         {
             "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
             "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
+        },
+        {
+            "title": "PHP2Shell \u2013 Critical Vulnerabilities in PHP Core (CVE-2026-109618/CVE-2026-109619)",
+            "link": "https://www.offsec.com/blog/php2shell-critical-vulnerabilities-in-php-core/"
+        },
+        {
+            "title": "PHP2Shell Update: One in ten organizations impacted as Europe bears the brunt",
+            "link": "https://blog.checkpoint.com/ai-security/php2shell-one-in-ten-organizations-impacted-as-europe-bears-the-brunt/"
         }
     ],
     "CVE-2026-91403": [
