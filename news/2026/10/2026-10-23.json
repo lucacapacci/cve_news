@@ -27,6 +27,18 @@
         {
             "title": "Critical security issue affecting PHP",
             "link": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php"
+        },
+        {
+            "title": "php2shell: Assessing Elastic detection coverage relevant to CVE-2026-109618 and CVE-2026-109619",
+            "link": "https://www.elastic.co/security-labs/threat-command/php2shell-php-rce-detection"
+        },
+        {
+            "title": "PSA: PHP Security Updates Available for Two Critical Vulnerabilities, Update Now",
+            "link": "https://www.wordfence.com/blog/2026/10/psa-php-security-updates-available-for-two-critical-vulnerabilities-update-now/"
+        },
+        {
+            "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
+            "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
         }
     ],
     "CVE-2026-109618": [
@@ -57,6 +69,18 @@
         {
             "title": "Critical security issue affecting PHP",
             "link": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php"
+        },
+        {
+            "title": "php2shell: Assessing Elastic detection coverage relevant to CVE-2026-109618 and CVE-2026-109619",
+            "link": "https://www.elastic.co/security-labs/threat-command/php2shell-php-rce-detection"
+        },
+        {
+            "title": "PSA: PHP Security Updates Available for Two Critical Vulnerabilities, Update Now",
+            "link": "https://www.wordfence.com/blog/2026/10/psa-php-security-updates-available-for-two-critical-vulnerabilities-update-now/"
+        },
+        {
+            "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
+            "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
         }
     ],
     "CVE-2026-91403": [
@@ -121,6 +145,10 @@
         {
             "title": "Critical Okta Access Gateway Flaw Lets Attackers With Admin Access Execute System Commands",
             "link": "https://cybersecuritynews.com/okta-access-gateway-flaw/"
+        },
+        {
+            "title": "Critical Okta Access Gateway Vulnerability Allows Remote Command Execution",
+            "link": "https://cyberpress.org/critical-okta-access-gateway-vulnerability/"
         }
     ],
     "CVE-2026-79855": [
@@ -131,6 +159,10 @@
         {
             "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
             "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
+        },
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/"
         }
     ],
     "CVE-2026-93952": [
@@ -163,30 +195,50 @@
         {
             "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
             "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
+        },
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/"
         }
     ],
     "CVE-2026-79851": [
         {
             "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
             "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
+        },
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/"
         }
     ],
     "CVE-2026-79845": [
         {
             "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
             "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
+        },
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/"
         }
     ],
     "CVE-2026-79850": [
         {
             "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
             "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
+        },
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/"
         }
     ],
     "CVE-2026-79860": [
         {
             "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
             "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
+        },
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/"
         }
     ],
     "CVE-2023-24932": [
@@ -253,6 +305,499 @@
         {
             "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-74753": [
+        {
+            "title": "Cut Off From the Live Internet, OpenAI\u2019s Frontier Models Now Train in a Cached \u201cOffline World\u201d",
+            "link": "https://www.webpronews.com/openai-frontier-training-no-internet-offline-world/"
+        }
+    ],
+    "CVE-2026-24834": [
+        {
+            "title": "Cut Off From the Live Internet, OpenAI\u2019s Frontier Models Now Train in a Cached \u201cOffline World\u201d",
+            "link": "https://www.webpronews.com/openai-frontier-training-no-internet-offline-world/"
+        }
+    ],
+    "CVE-2026-80841": [
+        {
+            "title": "Cut Off From the Live Internet, OpenAI\u2019s Frontier Models Now Train in a Cached \u201cOffline World\u201d",
+            "link": "https://www.webpronews.com/openai-frontier-training-no-internet-offline-world/"
+        }
+    ],
+    "CVE-2026-80521": [
+        {
+            "title": "Cut Off From the Live Internet, OpenAI\u2019s Frontier Models Now Train in a Cached \u201cOffline World\u201d",
+            "link": "https://www.webpronews.com/openai-frontier-training-no-internet-offline-world/"
+        }
+    ],
+    "CVE-2026-56132": [
+        {
+            "title": "Why Claude\u2019s No-Crash Proofs for 239 Open-Source Fuzz Targets Come With Fine Print",
+            "link": "https://www.webpronews.com/anthropic-theorem-claude-formal-verification-oss-fuzz/"
+        }
+    ],
+    "CVE-2026-79875": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79885": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79871": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95711": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79848": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/"
+        }
+    ],
+    "CVE-2026-79888": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79890": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79956": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95714": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79887": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79859": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95708": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79876": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79879": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79892": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95705": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79881": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79862": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79868": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79869": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79894": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79893": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79856": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95704": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79878": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79955": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79877": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79873": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79861": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79865": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79891": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79858": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79852": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79883": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79886": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79884": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79895": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95707": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95720": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95709": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79846": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/"
+        }
+    ],
+    "CVE-2026-95717": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79844": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/"
+        }
+    ],
+    "CVE-2026-79864": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79866": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79853": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95712": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79872": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79857": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/"
+        }
+    ],
+    "CVE-2026-79874": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95710": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95719": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95715": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79880": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95713": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95721": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95706": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79854": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79889": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79870": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79882": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95716": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95718": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79863": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79867": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79849": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Vulnerability Allows Unauthenticated Network Attacks",
+            "link": "https://cyberpress.org/critical-hpe-aruba-aos-8-vulnerability/"
+        }
+    ],
+    "CVE-2026-110447": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-110447",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-110447"
         }
     ]
 }
