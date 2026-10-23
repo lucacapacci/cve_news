@@ -182,6 +182,10 @@
         {
             "title": "GitLab Patched Its Own Copy of Ruby to Close a CVSS 10 Hole Spanning 12 Years of Releases",
             "link": "https://www.webpronews.com/gitlab-cve-2026-110264-ruby-onigmo-regex-rce/"
+        },
+        {
+            "title": "GitLab Patches Second 10.0 RCE Flaw in October, Forcing Another Security Update",
+            "link": "https://www.esecurityplanet.com/news/news-gitlab-critical-rce-patch-october/"
         }
     ],
     "CVE-2026-13319": [

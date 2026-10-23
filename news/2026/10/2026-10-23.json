@@ -19,6 +19,14 @@
         {
             "title": "PoC Exploit Released for Two Critical PHP RCE Vulnerabilities as Hackers Launch Attacks",
             "link": "https://gbhackers.com/php-rce-vulnerabilities/"
+        },
+        {
+            "title": "Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware",
+            "link": "https://cybersecuritynews.com/critical-php2shell-exploit-code/"
+        },
+        {
+            "title": "Critical security issue affecting PHP",
+            "link": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php"
         }
     ],
     "CVE-2026-109618": [
@@ -41,6 +49,14 @@
         {
             "title": "PoC Exploit Released for Two Critical PHP RCE Vulnerabilities as Hackers Launch Attacks",
             "link": "https://gbhackers.com/php-rce-vulnerabilities/"
+        },
+        {
+            "title": "Critical PHP2Shell Exploit Code Goes Public as Hackers Attempt to Deploy Botnet Malware",
+            "link": "https://cybersecuritynews.com/critical-php2shell-exploit-code/"
+        },
+        {
+            "title": "Critical security issue affecting PHP",
+            "link": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php"
         }
     ],
     "CVE-2026-91403": [
@@ -87,18 +103,34 @@
         {
             "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
             "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
+        },
+        {
+            "title": "New Node2Shell Node.js RCE Exploit Let Attackers Execute Malicious Code Through Brotli-Compressed Data",
+            "link": "https://cybersecuritynews.com/new-node2shell-node-js-rce-exploit/"
+        },
+        {
+            "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
         }
     ],
     "CVE-2026-115547": [
         {
             "title": "Critical Okta Access Gateway Vulnerability Enables Remote Command Execution",
             "link": "https://gbhackers.com/critical-okta-access-gateway-vulnerability/"
+        },
+        {
+            "title": "Critical Okta Access Gateway Flaw Lets Attackers With Admin Access Execute System Commands",
+            "link": "https://cybersecuritynews.com/okta-access-gateway-flaw/"
         }
     ],
     "CVE-2026-79855": [
         {
             "title": "Critical HPE Aruba AOS-8 Flaw Allows Hackers to Bypass SSH Authentication and Take Over Systems",
             "link": "https://gbhackers.com/critical-hpe-aruba-aos-8-flaw/"
+        },
+        {
+            "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
+            "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
         }
     ],
     "CVE-2026-93952": [
@@ -111,12 +143,116 @@
         {
             "title": "VeloCloud Orchestrators Patched in September Need Another Update After Arista\u2019s Latest Zero-Day",
             "link": "https://www.webpronews.com/arista-velocloud-orchestrator-zero-day-cve-2026-114625/"
+        },
+        {
+            "title": "Hackers Actively Exploiting Critical VeloCloud Orchestrator Flaw to Gain Superuser Access",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-velocloud-orchestrator-flaw/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-114625",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-114625"
         }
     ],
     "CVE-2026-16812": [
         {
             "title": "VeloCloud Orchestrators Patched in September Need Another Update After Arista\u2019s Latest Zero-Day",
             "link": "https://www.webpronews.com/arista-velocloud-orchestrator-zero-day-cve-2026-114625/"
+        }
+    ],
+    "CVE-2026-79847": [
+        {
+            "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
+            "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
+        }
+    ],
+    "CVE-2026-79851": [
+        {
+            "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
+            "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
+        }
+    ],
+    "CVE-2026-79845": [
+        {
+            "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
+            "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
+        }
+    ],
+    "CVE-2026-79850": [
+        {
+            "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
+            "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
+        }
+    ],
+    "CVE-2026-79860": [
+        {
+            "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
+            "link": "https://cybersecuritynews.com/hpe-warns-aruba-networking-flaws/"
+        }
+    ],
+    "CVE-2023-24932": [
+        {
+            "title": "Hackers Use New BlackX Bootkit to Bypass Windows Secure Boot on Fully Patched Systems",
+            "link": "https://cybersecuritynews.com/hackers-use-new-blackx-bootkit/"
+        }
+    ],
+    "CVE-2022-21894": [
+        {
+            "title": "Hackers Use New BlackX Bootkit to Bypass Windows Secure Boot on Fully Patched Systems",
+            "link": "https://cybersecuritynews.com/hackers-use-new-blackx-bootkit/"
+        }
+    ],
+    "CVE-2026-106071": [
+        {
+            "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-106069": [
+        {
+            "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-105482": [
+        {
+            "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-105483": [
+        {
+            "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-106074": [
+        {
+            "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-106070": [
+        {
+            "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-105481": [
+        {
+            "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-106073": [
+        {
+            "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-106072": [
+        {
+            "title": "Node.js Patches Brotli Remote Code Execution Flaw: Find Vulnerable Runtimes Before Attackers Do",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
         }
     ]
 }
