@@ -7,6 +7,10 @@
         {
             "title": "Special Report: PHP2Shell puts 70% of web at risk",
             "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        },
+        {
+            "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-143-aws/"
         }
     ],
     "CVE-2026-109618": [
@@ -17,6 +21,38 @@
         {
             "title": "Special Report: PHP2Shell puts 70% of web at risk",
             "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        },
+        {
+            "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-143-aws/"
+        }
+    ],
+    "CVE-2026-91403": [
+        {
+            "title": "Critical Oracle Java Flaw With CVSS 9.1 Allows Unauthenticated Remote Attacks",
+            "link": "https://gbhackers.com/critical-oracle-java-flaw-with-cvss-9-1-allows-unauthenticated-remote-attacks/"
+        },
+        {
+            "title": "Oracle Issues Emergency Java Update for Critical 9.1 HTTPS Trust Vulnerability",
+            "link": "https://cybersecuritynews.com/emergency-java-update/"
+        }
+    ],
+    "CVE-2026-106173": [
+        {
+            "title": "Critical Fortinet FortiSIEM Flaw (CVE-2026-106173) Public Exploit Released",
+            "link": "https://hackersonlineclub.com/fortinet-fortisiem-vulnerability-cve-2026-106173/"
+        }
+    ],
+    "CVE-2026-115417": [
+        {
+            "title": "CVE-2026-115417 \u2013 Memory allocation with excessive size value in the MQTT 3.1.1 compatibility adapter in aws-c-mqtt",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-147-aws/"
+        }
+    ],
+    "CVE-2026-115416": [
+        {
+            "title": "CVE-2026-115416 \u2013 Incorrect authorization checks in Amazon Athena engine version 3 query processing",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-144-aws/"
         }
     ]
 }
