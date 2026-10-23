@@ -43,6 +43,18 @@
         {
             "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year",
             "link": "https://cybersecuritynews.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/"
+        },
+        {
+            "title": "The adversary economy: How threat actors are reacting to PHP2Shell",
+            "link": "https://www.tenable.com/blog/php2shell-vulnerability-threat-actor-response"
+        },
+        {
+            "title": "Attacks on PHP2Shell Continue, But No Known Compromises as a Result Yet",
+            "link": "https://www.wordfence.com/blog/2026/10/attacks-on-php2shell-continue-but-no-known-compromises-as-a-result-yet/"
+        },
+        {
+            "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+            "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
         }
     ],
     "CVE-2026-109618": [
@@ -89,6 +101,18 @@
         {
             "title": "Gcore Makes Enterprise Security Bundle Free for Public Agencies Until End of the Year",
             "link": "https://cybersecuritynews.com/gcore-makes-enterprise-security-bundle-free-for-public-agencies-until-end-of-the-year/"
+        },
+        {
+            "title": "The adversary economy: How threat actors are reacting to PHP2Shell",
+            "link": "https://www.tenable.com/blog/php2shell-vulnerability-threat-actor-response"
+        },
+        {
+            "title": "Attacks on PHP2Shell Continue, But No Known Compromises as a Result Yet",
+            "link": "https://www.wordfence.com/blog/2026/10/attacks-on-php2shell-continue-but-no-known-compromises-as-a-result-yet/"
+        },
+        {
+            "title": "Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot",
+            "link": "https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/"
         }
     ],
     "CVE-2026-112212": [

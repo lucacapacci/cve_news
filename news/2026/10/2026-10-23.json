@@ -1,0 +1,22 @@
+{
+    "CVE-2026-109619": [
+        {
+            "title": "PHP2Shell exposes the weakness in coordinated vulnerability disclosure",
+            "link": "https://www.infoworld.com/article/4239342/php2shell-exposes-the-weakness-in-coordinated-vulnerability-disclosure.html"
+        },
+        {
+            "title": "Special Report: PHP2Shell puts 70% of web at risk",
+            "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "PHP2Shell exposes the weakness in coordinated vulnerability disclosure",
+            "link": "https://www.infoworld.com/article/4239342/php2shell-exposes-the-weakness-in-coordinated-vulnerability-disclosure.html"
+        },
+        {
+            "title": "Special Report: PHP2Shell puts 70% of web at risk",
+            "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        }
+    ]
+}
