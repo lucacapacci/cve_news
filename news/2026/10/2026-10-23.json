@@ -11,6 +11,14 @@
         {
             "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-143-aws/"
+        },
+        {
+            "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+            "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html"
+        },
+        {
+            "title": "PoC Exploit Released for Two Critical PHP RCE Vulnerabilities as Hackers Launch Attacks",
+            "link": "https://gbhackers.com/php-rce-vulnerabilities/"
         }
     ],
     "CVE-2026-109618": [
@@ -25,6 +33,14 @@
         {
             "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-143-aws/"
+        },
+        {
+            "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+            "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html"
+        },
+        {
+            "title": "PoC Exploit Released for Two Critical PHP RCE Vulnerabilities as Hackers Launch Attacks",
+            "link": "https://gbhackers.com/php-rce-vulnerabilities/"
         }
     ],
     "CVE-2026-91403": [
@@ -53,6 +69,54 @@
         {
             "title": "CVE-2026-115416 \u2013 Incorrect authorization checks in Amazon Athena engine version 3 query processing",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-144-aws/"
+        }
+    ],
+    "CVE-2026-115560": [
+        {
+            "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+            "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html"
+        }
+    ],
+    "CVE-2026-112900": [
+        {
+            "title": "Critical Flaw in Python\u2019s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+            "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+            "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
+        }
+    ],
+    "CVE-2026-115547": [
+        {
+            "title": "Critical Okta Access Gateway Vulnerability Enables Remote Command Execution",
+            "link": "https://gbhackers.com/critical-okta-access-gateway-vulnerability/"
+        }
+    ],
+    "CVE-2026-79855": [
+        {
+            "title": "Critical HPE Aruba AOS-8 Flaw Allows Hackers to Bypass SSH Authentication and Take Over Systems",
+            "link": "https://gbhackers.com/critical-hpe-aruba-aos-8-flaw/"
+        }
+    ],
+    "CVE-2026-93952": [
+        {
+            "title": "VeloCloud Orchestrators Patched in September Need Another Update After Arista\u2019s Latest Zero-Day",
+            "link": "https://www.webpronews.com/arista-velocloud-orchestrator-zero-day-cve-2026-114625/"
+        }
+    ],
+    "CVE-2026-114625": [
+        {
+            "title": "VeloCloud Orchestrators Patched in September Need Another Update After Arista\u2019s Latest Zero-Day",
+            "link": "https://www.webpronews.com/arista-velocloud-orchestrator-zero-day-cve-2026-114625/"
+        }
+    ],
+    "CVE-2026-16812": [
+        {
+            "title": "VeloCloud Orchestrators Patched in September Need Another Update After Arista\u2019s Latest Zero-Day",
+            "link": "https://www.webpronews.com/arista-velocloud-orchestrator-zero-day-cve-2026-114625/"
         }
     ]
 }
