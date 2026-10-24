@@ -33,6 +33,10 @@
         {
             "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
             "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
+        },
+        {
+            "title": "U.S. CISA adds Collabora Online\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/201652/security/u-s-cisa-adds-collabora-online-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
         }
     ],
     "CVE-2026-109618": [
@@ -43,6 +47,26 @@
         {
             "title": "Attacks on PHP2Shell Continue, But No Known Compromises as a Result Yet",
             "link": "https://www.wordfence.com/blog/2026/10/attacks-on-php2shell-continue-but-no-known-compromises-as-a-result-yet/"
+        },
+        {
+            "title": "PHP2Shell exposes the weakness in coordinated vulnerability disclosure",
+            "link": "https://www.infoworld.com/article/4239342/php2shell-exposes-the-weakness-in-coordinated-vulnerability-disclosure.html"
+        },
+        {
+            "title": "Why It\u2019s Urgent to Update PHP on Your WordPress Site: Two Critical PHP Vulnerabilities and What Our Testing Found",
+            "link": "https://www.wordfence.com/blog/2026/10/critical-php-update-wordpress-vulnerabilities-testing/"
+        },
+        {
+            "title": "Special Report: PHP2Shell puts 70% of web at risk",
+            "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        },
+        {
+            "title": "PHP2Shell: Early Attack Activity Through Imperva\u2019s Lens",
+            "link": "https://www.imperva.com/blog/php2shell-early-attack-activity-through-impervas-lens/"
+        },
+        {
+            "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
+            "link": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/"
         }
     ],
     "CVE-2026-109619": [
@@ -53,6 +77,26 @@
         {
             "title": "Attacks on PHP2Shell Continue, But No Known Compromises as a Result Yet",
             "link": "https://www.wordfence.com/blog/2026/10/attacks-on-php2shell-continue-but-no-known-compromises-as-a-result-yet/"
+        },
+        {
+            "title": "PHP2Shell exposes the weakness in coordinated vulnerability disclosure",
+            "link": "https://www.infoworld.com/article/4239342/php2shell-exposes-the-weakness-in-coordinated-vulnerability-disclosure.html"
+        },
+        {
+            "title": "Why It\u2019s Urgent to Update PHP on Your WordPress Site: Two Critical PHP Vulnerabilities and What Our Testing Found",
+            "link": "https://www.wordfence.com/blog/2026/10/critical-php-update-wordpress-vulnerabilities-testing/"
+        },
+        {
+            "title": "Special Report: PHP2Shell puts 70% of web at risk",
+            "link": "https://cybersecuritytoday.libsyn.com/special-report-php2shell-puts-70-of-web-at-risk"
+        },
+        {
+            "title": "PHP2Shell: Early Attack Activity Through Imperva\u2019s Lens",
+            "link": "https://www.imperva.com/blog/php2shell-early-attack-activity-through-impervas-lens/"
+        },
+        {
+            "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
+            "link": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/"
         }
     ],
     "CVE-2026-24834": [
@@ -91,6 +135,24 @@
         {
             "title": "Global Cyberattack Exploits Fortinet and Palo Alto Devices to Steal More Than 70,000 Credentials",
             "link": "https://www.cysecurity.news/2026/10/global-cyberattack-exploits-fortinet.html"
+        }
+    ],
+    "CVE-2026-115419": [
+        {
+            "title": "CVE-2026-115419 \u2013 Unintended disclosure of data element to wrong session in Strands Agents SDK A2A Server",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-146-aws/"
+        }
+    ],
+    "CVE-2026-115414": [
+        {
+            "title": "CVE-2026-115414 \u2013 OS Command Injection Issue in SAM CLI Terraform Hook",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-145-aws/"
+        }
+    ],
+    "CVE-2026-115560": [
+        {
+            "title": "Using AWS WAF to apply mitigations for PHP2Shell RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619)",
+            "link": "https://aws.amazon.com/blogs/security/using-aws-waf-to-apply-mitigations-for-php2shell-rce-vulnerabilities-cve-2026-109618-and-cve-2026-109619/"
         }
     ]
 }
