@@ -28,5 +28,33 @@
             "title": "GitLab critical patches include one for a bug that allows code execution by unauthenticated users",
             "link": "https://www.infoworld.com/article/4239276/gitlab-critical-patches-include-one-for-a-bug-that-allows-code-execution-by-unauthenticated-users.html"
         }
+    ],
+    "CVE-2026-110447": [
+        {
+            "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+            "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network Products",
+            "link": "https://cybersecuritynews.com/palo-alto-confirms-php-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network Products",
+            "link": "https://cybersecuritynews.com/palo-alto-confirms-php-rce-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-24834": [
+        {
+            "title": "OpenAI AI Agents Bypass Security Isolation, Exploiting 0-Days in Red-Teaming Tests",
+            "link": "https://cybersecuritynews.com/openai-ai-agents-bypass-security/"
+        },
+        {
+            "title": "OpenAI AI Agents Escape Sandboxes and Bypass Security Controls During Tests",
+            "link": "https://cyberpress.org/openai-ai-agents-escape-sandboxes/"
+        }
     ]
 }
