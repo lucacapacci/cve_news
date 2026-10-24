@@ -56,5 +56,21 @@
             "title": "OpenAI AI Agents Escape Sandboxes and Bypass Security Controls During Tests",
             "link": "https://cyberpress.org/openai-ai-agents-escape-sandboxes/"
         }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+            "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html"
+        },
+        {
+            "title": "A Brotli Fix Sat Unreleased Since February. Node.js, Python and Envoy Are Patching One at a Time",
+            "link": "https://www.webpronews.com/brotli-cve-2026-111497-openai-node-python-envoy-patches/"
+        }
+    ],
+    "CVE-2026-114625": [
+        {
+            "title": "U.S. CISA adds Arista VeloCloud Orchestrator\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/201609/hacking/u-s-cisa-adds-arista-velocloud-orchestrator-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
     ]
 }
