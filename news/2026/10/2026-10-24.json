@@ -1,0 +1,32 @@
+{
+    "CVE-2026-111943": [
+        {
+            "title": "How to Identify Compromised eMudhra Certificates With Qualys (CVE-2026-111943 and CVE-2026-111944)",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-111944": [
+        {
+            "title": "How to Identify Compromised eMudhra Certificates With Qualys (CVE-2026-111943 and CVE-2026-111944)",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-15723": [
+        {
+            "title": "GitLab critical patches include one for a bug that allows code execution by unauthenticated users",
+            "link": "https://www.infoworld.com/article/4239276/gitlab-critical-patches-include-one-for-a-bug-that-allows-code-execution-by-unauthenticated-users.html"
+        }
+    ],
+    "CVE-2026-85706": [
+        {
+            "title": "GitLab critical patches include one for a bug that allows code execution by unauthenticated users",
+            "link": "https://www.infoworld.com/article/4239276/gitlab-critical-patches-include-one-for-a-bug-that-allows-code-execution-by-unauthenticated-users.html"
+        }
+    ],
+    "CVE-2026-110264": [
+        {
+            "title": "GitLab critical patches include one for a bug that allows code execution by unauthenticated users",
+            "link": "https://www.infoworld.com/article/4239276/gitlab-critical-patches-include-one-for-a-bug-that-allows-code-execution-by-unauthenticated-users.html"
+        }
+    ]
+}
