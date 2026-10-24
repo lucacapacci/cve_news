@@ -39,12 +39,20 @@
         {
             "title": "Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network Products",
             "link": "https://cybersecuritynews.com/palo-alto-confirms-php-rce-vulnerabilities/"
+        },
+        {
+            "title": "Attacks on PHP2Shell Continue, But No Known Compromises as a Result Yet",
+            "link": "https://www.wordfence.com/blog/2026/10/attacks-on-php2shell-continue-but-no-known-compromises-as-a-result-yet/"
         }
     ],
     "CVE-2026-109619": [
         {
             "title": "Palo Alto Confirms PHP RCE Vulnerabilities Impact PAN-OS and Multiple Network Products",
             "link": "https://cybersecuritynews.com/palo-alto-confirms-php-rce-vulnerabilities/"
+        },
+        {
+            "title": "Attacks on PHP2Shell Continue, But No Known Compromises as a Result Yet",
+            "link": "https://www.wordfence.com/blog/2026/10/attacks-on-php2shell-continue-but-no-known-compromises-as-a-result-yet/"
         }
     ],
     "CVE-2026-24834": [
@@ -71,6 +79,18 @@
         {
             "title": "U.S. CISA adds Arista VeloCloud Orchestrator\u00a0flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/201609/hacking/u-s-cisa-adds-arista-velocloud-orchestrator-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ],
+    "CVE-2026-0257": [
+        {
+            "title": "Global Cyberattack Exploits Fortinet and Palo Alto Devices to Steal More Than 70,000 Credentials",
+            "link": "https://www.cysecurity.news/2026/10/global-cyberattack-exploits-fortinet.html"
+        }
+    ],
+    "CVE-2025-64446": [
+        {
+            "title": "Global Cyberattack Exploits Fortinet and Palo Alto Devices to Steal More Than 70,000 Credentials",
+            "link": "https://www.cysecurity.news/2026/10/global-cyberattack-exploits-fortinet.html"
         }
     ]
 }
