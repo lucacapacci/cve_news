@@ -51,6 +51,10 @@
         {
             "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
             "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
+        },
+        {
+            "title": "AI-assisted attackers breach European government via PHP2Shell",
+            "link": "https://cybersecuritytoday.libsyn.com/ai-assisted-attackers-breach-european-government-via-php2shell"
         }
     ],
     "CVE-2026-109618": [
@@ -61,6 +65,14 @@
         {
             "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
             "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+        },
+        {
+            "title": "Unit 42 Says an Agentic Attacker Reached MFA Secrets Two Hours Into a PHP2Shell Break-In",
+            "link": "https://www.webpronews.com/unit-42-php2shell-agentic-ai-intrusion-mfa-secrets/"
+        },
+        {
+            "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
+            "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
         }
     ],
     "CVE-2026-109619": [
@@ -71,12 +83,30 @@
         {
             "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
             "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html"
+        },
+        {
+            "title": "Unit 42 Says an Agentic Attacker Reached MFA Secrets Two Hours Into a PHP2Shell Break-In",
+            "link": "https://www.webpronews.com/unit-42-php2shell-agentic-ai-intrusion-mfa-secrets/"
+        },
+        {
+            "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
+            "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/"
         }
     ],
     "CVE-2022-21894": [
         {
             "title": "APT41 Linked to BlackX Bootkit Attacks on Central Asian Diplomatic Agencies",
             "link": "https://www.cysecurity.news/2026/10/apt41-linked-to-blackx-bootkit-attacks.html"
+        }
+    ],
+    "CVE-2026-115560": [
+        {
+            "title": "Unit 42 Says an Agentic Attacker Reached MFA Secrets Two Hours Into a PHP2Shell Break-In",
+            "link": "https://www.webpronews.com/unit-42-php2shell-agentic-ai-intrusion-mfa-secrets/"
+        },
+        {
+            "title": "AI-assisted attackers breach European government via PHP2Shell",
+            "link": "https://cybersecuritytoday.libsyn.com/ai-assisted-attackers-breach-european-government-via-php2shell"
         }
     ]
 }
