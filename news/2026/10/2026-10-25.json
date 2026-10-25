@@ -46,5 +46,23 @@
             "title": "CVE-2026-111943: eMudhra intermediate CA key recovery in AWS trust bundles",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-150-aws/"
         }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
+            "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+            "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
+            "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html"
+        }
     ]
 }
