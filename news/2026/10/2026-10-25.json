@@ -1,0 +1,50 @@
+{
+    "CVE-2026-106173": [
+        {
+            "title": "Critical Fortinet FortiSIEM Flaw (CVE-2026-106173) Public Exploit Released",
+            "link": "https://hackersonlineclub.com/fortinet-fortisiem-vulnerability-cve-2026-106173/"
+        }
+    ],
+    "CVE-2026-85228": [
+        {
+            "title": "CVE-2026-85228 \u2013 Integer overflow in tensor buffer validation in Deep Java Library",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-106-aws/"
+        }
+    ],
+    "CVE-2026-89090": [
+        {
+            "title": "CVE-2026-89090 \u2013 Denial of service in the event stream header decoder in AWS SDK for Go v2",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-110-aws/"
+        }
+    ],
+    "CVE-2026-89066": [
+        {
+            "title": "CVE-2026-89065 and CVE-2026-89066: Issue with projen \u2013 Path traversal and OS command injection",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-108-aws/"
+        }
+    ],
+    "CVE-2026-89065": [
+        {
+            "title": "CVE-2026-89065 and CVE-2026-89066: Issue with projen \u2013 Path traversal and OS command injection",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-108-aws/"
+        }
+    ],
+    "CVE-2026-89049": [
+        {
+            "title": "CVE-2026-89049 \u2013 Server-side request forgery in the Session Manager port forwarding functionality in AWS Systems Manager Agent",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-107-aws/"
+        }
+    ],
+    "CVE-2026-18061": [
+        {
+            "title": "CVE-2026-18061 \u2013 XML External Entity (XXE) in AWS Advanced JDBC Wrapper RemoteQueryCachePlugin",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-109-aws/"
+        }
+    ],
+    "CVE-2026-111943": [
+        {
+            "title": "CVE-2026-111943: eMudhra intermediate CA key recovery in AWS trust bundles",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-150-aws/"
+        }
+    ]
+}
