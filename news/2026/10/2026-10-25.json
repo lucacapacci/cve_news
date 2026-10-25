@@ -64,5 +64,11 @@
             "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
             "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html"
         }
+    ],
+    "CVE-2022-21894": [
+        {
+            "title": "APT41 Linked to BlackX Bootkit Attacks on Central Asian Diplomatic Agencies",
+            "link": "https://www.cysecurity.news/2026/10/apt41-linked-to-blackx-bootkit-attacks.html"
+        }
     ]
 }
