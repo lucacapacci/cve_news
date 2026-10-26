@@ -19,6 +19,14 @@
         {
             "title": "Cloudflare Releases Emergency WAF Rules for Critical Node.js Brotli Vulnerability",
             "link": "https://cyberpress.org/cloudflare-waf-rules-node-js-brotli/"
+        },
+        {
+            "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability",
+            "link": "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/"
+        },
+        {
+            "title": "Cloudflare Release Emergency WAF Ruleset Update Following Brotli Vulnerability",
+            "link": "https://cybersecuritynews.com/cloudflare-release-brotli-vulnerability-waf-ruleset/"
         }
     ],
     "CVE-2026-80097": [
@@ -67,24 +75,42 @@
         {
             "title": "Microsoft Releases Emergency .NET Security Updates to Fix Brotli Memory Corruption Flaw",
             "link": "https://cyberpress.org/microsoft-emergency-net-security-updates/"
+        },
+        {
+            "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability",
+            "link": "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/"
         }
     ],
     "CVE-2026-114148": [
         {
             "title": "Microsoft Releases Emergency .NET Security Updates to Fix Brotli Memory Corruption Flaw",
             "link": "https://cyberpress.org/microsoft-emergency-net-security-updates/"
+        },
+        {
+            "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability",
+            "link": "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/"
         }
     ],
     "CVE-2026-70197": [
         {
             "title": "Microsoft Releases Emergency .NET Security Updates to Fix Brotli Memory Corruption Flaw",
             "link": "https://cyberpress.org/microsoft-emergency-net-security-updates/"
+        },
+        {
+            "title": "Microsoft Releases Out-of-Band Security Updates for Brotli and .NET tarballs Vulnerability",
+            "link": "https://cybersecuritynews.com/microsoft-security-updates-for-brotli-and-net-tarballs-vulnerability/"
         }
     ],
     "CVE-2022-21894": [
         {
             "title": "Hackers Bypass Windows Secure Boot on Fully Updated PCs Using BlackX Bootkit",
             "link": "https://cyberpress.org/blackx-bypasses-secure-boot-2/"
+        }
+    ],
+    "CVE-2026-115560": [
+        {
+            "title": "PHP RCE Flaw CVE-2026-115560 Mitigation Guidance",
+            "link": "https://www.cybermaterial.com/p/php-rce-flaw-cve-2026-115560-mitigation"
         }
     ]
 }
