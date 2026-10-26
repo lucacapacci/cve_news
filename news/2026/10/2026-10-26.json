@@ -1,0 +1,90 @@
+{
+    "CVE-2026-111497": [
+        {
+            "title": "HTTP2Shell Vulnerability Extends Beyond HTTP, Affecting .NET, FFmpeg, ClickHouse, and Apache Arrow",
+            "link": "https://cybersecuritynews.com/http2shell-vulnerability/"
+        },
+        {
+            "title": "Microsoft Issues Emergency .NET Security Updates to Fix Four Vulnerabilities",
+            "link": "https://gbhackers.com/microsoft-issues-emergency-net-security-updates/"
+        },
+        {
+            "title": "Cloudflare Adds New WAF Rules to Detect Attacks Targeting CVE-2026-111497",
+            "link": "https://gbhackers.com/cloudflare-adds-new-waf-rules-to-detect-attacks/"
+        },
+        {
+            "title": "Microsoft Releases Emergency .NET Security Updates to Fix Brotli Memory Corruption Flaw",
+            "link": "https://cyberpress.org/microsoft-emergency-net-security-updates/"
+        },
+        {
+            "title": "Cloudflare Releases Emergency WAF Rules for Critical Node.js Brotli Vulnerability",
+            "link": "https://cyberpress.org/cloudflare-waf-rules-node-js-brotli/"
+        }
+    ],
+    "CVE-2026-80097": [
+        {
+            "title": "Microsoft Authenticator Flaw Lets Malicious Android Apps Steal Account Tokens With Zero Permissions",
+            "link": "https://cybersecuritynews.com/microsoft-authenticator-flaw/"
+        },
+        {
+            "title": "Microsoft Authenticator Flaw Allows Android Apps With Zero Permissions to Steal Authentication Tokens",
+            "link": "https://gbhackers.com/microsoft-authenticator-flaw/"
+        },
+        {
+            "title": "Microsoft Authenticator Flaw Lets Malicious Android Apps Steal Login Tokens Without Permissions",
+            "link": "https://cyberpress.org/microsoft-authenticator-flaw/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Hacker Exploits Critical PHP2Shell Flaws to Win $2,000 Bitcoin Challenge, Releases PoC",
+            "link": "https://cybersecuritynews.com/php2shell-flaws-exploited/"
+        },
+        {
+            "title": "Hackers Use Public PHP2Shell Exploits to Launch Automated Attacks on Websites",
+            "link": "https://cyberpress.org/php2shell-exploits-target-websites/"
+        },
+        {
+            "title": "Can\u2019t Patch PHP2Shell Yet? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Hacker Exploits Critical PHP2Shell Flaws to Win $2,000 Bitcoin Challenge, Releases PoC",
+            "link": "https://cybersecuritynews.com/php2shell-flaws-exploited/"
+        },
+        {
+            "title": "Hackers Use Public PHP2Shell Exploits to Launch Automated Attacks on Websites",
+            "link": "https://cyberpress.org/php2shell-exploits-target-websites/"
+        },
+        {
+            "title": "Can\u2019t Patch PHP2Shell Yet? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-102870": [
+        {
+            "title": "Microsoft Releases Emergency .NET Security Updates to Fix Brotli Memory Corruption Flaw",
+            "link": "https://cyberpress.org/microsoft-emergency-net-security-updates/"
+        }
+    ],
+    "CVE-2026-114148": [
+        {
+            "title": "Microsoft Releases Emergency .NET Security Updates to Fix Brotli Memory Corruption Flaw",
+            "link": "https://cyberpress.org/microsoft-emergency-net-security-updates/"
+        }
+    ],
+    "CVE-2026-70197": [
+        {
+            "title": "Microsoft Releases Emergency .NET Security Updates to Fix Brotli Memory Corruption Flaw",
+            "link": "https://cyberpress.org/microsoft-emergency-net-security-updates/"
+        }
+    ],
+    "CVE-2022-21894": [
+        {
+            "title": "Hackers Bypass Windows Secure Boot on Fully Updated PCs Using BlackX Bootkit",
+            "link": "https://cyberpress.org/blackx-bypasses-secure-boot-2/"
+        }
+    ]
+}
