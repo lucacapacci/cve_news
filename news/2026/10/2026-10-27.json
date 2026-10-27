@@ -51,6 +51,10 @@
         {
             "title": "PHP2Shell: What to know about two critical PHP flaws",
             "link": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/"
+        },
+        {
+            "title": "CISA Warns Hackers Are Exploiting PHP2Shell Flaws to Target Web Servers",
+            "link": "https://cyberpress.org/cisa-warns-php2shell-flaws/"
         }
     ],
     "CVE-2026-109618": [
@@ -61,6 +65,10 @@
         {
             "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
             "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
+        },
+        {
+            "title": "CISA Warns Hackers Are Exploiting PHP2Shell Flaws to Target Web Servers",
+            "link": "https://cyberpress.org/cisa-warns-php2shell-flaws/"
         }
     ],
     "CVE-2026-85788": [
@@ -93,6 +101,1186 @@
         {
             "title": "Microsoft Authenticator vulnerability let rogue Android apps steal work account access",
             "link": "https://www.helpnetsecurity.com/2026/10/27/microsoft-authenticator-vulnerability-patchedcve-2026-80097/"
+        },
+        {
+            "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+            "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html"
+        }
+    ],
+    "CVE-2026-110720": [
+        {
+            "title": "Critical HashiCorp Consul Kubernetes Flaw Allows Attackers to Gain Elevated Privileges",
+            "link": "https://cybersecuritynews.com/hashicorp-consul-kubernetes-vulnerability/"
+        },
+        {
+            "title": "HashiCorp Consul Vulnerability Allows Attackers to Bypass Authorization and Gain Elevated Privileges",
+            "link": "https://gbhackers.com/hashicorp-consul-vulnerability/"
+        },
+        {
+            "title": "Critical HashiCorp Consul Kubernetes Flaw Allows Attackers to Gain Elevated Privileges",
+            "link": "https://cyberpress.org/critical-hashicorp-consul-kubernetes-flaw/"
+        }
+    ],
+    "CVE-2026-112414": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112640": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112685": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112456": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86987": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-113950": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112626": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112671": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112566": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112618": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113914": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112455": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86989": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112607": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86974": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112610": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112652": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113906": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112425": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112678": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112470": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113908": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112646": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112666": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112620": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112423": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86978": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112701": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113898": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112632": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112615": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112686": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86986": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112656": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86970": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112707": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112660": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86925": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112684": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112623": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112659": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112486": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113952": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112687": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113907": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112606": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112681": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112690": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-86990": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        },
+        {
+            "title": "Apple Released Patches for Exploited CoreGraphics 0-day Vulnerability for Older iPhones",
+            "link": "https://cybersecuritynews.com/apple-fix-for-coregraphics-0-day-flaw/"
+        }
+    ],
+    "CVE-2026-112446": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112454": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112624": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-65397": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112609": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112515": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112628": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112688": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112449": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112696": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112507": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113909": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86972": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112576": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113903": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113915": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112639": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112514": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112695": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112517": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112680": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112683": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86971": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112547": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112633": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112491": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112518": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112612": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112629": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112693": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112655": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112416": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112476": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112616": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113896": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112658": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86968": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113949": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112474": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86988": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112571": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2022-26704": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112500": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112461": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-65385": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112619": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112689": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112561": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112699": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112679": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112682": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112653": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112642": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112599": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112559": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112565": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112691": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112595": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-84605": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86992": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-65350": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112692": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112625": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113910": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112630": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113913": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112432": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112522": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112676": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112627": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112459": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112665": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112654": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-84494": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112614": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112673": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112705": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112697": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112596": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113904": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112477": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-84493": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113912": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112669": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112488": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112479": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112637": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112415": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112468": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112554": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112706": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112466": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86973": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112611": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112622": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112546": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112567": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113897": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112501": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112516": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86985": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113901": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112651": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/"
+        }
+    ],
+    "CVE-2026-112698": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-84495": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112413": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112485": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112469": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86969": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112621": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86991": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112638": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112464": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112634": [
+        {
+            "title": "Apple iOS 27.2 Released With Fixes for 163 Vulnerabilities, Including Fix for Critical WebKit RCE",
+            "link": "https://cybersecuritynews.com/apple-ios-27-2-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-65339": [
+        {
+            "title": "Apple Released Patches for Exploited CoreGraphics 0-day Vulnerability for Older iPhones",
+            "link": "https://cybersecuritynews.com/apple-fix-for-coregraphics-0-day-flaw/"
+        },
+        {
+            "title": "Apple Patches Actively Exploited iOS Zero-Day Allowing Remote Code Execution",
+            "link": "https://cyberpress.org/apple-patches-actively-exploited-ios-zero-day/"
+        }
+    ],
+    "CVE-2026-86950": [
+        {
+            "title": "Apple Released Patches for Exploited CoreGraphics 0-day Vulnerability for Older iPhones",
+            "link": "https://cybersecuritynews.com/apple-fix-for-coregraphics-0-day-flaw/"
+        },
+        {
+            "title": "Apple Fixes Actively Exploited iOS Zero-Day Vulnerability in CoreGraphics",
+            "link": "https://gbhackers.com/apple-fixes-actively-exploited-ios-zero-day-vulnerability/"
+        },
+        {
+            "title": "Apple Patches Actively Exploited iOS Zero-Day Allowing Remote Code Execution",
+            "link": "https://cyberpress.org/apple-patches-actively-exploited-ios-zero-day/"
+        }
+    ],
+    "CVE-2025-5436": [
+        {
+            "title": "Malware Campaign Infects 953 Online Stores in Prolonged Attack",
+            "link": "https://www.cysecurity.news/2026/10/malware-campaign-infects-953-online.html"
+        }
+    ],
+    "CVE-2026-54236": [
+        {
+            "title": "Malware Campaign Infects 953 Online Stores in Prolonged Attack",
+            "link": "https://www.cysecurity.news/2026/10/malware-campaign-infects-953-online.html"
         }
     ]
 }
