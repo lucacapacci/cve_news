@@ -3,6 +3,18 @@
         {
             "title": "Palo Alto Confirms Brotli Vulnerability Impact on PAN-OS and Releases Workarounds",
             "link": "https://cybersecuritynews.com/brotli-vulnerability-affects-pan-os/"
+        },
+        {
+            "title": "Brotli bug reaches far beyond Node.js (CVE-2026-111497)",
+            "link": "https://www.helpnetsecurity.com/2026/10/27/node2shell-broccoli2shell-vulnerability-cve-2026-111497/"
+        },
+        {
+            "title": "AI-assisted attackers breach European government via PHP2Shell",
+            "link": "https://cybersecuritytoday.libsyn.com/ai-assisted-attackers-breach-european-government-via-php2shell"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-111497",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-111497"
         }
     ],
     "CVE-2026-88900": [
@@ -95,6 +107,10 @@
         {
             "title": "Hackers Plant Malicious Scripts in Magento Stores That Keep Running Even After Domain Blocks",
             "link": "https://cyberpress.org/magento-malware-outlasts-blocks/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-48356",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-48356"
         }
     ],
     "CVE-2026-80097": [
@@ -1269,6 +1285,10 @@
         {
             "title": "Apple Patches Actively Exploited iOS Zero-Day Allowing Remote Code Execution",
             "link": "https://cyberpress.org/apple-patches-actively-exploited-ios-zero-day/"
+        },
+        {
+            "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+            "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html"
         }
     ],
     "CVE-2025-5436": [
@@ -1281,6 +1301,24 @@
         {
             "title": "Malware Campaign Infects 953 Online Stores in Prolonged Attack",
             "link": "https://www.cysecurity.news/2026/10/malware-campaign-infects-953-online.html"
+        }
+    ],
+    "CVE-2026-115881": [
+        {
+            "title": "Critical GoAhead TLS Flaws Could Expose Hundreds of Millions of Devices to Attacks",
+            "link": "https://cybersecuritynews.com/goahead-tls-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-115884": [
+        {
+            "title": "Critical GoAhead TLS Flaws Could Expose Hundreds of Millions of Devices to Attacks",
+            "link": "https://cybersecuritynews.com/goahead-tls-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-115560": [
+        {
+            "title": "AI-assisted attackers breach European government via PHP2Shell",
+            "link": "https://cybersecuritytoday.libsyn.com/ai-assisted-attackers-breach-european-government-via-php2shell"
         }
     ]
 }
