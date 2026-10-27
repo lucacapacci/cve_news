@@ -3047,6 +3047,10 @@
         {
             "title": "Node.js Releases Security Updates to Fix High-Severity TLS, DNS and Brotli Vulnerabilities",
             "link": "https://cybersecuritynews.com/node-js-releases-security-updates/"
+        },
+        {
+            "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+            "link": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote"
         }
     ],
     "CVE-2026-105482": [
@@ -3096,6 +3100,10 @@
             "title": "Two Critical PHP Flaws Could Hand Attackers Your Web Servers. Here\u2019s How to Find, Mitigate, and Patch PHP2Shell Now",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
             "listOnly": true
+        },
+        {
+            "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+            "link": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote"
         }
     ]
 }

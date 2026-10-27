@@ -47,6 +47,10 @@
         {
             "title": "CVE-2026-111497: Critical out-of-bounds write in the Node.js Brotli decoder",
             "link": "https://www.rapid7.com/blog/post/etr-cve-2026-111497-critical-out-of-bounds-write-in-the-node-js-brotli-decoder"
+        },
+        {
+            "title": "Brotli2Shell: Frequently asked questions for Google Brotli decoder vulnerability (CVE-2026-111497)",
+            "link": "https://www.tenable.com/blog/brotli2shell-frequently-asked-questions-for-google-brotli-decoder-cve-2026-111497"
         }
     ],
     "CVE-2026-80097": [
@@ -99,6 +103,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-109619",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-109619"
+        },
+        {
+            "title": "Brotli2Shell: Frequently asked questions for Google Brotli decoder vulnerability (CVE-2026-111497)",
+            "link": "https://www.tenable.com/blog/brotli2shell-frequently-asked-questions-for-google-brotli-decoder-cve-2026-111497"
         }
     ],
     "CVE-2026-109618": [
@@ -137,6 +145,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-109618",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-109618"
+        },
+        {
+            "title": "Brotli2Shell: Frequently asked questions for Google Brotli decoder vulnerability (CVE-2026-111497)",
+            "link": "https://www.tenable.com/blog/brotli2shell-frequently-asked-questions-for-google-brotli-decoder-cve-2026-111497"
         }
     ],
     "CVE-2026-102870": [

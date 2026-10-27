@@ -1,0 +1,68 @@
+{
+    "CVE-2026-111497": [
+        {
+            "title": "Palo Alto Confirms Brotli Vulnerability Impact on PAN-OS and Releases Workarounds",
+            "link": "https://cybersecuritynews.com/brotli-vulnerability-affects-pan-os/"
+        }
+    ],
+    "CVE-2026-88900": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-85250": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-88901": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-90885": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-85251": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-78165": [
+        {
+            "title": "Apache Camel Fixes Multiple Vulnerabilities Including High-Severity XXE One\u2019s",
+            "link": "https://cybersecuritynews.com/apache-camel-fixes-multiple-vulnerabilities/"
+        }
+    ],
+    "CVE-2022-21894": [
+        {
+            "title": "Hackers Revive BlackLotus Techniques to Bypass Windows Secure Boot and Deploy Malware",
+            "link": "https://cybersecuritynews.com/blacklotus-techniques/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "PHP2Shell: What to know about two critical PHP flaws",
+            "link": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "PHP2Shell: What to know about two critical PHP flaws",
+            "link": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/"
+        }
+    ],
+    "CVE-2026-85788": [
+        {
+            "title": "CVE-2026-85788 \u2013 Issue with awslabs mysql-mcp-server",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-103-aws/"
+        }
+    ]
+}
