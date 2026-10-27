@@ -83,6 +83,22 @@
         {
             "title": "PHP Releases New Windows Build Security Updates to Fix Critical HTTP2Shell Vulnerability",
             "link": "https://cybersecuritynews.com/php-http2shell-vulnerability/"
+        },
+        {
+            "title": "Discover and remediate PHP2Shell exposure with Tenable",
+            "link": "https://www.tenable.com/blog/discover-and-remediate-php2shell-exposure-with-tenable"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Hackers Weaponize Public PHP2Shell Exploit Code to Target Universities and Business Websites",
+            "link": "https://cybersecuritynews.com/public-php2shell-exploit-code/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-109619",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-109619"
         }
     ],
     "CVE-2026-109618": [
@@ -105,6 +121,22 @@
         {
             "title": "PHP Releases New Windows Build Security Updates to Fix Critical HTTP2Shell Vulnerability",
             "link": "https://cybersecuritynews.com/php-http2shell-vulnerability/"
+        },
+        {
+            "title": "Discover and remediate PHP2Shell exposure with Tenable",
+            "link": "https://www.tenable.com/blog/discover-and-remediate-php2shell-exposure-with-tenable"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "Hackers Weaponize Public PHP2Shell Exploit Code to Target Universities and Business Websites",
+            "link": "https://cybersecuritynews.com/public-php2shell-exploit-code/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-109618",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-109618"
         }
     ],
     "CVE-2026-102870": [
@@ -191,6 +223,24 @@
         {
             "title": "Hackers Exploit Critical Arista VeloCloud Orchestrator Flaw",
             "link": "https://www.esecurityplanet.com/threats/news-arista-velocloud-cve-2026-114625/"
+        }
+    ],
+    "CVE-2026-87912": [
+        {
+            "title": "CVE-2026-87912 and CVE-2026-87913: Missing S3 bucket ownership verification in the AWS Security Agent plugin for aws-agents-for-devsecops and MCP Server",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-105-aws/"
+        }
+    ],
+    "CVE-2026-87913": [
+        {
+            "title": "CVE-2026-87912 and CVE-2026-87913: Missing S3 bucket ownership verification in the AWS Security Agent plugin for aws-agents-for-devsecops and MCP Server",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-105-aws/"
+        }
+    ],
+    "CVE-2026-85787": [
+        {
+            "title": "CVE-2026-85787 \u2013 An incomplete list of disallowed inputs in the SQL validation component in Amazon awslabs postgres-mcp-server to modify data beyond the read-only scope",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-101-aws/"
         }
     ]
 }
