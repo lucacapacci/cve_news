@@ -57,12 +57,42 @@
         {
             "title": "PHP2Shell: What to know about two critical PHP flaws",
             "link": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/"
+        },
+        {
+            "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+            "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
         }
     ],
     "CVE-2026-85788": [
         {
             "title": "CVE-2026-85788 \u2013 Issue with awslabs mysql-mcp-server",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-103-aws/"
+        }
+    ],
+    "CVE-2025-54236": [
+        {
+            "title": "Hackers Infect 953 Online Stores With Malicious JavaScript That Evades Security Scanners",
+            "link": "https://cybersecuritynews.com/hackers-infect-953-online-stores/"
+        },
+        {
+            "title": "Hackers Plant Malicious Scripts in Magento Stores That Keep Running Even After Domain Blocks",
+            "link": "https://cyberpress.org/magento-malware-outlasts-blocks/"
+        }
+    ],
+    "CVE-2026-48356": [
+        {
+            "title": "Hackers Infect 953 Online Stores With Malicious JavaScript That Evades Security Scanners",
+            "link": "https://cybersecuritynews.com/hackers-infect-953-online-stores/"
+        },
+        {
+            "title": "Hackers Plant Malicious Scripts in Magento Stores That Keep Running Even After Domain Blocks",
+            "link": "https://cyberpress.org/magento-malware-outlasts-blocks/"
+        }
+    ],
+    "CVE-2026-80097": [
+        {
+            "title": "Microsoft Authenticator vulnerability let rogue Android apps steal work account access",
+            "link": "https://www.helpnetsecurity.com/2026/10/27/microsoft-authenticator-vulnerability-patchedcve-2026-80097/"
         }
     ]
 }
