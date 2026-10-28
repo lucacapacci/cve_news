@@ -3,6 +3,10 @@
         {
             "title": "PHP2Shell: Suspected North Korean campaign targets 216 vulnerable PHP hosts",
             "link": "https://securityaffairs.com/201748/hacking/php2shell-suspected-north-korean-campaign-targets-216-vulnerable-php-hosts.html"
+        },
+        {
+            "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+            "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
         }
     ],
     "CVE-2026-109619": [
@@ -15,6 +19,166 @@
         {
             "title": "Critical UEFI Firmware Flaw Could Expose Millions of Servers to Pre-Boot Code Execution",
             "link": "https://cybersecuritynews.com/uefi-firmware-vulnerability/"
+        }
+    ],
+    "CVE-2026-104351": [
+        {
+            "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+            "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html"
+        }
+    ],
+    "CVE-2026-35273": [
+        {
+            "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+            "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+            "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html"
+        },
+        {
+            "title": "Node2Shell Vulnerability Actively Exploited in the Wild, CISA Warns",
+            "link": "https://cybersecuritynews.com/node2shell-vulnerability/"
+        },
+        {
+            "title": "Waiting on a Node.js Upgrade? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-101767": [
+        {
+            "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
+            "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/"
+        },
+        {
+            "title": "Hackers Actively Exploiting New Oracle EBS RCE Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-ebs-rce-exploited/"
+        }
+    ],
+    "CVE-2026-33096": [
+        {
+            "title": "Claude AI Builds One-Click Chrome and 0-Click Linux Exploit Chains, Bypasses Android Lock Screen",
+            "link": "https://cybersecuritynews.com/claude-ai-builds-exploit/"
+        },
+        {
+            "title": "Anthropic\u2019s Claude Chains One-Click and Zero-Click Exploits to Bypass Chrome, Android and Linux Security",
+            "link": "https://cyberpress.org/anthropics-claude-chains-one-click-and-zero-click-exploits/"
+        }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "Claude AI Builds One-Click Chrome and 0-Click Linux Exploit Chains, Bypasses Android Lock Screen",
+            "link": "https://cybersecuritynews.com/claude-ai-builds-exploit/"
+        },
+        {
+            "title": "Anthropic\u2019s Claude Chains One-Click and Zero-Click Exploits to Bypass Chrome, Android and Linux Security",
+            "link": "https://cyberpress.org/anthropics-claude-chains-one-click-and-zero-click-exploits/"
+        }
+    ],
+    "CVE-2025-55182": [
+        {
+            "title": "Node2Shell Vulnerability Actively Exploited in the Wild, CISA Warns",
+            "link": "https://cybersecuritynews.com/node2shell-vulnerability/"
+        }
+    ],
+    "CVE-2026-108141": [
+        {
+            "title": "Veeam Patches Critical Backup & Replication Authorization Bypass Vulnerability",
+            "link": "https://cybersecuritynews.com/veeam-patches-authorization-bypass-vulnerability/"
+        },
+        {
+            "title": "Veeam Patches Critical Backup & Replication Flaw Allowing Unauthenticated Authorization Bypass",
+            "link": "https://cyberpress.org/veeam-patches-critical-backup-replication-flaw/"
+        }
+    ],
+    "CVE-2026-108140": [
+        {
+            "title": "Veeam Patches Critical Backup & Replication Authorization Bypass Vulnerability",
+            "link": "https://cybersecuritynews.com/veeam-patches-authorization-bypass-vulnerability/"
+        },
+        {
+            "title": "Veeam Patches Critical Backup & Replication Flaw Allowing Unauthenticated Authorization Bypass",
+            "link": "https://cyberpress.org/veeam-patches-critical-backup-replication-flaw/"
+        }
+    ],
+    "CVE-2026-108142": [
+        {
+            "title": "Veeam Patches Critical Backup & Replication Authorization Bypass Vulnerability",
+            "link": "https://cybersecuritynews.com/veeam-patches-authorization-bypass-vulnerability/"
+        },
+        {
+            "title": "Critical Veeam Backup & Replication Flaw Allows Unauthenticated Attackers to Bypass Authorization",
+            "link": "https://gbhackers.com/critical-veeam-backup-replication-flaw-2/"
+        },
+        {
+            "title": "Veeam Patches Critical Backup & Replication Flaw Allowing Unauthenticated Authorization Bypass",
+            "link": "https://cyberpress.org/veeam-patches-critical-backup-replication-flaw/"
+        }
+    ],
+    "CVE-2026-105477": [
+        {
+            "title": "Veeam Patches Critical Backup & Replication Authorization Bypass Vulnerability",
+            "link": "https://cybersecuritynews.com/veeam-patches-authorization-bypass-vulnerability/"
+        },
+        {
+            "title": "Veeam Patches Critical Backup & Replication Flaw Allowing Unauthenticated Authorization Bypass",
+            "link": "https://cyberpress.org/veeam-patches-critical-backup-replication-flaw/"
+        }
+    ],
+    "CVE-2024-40711": [
+        {
+            "title": "Veeam Patches Critical Backup & Replication Authorization Bypass Vulnerability",
+            "link": "https://cybersecuritynews.com/veeam-patches-authorization-bypass-vulnerability/"
+        }
+    ],
+    "CVE-2025-61882": [
+        {
+            "title": "Hackers Actively Exploiting New Oracle EBS RCE Vulnerability",
+            "link": "https://cybersecuritynews.com/oracle-ebs-rce-exploited/"
+        }
+    ],
+    "CVE-2026-106072": [
+        {
+            "title": "Waiting on a Node.js Upgrade? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-105481": [
+        {
+            "title": "Waiting on a Node.js Upgrade? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-105483": [
+        {
+            "title": "Waiting on a Node.js Upgrade? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-106071": [
+        {
+            "title": "Waiting on a Node.js Upgrade? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-105482": [
+        {
+            "title": "Waiting on a Node.js Upgrade? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-106069": [
+        {
+            "title": "Waiting on a Node.js Upgrade? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-106073": [
+        {
+            "title": "Waiting on a Node.js Upgrade? Build a Stopgap with the Controls You Own",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
         }
     ]
 }
