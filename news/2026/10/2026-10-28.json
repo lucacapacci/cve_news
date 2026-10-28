@@ -15,6 +15,10 @@
         {
             "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
             "link": "https://gbhackers.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/"
+        },
+        {
+            "title": "Microsoft Rushes out Fixes for .NET",
+            "link": "https://cybersecuritytoday.libsyn.com/microsoft-rushes-out-fixes-for-net"
         }
     ],
     "CVE-2026-109619": [
@@ -61,6 +65,14 @@
         {
             "title": "Waiting on a Node.js Upgrade? Build a Stopgap with the Controls You Own",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "Microsoft Rushes out Fixes for .NET",
+            "link": "https://cybersecuritytoday.libsyn.com/microsoft-rushes-out-fixes-for-net"
+        },
+        {
+            "title": "CVE-2026-111497: Native Brotli Decoder Remote Code Execution and Memory Disclosure",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-155-aws/"
         }
     ],
     "CVE-2026-101767": [
@@ -646,6 +658,30 @@
         {
             "title": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
             "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02"
+        }
+    ],
+    "CVE-2026-80097": [
+        {
+            "title": "Microsoft Authenticator Flaw Scores 8.6: Android Users Must Update",
+            "link": "https://www.esecurityplanet.com/threats/news-microsoft-authenticator-android-flaw-cve-2026-80097/"
+        }
+    ],
+    "CVE-2026-20127": [
+        {
+            "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
+            "link": "https://blog.talosintelligence.com/uat-11473-keydrift/"
+        }
+    ],
+    "CVE-2026-41709": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-41709",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-41709"
+        }
+    ],
+    "CVE-2026-46300": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-46300",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-46300"
         }
     ]
 }
