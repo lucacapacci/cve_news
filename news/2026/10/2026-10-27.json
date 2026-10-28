@@ -15,6 +15,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-111497",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-111497"
+        },
+        {
+            "title": "Microsoft Rushes out Fixes for .NET",
+            "link": "https://cybersecuritytoday.libsyn.com/microsoft-rushes-out-fixes-for-net"
         }
     ],
     "CVE-2026-88900": [
@@ -81,6 +85,10 @@
         {
             "title": "CISA Warns Hackers Are Exploiting PHP2Shell Flaws to Target Web Servers",
             "link": "https://cyberpress.org/cisa-warns-php2shell-flaws/"
+        },
+        {
+            "title": "Microsoft Rushes out Fixes for .NET",
+            "link": "https://cybersecuritytoday.libsyn.com/microsoft-rushes-out-fixes-for-net"
         }
     ],
     "CVE-2026-85788": [
