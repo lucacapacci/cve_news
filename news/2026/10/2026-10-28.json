@@ -7,12 +7,24 @@
         {
             "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
             "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html"
+        },
+        {
+            "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
+            "link": "https://cybersecuritynews.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/"
+        },
+        {
+            "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
+            "link": "https://gbhackers.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/"
         }
     ],
     "CVE-2026-109619": [
         {
             "title": "PHP2Shell: Suspected North Korean campaign targets 216 vulnerable PHP hosts",
             "link": "https://securityaffairs.com/201748/hacking/php2shell-suspected-north-korean-campaign-targets-216-vulnerable-php-hosts.html"
+        },
+        {
+            "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
+            "link": "https://cybersecuritynews.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/"
         }
     ],
     "CVE-2026-97631": [
@@ -31,6 +43,10 @@
         {
             "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
             "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html"
+        },
+        {
+            "title": "CVE-2026-35273: SSRF to RCE in Oracle PeopleSoft",
+            "link": "https://www.thezdi.com/blog/2026/10/20/cve-2026-35273-ssrf-to-rce-in-oracle-peoplesoft"
         }
     ],
     "CVE-2026-111497": [
@@ -55,6 +71,10 @@
         {
             "title": "Hackers Actively Exploiting New Oracle EBS RCE Vulnerability",
             "link": "https://cybersecuritynews.com/oracle-ebs-rce-exploited/"
+        },
+        {
+            "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+            "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html"
         }
     ],
     "CVE-2026-33096": [
@@ -179,6 +199,453 @@
         {
             "title": "Waiting on a Node.js Upgrade? Build a Stopgap with the Controls You Own",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-115560": [
+        {
+            "title": "OffSec Launches Free PHP2Shell Lab Following Critical Vulnerability Discovery",
+            "link": "https://cybersecuritynews.com/offsec-launches-free-php2shell-lab-following-critical-vulnerability-discovery/"
+        }
+    ],
+    "CVE-2026-111105": [
+        {
+            "title": "Researcher Uncovers New 0-click Flaw in Telegram Stickers and Chained Them to Run Code on iOS",
+            "link": "https://cybersecuritynews.com/0-click-flaw-in-telegram-stickers/"
+        }
+    ],
+    "CVE-2026-107181": [
+        {
+            "title": "Researcher Uncovers New 0-click Flaw in Telegram Stickers and Chained Them to Run Code on iOS",
+            "link": "https://cybersecuritynews.com/0-click-flaw-in-telegram-stickers/"
+        }
+    ],
+    "CVE-2026-111585": [
+        {
+            "title": "TeamViewer Vulnerabilities Could Let Hackers Execute Malicious Code Through Remote Desktop Sessions",
+            "link": "https://cybersecuritynews.com/teamviewer-desktop-session-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92372": [
+        {
+            "title": "TeamViewer Vulnerabilities Could Let Hackers Execute Malicious Code Through Remote Desktop Sessions",
+            "link": "https://cybersecuritynews.com/teamviewer-desktop-session-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-92374": [
+        {
+            "title": "TeamViewer Vulnerabilities Could Let Hackers Execute Malicious Code Through Remote Desktop Sessions",
+            "link": "https://cybersecuritynews.com/teamviewer-desktop-session-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-118349": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118358": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118321": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118308": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118338": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118310": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118352": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118315": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118345": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118305": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118350": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118359": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118320": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118353": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118348": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/"
+        }
+    ],
+    "CVE-2026-118312": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118336": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118330": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118335": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118328": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118357": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118354": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118314": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118329": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118340": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118339": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118337": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118344": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/"
+        }
+    ],
+    "CVE-2026-118306": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/"
+        }
+    ],
+    "CVE-2026-118343": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118318": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/"
+        }
+    ],
+    "CVE-2026-118331": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/"
+        }
+    ],
+    "CVE-2026-118322": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118316": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118351": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118355": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118342": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/"
+        }
+    ],
+    "CVE-2026-118332": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118341": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118356": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118311": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118327": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118334": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118309": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118307": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118319": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118347": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118333": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/"
+        }
+    ],
+    "CVE-2026-118304": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118317": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118313": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118346": [
+        {
+            "title": "Google Fixes 52 Chrome Security Flaws, Including Four Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-fixes-52-chrome-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86950": [
+        {
+            "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+            "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html"
+        }
+    ],
+    "CVE-2026-114595": [
+        {
+            "title": "EPICS Base",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01"
+        }
+    ],
+    "CVE-2026-114596": [
+        {
+            "title": "EPICS Base",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01"
+        }
+    ],
+    "CVE-2026-114597": [
+        {
+            "title": "EPICS Base",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01"
+        }
+    ],
+    "CVE-2026-114598": [
+        {
+            "title": "EPICS Base",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01"
+        }
+    ],
+    "CVE-2023-4863": [
+        {
+            "title": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02"
+        }
+    ],
+    "CVE-2026-16436": [
+        {
+            "title": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02"
+        }
+    ],
+    "CVE-2026-16438": [
+        {
+            "title": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02"
+        }
+    ],
+    "CVE-2026-16437": [
+        {
+            "title": "Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02"
         }
     ]
 }

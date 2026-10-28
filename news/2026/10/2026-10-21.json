@@ -3105,5 +3105,11 @@
             "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
             "link": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote"
         }
+    ],
+    "CVE-2026-46300": [
+        {
+            "title": "php2shell (CVE-2026-109618, CVE-2026-109619): Frequently asked questions about critical PHP remote code execution vulnerabilities",
+            "link": "https://www.tenable.com/blog/php2shell-cve-2026-109618-cve-2026-109619-frequently-asked-questions-about-critical-php-remote"
+        }
     ]
 }
