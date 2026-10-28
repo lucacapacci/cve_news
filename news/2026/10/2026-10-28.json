@@ -1,0 +1,20 @@
+{
+    "CVE-2026-109618": [
+        {
+            "title": "PHP2Shell: Suspected North Korean campaign targets 216 vulnerable PHP hosts",
+            "link": "https://securityaffairs.com/201748/hacking/php2shell-suspected-north-korean-campaign-targets-216-vulnerable-php-hosts.html"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "PHP2Shell: Suspected North Korean campaign targets 216 vulnerable PHP hosts",
+            "link": "https://securityaffairs.com/201748/hacking/php2shell-suspected-north-korean-campaign-targets-216-vulnerable-php-hosts.html"
+        }
+    ],
+    "CVE-2026-97631": [
+        {
+            "title": "Critical UEFI Firmware Flaw Could Expose Millions of Servers to Pre-Boot Code Execution",
+            "link": "https://cybersecuritynews.com/uefi-firmware-vulnerability/"
+        }
+    ]
+}
