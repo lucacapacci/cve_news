@@ -1,0 +1,8 @@
+{
+    "CVE-2026-41940": [
+        {
+            "title": "Attackers compromised 42 GitHub repositories by using files too large to be searched",
+            "link": "https://www.infoworld.com/article/4241474/attackers-compromised-42-github-repositories-by-using-files-too-large-to-be-searched.html"
+        }
+    ]
+}
