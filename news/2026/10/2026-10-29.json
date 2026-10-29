@@ -63,6 +63,10 @@
         {
             "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
             "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-76418",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-76418"
         }
     ],
     "CVE-2026-109619": [
@@ -133,6 +137,10 @@
         {
             "title": "KeyDrift Malware Hijacks Cisco SD-WAN Processes to Intercept Traffic and Extract IPsec Keys",
             "link": "https://cyberpress.org/keydrift-hijacks-cisco-sd-wan/"
+        },
+        {
+            "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+            "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/"
         }
     ],
     "CVE-2026-111497": [
@@ -145,12 +153,24 @@
         {
             "title": "Attacker Tried to Exploit Alpine Linux\u2019s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
             "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-one-known-exploited-vulnerability-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-97229",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-97229"
         }
     ],
     "CVE-2026-98432": [
         {
             "title": "Claude AI Exploits Linux Kernel Flaw to Execute Root Commands Without User Interaction",
             "link": "https://cybersecuritynews.com/linux-kernel-flaw-root-commands/"
+        },
+        {
+            "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+            "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html"
         }
     ],
     "CVE-2026-20182": [
@@ -169,6 +189,12 @@
         {
             "title": "Brazilian Magecart Group Exploits Plausible Installation to Steal Checkout",
             "link": "https://www.cysecurity.news/2026/10/brazilian-magecart-group-exploits.html"
+        }
+    ],
+    "CVE-2026-115415": [
+        {
+            "title": "CVE-2026-115415 \u2013 Secret masking bypass in the environment tool in Strands Agents Tools",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-154-aws/"
         }
     ]
 }
