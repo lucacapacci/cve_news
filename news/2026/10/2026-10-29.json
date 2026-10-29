@@ -4,5 +4,101 @@
             "title": "Attackers compromised 42 GitHub repositories by using files too large to be searched",
             "link": "https://www.infoworld.com/article/4241474/attackers-compromised-42-github-repositories-by-using-files-too-large-to-be-searched.html"
         }
+    ],
+    "CVE-2026-41709": [
+        {
+            "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+            "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html"
+        },
+        {
+            "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+            "link": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/"
+        },
+        {
+            "title": "CISA Warns of VMWare ESX Logging Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/vmware-esx-logging-vulnerability-exploited/"
+        },
+        {
+            "title": "CISA Adds Actively Exploited VMware ESXi Logging Flaw to KEV Catalog",
+            "link": "https://gbhackers.com/cisa-adds-actively-exploited-vmware-esxi-logging-flaw/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited VMware ESXi Flaw That Lets Admins Hide Malicious Activity",
+            "link": "https://cyberpress.org/cisa-warns-exploited-vmware-esxi-flaw/"
+        }
+    ],
+    "CVE-2026-20349": [
+        {
+            "title": "Cisco Secure Firewall 0-Day Vulnerability Exploited in the Wild to Crash SSL VPN Devices",
+            "link": "https://cybersecuritynews.com/cisco-secure-firewall-0-day-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2025-20333": [
+        {
+            "title": "Cisco Secure Firewall 0-Day Vulnerability Exploited in the Wild to Crash SSL VPN Devices",
+            "link": "https://cybersecuritynews.com/cisco-secure-firewall-0-day-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-76418": [
+        {
+            "title": "Cisco Secure Firewall 0-Day Vulnerability Exploited in the Wild to Crash SSL VPN Devices",
+            "link": "https://cybersecuritynews.com/cisco-secure-firewall-0-day-vulnerability-exploited/"
+        },
+        {
+            "title": "Cisco Patches Actively Exploited SSL VPN Vulnerability Affecting ASA and FTD Firewalls",
+            "link": "https://gbhackers.com/cisco-patches-actively-exploited-ssl-vpn-vulnerability/"
+        },
+        {
+            "title": "Cisco Warns of Actively Exploited Firewall Vulnerability Allowing Remote DoS Attacks",
+            "link": "https://cyberpress.org/cisco-exploited-firewall-vulnerability/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Hackers Chain PHP2Shell and Linux Kernel Exploits to Gain Root Access on 25 Servers",
+            "link": "https://cybersecuritynews.com/php2shell-gained-root-access-on-25-servers/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Hackers Chain PHP2Shell and Linux Kernel Exploits to Gain Root Access on 25 Servers",
+            "link": "https://cybersecuritynews.com/php2shell-gained-root-access-on-25-servers/"
+        }
+    ],
+    "CVE-2026-46300": [
+        {
+            "title": "Hackers Chain PHP2Shell and Linux Kernel Exploits to Gain Root Access on 25 Servers",
+            "link": "https://cybersecuritynews.com/php2shell-gained-root-access-on-25-servers/"
+        }
+    ],
+    "CVE-2025-8876": [
+        {
+            "title": "Lumen Uncovers Secret Chinese Hacking Network Behind Years of Zero-Day Attacks on U.S. Infrastructure",
+            "link": "https://cyberpress.org/lumen-exposes-chinese-hackers/"
+        }
+    ],
+    "CVE-2026-16812": [
+        {
+            "title": "Lumen Uncovers Secret Chinese Hacking Network Behind Years of Zero-Day Attacks on U.S. Infrastructure",
+            "link": "https://cyberpress.org/lumen-exposes-chinese-hackers/"
+        }
+    ],
+    "CVE-2025-8875": [
+        {
+            "title": "Lumen Uncovers Secret Chinese Hacking Network Behind Years of Zero-Day Attacks on U.S. Infrastructure",
+            "link": "https://cyberpress.org/lumen-exposes-chinese-hackers/"
+        }
+    ],
+    "CVE-2026-20127": [
+        {
+            "title": "Lumen Uncovers Secret Chinese Hacking Network Behind Years of Zero-Day Attacks on U.S. Infrastructure",
+            "link": "https://cyberpress.org/lumen-exposes-chinese-hackers/"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "HTTP2Shell: The Brotli Vulnerability That Extends Beyond Node.js",
+            "link": "https://blog.checkpoint.com/security/http2shell-the-brotli-vulnerability-that-extends-beyond-node-js/"
+        }
     ]
 }
