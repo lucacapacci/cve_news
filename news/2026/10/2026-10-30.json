@@ -21,6 +21,10 @@
         {
             "title": "CISA Warns of Critical GitLab RCE Vulnerability Actively Exploited in Attacks",
             "link": "https://cyberpress.org/cisa-warns-critical-gitlab-rce-vulnerability/"
+        },
+        {
+            "title": "CISA Confirms Active Exploitation of GitLab Vulnerability CVE-2026-97229",
+            "link": "https://gbhackers.com/cisa-gitlab-vulnerability-cve-2026-97229/"
         }
     ],
     "CVE-2026-46300": [
@@ -105,12 +109,20 @@
         {
             "title": "Hackers Exploit Ivanti Connect Secure Zero-Day Vulnerabilities to Gain Root Access and Steal Credentials",
             "link": "https://cyberpress.org/hackers-exploit-ivanti-connect-secure-zero-day-vulnerabilities/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-118527",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-118527"
         }
     ],
     "CVE-2026-111357": [
         {
             "title": "Hackers Exploit Ivanti Connect Secure Zero-Day Vulnerabilities to Gain Root Access and Steal Credentials",
             "link": "https://cyberpress.org/hackers-exploit-ivanti-connect-secure-zero-day-vulnerabilities/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-111357",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-111357"
         }
     ],
     "CVE-2018-0171": [
@@ -123,6 +135,12 @@
         {
             "title": "Operationalizing CISA AA26-194A: Automating Cisco Router Security Assessments with Qualys Policy Audit",
             "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-58882": [
+        {
+            "title": "Android 'SMS of Death' Flaw Can Drop Emergency Calls, Trigger Reboot Loops",
+            "link": "https://www.esecurityplanet.com/threats/news-android-sms-of-death-cve-2026-58882/"
         }
     ]
 }
