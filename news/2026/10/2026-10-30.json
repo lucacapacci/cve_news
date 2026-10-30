@@ -3,30 +3,54 @@
         {
             "title": "Attackers compromised 42 GitHub repositories by using files too large to be searched",
             "link": "https://www.infoworld.com/article/4241474/attackers-compromised-42-github-repositories-by-using-files-too-large-to-be-searched.html"
+        },
+        {
+            "title": "Hackers Exploit Passwordless Telnet to Infect Linux Devices With New Kairos DDoS Botnet",
+            "link": "https://cybersecuritynews.com/hackers-exploit-passwordless-telnet/"
         }
     ],
     "CVE-2026-97229": [
         {
             "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
             "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html"
+        },
+        {
+            "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+            "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/"
+        },
+        {
+            "title": "CISA Warns of Critical GitLab RCE Vulnerability Actively Exploited in Attacks",
+            "link": "https://cyberpress.org/cisa-warns-critical-gitlab-rce-vulnerability/"
         }
     ],
     "CVE-2026-46300": [
         {
             "title": "CISA Warns of Linux Kernel Missing Initialization Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/linux-kernel-missing-initialization-vulnerability/"
+        },
+        {
+            "title": "Palo Alto Confirms Active PHP2Shell Exploitation Targeting Exposed PAN-OS Management Interfaces",
+            "link": "https://cybersecuritynews.com/palo-alto-php2shell-exploitation/"
         }
     ],
     "CVE-2026-109619": [
         {
             "title": "CISA Warns of Linux Kernel Missing Initialization Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/linux-kernel-missing-initialization-vulnerability/"
+        },
+        {
+            "title": "Palo Alto Confirms Active PHP2Shell Exploitation Targeting Exposed PAN-OS Management Interfaces",
+            "link": "https://cybersecuritynews.com/palo-alto-php2shell-exploitation/"
         }
     ],
     "CVE-2026-109618": [
         {
             "title": "CISA Warns of Linux Kernel Missing Initialization Vulnerability Exploited in Attacks",
             "link": "https://cybersecuritynews.com/linux-kernel-missing-initialization-vulnerability/"
+        },
+        {
+            "title": "Palo Alto Confirms Active PHP2Shell Exploitation Targeting Exposed PAN-OS Management Interfaces",
+            "link": "https://cybersecuritynews.com/palo-alto-php2shell-exploitation/"
         }
     ],
     "CVE-2026-98432": [
@@ -43,12 +67,62 @@
         {
             "title": "Hackers Use Coruna and DarkSword Exploit Chains Across 608 Domains to Target iPhones",
             "link": "https://cyberpress.org/coruna-darksword-target-iphones/"
+        },
+        {
+            "title": "Hackers Use Zero-Click Coruna and DarkSword Exploits to Steal Sensitive Data From iPhones",
+            "link": "https://cybersecuritynews.com/hackers-use-zero-click-coruna/"
         }
     ],
     "CVE-2026-111497": [
         {
             "title": "HTTP2Shell: The Brotli Vulnerability That Extends Beyond Node.js",
             "link": "https://blog.checkpoint.com/security/http2shell-the-brotli-vulnerability-that-extends-beyond-node-js/"
+        }
+    ],
+    "CVE-2026-118539": [
+        {
+            "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+            "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html"
+        },
+        {
+            "title": "Critical Drupal Commerce Vulnerability Could Let Hackers Buy Products for Just $0.01",
+            "link": "https://cybersecuritynews.com/critical-drupal-commerce-vulnerability/"
+        }
+    ],
+    "CVE-2026-111585": [
+        {
+            "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians\u2019 Machines",
+            "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/"
+        }
+    ],
+    "CVE-2026-104935": [
+        {
+            "title": "Hackers Exploit Ivanti Connect Secure Zero-Day Vulnerabilities to Gain Root Access and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-ivanti-connect-secure-zero-day-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-118527": [
+        {
+            "title": "Hackers Exploit Ivanti Connect Secure Zero-Day Vulnerabilities to Gain Root Access and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-ivanti-connect-secure-zero-day-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-111357": [
+        {
+            "title": "Hackers Exploit Ivanti Connect Secure Zero-Day Vulnerabilities to Gain Root Access and Steal Credentials",
+            "link": "https://cyberpress.org/hackers-exploit-ivanti-connect-secure-zero-day-vulnerabilities/"
+        }
+    ],
+    "CVE-2018-0171": [
+        {
+            "title": "Operationalizing CISA AA26-194A: Automating Cisco Router Security Assessments with Qualys Policy Audit",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2008-4128": [
+        {
+            "title": "Operationalizing CISA AA26-194A: Automating Cisco Router Security Assessments with Qualys Policy Audit",
+            "link": "https://blog.qualys.com/category/product-tech"
         }
     ]
 }
