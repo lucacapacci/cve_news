@@ -142,5 +142,11 @@
             "title": "Android 'SMS of Death' Flaw Can Drop Emergency Calls, Trigger Reboot Loops",
             "link": "https://www.esecurityplanet.com/threats/news-android-sms-of-death-cve-2026-58882/"
         }
+    ],
+    "CVE-2026-115415": [
+        {
+            "title": "CVE-2026-115415 \u2013 Secret masking bypass in the environment tool in Strands Agents Tools",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-154-aws/"
+        }
     ]
 }
