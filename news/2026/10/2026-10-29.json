@@ -73,18 +73,30 @@
         {
             "title": "Hackers Chain PHP2Shell and Linux Kernel Exploits to Gain Root Access on 25 Servers",
             "link": "https://cybersecuritynews.com/php2shell-gained-root-access-on-25-servers/"
+        },
+        {
+            "title": "php2shell one week later: Why one exploit doesn\u2019t work everywhere",
+            "link": "https://www.tenable.com/blog/php2shell-one-week-later-why-one-exploit-doesnt-work-everywhere"
         }
     ],
     "CVE-2026-109618": [
         {
             "title": "Hackers Chain PHP2Shell and Linux Kernel Exploits to Gain Root Access on 25 Servers",
             "link": "https://cybersecuritynews.com/php2shell-gained-root-access-on-25-servers/"
+        },
+        {
+            "title": "php2shell one week later: Why one exploit doesn\u2019t work everywhere",
+            "link": "https://www.tenable.com/blog/php2shell-one-week-later-why-one-exploit-doesnt-work-everywhere"
         }
     ],
     "CVE-2026-46300": [
         {
             "title": "Hackers Chain PHP2Shell and Linux Kernel Exploits to Gain Root Access on 25 Servers",
             "link": "https://cybersecuritynews.com/php2shell-gained-root-access-on-25-servers/"
+        },
+        {
+            "title": "php2shell one week later: Why one exploit doesn\u2019t work everywhere",
+            "link": "https://www.tenable.com/blog/php2shell-one-week-later-why-one-exploit-doesnt-work-everywhere"
         }
     ],
     "CVE-2025-8876": [
@@ -195,6 +207,12 @@
         {
             "title": "CVE-2026-115415 \u2013 Secret masking bypass in the environment tool in Strands Agents Tools",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-154-aws/"
+        }
+    ],
+    "CVE-2021-44228": [
+        {
+            "title": "php2shell one week later: Why one exploit doesn\u2019t work everywhere",
+            "link": "https://www.tenable.com/blog/php2shell-one-week-later-why-one-exploit-doesnt-work-everywhere"
         }
     ]
 }

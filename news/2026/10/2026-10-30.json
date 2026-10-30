@@ -4,5 +4,51 @@
             "title": "Attackers compromised 42 GitHub repositories by using files too large to be searched",
             "link": "https://www.infoworld.com/article/4241474/attackers-compromised-42-github-repositories-by-using-files-too-large-to-be-searched.html"
         }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+            "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html"
+        }
+    ],
+    "CVE-2026-46300": [
+        {
+            "title": "CISA Warns of Linux Kernel Missing Initialization Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/linux-kernel-missing-initialization-vulnerability/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "CISA Warns of Linux Kernel Missing Initialization Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/linux-kernel-missing-initialization-vulnerability/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "CISA Warns of Linux Kernel Missing Initialization Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/linux-kernel-missing-initialization-vulnerability/"
+        }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "Critical Linux Kernel Vulnerability Lets Remote Attackers Crash Ubuntu Systems",
+            "link": "https://gbhackers.com/critical-linux-kernel-vulnerability-2/"
+        },
+        {
+            "title": "Critical Linux Kernel Vulnerability Allows Remote Attackers to Execute Code With Root Privileges",
+            "link": "https://cyberpress.org/critical-linux-kernel-vulnerability/"
+        }
+    ],
+    "CVE-2022-48503": [
+        {
+            "title": "Hackers Use Coruna and DarkSword Exploit Chains Across 608 Domains to Target iPhones",
+            "link": "https://cyberpress.org/coruna-darksword-target-iphones/"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "HTTP2Shell: The Brotli Vulnerability That Extends Beyond Node.js",
+            "link": "https://blog.checkpoint.com/security/http2shell-the-brotli-vulnerability-that-extends-beyond-node-js/"
+        }
     ]
 }
