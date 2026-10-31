@@ -34,5 +34,11 @@
             "title": "HTTP2Shell: The Brotli Vulnerability That Extends Beyond Node.js",
             "link": "https://blog.checkpoint.com/security/http2shell-the-brotli-vulnerability-that-extends-beyond-node-js/"
         }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+            "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html"
+        }
     ]
 }
