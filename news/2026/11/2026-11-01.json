@@ -1,0 +1,20 @@
+{
+    "CVE-2026-109619": [
+        {
+            "title": "Hacktober \u2013 Cyberattack Wave Hits PHP, Node.js, Binance, LiteLLM, Pentagon, and a Few More",
+            "link": "https://cybersecuritynews.com/hacktober-cyberattack-wave/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Hacktober \u2013 Cyberattack Wave Hits PHP, Node.js, Binance, LiteLLM, Pentagon, and a Few More",
+            "link": "https://cybersecuritynews.com/hacktober-cyberattack-wave/"
+        }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "Critical Linux Kernel Vulnerability Could Allow Hackers to Gain Remote Root Access",
+            "link": "https://www.cysecurity.news/2026/11/critical-linux-kernel-vulnerability.html"
+        }
+    ]
+}
