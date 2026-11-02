@@ -1,0 +1,24 @@
+{
+    "CVE-2026-112816": [
+        {
+            "title": "Critical Certificate Validation Flaw in LXD and Incus Could Give Hackers Control of Linux Hosts",
+            "link": "https://cybersecuritynews.com/certificate-validation-flaw-in-lxd-and-incus/"
+        },
+        {
+            "title": "Critical Incus and LXD Vulnerabilities Allow Unauthenticated Attackers to Take Over Virtual Machines",
+            "link": "https://cyberpress.org/critical-incus-and-lxd-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Hacktober 2026: Cyberattacks Hit Binance, Polymarket, PHP, Node.js, and AI Platforms",
+            "link": "https://cyberpress.org/hacktober-2026-cyberattacks/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Hacktober 2026: Cyberattacks Hit Binance, Polymarket, PHP, Node.js, and AI Platforms",
+            "link": "https://cyberpress.org/hacktober-2026-cyberattacks/"
+        }
+    ]
+}
