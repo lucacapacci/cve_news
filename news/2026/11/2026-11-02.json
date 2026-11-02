@@ -124,5 +124,35 @@
             "title": "HTTP2Shell: What the Critical Brotli Vulnerability Means for WordPress Sites",
             "link": "https://www.wordfence.com/blog/2026/11/http2shell-wordpress-brotli/"
         }
+    ],
+    "CVE-2026-102764": [
+        {
+            "title": "Hackers Scan BeyondTrust Remote Support Systems for Actively Exploited Zero-Day Flaw",
+            "link": "https://cyberpress.org/beyondtrust-remote-support-systems/"
+        }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "CVE-2026-98432: A Remote Use-After-Free in the Linux Kernel\u2019s TCP Stack",
+            "link": "https://www.akamai.com/blog/security-research/2026/nov/cve-2026-98432-remote-uaf-linux-kernels-tcp-stack"
+        }
+    ],
+    "CVE-2026-105811": [
+        {
+            "title": "CVE-2026-105811 \u2013 Authorization bypass through a user-controlled key in the Amazon Q Business Lambda hook sample in QnABot on AWS",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-126-aws/"
+        }
+    ],
+    "CVE-2026-116635": [
+        {
+            "title": "CVE-2026-116635 \u2013 Improper limitation of a pathname to a restricted directory in the deployment status component of the AWS Serverless MCP Server",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-164-aws/"
+        }
+    ],
+    "CVE-2026-75650": [
+        {
+            "title": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+            "link": "https://www.imperva.com/blog/stylesmuggler-exploitation-deploys-psk-agent-rat-against-magento-stores/"
+        }
     ]
 }
