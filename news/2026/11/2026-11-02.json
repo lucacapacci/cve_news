@@ -20,5 +20,109 @@
             "title": "Hacktober 2026: Cyberattacks Hit Binance, Polymarket, PHP, Node.js, and AI Platforms",
             "link": "https://cyberpress.org/hacktober-2026-cyberattacks/"
         }
+    ],
+    "CVE-2026-111357": [
+        {
+            "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+            "link": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/"
+        },
+        {
+            "title": "CISA to federal agencies: Remediate exploited Ivanti Connect Secure vulnerabilities (CVE-2026-111357, CVE-2026-118527)",
+            "link": "https://www.helpnetsecurity.com/2026/11/02/cisa-to-federal-agencies-remediate-exploited-ivanti-connect-secure-vulnerabilities-cve-2026-111357-cve-2026-118527/"
+        }
+    ],
+    "CVE-2026-118527": [
+        {
+            "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+            "link": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/"
+        },
+        {
+            "title": "CISA to federal agencies: Remediate exploited Ivanti Connect Secure vulnerabilities (CVE-2026-111357, CVE-2026-118527)",
+            "link": "https://www.helpnetsecurity.com/2026/11/02/cisa-to-federal-agencies-remediate-exploited-ivanti-connect-secure-vulnerabilities-cve-2026-111357-cve-2026-118527/"
+        }
+    ],
+    "CVE-2024-38193": [
+        {
+            "title": "POC Released for Windows WinSock Ancillary Privilege Escalation Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-for-windows-winsock-ancillary-vulnerability/"
+        }
+    ],
+    "CVE-2023-21768": [
+        {
+            "title": "POC Released for Windows WinSock Ancillary Privilege Escalation Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-for-windows-winsock-ancillary-vulnerability/"
+        }
+    ],
+    "CVE-2025-32709": [
+        {
+            "title": "POC Released for Windows WinSock Ancillary Privilege Escalation Vulnerability",
+            "link": "https://cybersecuritynews.com/poc-for-windows-winsock-ancillary-vulnerability/"
+        }
+    ],
+    "CVE-2024-50629": [
+        {
+            "title": "Hackers Exploit Patched Synology NAS Vulnerabilities to Deploy C3RB3R Ransomware and Encrypt Files",
+            "link": "https://cybersecuritynews.com/synology-nas-vulnerabilities-c3rb3r-ransomware/"
+        }
+    ],
+    "CVE-2024-10441": [
+        {
+            "title": "Hackers Exploit Patched Synology NAS Vulnerabilities to Deploy C3RB3R Ransomware and Encrypt Files",
+            "link": "https://cybersecuritynews.com/synology-nas-vulnerabilities-c3rb3r-ransomware/"
+        }
+    ],
+    "CVE-2024-10445": [
+        {
+            "title": "Hackers Exploit Patched Synology NAS Vulnerabilities to Deploy C3RB3R Ransomware and Encrypt Files",
+            "link": "https://cybersecuritynews.com/synology-nas-vulnerabilities-c3rb3r-ransomware/"
+        }
+    ],
+    "CVE-2026-108099": [
+        {
+            "title": "Drupal Commerce Flaw Exposes Online Stores to Fraudulent Order Manipulation",
+            "link": "https://www.cysecurity.news/2026/11/drupal-commerce-flaw-exposes-online.html"
+        }
+    ],
+    "CVE-2026-108097": [
+        {
+            "title": "Drupal Commerce Flaw Exposes Online Stores to Fraudulent Order Manipulation",
+            "link": "https://www.cysecurity.news/2026/11/drupal-commerce-flaw-exposes-online.html"
+        }
+    ],
+    "CVE-2026-118539": [
+        {
+            "title": "Drupal Commerce Flaw Exposes Online Stores to Fraudulent Order Manipulation",
+            "link": "https://www.cysecurity.news/2026/11/drupal-commerce-flaw-exposes-online.html"
+        }
+    ],
+    "CVE-2026-9082": [
+        {
+            "title": "Drupal Commerce Flaw Exposes Online Stores to Fraudulent Order Manipulation",
+            "link": "https://www.cysecurity.news/2026/11/drupal-commerce-flaw-exposes-online.html"
+        }
+    ],
+    "CVE-2026-118558": [
+        {
+            "title": "Drupal Commerce Flaw Exposes Online Stores to Fraudulent Order Manipulation",
+            "link": "https://www.cysecurity.news/2026/11/drupal-commerce-flaw-exposes-online.html"
+        }
+    ],
+    "CVE-2026-118582": [
+        {
+            "title": "Drupal Commerce Flaw Exposes Online Stores to Fraudulent Order Manipulation",
+            "link": "https://www.cysecurity.news/2026/11/drupal-commerce-flaw-exposes-online.html"
+        }
+    ],
+    "CVE-2026-119301": [
+        {
+            "title": "CVE-2026-119301 \u2013 Improper neutralization of quoting syntax in Apache Iceberg SQL identifier generation in AWS SDK for pandas",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-161-aws/"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "HTTP2Shell: What the Critical Brotli Vulnerability Means for WordPress Sites",
+            "link": "https://www.wordfence.com/blog/2026/11/http2shell-wordpress-brotli/"
+        }
     ]
 }
