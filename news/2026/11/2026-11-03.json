@@ -25,18 +25,108 @@
         {
             "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
             "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html"
+        },
+        {
+            "title": "Ubuntu Releases Security Fixes for Critical Linux Kernel Vulnerability Allowing Remote Code Execution",
+            "link": "https://gbhackers.com/ubuntu-releases-security-fixes-for-critical-linux-kernel-vulnerability/"
+        },
+        {
+            "title": "Ubuntu Releases Kernel RCE Fixes as Suspected Attackers Scan Millions of MPTCP-Exposed Servers",
+            "link": "https://cyberpress.org/ubuntu-critical-linux-kernel-remote-code-execution/"
         }
     ],
     "CVE-2026-75650": [
         {
             "title": "Hackers Exploit Adobe Commerce Zero-Day to Deploy PSK Agent RAT and Remotely Control Servers",
             "link": "https://cybersecuritynews.com/adobe-commerce-zero-day/"
+        },
+        {
+            "title": "Hackers Target Magento Stores With PSK Agent Malware That Evades Antivirus Detection",
+            "link": "https://cyberpress.org/psk-agent-targets-magento/"
         }
     ],
     "CVE-2026-97229": [
         {
             "title": "Hackers Target Alpine Linux GitLab Server in Attempted Critical RCE Attack",
             "link": "https://www.cysecurity.news/2026/11/hackers-target-alpine-linux-gitlab.html"
+        }
+    ],
+    "CVE-2026-116606": [
+        {
+            "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+            "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html"
+        }
+    ],
+    "CVE-2026-43502": [
+        {
+            "title": "Critical Linux Kernel Memory Corruption Flaw Exploited to Bypass SELinux Security Controls",
+            "link": "https://cyberpress.org/critical-linux-kernel-memory-corruption-flaw/"
+        }
+    ],
+    "CVE-2026-46300": [
+        {
+            "title": "Critical Linux Kernel Memory Corruption Flaw Exploited to Bypass SELinux Security Controls",
+            "link": "https://cyberpress.org/critical-linux-kernel-memory-corruption-flaw/"
+        }
+    ],
+    "CVE-2026-31695": [
+        {
+            "title": "Critical Linux Kernel Memory Corruption Flaw Exploited to Bypass SELinux Security Controls",
+            "link": "https://cyberpress.org/critical-linux-kernel-memory-corruption-flaw/"
+        }
+    ],
+    "CVE-2026-13684": [
+        {
+            "title": "Synology NAS Owners Hit by C3RB3R Ransomware as Old Vulnerability Gets New Life",
+            "link": "https://www.cysecurity.news/2026/11/synology-nas-owners-hit-by-c3rb3r.html"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Synology NAS Owners Hit by C3RB3R Ransomware as Old Vulnerability Gets New Life",
+            "link": "https://www.cysecurity.news/2026/11/synology-nas-owners-hit-by-c3rb3r.html"
+        }
+    ],
+    "CVE-2024-10441": [
+        {
+            "title": "Synology NAS Owners Hit by C3RB3R Ransomware as Old Vulnerability Gets New Life",
+            "link": "https://www.cysecurity.news/2026/11/synology-nas-owners-hit-by-c3rb3r.html"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Synology NAS Owners Hit by C3RB3R Ransomware as Old Vulnerability Gets New Life",
+            "link": "https://www.cysecurity.news/2026/11/synology-nas-owners-hit-by-c3rb3r.html"
+        }
+    ],
+    "CVE-2026-13639": [
+        {
+            "title": "Synology NAS Owners Hit by C3RB3R Ransomware as Old Vulnerability Gets New Life",
+            "link": "https://www.cysecurity.news/2026/11/synology-nas-owners-hit-by-c3rb3r.html"
+        }
+    ],
+    "CVE-2026-115413": [
+        {
+            "title": "CVE-2026-115413 \u2013 AWS API MCP Server OAuth token audience validation bypass",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/"
+        }
+    ],
+    "CVE-2026-121652": [
+        {
+            "title": "CVE-2026-121652 \u2013 Stored cross-site scripting (XSS) in AWS Amplify maplibre-gl-js-amplify popup rendering",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-167-aws/"
+        }
+    ],
+    "CVE-2026-119922": [
+        {
+            "title": "CVE-2026-119922 \u2013 Babelfish for PostgreSQL Privilege Escalation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-165-aws/"
+        }
+    ],
+    "CVE-2026-119977": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-119977",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-119977"
         }
     ]
 }
