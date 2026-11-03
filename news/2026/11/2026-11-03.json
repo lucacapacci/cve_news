@@ -3,6 +3,10 @@
         {
             "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
             "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html"
+        },
+        {
+            "title": "Attackers exploit critical Node-RED flaw to deploy Linux bot and backdoors (CVE-2026-58115)",
+            "link": "https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/"
         }
     ],
     "CVE-2026-81648": [
@@ -15,6 +19,24 @@
         {
             "title": "Product showcase: Sweet Virtual Patching stops HTTP2Shell while fixes catch up",
             "link": "https://www.helpnetsecurity.com/2026/11/03/product-showcase-sweet-security-virtual-patching/"
+        }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+            "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html"
+        }
+    ],
+    "CVE-2026-75650": [
+        {
+            "title": "Hackers Exploit Adobe Commerce Zero-Day to Deploy PSK Agent RAT and Remotely Control Servers",
+            "link": "https://cybersecuritynews.com/adobe-commerce-zero-day/"
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "Hackers Target Alpine Linux GitLab Server in Attempted Critical RCE Attack",
+            "link": "https://www.cysecurity.news/2026/11/hackers-target-alpine-linux-gitlab.html"
         }
     ]
 }
