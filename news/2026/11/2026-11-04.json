@@ -31,6 +31,10 @@
         {
             "title": "Critical Barracuda Security Flaws Could Let Hackers Bypass Authentication and Gain Root Access",
             "link": "https://cybersecuritynews.com/critical-barracuda-security-flaws/"
+        },
+        {
+            "title": "Two Barracuda ESG Flaws Could Be Combined for Full Root Access; Patches Released",
+            "link": "https://securityaffairs.com/202440/security/two-barracuda-esg-flaws-could-be-combined-for-full-root-access-patches-released.html"
         }
     ],
     "CVE-2026-111560": [
@@ -45,6 +49,10 @@
         {
             "title": "Critical Barracuda Security Flaws Could Let Hackers Bypass Authentication and Gain Root Access",
             "link": "https://cybersecuritynews.com/critical-barracuda-security-flaws/"
+        },
+        {
+            "title": "Two Barracuda ESG Flaws Could Be Combined for Full Root Access; Patches Released",
+            "link": "https://securityaffairs.com/202440/security/two-barracuda-esg-flaws-could-be-combined-for-full-root-access-patches-released.html"
         }
     ],
     "CVE-2026-28336": [
@@ -335,6 +343,36 @@
         {
             "title": "CVE-2026-120497 \u2013 Stored cross-site scripting in the HTML report generator of aidlc-traceability in AWS AI-DLC Workflows",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-163-aws/"
+        }
+    ],
+    "CVE-2026-109593": [
+        {
+            "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
+            "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html"
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "Hackers Target Alpine Linux GitLab Server in Attempted Critical RCE Attack",
+            "link": "https://www.cysecurity.news/2026/11/hackers-target-alpine-linux-gitlab.html"
+        }
+    ],
+    "CVE-2026-122266": [
+        {
+            "title": "CVE-2026-122266 \u2013 Improper isolation of shared resources in aws-network-policy-agent in Amazon EKS",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-170-aws/"
+        }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+            "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html"
+        }
+    ],
+    "CVE-2024-27834": [
+        {
+            "title": "CISA KEV Addition: CVE-2024-27834",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-27834"
         }
     ]
 }
