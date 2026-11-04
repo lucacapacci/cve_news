@@ -3,12 +3,20 @@
         {
             "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
             "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html"
+        },
+        {
+            "title": "CISA Warns of Active Attacks Exploiting WordPress Core Code Execution Vulnerability",
+            "link": "https://gbhackers.com/cisa-warns-of-wordpress-core-code-execution-vulnerability/"
         }
     ],
     "CVE-2026-40217": [
         {
             "title": "Hackers Launch LLMHijacking Attacks, Leaving Companies With $1 Million in Cloud Bills",
             "link": "https://cybersecuritynews.com/llmhijacking-attacks/"
+        },
+        {
+            "title": "Hackers Hijack Cloud AI Models in LLMJacking Attacks, Leaving Victims With $1 Million Bills",
+            "link": "https://cyberpress.org/hackers-hijack-cloud-ai-models/"
         }
     ],
     "CVE-2026-116606": [
@@ -19,6 +27,10 @@
         {
             "title": "Critical Barracuda Security Flaws Allow Attackers to Bypass Authorization and Gain Root Access",
             "link": "https://cyberpress.org/critical-barracuda-security-flaws/"
+        },
+        {
+            "title": "Critical Barracuda Security Flaws Could Let Hackers Bypass Authentication and Gain Root Access",
+            "link": "https://cybersecuritynews.com/critical-barracuda-security-flaws/"
         }
     ],
     "CVE-2026-111560": [
@@ -29,6 +41,10 @@
         {
             "title": "Critical Barracuda Security Flaws Allow Attackers to Bypass Authorization and Gain Root Access",
             "link": "https://cyberpress.org/critical-barracuda-security-flaws/"
+        },
+        {
+            "title": "Critical Barracuda Security Flaws Could Let Hackers Bypass Authentication and Gain Root Access",
+            "link": "https://cybersecuritynews.com/critical-barracuda-security-flaws/"
         }
     ],
     "CVE-2026-28336": [
@@ -39,6 +55,10 @@
         {
             "title": "Critical SolarWinds Dameware Flaw Allows Attackers to Execute Commands on Remote Systems",
             "link": "https://cyberpress.org/critical-solarwinds-dameware-flaw/"
+        },
+        {
+            "title": "Critical SolarWinds Dameware Flaw Could Allow Attackers to Compromise Remote Systems",
+            "link": "https://cybersecuritynews.com/critical-solarwinds-dameware-flaw/"
         }
     ],
     "CVE-2026-28327": [
@@ -51,6 +71,270 @@
         {
             "title": "Critical SolarWinds Dameware Flaw Allows Attackers to Execute Commands on Remote Systems",
             "link": "https://cyberpress.org/critical-solarwinds-dameware-flaw/"
+        }
+    ],
+    "CVE-2026-58868": [
+        {
+            "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+            "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html"
+        },
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Gorbag Hackers Exploit WinRAR Vulnerability to Steal Credentials From Ukrainian Government Agencies",
+            "link": "https://cybersecuritynews.com/gorbag-hackers-exploit-winrar-vulnerability/"
+        },
+        {
+            "title": "Russia-Aligned Gorbag APT Exploits WinRAR CVE-2025-8088 to Deploy BeautyStealer Infostealer",
+            "link": "https://gbhackers.com/gorbag-apt-campaign/"
+        },
+        {
+            "title": "Hackers Use BeautyStealer Malware to Steal Browser Passwords and Sensitive Files Before Erasing Evidence",
+            "link": "https://cyberpress.org/beautystealer-steals-passwords-files/"
+        }
+    ],
+    "CVE-2023-2868": [
+        {
+            "title": "Critical Barracuda Security Flaws Could Let Hackers Bypass Authentication and Gain Root Access",
+            "link": "https://cybersecuritynews.com/critical-barracuda-security-flaws/"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Node.js Schedules High-Severity Security Fixes for 22.x, 24.x, and 26.x Release Lines",
+            "link": "https://cybersecuritynews.com/node-js-schedules-patch/"
+        }
+    ],
+    "CVE-2026-107441": [
+        {
+            "title": "Hackers Exploit Zyxel GS1900 Zero-Day in the Wild to Hijack Network Switches",
+            "link": "https://cybersecuritynews.com/zyxel-gs1900-zero-day-exploited/"
+        }
+    ],
+    "CVE-2026-7273": [
+        {
+            "title": "Hackers Exploit Zyxel GS1900 Zero-Day in the Wild to Hijack Network Switches",
+            "link": "https://cybersecuritynews.com/zyxel-gs1900-zero-day-exploited/"
+        }
+    ],
+    "CVE-2026-121035": [
+        {
+            "title": "Google Releases Major Chrome Security Update Fixing 213 Bugs, Including 7 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-releases-major-chrome-security-update/"
+        }
+    ],
+    "CVE-2026-121126": [
+        {
+            "title": "Google Releases Major Chrome Security Update Fixing 213 Bugs, Including 7 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-releases-major-chrome-security-update/"
+        }
+    ],
+    "CVE-2026-121203": [
+        {
+            "title": "Google Releases Major Chrome Security Update Fixing 213 Bugs, Including 7 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-releases-major-chrome-security-update/"
+        }
+    ],
+    "CVE-2026-121246": [
+        {
+            "title": "Google Releases Major Chrome Security Update Fixing 213 Bugs, Including 7 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-releases-major-chrome-security-update/"
+        }
+    ],
+    "CVE-2026-121247": [
+        {
+            "title": "Google Releases Major Chrome Security Update Fixing 213 Bugs, Including 7 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-releases-major-chrome-security-update/"
+        }
+    ],
+    "CVE-2026-121229": [
+        {
+            "title": "Google Releases Major Chrome Security Update Fixing 213 Bugs, Including 7 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-releases-major-chrome-security-update/"
+        }
+    ],
+    "CVE-2026-121156": [
+        {
+            "title": "Google Releases Major Chrome Security Update Fixing 213 Bugs, Including 7 Critical Vulnerabilities",
+            "link": "https://cybersecuritynews.com/google-releases-major-chrome-security-update/"
+        }
+    ],
+    "CVE-2026-89774": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-58936": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20499": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59048": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-58882": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-53256": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-58984": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-80335": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55283": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-55275": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-80604": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20520": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20545": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-25285": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-58857": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-58876": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59044": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20519": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59045": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-80336": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-20549": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-58814": [
+        {
+            "title": "Google Fixes 208 Android Vulnerabilities, Including Critical Zero-Click RCE Flaws",
+            "link": "https://cyberpress.org/google-fixes-208-android-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-42271": [
+        {
+            "title": "Hackers Hijack Cloud AI Models in LLMJacking Attacks, Leaving Victims With $1 Million Bills",
+            "link": "https://cyberpress.org/hackers-hijack-cloud-ai-models/"
+        }
+    ],
+    "CVE-2026-48710": [
+        {
+            "title": "Hackers Hijack Cloud AI Models in LLMJacking Attacks, Leaving Victims With $1 Million Bills",
+            "link": "https://cyberpress.org/hackers-hijack-cloud-ai-models/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "PHP2Shell on Windows and macOS: Automating the PHP Upgrade, With or Without an Agent",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "PHP2Shell on Windows and macOS: Automating the PHP Upgrade, With or Without an Agent",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-58115": [
+        {
+            "title": "Attackers Leverage Critical Node-RED Flaw to Gain Unauthorized Access",
+            "link": "https://www.cysecurity.news/2026/11/attackers-leverage-critical-node-red.html"
+        }
+    ],
+    "CVE-2026-75650": [
+        {
+            "title": "StyleSmuggler Exploitation Deploys PSK Agent RAT Against Magento Stores",
+            "link": "https://www.imperva.com/blog/stylesmuggler-exploitation-deploys-psk-agent-rat-against-magento-stores/"
+        }
+    ],
+    "CVE-2026-120497": [
+        {
+            "title": "CVE-2026-120497 \u2013 Stored cross-site scripting in the HTML report generator of aidlc-traceability in AWS AI-DLC Workflows",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-163-aws/"
         }
     ]
 }
