@@ -1,0 +1,56 @@
+{
+    "CVE-2026-119977": [
+        {
+            "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+            "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html"
+        }
+    ],
+    "CVE-2026-40217": [
+        {
+            "title": "Hackers Launch LLMHijacking Attacks, Leaving Companies With $1 Million in Cloud Bills",
+            "link": "https://cybersecuritynews.com/llmhijacking-attacks/"
+        }
+    ],
+    "CVE-2026-116606": [
+        {
+            "title": "Barracuda Email Security Gateway Flaws Expose Devices to Potential Root-Level Compromise",
+            "link": "https://gbhackers.com/barracuda-email-security-gateway-flaws/"
+        },
+        {
+            "title": "Critical Barracuda Security Flaws Allow Attackers to Bypass Authorization and Gain Root Access",
+            "link": "https://cyberpress.org/critical-barracuda-security-flaws/"
+        }
+    ],
+    "CVE-2026-111560": [
+        {
+            "title": "Barracuda Email Security Gateway Flaws Expose Devices to Potential Root-Level Compromise",
+            "link": "https://gbhackers.com/barracuda-email-security-gateway-flaws/"
+        },
+        {
+            "title": "Critical Barracuda Security Flaws Allow Attackers to Bypass Authorization and Gain Root Access",
+            "link": "https://cyberpress.org/critical-barracuda-security-flaws/"
+        }
+    ],
+    "CVE-2026-28336": [
+        {
+            "title": "Critical SolarWinds Dameware Vulnerability Enables Attackers to Take Control of Remote Systems",
+            "link": "https://gbhackers.com/critical-solarwinds-dameware-vulnerability/"
+        },
+        {
+            "title": "Critical SolarWinds Dameware Flaw Allows Attackers to Execute Commands on Remote Systems",
+            "link": "https://cyberpress.org/critical-solarwinds-dameware-flaw/"
+        }
+    ],
+    "CVE-2026-28327": [
+        {
+            "title": "Critical SolarWinds Dameware Flaw Allows Attackers to Execute Commands on Remote Systems",
+            "link": "https://cyberpress.org/critical-solarwinds-dameware-flaw/"
+        }
+    ],
+    "CVE-2026-28335": [
+        {
+            "title": "Critical SolarWinds Dameware Flaw Allows Attackers to Execute Commands on Remote Systems",
+            "link": "https://cyberpress.org/critical-solarwinds-dameware-flaw/"
+        }
+    ]
+}
