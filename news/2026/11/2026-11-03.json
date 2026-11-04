@@ -127,6 +127,16 @@
         {
             "title": "CISA KEV Addition: CVE-2026-119977",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-119977"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog"
+        }
+    ],
+    "CVE-2026-119084": [
+        {
+            "title": "CVE-2026-119084 \u2013 Remote Code Execution via Unsafe Class Loading in Amazon Redshift JDBC Driver Connection Parameters",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-168-aws/"
         }
     ]
 }
