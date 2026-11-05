@@ -13,12 +13,172 @@
         {
             "title": "Critical Citrix XenServer Vulnerability Could Let Hackers Take Over Virtualization Hosts Without Authentication",
             "link": "https://cybersecuritynews.com/critical-citrix-xenserver-vulnerability/"
+        },
+        {
+            "title": "Critical Citrix XenServer Vulnerabilities Allow Remote Attackers to Compromise Virtualization Hosts",
+            "link": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/"
         }
     ],
     "CVE-2026-98432": [
         {
             "title": "Critical Citrix XenServer Vulnerability Could Let Hackers Take Over Virtualization Hosts Without Authentication",
             "link": "https://cybersecuritynews.com/critical-citrix-xenserver-vulnerability/"
+        },
+        {
+            "title": "Critical Citrix XenServer Vulnerabilities Allow Remote Attackers to Compromise Virtualization Hosts",
+            "link": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-107441": [
+        {
+            "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+            "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/"
+        },
+        {
+            "title": "Patched Zyxel GS1900 switches remained open to in-the-wild exploit (CVE-2026-107441)",
+            "link": "https://www.helpnetsecurity.com/2026/11/05/zyxel-cve-2026-107441-exploit/"
+        }
+    ],
+    "CVE-2016-6724": [
+        {
+            "title": "GhostMap Android Flaw Can Trap Phones in Endless Reboot Loops Without Opening an App",
+            "link": "https://cybersecuritynews.com/ghostmap-android-vulnerability/"
+        }
+    ],
+    "CVE-2017-13156": [
+        {
+            "title": "GhostMap Android Flaw Can Trap Phones in Endless Reboot Loops Without Opening an App",
+            "link": "https://cybersecuritynews.com/ghostmap-android-vulnerability/"
+        }
+    ],
+    "CVE-2013-4787": [
+        {
+            "title": "GhostMap Android Flaw Can Trap Phones in Endless Reboot Loops Without Opening an App",
+            "link": "https://cybersecuritynews.com/ghostmap-android-vulnerability/"
+        }
+    ],
+    "CVE-2026-120422": [
+        {
+            "title": "Hackers Turn Popular Chinese Keyboard Software Into a Backdoor for Cyberespionage Attacks",
+            "link": "https://cybersecuritynews.com/chinese-keyboard-software/"
+        },
+        {
+            "title": "Hackers Exploit Sogou Input Method Vulnerability to Install DarkVigil Spyware on Windows Computers",
+            "link": "https://cyberpress.org/sogou-exploit-installs-darkvigil/"
+        }
+    ],
+    "CVE-2026-121145": [
+        {
+            "title": "Tata Motors iRA App Flaws Could Let Hackers Impersonate Car Owners and Access Vehicle Services",
+            "link": "https://cybersecuritynews.com/tata-motors-ira-app-flaws/"
+        }
+    ],
+    "CVE-2026-121147": [
+        {
+            "title": "Tata Motors iRA App Flaws Could Let Hackers Impersonate Car Owners and Access Vehicle Services",
+            "link": "https://cybersecuritynews.com/tata-motors-ira-app-flaws/"
+        }
+    ],
+    "CVE-2026-121146": [
+        {
+            "title": "Tata Motors iRA App Flaws Could Let Hackers Impersonate Car Owners and Access Vehicle Services",
+            "link": "https://cybersecuritynews.com/tata-motors-ira-app-flaws/"
+        }
+    ],
+    "CVE-2026-121144": [
+        {
+            "title": "Tata Motors iRA App Flaws Could Let Hackers Impersonate Car Owners and Access Vehicle Services",
+            "link": "https://cybersecuritynews.com/tata-motors-ira-app-flaws/"
+        }
+    ],
+    "CVE-2026-7273": [
+        {
+            "title": "Patched Zyxel GS1900 switches remained open to in-the-wild exploit (CVE-2026-107441)",
+            "link": "https://www.helpnetsecurity.com/2026/11/05/zyxel-cve-2026-107441-exploit/"
+        }
+    ],
+    "CVE-2022-36763": [
+        {
+            "title": "Critical Citrix XenServer Vulnerabilities Allow Remote Attackers to Compromise Virtualization Hosts",
+            "link": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-97631": [
+        {
+            "title": "Critical Citrix XenServer Vulnerabilities Allow Remote Attackers to Compromise Virtualization Hosts",
+            "link": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2024-38797": [
+        {
+            "title": "Critical Citrix XenServer Vulnerabilities Allow Remote Attackers to Compromise Virtualization Hosts",
+            "link": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2022-36764": [
+        {
+            "title": "Critical Citrix XenServer Vulnerabilities Allow Remote Attackers to Compromise Virtualization Hosts",
+            "link": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2024-38796": [
+        {
+            "title": "Critical Citrix XenServer Vulnerabilities Allow Remote Attackers to Compromise Virtualization Hosts",
+            "link": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Critical Citrix XenServer Vulnerabilities Allow Remote Attackers to Compromise Virtualization Hosts",
+            "link": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-45447": [
+        {
+            "title": "Critical Citrix XenServer Vulnerabilities Allow Remote Attackers to Compromise Virtualization Hosts",
+            "link": "https://cyberpress.org/critical-citrix-xenserver-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-109518": [
+        {
+            "title": "Debian and Ubuntu Fix APT Security Flaw That Could Give Attackers Root Access",
+            "link": "https://cyberpress.org/debian-ubuntu-fix-apt-security-flaw/"
+        }
+    ],
+    "CVE-2025-8088": [
+        {
+            "title": "Russia-Aligned Hackers Target Ukraine's War Crimes Courts and Military Aid Networks",
+            "link": "https://www.cysecurity.news/2026/11/russia-aligned-hackers-target-ukraines.html"
+        }
+    ],
+    "CVE-2026-3910": [
+        {
+            "title": "APT29-Linked Campaign Uses Compromised Websites to Target iOS and Android Devices",
+            "link": "https://www.cysecurity.news/2026/11/apt29-linked-campaign-uses-compromised.html"
+        }
+    ],
+    "CVE-2026-20700": [
+        {
+            "title": "APT29-Linked Campaign Uses Compromised Websites to Target iOS and Android Devices",
+            "link": "https://www.cysecurity.news/2026/11/apt29-linked-campaign-uses-compromised.html"
+        }
+    ],
+    "CVE-2025-43529": [
+        {
+            "title": "APT29-Linked Campaign Uses Compromised Websites to Target iOS and Android Devices",
+            "link": "https://www.cysecurity.news/2026/11/apt29-linked-campaign-uses-compromised.html"
+        }
+    ],
+    "CVE-2026-119977": [
+        {
+            "title": "CISA Warns of Actively Exploited WordPress RCE Flaw",
+            "link": "https://www.cysecurity.news/2026/11/cisa-warns-of-actively-exploited.html"
+        }
+    ],
+    "CVE-2026-58115": [
+        {
+            "title": "Attackers Leverage Critical Node-RED Flaw to Gain Unauthorized Access",
+            "link": "https://www.cysecurity.news/2026/11/attackers-leverage-critical-node-red.html"
         }
     ]
 }
