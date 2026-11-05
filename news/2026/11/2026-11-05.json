@@ -1,0 +1,24 @@
+{
+    "CVE-2024-27834": [
+        {
+            "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html"
+        },
+        {
+            "title": "U.S. CISA adds Apple\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/202464/hacking/u-s-cisa-adds-apple-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        }
+    ],
+    "CVE-2026-102703": [
+        {
+            "title": "Critical Citrix XenServer Vulnerability Could Let Hackers Take Over Virtualization Hosts Without Authentication",
+            "link": "https://cybersecuritynews.com/critical-citrix-xenserver-vulnerability/"
+        }
+    ],
+    "CVE-2026-98432": [
+        {
+            "title": "Critical Citrix XenServer Vulnerability Could Let Hackers Take Over Virtualization Hosts Without Authentication",
+            "link": "https://cybersecuritynews.com/critical-citrix-xenserver-vulnerability/"
+        }
+    ]
+}
