@@ -374,5 +374,23 @@
             "title": "CISA KEV Addition: CVE-2024-27834",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-27834"
         }
+    ],
+    "CVE-2026-66066": [
+        {
+            "title": "Critical Ruby on Rails Flaw Could Let Hackers Steal Server Secrets Through Malicious Image Uploads",
+            "link": "https://cybersecuritynews.com/critical-ruby-on-rails-flaw/"
+        }
+    ],
+    "CVE-2019-3462": [
+        {
+            "title": "Debian and Ubuntu APT Flaw Lets Hackers Hijack Software Updates and Execute Code as Root",
+            "link": "https://cybersecuritynews.com/debian-apt-flaw-lets-hackers-hijack-updates/"
+        }
+    ],
+    "CVE-2026-109518": [
+        {
+            "title": "Debian and Ubuntu APT Flaw Lets Hackers Hijack Software Updates and Execute Code as Root",
+            "link": "https://cybersecuritynews.com/debian-apt-flaw-lets-hackers-hijack-updates/"
+        }
     ]
 }
