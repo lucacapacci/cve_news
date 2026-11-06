@@ -65,6 +65,10 @@
         {
             "title": "OpenSSH flaw exploited in the wild just hours after disclosure (CVE-2026-123158)",
             "link": "https://www.helpnetsecurity.com/2026/11/06/openssh-sshole-cve-2026-123158-exploitation/"
+        },
+        {
+            "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+            "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html"
         }
     ],
     "CVE-2026-96951": [
@@ -95,6 +99,40 @@
         {
             "title": "Hackers Leave ARTEX AI Tools and Exploit Files Exposed on Public Servers, Researchers Find",
             "link": "https://cyberpress.org/hackers-expose-artex-tools/"
+        }
+    ],
+    "CVE-2026-119977": [
+        {
+            "title": "Hackers Launch 240,000 Exploit Attempts WordPress Core Flaw Enabling Remote Code Execution",
+            "link": "https://cybersecuritynews.com/240000-wordpress-exploit-attempts/"
+        }
+    ],
+    "CVE-2024-27834": [
+        {
+            "title": "U.S. CISA adds Apple\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/202464/hacking/u-s-cisa-adds-apple-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog"
+        }
+    ],
+    "CVE-2026-119923": [
+        {
+            "title": "CVE-2026-119923 and CVE-2026-119924: Issues with Babelfish for Aurora PostgreSQL",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-166-aws/"
+        }
+    ],
+    "CVE-2026-119924": [
+        {
+            "title": "CVE-2026-119923 and CVE-2026-119924: Issues with Babelfish for Aurora PostgreSQL",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-166-aws/"
+        }
+    ],
+    "CVE-2026-19868": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-19868",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-19868"
         }
     ]
 }
