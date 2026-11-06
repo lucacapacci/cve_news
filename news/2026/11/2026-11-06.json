@@ -1,0 +1,20 @@
+{
+    "CVE-2026-83844": [
+        {
+            "title": "Microsoft Patches Windows Paint RCE Flaw That Allows Hackers to Execute Code Remotely",
+            "link": "https://cyberpress.org/microsoft-windows-paint-rce-flaw/"
+        }
+    ],
+    "CVE-2026-58882": [
+        {
+            "title": "Android SMS of Death Flaw: How to Check If Your Phone Is Patched",
+            "link": "https://www.techrepublic.com/article/news-android-sms-of-death-cve-2026-58882-patch/"
+        }
+    ],
+    "CVE-2026-109518": [
+        {
+            "title": "CVE-2026-109518 \u2013 APT package manager that affects Ubuntu and Debian operating systems",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-172-aws/"
+        }
+    ]
+}
