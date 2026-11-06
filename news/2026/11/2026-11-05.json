@@ -180,5 +180,11 @@
             "title": "Attackers Leverage Critical Node-RED Flaw to Gain Unauthorized Access",
             "link": "https://www.cysecurity.news/2026/11/attackers-leverage-critical-node-red.html"
         }
+    ],
+    "CVE-2026-58882": [
+        {
+            "title": "Android SMS of Death Flaw: How to Check If Your Phone Is Patched",
+            "link": "https://www.techrepublic.com/article/news-android-sms-of-death-cve-2026-58882-patch/"
+        }
     ]
 }
