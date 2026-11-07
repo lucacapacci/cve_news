@@ -1,0 +1,66 @@
+{
+    "CVE-2026-111497": [
+        {
+            "title": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
+            "link": "https://cybersecuritynews.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
+            "link": "https://cybersecuritynews.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Insignary Releases Free Insignary-Chk Tool to Detect PHP2Shell and Node2Shell Exposure",
+            "link": "https://cybersecuritynews.com/insignary-releases-free-insignary-chk-tool-to-detect-php2shell-and-node2shell-exposure/"
+        }
+    ],
+    "CVE-2026-19868": [
+        {
+            "title": "Hackers Exploit SonicWall SSL-VPN Vulnerability to Bypass Multi-Factor Authentication in Active Attacks",
+            "link": "https://gbhackers.com/sonicwall-ssl-vpn-vulnerability/"
+        },
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-77708": [
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-19703": [
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-107154": [
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-82308": [
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-77709": [
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ],
+    "CVE-2026-107155": [
+        {
+            "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
+            "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        }
+    ]
+}
