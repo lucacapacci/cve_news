@@ -25,42 +25,90 @@
         {
             "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
             "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        },
+        {
+            "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+            "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/"
+        },
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
         }
     ],
     "CVE-2026-77708": [
         {
             "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
             "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        },
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
         }
     ],
     "CVE-2026-19703": [
         {
             "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
             "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        },
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
         }
     ],
     "CVE-2026-107154": [
         {
             "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
             "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        },
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
         }
     ],
     "CVE-2026-82308": [
         {
             "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
             "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        },
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
         }
     ],
     "CVE-2026-77709": [
         {
             "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
             "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        },
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
         }
     ],
     "CVE-2026-107155": [
         {
             "title": "Hackers Exploit SonicWall SSL VPN Flaw to Bypass SAML Authentication and MFA",
             "link": "https://cyberpress.org/sonicwall-ssl-vpn-flaw/"
+        },
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2024-53704": [
+        {
+            "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+            "link": "https://cybersecuritynews.com/sonicos-sslvpn-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-119977": [
+        {
+            "title": "Hackers Exploit WordPress Core RCE Vulnerability in Over 240,000 Attack Attempts",
+            "link": "https://gbhackers.com/exploit-wordpress-core-over-240000-attack/"
+        },
+        {
+            "title": "Hackers Launch Over 240,000 Attacks Targeting WordPress Core Remote Code Execution Flaw",
+            "link": "https://cyberpress.org/over-240000-attacks-wordpress-core/"
         }
     ]
 }
