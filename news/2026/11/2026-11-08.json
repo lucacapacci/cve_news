@@ -10,5 +10,17 @@
             "title": "Barracuda Patches Two Security Flaws That Could Let Attackers Take Over Email Security Gateways",
             "link": "https://www.cysecurity.news/2026/11/barracuda-patches-two-security-flaws.html"
         }
+    ],
+    "CVE-2026-19868": [
+        {
+            "title": "SonicWall Patches Exploited VPN Authentication Flaw",
+            "link": "https://www.cysecurity.news/2026/11/sonicwall-patches-exploited-vpn.html"
+        }
+    ],
+    "CVE-2026-123158": [
+        {
+            "title": "Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)",
+            "link": "https://isc.sans.edu/diary/rss/33498"
+        }
     ]
 }
