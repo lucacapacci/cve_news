@@ -1,0 +1,130 @@
+{
+    "CVE-2026-19868": [
+        {
+            "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+            "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html"
+        },
+        {
+            "title": "CISA Warns of SonicWall SonicOS SSLVPN Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/sonicwall-sonicos-sslvpn-vulnerability-exploited/"
+        },
+        {
+            "title": "SonicWall Warns of Actively Exploited SSL-VPN Vulnerability That Bypasses SAML and MFA Protection",
+            "link": "https://gbhackers.com/sonicwall-warns-of-actively-exploited-ssl-vpn-vulnerability/"
+        },
+        {
+            "title": "Exploited SonicWall SSL-VPN flaw lets attackers bypass SAML-enforced MFA (CVE-2026-19868)",
+            "link": "https://www.helpnetsecurity.com/2026/11/09/exploited-sonicwall-ssl-vpn-flaw-lets-attackers-bypass-saml-enforced-mfa-cve-2026-19868/"
+        },
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2024-53704": [
+        {
+            "title": "CISA Warns of SonicWall SonicOS SSLVPN Vulnerability Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/sonicwall-sonicos-sslvpn-vulnerability-exploited/"
+        }
+    ],
+    "CVE-2026-96656": [
+        {
+            "title": "Hackers Exploit Plex2Shell Flaws to Take Over Plex Media Servers and Deploy Crypto Miners",
+            "link": "https://cybersecuritynews.com/hackers-exploit-plex2shell-flaws/"
+        }
+    ],
+    "CVE-2026-96655": [
+        {
+            "title": "Hackers Exploit Plex2Shell Flaws to Take Over Plex Media Servers and Deploy Crypto Miners",
+            "link": "https://cybersecuritynews.com/hackers-exploit-plex2shell-flaws/"
+        }
+    ],
+    "CVE-2026-96654": [
+        {
+            "title": "Hackers Exploit Plex2Shell Flaws to Take Over Plex Media Servers and Deploy Crypto Miners",
+            "link": "https://cybersecuritynews.com/hackers-exploit-plex2shell-flaws/"
+        }
+    ],
+    "CVE-2026-96652": [
+        {
+            "title": "Hackers Exploit Plex2Shell Flaws to Take Over Plex Media Servers and Deploy Crypto Miners",
+            "link": "https://cybersecuritynews.com/hackers-exploit-plex2shell-flaws/"
+        }
+    ],
+    "CVE-2026-63774": [
+        {
+            "title": "CISA Warns Two Critical 9.0 Flaws in PowerSYSTEM Center Allow Unauthorized Access and SQL Injection",
+            "link": "https://cybersecuritynews.com/cisa-warns-critical-flaws-in-powersystem-center/"
+        }
+    ],
+    "CVE-2026-63017": [
+        {
+            "title": "CISA Warns Two Critical 9.0 Flaws in PowerSYSTEM Center Allow Unauthorized Access and SQL Injection",
+            "link": "https://cybersecuritynews.com/cisa-warns-critical-flaws-in-powersystem-center/"
+        }
+    ],
+    "CVE-2026-73857": [
+        {
+            "title": "ModSecurity Patches Two High-Severity Flaws Allowing WAF Bypass and Potential Remote Code Execution",
+            "link": "https://cybersecuritynews.com/modsecurity-patches-two-high-severity-flaws/"
+        }
+    ],
+    "CVE-2026-104269": [
+        {
+            "title": "ModSecurity Patches Two High-Severity Flaws Allowing WAF Bypass and Potential Remote Code Execution",
+            "link": "https://cybersecuritynews.com/modsecurity-patches-two-high-severity-flaws/"
+        },
+        {
+            "title": "Critical ModSecurity WAF Flaw Lets Hackers Bypass File Upload Security and Deploy Web Shells",
+            "link": "https://cyberpress.org/critical-modsecurity-waf-flaw/"
+        }
+    ],
+    "CVE-2026-52747": [
+        {
+            "title": "Critical ModSecurity WAF Flaw Lets Hackers Bypass File Upload Security and Deploy Web Shells",
+            "link": "https://cyberpress.org/critical-modsecurity-waf-flaw/"
+        }
+    ],
+    "CVE-2026-77708": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2026-107155": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2026-19703": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2026-82308": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2026-107154": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2026-77709": [
+        {
+            "title": "Hackers Exploit SonicWall SonicOS Vulnerability to Bypass SAML Authentication",
+            "link": "https://cyberpress.org/hackers-exploit-sonicwall-sonicos-vulnerability/"
+        }
+    ],
+    "CVE-2025-55182": [
+        {
+            "title": "Hackers Could Exploit React Server Components Flaw to Execute Malicious Code on Servers",
+            "link": "https://cyberpress.org/exploit-react-server-components-flaw/"
+        }
+    ]
+}
