@@ -1,0 +1,8 @@
+{
+    "CVE-2026-111760": [
+        {
+            "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+            "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html"
+        }
+    ]
+}

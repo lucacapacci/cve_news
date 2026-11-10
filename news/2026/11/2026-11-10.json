@@ -79,6 +79,14 @@
         {
             "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
             "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"
+        },
+        {
+            "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-125350",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-125350"
         }
     ],
     "CVE-2026-125342": [
@@ -467,6 +475,885 @@
             "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
             "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
             "listOnly": true
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+            "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+            "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html"
+        }
+    ],
+    "CVE-2026-124194": [
+        {
+            "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+            "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/"
+        },
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194"
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-124194",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-124194"
+        }
+    ],
+    "CVE-2026-118207": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194"
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88230": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118146": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194"
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119892": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119818": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119886": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119952": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194"
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112811": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-83563": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121662": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-105524": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119903": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120002": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194"
+        }
+    ],
+    "CVE-2026-119853": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-116714": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113862": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-105501": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121663": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109473": [
+        {
+            "title": "Microsoft\u2019s November 2026 Patch Tuesday addresses 1093 CVEs (CVE-2026-124194)",
+            "link": "https://www.tenable.com/blog/microsoft-november-2026-patch-tuesday-addresses-1093-cves-cve-2026-124194",
+            "listOnly": true
+        },
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118145": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119966": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88235": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118148": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120789": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119964": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119990": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-116928": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88238": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120788": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110047": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-114169": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-116710": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111309": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118713": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118292": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95874": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118737": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113819": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110067": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88242": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113860": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111285": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113861": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112745": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120786": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118701": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112759": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120005": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124185": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109459": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119992": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113856": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119389": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113864": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118296": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119960": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119957": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119951": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110043": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95983": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119382": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113749": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-122175": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125134": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110068": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113865": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112970": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112791": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118711": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119947": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119963": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112798": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120003": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95935": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97013": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125136": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-122194": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113752": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111289": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112967": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118730": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95989": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119967": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95963": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113825": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119962": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118297": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119398": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-95988": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-118702": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-94514": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-114160": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119958": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113859": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-96077": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119961": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113753": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125137": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124170": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-96126": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119969": [
+        {
+            "title": "Microsoft Patch Tuesday, November 2026 Security Update Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111793": [
+        {
+            "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-111793",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-111793"
+        }
+    ],
+    "CVE-2026-20320": [
+        {
+            "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-20320",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-20320"
+        }
+    ],
+    "CVE-2026-111560": [
+        {
+            "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-111560",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-111560"
+        }
+    ],
+    "CVE-2026-116606": [
+        {
+            "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-116606",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-116606"
+        }
+    ],
+    "CVE-2026-124848": [
+        {
+            "title": "CVE-2026-124848 \u2013 Incorrect default permissions on session transcripts and prompt history in Kiro CLI",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-178-aws/"
+        }
+    ],
+    "CVE-2026-111760": [
+        {
+            "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+            "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html"
         }
     ]
 }
