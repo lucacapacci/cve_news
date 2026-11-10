@@ -1,0 +1,117 @@
+{
+    "CVE-2026-125349": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-exploited/"
+        },
+        {
+            "title": "Google Fixes Actively Exploited Chrome Zero-Day Vulnerability in Emergency Security Update",
+            "link": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125347": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-exploited/"
+        },
+        {
+            "title": "Google Fixes Actively Exploited Chrome Zero-Day Vulnerability in Emergency Security Update",
+            "link": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125346": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-exploited/"
+        },
+        {
+            "title": "Google Fixes Actively Exploited Chrome Zero-Day Vulnerability in Emergency Security Update",
+            "link": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-125344": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-exploited/"
+        },
+        {
+            "title": "Google Fixes Actively Exploited Chrome Zero-Day Vulnerability in Emergency Security Update",
+            "link": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-125343": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-exploited/"
+        },
+        {
+            "title": "Google Fixes Actively Exploited Chrome Zero-Day Vulnerability in Emergency Security Update",
+            "link": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125345": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-exploited/"
+        },
+        {
+            "title": "Google Fixes Actively Exploited Chrome Zero-Day Vulnerability in Emergency Security Update",
+            "link": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125350": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-exploited/"
+        },
+        {
+            "title": "Google Fixes Actively Exploited Chrome Zero-Day Vulnerability in Emergency Security Update",
+            "link": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/"
+        },
+        {
+            "title": "Google Chrome Zero-Day Vulnerability Exploited in the Wild",
+            "link": "https://gbhackers.com/google-chrome-zero-day-vulnerability-2/"
+        }
+    ],
+    "CVE-2026-125342": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-exploited/"
+        },
+        {
+            "title": "Google Fixes Actively Exploited Chrome Zero-Day Vulnerability in Emergency Security Update",
+            "link": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125348": [
+        {
+            "title": "Google Chrome 0-Day Vulnerability in the Wild to Execute Malicious Code Remotely",
+            "link": "https://cybersecuritynews.com/google-chrome-0-day-exploited/"
+        },
+        {
+            "title": "Google Fixes Actively Exploited Chrome Zero-Day Vulnerability in Emergency Security Update",
+            "link": "https://cyberpress.org/google-exploited-chrome-zero-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-86218": [
+        {
+            "title": "N-able Takes N-central Servers Offline Worldwide After 33 0-Day Vulnerabilities and Able2Shell Exploits",
+            "link": "https://cybersecuritynews.com/n-able-takes-n-central-servers-offline/"
+        },
+        {
+            "title": "N-able Takes N-central Servers Offline After 33 Critical Vulnerabilities Are Disclosed",
+            "link": "https://cyberpress.org/n-able-takes-n-central-servers-offline/"
+        }
+    ],
+    "CVE-2026-18577": [
+        {
+            "title": "N-able Takes N-central Servers Offline After 33 Critical Vulnerabilities Are Disclosed",
+            "link": "https://cyberpress.org/n-able-takes-n-central-servers-offline/"
+        }
+    ]
+}
