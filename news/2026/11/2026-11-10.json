@@ -75,6 +75,10 @@
         {
             "title": "Google Chrome Zero-Day Vulnerability Exploited in the Wild",
             "link": "https://gbhackers.com/google-chrome-zero-day-vulnerability-2/"
+        },
+        {
+            "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+            "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html"
         }
     ],
     "CVE-2026-125342": [
@@ -112,6 +116,357 @@
         {
             "title": "N-able Takes N-central Servers Offline After 33 Critical Vulnerabilities Are Disclosed",
             "link": "https://cyberpress.org/n-able-takes-n-central-servers-offline/"
+        },
+        {
+            "title": "Critical vulnerabilities in N-able N-central prompt hosted shutdown",
+            "link": "https://www.rapid7.com/blog/post/etr-critical-vulnerabilities-in-n-able-n-central-prompt-hosted-shutdown"
+        }
+    ],
+    "CVE-2026-123218": [
+        {
+            "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+            "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html"
+        },
+        {
+            "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+            "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-116779": [
+        {
+            "title": "IBM Aspera Faspex, SignalWire FreeSwitch Vulnerabilities Exploited in Attacks",
+            "link": "https://www.securityweek.com/ibm-aspera-faspex-signalwire-freeswitch-vulnerabilities-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-68982": [
+        {
+            "title": "Critical Apache Airflow Flaw CVE-2026-68982 Enables Unauthenticated Remote Code Execution",
+            "link": "https://gbhackers.com/critical-apache-airflow-flaw-cve-2026-68982-enables-unauthenticated-remote-code-execution/"
+        },
+        {
+            "title": "Critical Apache Airflow Flaw Allows Hackers to Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-apache-airflow-flaw/"
+        },
+        {
+            "title": "Critical Apache Airflow RCE Flaw Allows Attackers to Execute Code Without Authentication",
+            "link": "https://cybersecuritynews.com/critical-apache-airflow-rce-flaw/"
+        }
+    ],
+    "CVE-2020-11981": [
+        {
+            "title": "Critical Apache Airflow Flaw Allows Hackers to Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-apache-airflow-flaw/"
+        }
+    ],
+    "CVE-2026-89131": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109799": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109795": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120012": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109805": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-44768": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-76976": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109808": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109800": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109804": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89126": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/"
+        }
+    ],
+    "CVE-2026-120016": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-73635": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89125": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120008": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109798": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109796": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89103": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/"
+        }
+    ],
+    "CVE-2026-109801": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109802": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120014": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109794": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109811": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109809": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109793": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-76965": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120009": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109797": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89128": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120017": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/"
+        }
+    ],
+    "CVE-2026-120015": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-76973": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109803": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109810": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89119": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-76970": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89129": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-76964": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/"
+        }
+    ],
+    "CVE-2026-120013": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-76966": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-120010": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109807": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89115": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109806": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-89114": [
+        {
+            "title": "SAP Patches Four Maximum-Severity Vulnerabilities Affecting NetWeaver and Web Dispatcher",
+            "link": "https://cyberpress.org/sap-severity-vulnerabilities-netweaver-web-dispatcher/",
+            "listOnly": true
         }
     ]
 }
