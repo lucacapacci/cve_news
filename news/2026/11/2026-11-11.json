@@ -7939,5 +7939,23 @@
             "title": "Google fixes the eighth actively exploited Chrome zero-day of 2026",
             "link": "https://securityaffairs.com/202772/breaking-news/google-fixes-the-eighth-actively-exploited-chrome-zero-day-of-2026.html"
         }
+    ],
+    "CVE-2026-108186": [
+        {
+            "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+            "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html"
+        }
+    ],
+    "CVE-2026-105134": [
+        {
+            "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+            "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html"
+        }
+    ],
+    "CVE-2026-105133": [
+        {
+            "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+            "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html"
+        }
     ]
 }
