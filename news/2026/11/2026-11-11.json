@@ -4,5 +4,94 @@
             "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
             "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html"
         }
+    ],
+    "CVE-2026-20320": [
+        {
+            "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+            "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html"
+        }
+    ],
+    "CVE-2026-125878": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2025-8876": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-18556": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125883": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2026-125882": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2026-125881": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2026-125879": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2026-91000": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2026-125880": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities"
+        }
+    ],
+    "CVE-2026-18577": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86218": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-8875": [
+        {
+            "title": "Able2Shell: Frequently asked questions for reported N-able N-central zero-day vulnerabilities",
+            "link": "https://www.tenable.com/blog/able2shell-frequently-asked-questions-for-reported-n-able-n-central-zero-day-vulnerabilities",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124194": [
+        {
+            "title": "Microsoft Outlook Zero-Day Vulnerability Actively Exploited to Steal NTLM Authentication Hashes",
+            "link": "https://gbhackers.com/microsoft-outlook-zero-day-vulnerability/"
+        }
     ]
 }
