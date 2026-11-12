@@ -33,6 +33,10 @@
         {
             "title": "The November 2026 Security Update Review",
             "link": "https://www.thezdi.com/blog/2026/11/10/the-november-2026-security-update-review"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Microsoft Outlook Zero-Day Vulnerability",
+            "link": "https://gbhackers.com/cisa-warns-of-microsoft-outlook-zero-day-vulnerability/"
         }
     ],
     "CVE-2026-126087": [
@@ -45,12 +49,24 @@
         {
             "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
             "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html"
+        },
+        {
+            "title": "Critical MongoDB Use-After-Free Vulnerability Allows Remote Code Execution Without Authentication",
+            "link": "https://gbhackers.com/critical-mongodb-use-after-free-vulnerability/"
         }
     ],
     "CVE-2026-119618": [
         {
             "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
             "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html"
+        },
+        {
+            "title": "Apache Patches Critical HTTP Server RCE Found by Anthropic, Google",
+            "link": "https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/"
+        },
+        {
+            "title": "Critical Apache HTTP/2 Vulnerability (CVE-2026-119618): How Imperva Protects Customers",
+            "link": "https://www.imperva.com/blog/critical-apache-http-2-vulnerability-cve-2026-119618-how-imperva-protects-customers/"
         }
     ],
     "CVE-2026-76466": [
@@ -93,6 +109,30 @@
         {
             "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
             "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html"
+        }
+    ],
+    "CVE-2026-120868": [
+        {
+            "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+            "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html"
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+            "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html"
+        }
+    ],
+    "CVE-2026-126325": [
+        {
+            "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+            "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html"
+        }
+    ],
+    "CVE-2026-127119": [
+        {
+            "title": "CVE-2026-127119 \u2013 Unverified ownership of the default EMR cluster log location in AWS SDK for pandas",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-181-aws/"
         }
     ]
 }
