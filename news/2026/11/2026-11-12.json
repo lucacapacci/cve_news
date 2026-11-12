@@ -1,0 +1,44 @@
+{
+    "CVE-2026-108187": [
+        {
+            "title": "Zoom Workplace Flaws Allow Privilege Escalation",
+            "link": "https://www.webpronews.com/zoom-workplace-flaws-allow-privilege-escalation/"
+        }
+    ],
+    "CVE-2026-108186": [
+        {
+            "title": "Zoom Workplace Flaws Allow Privilege Escalation",
+            "link": "https://www.webpronews.com/zoom-workplace-flaws-allow-privilege-escalation/"
+        }
+    ],
+    "CVE-2026-111760": [
+        {
+            "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+            "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html"
+        }
+    ],
+    "CVE-2026-116928": [
+        {
+            "title": "The November 2026 Security Update Review",
+            "link": "https://www.thezdi.com/blog/2026/11/10/the-november-2026-security-update-review"
+        }
+    ],
+    "CVE-2026-119958": [
+        {
+            "title": "The November 2026 Security Update Review",
+            "link": "https://www.thezdi.com/blog/2026/11/10/the-november-2026-security-update-review"
+        }
+    ],
+    "CVE-2026-124194": [
+        {
+            "title": "The November 2026 Security Update Review",
+            "link": "https://www.thezdi.com/blog/2026/11/10/the-november-2026-security-update-review"
+        }
+    ],
+    "CVE-2026-126087": [
+        {
+            "title": "CVE-2026-126087 \u2013 Untrusted search path in OpenJD Sessions for Python and the AWS Deadline Cloud worker agent",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/"
+        }
+    ]
+}
