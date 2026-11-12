@@ -40,5 +40,59 @@
             "title": "CVE-2026-126087 \u2013 Untrusted search path in OpenJD Sessions for Python and the AWS Deadline Cloud worker agent",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/"
         }
+    ],
+    "CVE-2026-118383": [
+        {
+            "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+            "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html"
+        }
+    ],
+    "CVE-2026-119618": [
+        {
+            "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+            "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html"
+        }
+    ],
+    "CVE-2026-76466": [
+        {
+            "title": "PoC Exploit Released for Critical Cisco Expressway RCE Vulnerability With CVSS 9.8 Score",
+            "link": "https://gbhackers.com/poc-exploit-released-for-critical-cisco-expressway-rce/"
+        }
+    ],
+    "CVE-2026-0330": [
+        {
+            "title": "Palo Alto Networks Patches PAN-OS Vulnerability Allowing Remote Code Execution With Root Privileges",
+            "link": "https://gbhackers.com/palo-alto-networks-patches-pan-os-vulnerability/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "PHP2Shell and Node2Shell: Find, Fix, and Verify Across Your Web Apps and APIs",
+            "link": "https://blog.qualys.com/category/qualys-insights"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "PHP2Shell and Node2Shell: Find, Fix, and Verify Across Your Web Apps and APIs",
+            "link": "https://blog.qualys.com/category/qualys-insights"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "PHP2Shell and Node2Shell: Find, Fix, and Verify Across Your Web Apps and APIs",
+            "link": "https://blog.qualys.com/category/qualys-insights"
+        }
+    ],
+    "CVE-2026-102895": [
+        {
+            "title": "Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)",
+            "link": "https://isc.sans.edu/diary/rss/33514"
+        }
+    ],
+    "CVE-2026-20320": [
+        {
+            "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+            "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html"
+        }
     ]
 }
