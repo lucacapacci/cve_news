@@ -9,6 +9,10 @@
         {
             "title": "Critical Red Hat Quay Vulnerability Allows Hackers to Hijack Private Container Registries",
             "link": "https://gbhackers.com/critical-red-hat-quay-vulnerability/"
+        },
+        {
+            "title": "Critical Red Hat Quay Flaw Could Allow Attackers to Steal Private Container Images",
+            "link": "https://www.cysecurity.news/2026/11/critical-red-hat-quay-flaw-could-allow.html"
         }
     ],
     "CVE-2026-125926": [
@@ -27,6 +31,10 @@
         {
             "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
             "link": "https://blog.qualys.com/category/product-tech"
+        },
+        {
+            "title": "November Patch Tuesday: How to Sort Through the Patches",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
         }
     ],
     "CVE-2026-28400": [
@@ -45,6 +53,42 @@
         {
             "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
             "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-118207": [
+        {
+            "title": "November Patch Tuesday: How to Sort Through the Patches",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-119892": [
+        {
+            "title": "November Patch Tuesday: How to Sort Through the Patches",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-118146": [
+        {
+            "title": "November Patch Tuesday: How to Sort Through the Patches",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-119618": [
+        {
+            "title": "Apache HTTP/2 Security Flaw Exposes Servers to Critical Remote Code Execution Attacks",
+            "link": "https://www.cysecurity.news/2026/11/apache-http2-security-flaw-exposes.html"
+        }
+    ],
+    "CVE-2026-23918": [
+        {
+            "title": "Apache HTTP/2 Security Flaw Exposes Servers to Critical Remote Code Execution Attacks",
+            "link": "https://www.cysecurity.news/2026/11/apache-http2-security-flaw-exposes.html"
+        }
+    ],
+    "CVE-2026-43284": [
+        {
+            "title": "GSocket Backdoor Allows Hackers to Retain Remote Control Over Linux Servers",
+            "link": "https://www.cysecurity.news/2026/11/gsocket-backdoor-allows-hackers-to.html"
         }
     ]
 }
