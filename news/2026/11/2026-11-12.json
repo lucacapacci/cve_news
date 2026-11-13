@@ -37,6 +37,14 @@
         {
             "title": "CISA Warns of Actively Exploited Microsoft Outlook Zero-Day Vulnerability",
             "link": "https://gbhackers.com/cisa-warns-of-microsoft-outlook-zero-day-vulnerability/"
+        },
+        {
+            "title": "CISA Confirms Active Exploitation of Outlook User Interaction 0-Day Vulnerability",
+            "link": "https://cybersecuritynews.com/active-exploitation-of-outlook-0-day-vulnerability/"
+        },
+        {
+            "title": "CISA Confirms Active Exploitation of Microsoft Outlook Zero-Day Vulnerability",
+            "link": "https://cyberpress.org/cisa-microsoft-outlook-zero-day-vulnerability/"
         }
     ],
     "CVE-2026-126087": [
@@ -53,6 +61,10 @@
         {
             "title": "Critical MongoDB Use-After-Free Vulnerability Allows Remote Code Execution Without Authentication",
             "link": "https://gbhackers.com/critical-mongodb-use-after-free-vulnerability/"
+        },
+        {
+            "title": "Critical MongoDB Flaw Allows Unauthenticated Attackers to Crash Database Servers, Trigger RCE",
+            "link": "https://cyberpress.org/critical-mongodb-flaw/"
         }
     ],
     "CVE-2026-119618": [
@@ -73,12 +85,20 @@
         {
             "title": "PoC Exploit Released for Critical Cisco Expressway RCE Vulnerability With CVSS 9.8 Score",
             "link": "https://gbhackers.com/poc-exploit-released-for-critical-cisco-expressway-rce/"
+        },
+        {
+            "title": "Critical Cisco Expressway Flaw Allows Hackers to Execute Root Commands, Public PoC Released",
+            "link": "https://cyberpress.org/critical-cisco-expressway-flaw-poc-released/"
         }
     ],
     "CVE-2026-0330": [
         {
             "title": "Palo Alto Networks Patches PAN-OS Vulnerability Allowing Remote Code Execution With Root Privileges",
             "link": "https://gbhackers.com/palo-alto-networks-patches-pan-os-vulnerability/"
+        },
+        {
+            "title": "Palo Alto Networks Patches Panorama RCE Flaw Allowing Administrators to Gain Root Access",
+            "link": "https://cyberpress.org/palo-alto-networks-patches-panorama-rce-flaw/"
         }
     ],
     "CVE-2026-109619": [
@@ -133,6 +153,634 @@
         {
             "title": "CVE-2026-127119 \u2013 Unverified ownership of the default EMR cluster log location in AWS SDK for pandas",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-181-aws/"
+        }
+    ],
+    "CVE-2023-23397": [
+        {
+            "title": "CISA Confirms Active Exploitation of Outlook User Interaction 0-Day Vulnerability",
+            "link": "https://cybersecuritynews.com/active-exploitation-of-outlook-0-day-vulnerability/"
+        },
+        {
+            "title": "CISA Confirms Active Exploitation of Microsoft Outlook Zero-Day Vulnerability",
+            "link": "https://cyberpress.org/cisa-microsoft-outlook-zero-day-vulnerability/"
+        }
+    ],
+    "CVE-2026-123710": [
+        {
+            "title": "Critical Red Hat Quay Vulnerability Allows Unauthenticated Attackers to Hijack Container Registries",
+            "link": "https://cybersecuritynews.com/red-hat-quay-vulnerability/"
+        }
+    ],
+    "CVE-2026-125926": [
+        {
+            "title": "AWS MCP Gateway Security Flaw Allowing Access to Internal Networks and Cloud Credentials",
+            "link": "https://cybersecuritynews.com/aws-mcp-gateway-security-flaw/"
+        }
+    ],
+    "CVE-2026-81936": [
+        {
+            "title": "Lenovo Warns of High-Severity Server Flaw That Restores Default Root Credentials After Reset",
+            "link": "https://cybersecuritynews.com/lenovo-server-flaw/"
+        }
+    ],
+    "CVE-2026-8053": [
+        {
+            "title": "Critical MongoDB Flaw Allows Unauthenticated Attackers to Crash Database Servers, Trigger RCE",
+            "link": "https://cyberpress.org/critical-mongodb-flaw/"
+        }
+    ],
+    "CVE-2026-25611": [
+        {
+            "title": "Critical MongoDB Flaw Allows Unauthenticated Attackers to Crash Database Servers, Trigger RCE",
+            "link": "https://cyberpress.org/critical-mongodb-flaw/"
+        }
+    ],
+    "CVE-2026-0322": [
+        {
+            "title": "Palo Alto Networks Patches Panorama RCE Flaw Allowing Administrators to Gain Root Access",
+            "link": "https://cyberpress.org/palo-alto-networks-patches-panorama-rce-flaw/"
+        }
+    ],
+    "CVE-2026-126906": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126867": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126860": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126890": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126866": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126865": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126918": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126902": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126898": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126903": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126859": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126864": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126885": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/"
+        }
+    ],
+    "CVE-2026-126919": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126917": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126883": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126888": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126869": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126857": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126905": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126846": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/"
+        }
+    ],
+    "CVE-2026-126843": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126841": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126852": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126850": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126874": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126893": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126849": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126921": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126911": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/"
+        }
+    ],
+    "CVE-2026-126909": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126895": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/"
+        }
+    ],
+    "CVE-2026-126901": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126872": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126896": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126892": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126891": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126878": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126853": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126894": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126855": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126848": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126904": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126912": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126907": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126847": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126914": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126913": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126862": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126910": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126880": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126915": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126884": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126873": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126856": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126851": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126908": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126877": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126899": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126863": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126879": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/"
+        }
+    ],
+    "CVE-2026-126858": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126844": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126842": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126887": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126876": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126881": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126861": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126920": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126922": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126916": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126840": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126868": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126845": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126871": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126854": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126886": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126882": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126875": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126897": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126889": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126900": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126870": [
+        {
+            "title": "Google Chrome Patches 83 Security Flaws, Including Five Critical Memory Corruption Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-patches-83-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-100307": [
+        {
+            "title": "CVE-2026-100307 \u2013 Missing authorization on the external management API in mcp-gateway-registry enables privilege escalation to registry administrator",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-179-aws/"
         }
     ]
 }
