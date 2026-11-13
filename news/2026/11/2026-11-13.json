@@ -1,0 +1,50 @@
+{
+    "CVE-2026-123039": [
+        {
+            "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+            "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/"
+        }
+    ],
+    "CVE-2026-123710": [
+        {
+            "title": "Critical Red Hat Quay Vulnerability Allows Hackers to Hijack Private Container Registries",
+            "link": "https://gbhackers.com/critical-red-hat-quay-vulnerability/"
+        }
+    ],
+    "CVE-2026-125926": [
+        {
+            "title": "AWS Warns of MCP Gateway Registry Vulnerability Allowing Attackers to Access Internal Network Services",
+            "link": "https://gbhackers.com/aws-warns-of-mcp-gateway-registry-vulnerability/"
+        }
+    ],
+    "CVE-2026-96951": [
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-124194": [
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-28400": [
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2025-23266": [
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2025-6514": [
+        {
+            "title": "AI Didn\u2019t Create a New Kind of Risk. It Removed the Time You Had to Fix the Old One.",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ]
+}
