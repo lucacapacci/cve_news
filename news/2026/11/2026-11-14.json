@@ -36,5 +36,11 @@
             "title": "Chinese-Linked Hackers Use ARTEX AI Agents to Target AI Platforms and Crypto Exchanges",
             "link": "https://cyberpress.org/chinese-linked-artex-ai-agents/"
         }
+    ],
+    "CVE-2026-114713": [
+        {
+            "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+            "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html"
+        }
     ]
 }
