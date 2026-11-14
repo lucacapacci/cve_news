@@ -106,5 +106,11 @@
             "title": "CISA KEV Addition: CVE-2026-114713",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-114713"
         }
+    ],
+    "CVE-2026-126793": [
+        {
+            "title": "CVE-2026-126793 \u2013 Privilege escalation in Aurora PostgreSQL dialect detection in AWS Advanced Go Wrapper",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-182-aws/"
+        }
     ]
 }
