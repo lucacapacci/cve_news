@@ -7,6 +7,10 @@
         {
             "title": "CISA KEV Addition: CVE-2026-123039",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-123039"
+        },
+        {
+            "title": "Hackers Exploit Check Point PHP2Shell Flaws to Gain Root Access and Deploy Wiper Malware",
+            "link": "https://cyberpress.org/check-point-php2shell-flaws/"
         }
     ],
     "CVE-2026-123710": [
@@ -111,6 +115,18 @@
         {
             "title": "CVE-2026-126793 \u2013 Privilege escalation in Aurora PostgreSQL dialect detection in AWS Advanced Go Wrapper",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-182-aws/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Hackers Exploit Check Point PHP2Shell Flaws to Gain Root Access and Deploy Wiper Malware",
+            "link": "https://cyberpress.org/check-point-php2shell-flaws/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Hackers Exploit Check Point PHP2Shell Flaws to Gain Root Access and Deploy Wiper Malware",
+            "link": "https://cyberpress.org/check-point-php2shell-flaws/"
         }
     ]
 }

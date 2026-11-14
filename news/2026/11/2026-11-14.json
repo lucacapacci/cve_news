@@ -1,0 +1,40 @@
+{
+    "CVE-2026-123039": [
+        {
+            "title": "CISA Warns of Actively Exploited Check Point Zero-Day Vulnerability Allowing Attackers to Gain Root Access",
+            "link": "https://gbhackers.com/cisa-check-point-zero-day-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of Actively Exploited Check Point Zero-Day Allowing Root Access",
+            "link": "https://cyberpress.org/cisa-check-point-zero-day/"
+        },
+        {
+            "title": "CISA Warns of Check Point 0-Day Vulnerability Exploited to Gain Root Access",
+            "link": "https://cybersecuritynews.com/check-point-0-day-vulnerability/"
+        }
+    ],
+    "CVE-2023-34048": [
+        {
+            "title": "BlackNevas Ransomware Gang Destroys VMware ESXi Servers and Backups in 10-Day Attack",
+            "link": "https://cyberpress.org/blacknevas-ransomware-vmware-esxi-servers/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "BlackNevas Ransomware Gang Destroys VMware ESXi Servers and Backups in 10-Day Attack",
+            "link": "https://cyberpress.org/blacknevas-ransomware-vmware-esxi-servers/"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "Chinese-Linked Hackers Use ARTEX AI Agents to Target AI Platforms and Crypto Exchanges",
+            "link": "https://cyberpress.org/chinese-linked-artex-ai-agents/"
+        }
+    ],
+    "CVE-2026-28797": [
+        {
+            "title": "Chinese-Linked Hackers Use ARTEX AI Agents to Target AI Platforms and Crypto Exchanges",
+            "link": "https://cyberpress.org/chinese-linked-artex-ai-agents/"
+        }
+    ]
+}
