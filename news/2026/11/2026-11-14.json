@@ -54,5 +54,11 @@
             "title": "PostgreSQL\u2019s Largest Ever Security Release Patches 52 Flaws, Including a 22-Year-Old Bug Any Logged-In User Could Weaponize",
             "link": "https://www.cysecurity.news/2026/11/postgresqls-largest-ever-security.html"
         }
+    ],
+    "CVE-2026-90436": [
+        {
+            "title": "Hackers Exploit New N-able N-central Zero-Day Hours After PoC Release",
+            "link": "https://www.cysecurity.news/2026/11/hackers-exploit-new-n-able-n-central.html"
+        }
     ]
 }
