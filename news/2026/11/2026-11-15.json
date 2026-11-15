@@ -4,5 +4,11 @@
             "title": "Hackers Exploit New N-able N-central Zero-Day Hours After PoC Release",
             "link": "https://www.cysecurity.news/2026/11/hackers-exploit-new-n-able-n-central.html"
         }
+    ],
+    "CVE-2026-114713": [
+        {
+            "title": "Attackers Exploit Critical UnrealIRCd Flaw Enabling Server Command Injection",
+            "link": "https://www.cysecurity.news/2026/11/attackers-exploit-critical-unrealircd.html"
+        }
     ]
 }
