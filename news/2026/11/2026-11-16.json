@@ -1,0 +1,80 @@
+{
+    "CVE-2026-114713": [
+        {
+            "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+            "link": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-65339": [
+        {
+            "title": "Apple Microphone Vulnerability Allows Hackers to Secretly Record Audio Without User Permission",
+            "link": "https://gbhackers.com/apple-microphone-vulnerability/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Google Finds an AI Agent That Turned Security Patches Into Exploits With No Human Help",
+            "link": "https://www.webpronews.com/google-exploit-agent-ai-patch-exploits-no-human/"
+        }
+    ],
+    "CVE-2026-82078": [
+        {
+            "title": "Google Finds an AI Agent That Turned Security Patches Into Exploits With No Human Help",
+            "link": "https://www.webpronews.com/google-exploit-agent-ai-patch-exploits-no-human/"
+        }
+    ],
+    "CVE-2026-81578": [
+        {
+            "title": "Google Finds an AI Agent That Turned Security Patches Into Exploits With No Human Help",
+            "link": "https://www.webpronews.com/google-exploit-agent-ai-patch-exploits-no-human/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Google Finds an AI Agent That Turned Security Patches Into Exploits With No Human Help",
+            "link": "https://www.webpronews.com/google-exploit-agent-ai-patch-exploits-no-human/"
+        }
+    ],
+    "CVE-2024-40711": [
+        {
+            "title": "Ransomware Group Wiped an Entire VMware Estate in Ten Days Without Exploiting a Single Vulnerability",
+            "link": "https://www.cysecurity.news/2026/11/ransomware-group-wiped-entire-vmware.html"
+        }
+    ],
+    "CVE-2025-23120": [
+        {
+            "title": "Ransomware Group Wiped an Entire VMware Estate in Ten Days Without Exploiting a Single Vulnerability",
+            "link": "https://www.cysecurity.news/2026/11/ransomware-group-wiped-entire-vmware.html"
+        }
+    ],
+    "CVE-2026-113627": [
+        {
+            "title": "From view-only access to container root: five vulnerabilities in ONLYOFFICE Docs (FIXED)",
+            "link": "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed"
+        }
+    ],
+    "CVE-2026-97727": [
+        {
+            "title": "From view-only access to container root: five vulnerabilities in ONLYOFFICE Docs (FIXED)",
+            "link": "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed"
+        }
+    ],
+    "CVE-2026-110385": [
+        {
+            "title": "From view-only access to container root: five vulnerabilities in ONLYOFFICE Docs (FIXED)",
+            "link": "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed"
+        }
+    ],
+    "CVE-2026-113631": [
+        {
+            "title": "From view-only access to container root: five vulnerabilities in ONLYOFFICE Docs (FIXED)",
+            "link": "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed"
+        }
+    ],
+    "CVE-2026-113630": [
+        {
+            "title": "From view-only access to container root: five vulnerabilities in ONLYOFFICE Docs (FIXED)",
+            "link": "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed"
+        }
+    ]
+}
