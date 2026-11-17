@@ -9,6 +9,10 @@
         {
             "title": "Hackers Actively Exploiting Atlassian Confluence RCE Vulnerability, 1.2M Instances Exposed to the Internet",
             "link": "https://cybersecuritynews.com/hackers-exploiting-atlassian-confluence-vulnerability/"
+        },
+        {
+            "title": "Critical Java 17 RCE Vulnerability Puts Servers at Risk as Oracle Releases 11 Security Fixes",
+            "link": "https://cybersecuritynews.com/java-17-rce-vulnerability/"
         }
     ],
     "CVE-2026-124853": [
@@ -750,6 +754,312 @@
         {
             "title": "Check Point Flaw Exploited as CISA's Nov. 16 Deadline Hits",
             "link": "https://www.esecurityplanet.com/threats/news-check-point-cve-2026-123039-cisa-patch-deadline/"
+        }
+    ],
+    "CVE-2026-114938": [
+        {
+            "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+            "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html"
+        },
+        {
+            "title": "Critical Java 17 RCE Vulnerability Puts Servers at Risk as Oracle Releases 11 Security Fixes",
+            "link": "https://cybersecuritynews.com/java-17-rce-vulnerability/"
+        },
+        {
+            "title": "CVE-2026-114938: Reported Critical Pre-authentication Remote Code Execution in Java 17",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17"
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
+            "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/"
+        }
+    ],
+    "CVE-2026-91403": [
+        {
+            "title": "Critical Java 17 RCE Vulnerability Puts Servers at Risk as Oracle Releases 11 Security Fixes",
+            "link": "https://cybersecuritynews.com/java-17-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-93546": [
+        {
+            "title": "Hackers Exploit Unpatched Microsoft Exchange Servers to Deploy Custom RATs Across Southeast Asia",
+            "link": "https://cybersecuritynews.com/microsoft-exchange-servers/"
+        }
+    ],
+    "CVE-2026-122045": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-115428": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-104717": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110990": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129321": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126141": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-97229": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-123142": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-129252": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-102907": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-122226": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-18241": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-121948": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-108154": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-11768": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-104902": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-108150": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-16545": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-125920": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-105739": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-108155": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121533": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-118961": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-108153": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-115736": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-128849": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101358": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-115218": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110750": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-115219": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-111747": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-97187": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-18491": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-85778": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-16609": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-112203": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2026-104934": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129253": [
+        {
+            "title": "GitLab Patches 37 Security Flaws, Including High-Severity CI/CD and XSS Vulnerabilities",
+            "link": "https://cyberpress.org/gitlab-patches-37-security-bugs/"
+        }
+    ],
+    "CVE-2023-48022": [
+        {
+            "title": "New Linux Malware Uses Tor, Ethereum Blockchain, and Falsified GPU Data to Run Cryptomining Operations Undetected",
+            "link": "https://www.cysecurity.news/2026/11/new-linux-malware-uses-tor-ethereum.html"
+        }
+    ],
+    "CVE-2025-3248": [
+        {
+            "title": "Amazon Detects Campaign Targeting AI Infrastructure and Developer Credentials",
+            "link": "https://www.cysecurity.news/2026/11/amazon-detects-campaign-targeting-ai.html"
+        }
+    ],
+    "CVE-2026-28797": [
+        {
+            "title": "Amazon Detects Campaign Targeting AI Infrastructure and Developer Credentials",
+            "link": "https://www.cysecurity.news/2026/11/amazon-detects-campaign-targeting-ai.html"
+        }
+    ],
+    "CVE-2026-115731": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-115731",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-115731"
         }
     ]
 }
