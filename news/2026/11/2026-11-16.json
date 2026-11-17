@@ -9,6 +9,10 @@
         {
             "title": "Apple Microphone Vulnerability Allows Hackers to Secretly Record Audio Without User Permission",
             "link": "https://gbhackers.com/apple-microphone-vulnerability/"
+        },
+        {
+            "title": "Critical Apple Zero-Day Bypasses Microphone Permissions and Recording Indicators",
+            "link": "https://cyberpress.org/critical-apple-zero-day-bypasses/"
         }
     ],
     "CVE-2026-109618": [
@@ -75,6 +79,30 @@
         {
             "title": "From view-only access to container root: five vulnerabilities in ONLYOFFICE Docs (FIXED)",
             "link": "https://www.rapid7.com/blog/post/ve-from-view-only-access-to-container-root-five-vulnerabilities-in-onlyoffice-docs-fixed"
+        }
+    ],
+    "CVE-2025-43530": [
+        {
+            "title": "Critical Apple Zero-Day Bypasses Microphone Permissions and Recording Indicators",
+            "link": "https://cyberpress.org/critical-apple-zero-day-bypasses/"
+        }
+    ],
+    "CVE-2026-124679": [
+        {
+            "title": "Critical Apache Shiro and APISIX Flaws Let Hackers Bypass Authentication Without Login",
+            "link": "https://cyberpress.org/critical-apache-shiro-apisix-flaws/"
+        }
+    ],
+    "CVE-2026-129349": [
+        {
+            "title": "Critical Apache Shiro and APISIX Flaws Let Hackers Bypass Authentication Without Login",
+            "link": "https://cyberpress.org/critical-apache-shiro-apisix-flaws/"
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "CVE-2026-84869 in ScreenConnect Exploited to Run Malicious Files on MSP Technician Accounts",
+            "link": "https://www.huntress.com/blog/cve-2026-84869-screenconnect-technician-exploitation"
         }
     ]
 }
