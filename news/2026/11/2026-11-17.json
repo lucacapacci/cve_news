@@ -1,0 +1,755 @@
+{
+    "CVE-2023-22527": [
+        {
+            "title": "Hackers Actively Exploiting Atlassian Confluence RCE Vulnerability, 1.2M Instances Exposed to the Internet",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-atlassian-confluence-vulnerability/"
+        }
+    ],
+    "CVE-2026-90436": [
+        {
+            "title": "Hackers Actively Exploiting Atlassian Confluence RCE Vulnerability, 1.2M Instances Exposed to the Internet",
+            "link": "https://cybersecuritynews.com/hackers-exploiting-atlassian-confluence-vulnerability/"
+        }
+    ],
+    "CVE-2026-124853": [
+        {
+            "title": "Mozilla Patches 160 Firefox Vulnerabilities, Including Sandbox Escape; Update Now!",
+            "link": "https://cybersecuritynews.com/mozilla-patches-160-firefox-vulnerabilities/"
+        },
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/"
+        }
+    ],
+    "CVE-2026-124874": [
+        {
+            "title": "Mozilla Patches 160 Firefox Vulnerabilities, Including Sandbox Escape; Update Now!",
+            "link": "https://cybersecuritynews.com/mozilla-patches-160-firefox-vulnerabilities/"
+        },
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/"
+        }
+    ],
+    "CVE-2026-124907": [
+        {
+            "title": "Mozilla Patches 160 Firefox Vulnerabilities, Including Sandbox Escape; Update Now!",
+            "link": "https://cybersecuritynews.com/mozilla-patches-160-firefox-vulnerabilities/"
+        },
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/"
+        }
+    ],
+    "CVE-2026-124909": [
+        {
+            "title": "Mozilla Patches 160 Firefox Vulnerabilities, Including Sandbox Escape; Update Now!",
+            "link": "https://cybersecuritynews.com/mozilla-patches-160-firefox-vulnerabilities/"
+        },
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124911": [
+        {
+            "title": "Mozilla Patches 160 Firefox Vulnerabilities, Including Sandbox Escape; Update Now!",
+            "link": "https://cybersecuritynews.com/mozilla-patches-160-firefox-vulnerabilities/"
+        },
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124903": [
+        {
+            "title": "Mozilla Patches 160 Firefox Vulnerabilities, Including Sandbox Escape; Update Now!",
+            "link": "https://cybersecuritynews.com/mozilla-patches-160-firefox-vulnerabilities/"
+        },
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124858": [
+        {
+            "title": "Mozilla Patches 160 Firefox Vulnerabilities, Including Sandbox Escape; Update Now!",
+            "link": "https://cybersecuritynews.com/mozilla-patches-160-firefox-vulnerabilities/"
+        },
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/"
+        }
+    ],
+    "CVE-2026-14978": [
+        {
+            "title": "Hackers Exploit macOS \u00df vs ss Filename Trick to Bypass Developer Tool Security Checks",
+            "link": "https://cybersecuritynews.com/macos-s-vs-ss-filename-trick/"
+        }
+    ],
+    "CVE-2026-49401": [
+        {
+            "title": "Hackers Exploit macOS \u00df vs ss Filename Trick to Bypass Developer Tool Security Checks",
+            "link": "https://cybersecuritynews.com/macos-s-vs-ss-filename-trick/"
+        }
+    ],
+    "CVE-2026-59890": [
+        {
+            "title": "Hackers Exploit macOS \u00df vs ss Filename Trick to Bypass Developer Tool Security Checks",
+            "link": "https://cybersecuritynews.com/macos-s-vs-ss-filename-trick/"
+        }
+    ],
+    "CVE-2026-45110": [
+        {
+            "title": "Hackers Exploit macOS \u00df vs ss Filename Trick to Bypass Developer Tool Security Checks",
+            "link": "https://cybersecuritynews.com/macos-s-vs-ss-filename-trick/"
+        }
+    ],
+    "CVE-2026-124950": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/"
+        }
+    ],
+    "CVE-2026-124925": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124933": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124868": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124898": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124913": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124882": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124884": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124881": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124864": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124863": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124945": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124869": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124900": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124932": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124926": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124873": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124919": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124930": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124852": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124939": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124949": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124901": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124887": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124922": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124915": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124862": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124920": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124929": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124878": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124855": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124910": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124917": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124892": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124906": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124867": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124880": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124886": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124895": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124946": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124877": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124894": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124891": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124944": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124924": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124872": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/"
+        }
+    ],
+    "CVE-2026-124860": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124947": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124854": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/"
+        }
+    ],
+    "CVE-2026-124937": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124908": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124875": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124936": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124905": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124890": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124940": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124883": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124923": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124899": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124912": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124866": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124914": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124857": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124870": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124935": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124896": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124942": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124889": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124948": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124941": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124859": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/"
+        }
+    ],
+    "CVE-2026-124951": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124904": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124879": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124888": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124861": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124921": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124927": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124934": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124856": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124897": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124943": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124893": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124865": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124938": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124902": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/"
+        }
+    ],
+    "CVE-2026-124876": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124918": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124871": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124885": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124928": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-124931": [
+        {
+            "title": "Mozilla Firefox 160 Fixes 99 Security Flaws, Including 57 High-Severity Vulnerabilities",
+            "link": "https://cyberpress.org/mozilla-firefox-160-fixes-99-security-flaws/"
+        }
+    ],
+    "CVE-2026-123039": [
+        {
+            "title": "Check Point Flaw Exploited as CISA's Nov. 16 Deadline Hits",
+            "link": "https://www.esecurityplanet.com/threats/news-check-point-cve-2026-123039-cisa-patch-deadline/"
+        }
+    ]
+}
