@@ -15,6 +15,14 @@
         {
             "title": "Java4Shell (CVE-2026-114938): Check Your Java Services Now",
             "link": "https://blog.checkpoint.com/security/java4shell-cve-2026-114938-check-your-java-services-now/"
+        },
+        {
+            "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+            "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html"
+        },
+        {
+            "title": "Java4Shell OpenJDK flaw: Exploitation is tricky and hinges on specific CPUs (CVE-2026-114938)",
+            "link": "https://www.helpnetsecurity.com/2026/11/18/java4shell-openjdk-vulnerability-cve-2026-114938/"
         }
     ],
     "CVE-2026-47890": [
@@ -168,6 +176,122 @@
         {
             "title": "U.S. CISA adds Perforce Puppet Enterprise\u00a0flaw to its Known Exploited Vulnerabilities catalog",
             "link": "https://securityaffairs.com/203377/hacking/u-s-cisa-adds-perforce-puppet-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
+        },
+        {
+            "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+            "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html"
+        },
+        {
+            "title": "Critical Perforce Puppet RCE Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-96951": [
+        {
+            "title": "Why AI-ROC Is the Future of Exposure Management",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-81963": [
+        {
+            "title": "Why AI-ROC Is the Future of Exposure Management",
+            "link": "https://blog.qualys.com/category/product-tech"
+        }
+    ],
+    "CVE-2026-127324": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-114925": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-127326": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-114980": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-114880": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-114863": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-114924": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-114881": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-41889": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-114820": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-127325": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-101356": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-127327": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-1229": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-101691": [
+        {
+            "title": "Oracle Critical Security Patch Update, November 2026 Review",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
         }
     ]
 }
