@@ -768,6 +768,18 @@
         {
             "title": "CVE-2026-114938: Reported Critical Pre-authentication Remote Code Execution in Java 17",
             "link": "https://www.rapid7.com/blog/post/etr-cve-2026-114938-reported-critical-pre-authentication-remote-code-execution-java-17"
+        },
+        {
+            "title": "Oracle November 2026 Critical Security Patch Update Addresses 640 CVEs (CVE-2026-114938)",
+            "link": "https://www.tenable.com/blog/oracle-november-2026-critical-security-patch-update-addresses-640-cves-cve-2026-114938"
+        },
+        {
+            "title": "How to Find, Mitigate, and Patch the Critical Java4Shell Flaw (CVE-2026-114938) Now",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "Defending Against Java4Shell: Vulnerability in OpenJDK Enables RCE on AVX-512 CPUs",
+            "link": "https://www.sentinelone.com/blog/java4shell-vulnerability-in-openjdk-enables-rce-on-avx-512-cpus/"
         }
     ],
     "CVE-2026-84869": [
