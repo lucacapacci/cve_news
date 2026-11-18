@@ -3,6 +3,171 @@
         {
             "title": "Optimizely hack hits CNN, Fox and BBC, Java4Shell puts servers at risk, California sues OpenAI over rogue agents",
             "link": "https://cybersecuritytoday.libsyn.com/optimizely-hack-hits-cnn-fox-and-bbc-java4shell-puts-servers-at-risk-california-sues-openai-over-rogue-agents"
+        },
+        {
+            "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+            "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html"
+        },
+        {
+            "title": "Java4Shell Flaw Lets Attackers Target Java Servers Without Logging In",
+            "link": "https://hackread.com/java4shell-flaw-run-code-java-servers-logging-in/"
+        },
+        {
+            "title": "Java4Shell (CVE-2026-114938): Check Your Java Services Now",
+            "link": "https://blog.checkpoint.com/security/java4shell-cve-2026-114938-check-your-java-services-now/"
+        }
+    ],
+    "CVE-2026-47890": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21606": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-59901": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-110879": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-114111": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-90436": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-76183": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21603": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-91403": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21602": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-114112": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21590": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21593": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-4800": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-21605": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-21607": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
+            "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-0462": [
+        {
+            "title": "Researchers Break AMD SEV-SNP Security to Read Encrypted Virtual Machine Memory Using a GPU",
+            "link": "https://cybersecuritynews.com/amd-sev-snp-security-bypassed/"
+        },
+        {
+            "title": "Mior Attack Breaks AMD SEV-SNP Security, Enabling Arbitrary Memory Access and Forged Attestation",
+            "link": "https://gbhackers.com/mior-attack-breaks-amd-sev-snp-security/"
+        }
+    ],
+    "CVE-2025-23359": [
+        {
+            "title": "4-Year-Old NVIDIA Linux GPU Flaw Lets Users Hijack Entire Shared Servers",
+            "link": "https://cybersecuritynews.com/4-year-old-nvidia-linux-gpu-flaw/"
+        }
+    ],
+    "CVE-2026-47501": [
+        {
+            "title": "4-Year-Old NVIDIA Linux GPU Flaw Lets Users Hijack Entire Shared Servers",
+            "link": "https://cybersecuritynews.com/4-year-old-nvidia-linux-gpu-flaw/"
+        },
+        {
+            "title": "NVIDIA GPU Driver Flaw Allows Attackers to Gain Root Access and Escape Containers",
+            "link": "https://gbhackers.com/nvidia-gpu-driver-flaw/"
+        }
+    ],
+    "CVE-2026-126816": [
+        {
+            "title": "CVE-2026-126816 \u2013 Path traversal and arbitrary file write in the cost report generator of aws-pricing-mcp-server",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-184-aws/"
+        }
+    ],
+    "CVE-2026-129266": [
+        {
+            "title": "CVE-2026-129266 \u2013 Arbitrary local file read via unvalidated resource location in model archive metadata in Deep Java Library",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-183-aws/"
+        }
+    ],
+    "CVE-2026-115731": [
+        {
+            "title": "U.S. CISA adds Perforce Puppet Enterprise\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/203377/hacking/u-s-cisa-adds-perforce-puppet-enterprise-flaw-to-its-known-exploited-vulnerabilities-catalog.html"
         }
     ]
 }
