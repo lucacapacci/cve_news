@@ -3,6 +3,10 @@
         {
             "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
             "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html"
+        },
+        {
+            "title": "PSA: Critical NGINX HTTP/2 Vulnerabilities: What WordPress Site Owners Should Know",
+            "link": "https://www.wordfence.com/blog/2026/11/nginx-http2-vulnerabilities-wordpress/"
         }
     ],
     "CVE-2026-114938": [
@@ -19,12 +23,20 @@
         {
             "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
             "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/"
+        },
+        {
+            "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+            "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"
         }
     ],
     "CVE-2026-129448": [
         {
             "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
             "link": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/"
+        },
+        {
+            "title": "Apache Roller RCE Vulnerability Actively Exploited in Attacks",
+            "link": "https://www.cysecurity.news/2026/11/apache-roller-rce-vulnerability.html"
         }
     ],
     "CVE-2025-24813": [
@@ -37,6 +49,50 @@
         {
             "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
             "link": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/"
+        },
+        {
+            "title": "Apache Roller RCE Vulnerability Actively Exploited in Attacks",
+            "link": "https://www.cysecurity.news/2026/11/apache-roller-rce-vulnerability.html"
+        }
+    ],
+    "CVE-2026-126714": [
+        {
+            "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+            "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Everything Is a Web Application, Including Your Firewall",
+            "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Everything Is a Web Application, Including Your Firewall",
+            "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
+        }
+    ],
+    "CVE-2026-115731": [
+        {
+            "title": "Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)",
+            "link": "https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/"
+        },
+        {
+            "title": "Hackers Exploit Critical Puppet Vulnerability Allowing Remote Code Execution on Enterprise Servers",
+            "link": "https://www.cysecurity.news/2026/11/hackers-exploit-critical-puppet.html"
+        }
+    ],
+    "CVE-2026-115732": [
+        {
+            "title": "Hackers Exploit Critical Puppet Vulnerability Allowing Remote Code Execution on Enterprise Servers",
+            "link": "https://www.cysecurity.news/2026/11/hackers-exploit-critical-puppet.html"
+        }
+    ],
+    "CVE-2026-123633": [
+        {
+            "title": "PSA: Critical NGINX HTTP/2 Vulnerabilities: What WordPress Site Owners Should Know",
+            "link": "https://www.wordfence.com/blog/2026/11/nginx-http2-vulnerabilities-wordpress/"
         }
     ]
 }
