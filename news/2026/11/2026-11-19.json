@@ -14,5 +14,29 @@
             "title": "Java4Shell (CVE-2026-114938): Check Your Java Services Now",
             "link": "https://blog.checkpoint.com/security/java4shell-cve-2026-114938-check-your-java-services-now/"
         }
+    ],
+    "CVE-2026-115560": [
+        {
+            "title": "PHP Readies Critical Security Updates to Patch Another RCE Flaw",
+            "link": "https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/"
+        }
+    ],
+    "CVE-2026-129448": [
+        {
+            "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
+            "link": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/"
+        }
+    ],
+    "CVE-2025-24813": [
+        {
+            "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
+            "link": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/"
+        }
+    ],
+    "CVE-2026-82384": [
+        {
+            "title": "Hackers Exploit Critical Apache Roller XML-RPC Flaw to Execute Code Without Login",
+            "link": "https://cyberpress.org/critical-apache-roller-xml-rpc-flaw/"
+        }
     ]
 }
