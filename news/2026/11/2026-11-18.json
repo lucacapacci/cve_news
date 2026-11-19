@@ -30,6 +30,10 @@
             "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
             "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
             "listOnly": true
+        },
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/"
         }
     ],
     "CVE-2026-21606": [
@@ -43,6 +47,11 @@
         {
             "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
             "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        },
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
             "listOnly": true
         }
     ],
@@ -64,6 +73,10 @@
         {
             "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
             "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-90436",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-90436"
         }
     ],
     "CVE-2026-76183": [
@@ -71,6 +84,10 @@
             "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
             "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
             "listOnly": true
+        },
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/"
         }
     ],
     "CVE-2026-21603": [
@@ -85,6 +102,10 @@
             "title": "Atlassian Patches 318 Security Vulnerabilities Across Jira, Confluence, Bitbucket and Other Products",
             "link": "https://cybersecuritynews.com/atlassian-patches-318-security-vulnerabilities/",
             "listOnly": true
+        },
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/"
         }
     ],
     "CVE-2026-21602": [
@@ -142,6 +163,10 @@
         {
             "title": "Mior Attack Breaks AMD SEV-SNP Security, Enabling Arbitrary Memory Access and Forged Attestation",
             "link": "https://gbhackers.com/mior-attack-breaks-amd-sev-snp-security/"
+        },
+        {
+            "title": "New Mior Attack Lets Malicious Cloud Hosts Read and Modify AMD Confidential VM Memory",
+            "link": "https://cyberpress.org/mior-attack-cloud-hosts-read-modify-amd/"
         }
     ],
     "CVE-2025-23359": [
@@ -158,6 +183,10 @@
         {
             "title": "NVIDIA GPU Driver Flaw Allows Attackers to Gain Root Access and Escape Containers",
             "link": "https://gbhackers.com/nvidia-gpu-driver-flaw/"
+        },
+        {
+            "title": "NVIDIA GPU Driver Flaw Lets Attackers Escape Containers and Gain Root Access to Linux Hosts",
+            "link": "https://cyberpress.org/nvidia-gpu-driver-flaw/"
         }
     ],
     "CVE-2026-126816": [
@@ -274,6 +303,11 @@
         {
             "title": "Oracle Critical Security Patch Update, November 2026 Review",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        },
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
         }
     ],
     "CVE-2026-127327": [
@@ -292,6 +326,1860 @@
         {
             "title": "Oracle Critical Security Patch Update, November 2026 Review",
             "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-129448": [
+        {
+            "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+            "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "After Black October, OffSec Turns PHPH2Shell and Other New Vulnerabilities Into Hands-On Labs",
+            "link": "https://cybersecuritynews.com/offsec-php2shell-black-october-hands-on-labs/"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "After Black October, OffSec Turns PHPH2Shell and Other New Vulnerabilities Into Hands-On Labs",
+            "link": "https://cybersecuritynews.com/offsec-php2shell-black-october-hands-on-labs/"
+        }
+    ],
+    "CVE-2026-123007": [
+        {
+            "title": "NGINX HTTP/2 Flaws Could Allow Memory Corruption and Remote Code Execution on Web Servers",
+            "link": "https://cybersecuritynews.com/nginx-http-2-vulnerabilities/"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-123633": [
+        {
+            "title": "NGINX HTTP/2 Flaws Could Allow Memory Corruption and Remote Code Execution on Web Servers",
+            "link": "https://cybersecuritynews.com/nginx-http-2-vulnerabilities/"
+        },
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research"
+        }
+    ],
+    "CVE-2026-130984": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130915": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130962": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131078": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131090": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131018": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130951": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131046": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131031": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/"
+        }
+    ],
+    "CVE-2026-130910": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/"
+        }
+    ],
+    "CVE-2026-130996": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131011": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130972": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131076": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131087": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131068": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131057": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130937": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130981": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131022": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130945": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130956": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131029": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131044": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131085": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130948": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131056": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130921": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131023": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130929": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130982": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130936": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130988": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131000": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130908": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121101": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131013": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130995": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130947": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131086": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130991": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130944": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131027": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131061": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130942": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131042": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130960": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131041": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131053": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130955": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130946": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130965": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130999": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131034": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130957": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131050": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130913": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130904": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131072": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130949": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130986": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131007": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131016": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130928": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130931": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131049": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130932": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130920": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131081": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131030": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130916": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130966": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131032": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130943": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131101": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131062": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130998": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130919": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131021": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130924": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130912": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131093": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131038": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130969": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130941": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131100": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130971": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130922": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130994": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130959": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131069": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130987": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130905": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130983": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131047": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131006": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130964": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131043": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130967": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131040": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131067": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131066": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131094": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131106": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130974": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131105": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130990": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130978": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131098": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130934": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131004": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131052": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130914": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130938": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130963": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/"
+        }
+    ],
+    "CVE-2026-130923": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131055": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130961": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130977": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131012": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130926": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131019": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130976": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131073": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131045": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130975": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/"
+        }
+    ],
+    "CVE-2026-130993": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130927": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130909": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130954": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131091": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131096": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131051": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131058": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130970": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131080": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131015": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131074": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131095": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131097": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130980": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131037": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131084": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130925": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131099": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130930": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130918": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130953": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131104": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130935": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130997": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130973": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131002": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131008": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/"
+        }
+    ],
+    "CVE-2026-131063": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130939": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130917": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131036": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131089": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131005": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131010": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131060": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/"
+        }
+    ],
+    "CVE-2026-131075": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131088": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130979": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130907": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131071": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131025": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131048": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131064": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131014": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131009": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131020": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130992": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130940": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131103": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131082": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131059": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131070": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131039": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130906": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131035": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131079": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131077": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131026": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130950": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131083": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130933": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131003": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131092": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130952": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130911": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131017": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130989": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131102": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130985": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131028": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131054": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/"
+        }
+    ],
+    "CVE-2026-131065": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131001": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130968": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131024": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-131033": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-130958": [
+        {
+            "title": "Google Chrome 158 Fixes 204 Security Flaws, Including Six Critical Vulnerabilities",
+            "link": "https://cyberpress.org/google-chrome-158-fixes-204-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-88041": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-47885": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-59642": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93446": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-87022": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-76184": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-14682": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21600": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86350": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-116539": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21589": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-58059": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-71884": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-58060": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-77791": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-47884": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-65183": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-12803": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-101296": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21594": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-59639": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-75596": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21598": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21596": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-62243": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-67213": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-67214": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-68569": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-54512": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-66422": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-78383": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-47889": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21599": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21591": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-21595": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-79677": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-13505": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2025-22167": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-77762": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-86248": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-93569": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-80353": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-58061": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-71883": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-8798": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-59283": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-12816": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-116541": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-54513": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-12860": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-77711": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-13506": [
+        {
+            "title": "Atlassian Patches 318 Security Vulnerabilities Affecting Jira, Confluence and Bitbucket",
+            "link": "https://cyberpress.org/atlassian-patches-318-security-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121810": [
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123634": [
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-113425": [
+        {
+            "title": "NGINX2Root: Five nginx Flaws, Led by CVE-2026-123007. How to Find, Mitigate, and Patch Now",
+            "link": "https://blog.qualys.com/category/vulnerabilities-threat-research",
+            "listOnly": true
+        }
+    ],
+    "CVE-2024-10441": [
+        {
+            "title": "CISA KEV Addition: CVE-2024-10441",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2024-10441"
+        }
+    ],
+    "CVE-2026-40217": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-40217",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-40217"
+        }
+    ],
+    "CVE-2026-90817": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-90817",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-90817"
         }
     ]
 }
