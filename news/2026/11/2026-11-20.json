@@ -1,0 +1,172 @@
+{
+    "CVE-2026-123890": [
+        {
+            "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+            "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html"
+        },
+        {
+            "title": "Hackers Exploit VMware vCenter 0-Day Since September to Hijack Admin Accounts and Steal VM Data",
+            "link": "https://cybersecuritynews.com/hackers-exploit-vmware-vcenter-0-day/"
+        },
+        {
+            "title": "Chinese Hackers Exploit VMware vCenter Zero-Day to Gain Admin Access Without Login",
+            "link": "https://cyberpress.org/exploit-vmware-vcenter-zero-day/"
+        }
+    ],
+    "CVE-2026-130451": [
+        {
+            "title": "Wireshark 4.6.10 Released With Patch for 39 Security Vulnerabilities",
+            "link": "https://cybersecuritynews.com/wireshark-4-6-10-released/"
+        }
+    ],
+    "CVE-2026-130455": [
+        {
+            "title": "Wireshark 4.6.10 Released With Patch for 39 Security Vulnerabilities",
+            "link": "https://cybersecuritynews.com/wireshark-4-6-10-released/"
+        }
+    ],
+    "CVE-2026-130467": [
+        {
+            "title": "Wireshark 4.6.10 Released With Patch for 39 Security Vulnerabilities",
+            "link": "https://cybersecuritynews.com/wireshark-4-6-10-released/"
+        }
+    ],
+    "CVE-2026-130436": [
+        {
+            "title": "Wireshark 4.6.10 Released With Patch for 39 Security Vulnerabilities",
+            "link": "https://cybersecuritynews.com/wireshark-4-6-10-released/"
+        }
+    ],
+    "CVE-2026-130445": [
+        {
+            "title": "Wireshark 4.6.10 Released With Patch for 39 Security Vulnerabilities",
+            "link": "https://cybersecuritynews.com/wireshark-4-6-10-released/"
+        }
+    ],
+    "CVE-2026-130449": [
+        {
+            "title": "Wireshark 4.6.10 Released With Patch for 39 Security Vulnerabilities",
+            "link": "https://cybersecuritynews.com/wireshark-4-6-10-released/"
+        }
+    ],
+    "CVE-2026-111497": [
+        {
+            "title": "Wireshark 4.6.10 Released With Patch for 39 Security Vulnerabilities",
+            "link": "https://cybersecuritynews.com/wireshark-4-6-10-released/"
+        }
+    ],
+    "CVE-2026-130462": [
+        {
+            "title": "Wireshark 4.6.10 Released With Patch for 39 Security Vulnerabilities",
+            "link": "https://cybersecuritynews.com/wireshark-4-6-10-released/"
+        }
+    ],
+    "CVE-2026-132165": [
+        {
+            "title": "Drupal Fixes Critical RCE Flaw That Could Let Unauthenticated Hackers Take Over Websites",
+            "link": "https://cybersecuritynews.com/drupal-fixes-critical-rce-flaw/"
+        }
+    ],
+    "CVE-2026-132166": [
+        {
+            "title": "Drupal Fixes Critical RCE Flaw That Could Let Unauthenticated Hackers Take Over Websites",
+            "link": "https://cybersecuritynews.com/drupal-fixes-critical-rce-flaw/"
+        }
+    ],
+    "CVE-2026-121810": [
+        {
+            "title": "8.8 Million NGINX Services Still Potentially Exposed to Critical NGINX2Root Vulnerability",
+            "link": "https://cybersecuritynews.com/nginx2root-vulnerability/"
+        },
+        {
+            "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk",
+            "link": "https://cyberpress.org/nginx2root-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-113425": [
+        {
+            "title": "8.8 Million NGINX Services Still Potentially Exposed to Critical NGINX2Root Vulnerability",
+            "link": "https://cybersecuritynews.com/nginx2root-vulnerability/"
+        },
+        {
+            "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk",
+            "link": "https://cyberpress.org/nginx2root-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123633": [
+        {
+            "title": "8.8 Million NGINX Services Still Potentially Exposed to Critical NGINX2Root Vulnerability",
+            "link": "https://cybersecuritynews.com/nginx2root-vulnerability/"
+        },
+        {
+            "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk",
+            "link": "https://cyberpress.org/nginx2root-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123007": [
+        {
+            "title": "8.8 Million NGINX Services Still Potentially Exposed to Critical NGINX2Root Vulnerability",
+            "link": "https://cybersecuritynews.com/nginx2root-vulnerability/"
+        },
+        {
+            "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk",
+            "link": "https://cyberpress.org/nginx2root-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123634": [
+        {
+            "title": "8.8 Million NGINX Services Still Potentially Exposed to Critical NGINX2Root Vulnerability",
+            "link": "https://cybersecuritynews.com/nginx2root-vulnerability/"
+        },
+        {
+            "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk",
+            "link": "https://cyberpress.org/nginx2root-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-59309": [
+        {
+            "title": "Hackers Exploit VMware vCenter 0-Day Since September to Hijack Admin Accounts and Steal VM Data",
+            "link": "https://cybersecuritynews.com/hackers-exploit-vmware-vcenter-0-day/"
+        },
+        {
+            "title": "Chinese Hackers Exploit VMware vCenter Zero-Day to Gain Admin Access Without Login",
+            "link": "https://cyberpress.org/exploit-vmware-vcenter-zero-day/"
+        }
+    ],
+    "CVE-2026-102764": [
+        {
+            "title": "Hackers Exploit VMware vCenter 0-Day Since September to Hijack Admin Accounts and Steal VM Data",
+            "link": "https://cybersecuritynews.com/hackers-exploit-vmware-vcenter-0-day/"
+        }
+    ],
+    "CVE-2026-97015": [
+        {
+            "title": "New Windows 11 Narrator Lock Screen 0-Day Allows Attackers to Bypass BitLocker Protections",
+            "link": "https://cybersecuritynews.com/windows-11-narrator-lock-screen-0-day/"
+        }
+    ],
+    "CVE-2026-119832": [
+        {
+            "title": "New Windows 11 Narrator Lock Screen 0-Day Allows Attackers to Bypass BitLocker Protections",
+            "link": "https://cybersecuritynews.com/windows-11-narrator-lock-screen-0-day/"
+        }
+    ],
+    "CVE-2026-42271": [
+        {
+            "title": "Attackers Target LiteLLM AI Gateways Using BadHost Authentication Bypass and RCE Vulnerabilities",
+            "link": "https://cyberpress.org/attackers-exploit-litellm-badhost/"
+        }
+    ],
+    "CVE-2026-48710": [
+        {
+            "title": "Attackers Target LiteLLM AI Gateways Using BadHost Authentication Bypass and RCE Vulnerabilities",
+            "link": "https://cyberpress.org/attackers-exploit-litellm-badhost/"
+        }
+    ],
+    "CVE-2024-56337": [
+        {
+            "title": "Apache Roller RCE vulnerability exploited",
+            "link": "https://www.cybermaterial.com/p/apache-roller-rce-vulnerability-exploited"
+        }
+    ]
+}
