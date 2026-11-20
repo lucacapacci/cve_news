@@ -15,6 +15,14 @@
         {
             "title": "VMware vCenter zero-day exploited for months before patch (CVE-2026-123890)",
             "link": "https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/"
+        },
+        {
+            "title": "CVE-2026-123890: Critical Authentication Bypass in VMware vCenter",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-123890-critical-authentication-bypass-vmware-vcenter"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-123890",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-123890"
         }
     ],
     "CVE-2026-130451": [
@@ -123,6 +131,10 @@
         {
             "title": "How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities",
             "link": "https://www.tenable.com/blog/public-sector-exposure-management-php2shell"
+        },
+        {
+            "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
+            "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/"
         }
     ],
     "CVE-2026-123634": [
@@ -203,12 +215,20 @@
         {
             "title": "Critical Cisco Expressway Vulnerability Exploited By Hackers Shortly After Public PoC Release",
             "link": "https://www.cysecurity.news/2026/11/critical-cisco-expressway-vulnerability.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-76466",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-76466"
         }
     ],
     "CVE-2026-23871": [
         {
             "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
             "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/"
+        },
+        {
+            "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+            "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html"
         }
     ],
     "CVE-2026-132825": [
@@ -249,6 +269,10 @@
         {
             "title": "Palo Alto Confirms Java Vulnerability Impacts Privilege Threat Analytics and Remote Access Connector",
             "link": "https://cybersecuritynews.com/palo-alto-confirms-java-vulnerability-impacts/"
+        },
+        {
+            "title": "A Technical Guide to Mitigate Java4Shell with TruRisk Eliminate",
+            "link": "https://blog.qualys.com/category/qualys-insights"
         }
     ],
     "CVE-2026-34486": [
@@ -396,6 +420,16 @@
         {
             "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
             "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-129448",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-129448"
+        }
+    ],
+    "CVE-2025-42884": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-42884",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-42884"
         }
     ]
 }
