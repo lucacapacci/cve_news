@@ -7,6 +7,18 @@
         {
             "title": "PSA: Critical NGINX HTTP/2 Vulnerabilities: What WordPress Site Owners Should Know",
             "link": "https://www.wordfence.com/blog/2026/11/nginx-http2-vulnerabilities-wordpress/"
+        },
+        {
+            "title": "Synology Fixes Critical Security Flaws With CVSS Scores of 9.8 and 8.1 Across NAS Platforms",
+            "link": "https://gbhackers.com/synology-fixes-critical-security-flaws/"
+        },
+        {
+            "title": "NGINX2Root: F5 patches five critical NGINX vulnerabilities",
+            "link": "https://www.helpnetsecurity.com/2026/11/19/nginx2root-nginx-vulnerabilities/"
+        },
+        {
+            "title": "Synology Warns of Critical NAS Flaws Allowing Unauthenticated File Access and DoS Attacks",
+            "link": "https://cyberpress.org/synology-warns-critical-nas-flaws/"
         }
     ],
     "CVE-2026-114938": [
@@ -17,6 +29,10 @@
         {
             "title": "Java4Shell (CVE-2026-114938): Check Your Java Services Now",
             "link": "https://blog.checkpoint.com/security/java4shell-cve-2026-114938-check-your-java-services-now/"
+        },
+        {
+            "title": "CVE-2026-114938: Critical vulnerability in OpenJDK Java",
+            "link": "https://blog.talosintelligence.com/java4shell/"
         }
     ],
     "CVE-2026-115560": [
@@ -27,6 +43,10 @@
         {
             "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
             "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html"
+        },
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/"
         }
     ],
     "CVE-2026-129448": [
@@ -37,6 +57,10 @@
         {
             "title": "Apache Roller RCE Vulnerability Actively Exploited in Attacks",
             "link": "https://www.cysecurity.news/2026/11/apache-roller-rce-vulnerability.html"
+        },
+        {
+            "title": "Apache Roller Vulnerability Allows Remote Code Execution Through Unsafe XML-RPC Deserialization",
+            "link": "https://gbhackers.com/apache-roller-vulnerability-2/"
         }
     ],
     "CVE-2025-24813": [
@@ -59,18 +83,35 @@
         {
             "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
             "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html"
+        },
+        {
+            "title": "New phpAfterShell Attack Bypasses PHP2Shell Fix to Enable Remote Code Execution",
+            "link": "https://cybersecuritynews.com/phpaftershell-rce/"
+        },
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
         }
     ],
     "CVE-2026-109618": [
         {
             "title": "Everything Is a Web Application, Including Your Firewall",
             "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
+        },
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/"
         }
     ],
     "CVE-2026-109619": [
         {
             "title": "Everything Is a Web Application, Including Your Firewall",
             "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html"
+        },
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/"
         }
     ],
     "CVE-2026-115731": [
@@ -93,6 +134,252 @@
         {
             "title": "PSA: Critical NGINX HTTP/2 Vulnerabilities: What WordPress Site Owners Should Know",
             "link": "https://www.wordfence.com/blog/2026/11/nginx-http2-vulnerabilities-wordpress/"
+        },
+        {
+            "title": "NGINX2Root: F5 patches five critical NGINX vulnerabilities",
+            "link": "https://www.helpnetsecurity.com/2026/11/19/nginx2root-nginx-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123890": [
+        {
+            "title": "Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers",
+            "link": "https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-59310": [
+        {
+            "title": "Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers",
+            "link": "https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-123891": [
+        {
+            "title": "Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers",
+            "link": "https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-123894": [
+        {
+            "title": "Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers",
+            "link": "https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-123893": [
+        {
+            "title": "Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers",
+            "link": "https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-59309": [
+        {
+            "title": "Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers",
+            "link": "https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-123892": [
+        {
+            "title": "Critical VMware vCenter Flaws Let Hackers Bypass Authentication and Access Servers",
+            "link": "https://cybersecuritynews.com/vmware-vcenter-authentication-bypass/"
+        }
+    ],
+    "CVE-2026-129501": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129291": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129506": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129496": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129182": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129438": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129289": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129292": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-48841": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-128090": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129538": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-15353": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-127960": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129481": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-128064": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-129474": [
+        {
+            "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Urges Users to Update",
+            "link": "https://cybersecuritynews.com/php-8-released/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-90436": [
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting Four Flaws in Synology, LiteLLM, Apache Axis and REDCap",
+            "link": "https://cybersecuritynews.com/flaws-in-synology-litellm-apache-axis-and-redcap/"
+        }
+    ],
+    "CVE-2026-90817": [
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting Four Flaws in Synology, LiteLLM, Apache Axis and REDCap",
+            "link": "https://cybersecuritynews.com/flaws-in-synology-litellm-apache-axis-and-redcap/"
+        }
+    ],
+    "CVE-2026-40217": [
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting Four Flaws in Synology, LiteLLM, Apache Axis and REDCap",
+            "link": "https://cybersecuritynews.com/flaws-in-synology-litellm-apache-axis-and-redcap/"
+        }
+    ],
+    "CVE-2024-10441": [
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting Four Flaws in Synology, LiteLLM, Apache Axis and REDCap",
+            "link": "https://cybersecuritynews.com/flaws-in-synology-litellm-apache-axis-and-redcap/"
+        }
+    ],
+    "CVE-2026-120382": [
+        {
+            "title": "Synology Fixes Critical Security Flaws With CVSS Scores of 9.8 and 8.1 Across NAS Platforms",
+            "link": "https://gbhackers.com/synology-fixes-critical-security-flaws/"
+        },
+        {
+            "title": "Synology Warns of Critical NAS Flaws Allowing Unauthenticated File Access and DoS Attacks",
+            "link": "https://cyberpress.org/synology-warns-critical-nas-flaws/"
+        }
+    ],
+    "CVE-2026-132805": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132807": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132806": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2025-27212": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132808": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132803": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132802": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132804": [
+        {
+            "title": "Critical UniFi Access Flaws Allow Attackers to Gain Root Access and Execute Commands",
+            "link": "https://cyberpress.org/critical-unifi-access-flaws/"
+        }
+    ],
+    "CVE-2026-132825": [
+        {
+            "title": "CVE-2026-132825 and related issues \u2013 Ruby regular expression engine and string case conversion",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-193-aws/"
         }
     ]
 }
