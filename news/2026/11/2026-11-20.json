@@ -11,6 +11,10 @@
         {
             "title": "Chinese Hackers Exploit VMware vCenter Zero-Day to Gain Admin Access Without Login",
             "link": "https://cyberpress.org/exploit-vmware-vcenter-zero-day/"
+        },
+        {
+            "title": "VMware vCenter zero-day exploited for months before patch (CVE-2026-123890)",
+            "link": "https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/"
         }
     ],
     "CVE-2026-130451": [
@@ -53,6 +57,10 @@
         {
             "title": "Wireshark 4.6.10 Released With Patch for 39 Security Vulnerabilities",
             "link": "https://cybersecuritynews.com/wireshark-4-6-10-released/"
+        },
+        {
+            "title": "How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities",
+            "link": "https://www.tenable.com/blog/public-sector-exposure-management-php2shell"
         }
     ],
     "CVE-2026-130462": [
@@ -111,6 +119,10 @@
         {
             "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk",
             "link": "https://cyberpress.org/nginx2root-vulnerabilities/"
+        },
+        {
+            "title": "How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities",
+            "link": "https://www.tenable.com/blog/public-sector-exposure-management-php2shell"
         }
     ],
     "CVE-2026-123634": [
@@ -143,12 +155,20 @@
         {
             "title": "New Windows 11 Narrator Lock Screen 0-Day Allows Attackers to Bypass BitLocker Protections",
             "link": "https://cybersecuritynews.com/windows-11-narrator-lock-screen-0-day/"
+        },
+        {
+            "title": "New Windows 11 Zero-Day Lets Attackers Bypass Lock Screen Using Microsoft Narrator",
+            "link": "https://cyberpress.org/new-windows-11-zero-day/"
         }
     ],
     "CVE-2026-119832": [
         {
             "title": "New Windows 11 Narrator Lock Screen 0-Day Allows Attackers to Bypass BitLocker Protections",
             "link": "https://cybersecuritynews.com/windows-11-narrator-lock-screen-0-day/"
+        },
+        {
+            "title": "New Windows 11 Zero-Day Lets Attackers Bypass Lock Screen Using Microsoft Narrator",
+            "link": "https://cyberpress.org/new-windows-11-zero-day/"
         }
     ],
     "CVE-2026-42271": [
@@ -167,6 +187,215 @@
         {
             "title": "Apache Roller RCE vulnerability exploited",
             "link": "https://www.cybermaterial.com/p/apache-roller-rce-vulnerability-exploited"
+        }
+    ],
+    "CVE-2026-99312": [
+        {
+            "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+            "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"
+        }
+    ],
+    "CVE-2026-76466": [
+        {
+            "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html"
+        },
+        {
+            "title": "Critical Cisco Expressway Vulnerability Exploited By Hackers Shortly After Public PoC Release",
+            "link": "https://www.cysecurity.news/2026/11/critical-cisco-expressway-vulnerability.html"
+        }
+    ],
+    "CVE-2026-23871": [
+        {
+            "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+            "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/"
+        }
+    ],
+    "CVE-2026-132825": [
+        {
+            "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+            "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/"
+        }
+    ],
+    "CVE-2026-46300": [
+        {
+            "title": "How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities",
+            "link": "https://www.tenable.com/blog/public-sector-exposure-management-php2shell"
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities",
+            "link": "https://www.tenable.com/blog/public-sector-exposure-management-php2shell"
+        }
+    ],
+    "CVE-2026-115560": [
+        {
+            "title": "How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities",
+            "link": "https://www.tenable.com/blog/public-sector-exposure-management-php2shell"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities",
+            "link": "https://www.tenable.com/blog/public-sector-exposure-management-php2shell"
+        }
+    ],
+    "CVE-2026-114938": [
+        {
+            "title": "How exposure management can help public sector prepare for PHP2Shell-like vulnerabilities",
+            "link": "https://www.tenable.com/blog/public-sector-exposure-management-php2shell"
+        },
+        {
+            "title": "Palo Alto Confirms Java Vulnerability Impacts Privilege Threat Analytics and Remote Access Connector",
+            "link": "https://cybersecuritynews.com/palo-alto-confirms-java-vulnerability-impacts/"
+        }
+    ],
+    "CVE-2026-34486": [
+        {
+            "title": "Critical Apache Tomcat Flaw Lets Remote Attackers Join Trusted Server Clusters Without Authentication",
+            "link": "https://cybersecuritynews.com/critical-apache-tomcat-flaw/"
+        }
+    ],
+    "CVE-2026-133325": [
+        {
+            "title": "Critical Apache Tomcat Flaw Lets Remote Attackers Join Trusted Server Clusters Without Authentication",
+            "link": "https://cybersecuritynews.com/critical-apache-tomcat-flaw/"
+        }
+    ],
+    "CVE-2026-121481": [
+        {
+            "title": "OpenSSL Hit by Critical 9.8 Heap Buffer Overflow Vulnerability in Base64 Encoding Function",
+            "link": "https://cybersecuritynews.com/openssl-heap-buffer-overflow/"
+        }
+    ],
+    "CVE-2026-93916": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-93914": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-86130": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-84322": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-103579": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-93911": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-86126": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-81430": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-81434": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-86094": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-93912": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-126037": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-93915": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-103580": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-93917": [
+        {
+            "title": "Critical WatchGuard Dimension Flaw Lets Hackers Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-watchguard-dimension-flaw/"
+        }
+    ],
+    "CVE-2026-126088": [
+        {
+            "title": "Autonomy Logic OpenPLC Runtime",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01"
+        }
+    ],
+    "CVE-2026-133199": [
+        {
+            "title": "CVE-2026-133199 \u2013 Incorrect privilege assignment on reused e-mail addresses or group names in AWS ssosync",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-194-aws/"
+        }
+    ],
+    "CVE-2026-96805": [
+        {
+            "title": "Elecbrakes EB2, VM1, ELBC2000",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02"
+        }
+    ],
+    "CVE-2026-125273": [
+        {
+            "title": "Elecbrakes EB2, VM1, ELBC2000",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02"
+        }
+    ],
+    "CVE-2026-124281": [
+        {
+            "title": "Elecbrakes EB2, VM1, ELBC2000",
+            "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02"
+        }
+    ],
+    "CVE-2026-129448": [
+        {
+            "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+            "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html"
         }
     ]
 }
