@@ -1,0 +1,68 @@
+{
+    "CVE-2026-120292": [
+        {
+            "title": "6 Critical F5 BIG-IP Vulnerabilities Could Let Hackers Disrupt Websites and Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/critical-f5-big-ip-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-126822": [
+        {
+            "title": "6 Critical F5 BIG-IP Vulnerabilities Could Let Hackers Disrupt Websites and Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/critical-f5-big-ip-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-121805": [
+        {
+            "title": "6 Critical F5 BIG-IP Vulnerabilities Could Let Hackers Disrupt Websites and Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/critical-f5-big-ip-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-120722": [
+        {
+            "title": "6 Critical F5 BIG-IP Vulnerabilities Could Let Hackers Disrupt Websites and Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/critical-f5-big-ip-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123637": [
+        {
+            "title": "6 Critical F5 BIG-IP Vulnerabilities Could Let Hackers Disrupt Websites and Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/critical-f5-big-ip-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-120285": [
+        {
+            "title": "6 Critical F5 BIG-IP Vulnerabilities Could Let Hackers Disrupt Websites and Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/critical-f5-big-ip-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-116953": [
+        {
+            "title": "6 Critical F5 BIG-IP Vulnerabilities Could Let Hackers Disrupt Websites and Execute Malicious Code",
+            "link": "https://cybersecuritynews.com/critical-f5-big-ip-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-23871": [
+        {
+            "title": "WhatsApp Android Flaws Could Let Hackers Delete Users\u2019 Files and Expose IP Addresses",
+            "link": "https://cybersecuritynews.com/whatsapp-android-flaws/"
+        }
+    ],
+    "CVE-2026-102769": [
+        {
+            "title": "WhatsApp Android Flaws Could Let Hackers Delete Users\u2019 Files and Expose IP Addresses",
+            "link": "https://cybersecuritynews.com/whatsapp-android-flaws/"
+        }
+    ],
+    "CVE-2026-44908": [
+        {
+            "title": "WhatsApp Android Flaws Could Let Hackers Delete Users\u2019 Files and Expose IP Addresses",
+            "link": "https://cybersecuritynews.com/whatsapp-android-flaws/"
+        }
+    ],
+    "CVE-2026-132825": [
+        {
+            "title": "CVE-2026-132825 and related issues \u2013 Ruby regular expression engine and string case conversion",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-193-aws/"
+        }
+    ]
+}

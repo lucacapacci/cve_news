@@ -97,6 +97,10 @@
         {
             "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk",
             "link": "https://cyberpress.org/nginx2root-vulnerabilities/"
+        },
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
         }
     ],
     "CVE-2026-113425": [
@@ -107,6 +111,10 @@
         {
             "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk",
             "link": "https://cyberpress.org/nginx2root-vulnerabilities/"
+        },
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
         }
     ],
     "CVE-2026-123633": [
@@ -117,6 +125,10 @@
         {
             "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk",
             "link": "https://cyberpress.org/nginx2root-vulnerabilities/"
+        },
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
         }
     ],
     "CVE-2026-123007": [
@@ -135,6 +147,10 @@
         {
             "title": "NGINX2Root: Identify and Protect with the CrowdStrike Falcon Platform",
             "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-nginx2root-cve-2026-123007/"
+        },
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
         }
     ],
     "CVE-2026-123634": [
@@ -145,6 +161,10 @@
         {
             "title": "NGINX2Root Vulnerabilities Put Millions of Internet-Facing Web Servers at Risk",
             "link": "https://cyberpress.org/nginx2root-vulnerabilities/"
+        },
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
         }
     ],
     "CVE-2026-59309": [
@@ -273,6 +293,10 @@
         {
             "title": "A Technical Guide to Mitigate Java4Shell with TruRisk Eliminate",
             "link": "https://blog.qualys.com/category/qualys-insights"
+        },
+        {
+            "title": "Java4Shell: A Closer Look and Patch Analysis (CVE-2026-114938)",
+            "link": "https://www.akamai.com/blog/security-research/2026/nov/java4shell-closer-look-patch-analysis-cve-2026-114938"
         }
     ],
     "CVE-2026-34486": [
@@ -430,6 +454,12 @@
         {
             "title": "CISA KEV Addition: CVE-2025-42884",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-42884"
+        }
+    ],
+    "CVE-2026-118899": [
+        {
+            "title": "Issue with nginx HTTP/2 Implementation",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/"
         }
     ]
 }
