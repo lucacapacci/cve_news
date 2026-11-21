@@ -64,5 +64,17 @@
             "title": "CVE-2026-132825 and related issues \u2013 Ruby regular expression engine and string case conversion",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-193-aws/"
         }
+    ],
+    "CVE-2026-129975": [
+        {
+            "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+            "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html"
+        }
+    ],
+    "CVE-2026-129448": [
+        {
+            "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"
+        }
     ]
 }
