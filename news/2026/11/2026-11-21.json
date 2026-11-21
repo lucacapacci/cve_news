@@ -27,6 +27,10 @@
         {
             "title": "6 Critical F5 BIG-IP Vulnerabilities Could Let Hackers Disrupt Websites and Execute Malicious Code",
             "link": "https://cybersecuritynews.com/critical-f5-big-ip-vulnerabilities/"
+        },
+        {
+            "title": "Critical F5 BIG-IP Stack Buffer Overflow Flaw Enables Remote Code Execution and Denial-of-Service Attacks",
+            "link": "https://gbhackers.com/critical-f5-big-ip-stack-buffer-overflow-flaw/"
         }
     ],
     "CVE-2026-120285": [
@@ -51,6 +55,10 @@
         {
             "title": "WhatsApp Android Flaws Could Let Hackers Delete Users\u2019 Files and Expose IP Addresses",
             "link": "https://cybersecuritynews.com/whatsapp-android-flaws/"
+        },
+        {
+            "title": "WhatsApp Security Flaw Lets Attackers Delete Files and Leak Chat Database Information on Android Devices",
+            "link": "https://gbhackers.com/whatsapp-security-flaw/"
         }
     ],
     "CVE-2026-44908": [
@@ -75,6 +83,42 @@
         {
             "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
             "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html"
+        }
+    ],
+    "CVE-2026-133325": [
+        {
+            "title": "Critical Apache Tomcat Security Flaw Enables Unauthorized Nodes to Join Protected Server Clusters",
+            "link": "https://gbhackers.com/critical-apache-tomcat-security-flaw/"
+        }
+    ],
+    "CVE-2026-132165": [
+        {
+            "title": "Drupal Patches Critical RCE Flaw, Urges Immediate Updates",
+            "link": "https://www.cysecurity.news/2026/11/drupal-patches-critical-rce-flaw-urges.html"
+        }
+    ],
+    "CVE-2026-132166": [
+        {
+            "title": "Drupal Patches Critical RCE Flaw, Urges Immediate Updates",
+            "link": "https://www.cysecurity.news/2026/11/drupal-patches-critical-rce-flaw-urges.html"
+        }
+    ],
+    "CVE-2026-41709": [
+        {
+            "title": "China-Linked Hackers Exploit VMware vCenter Zero-Day to Steal Data",
+            "link": "https://www.cysecurity.news/2026/11/china-linked-hackers-exploit-vmware.html"
+        }
+    ],
+    "CVE-2026-102764": [
+        {
+            "title": "China-Linked Hackers Exploit VMware vCenter Zero-Day to Steal Data",
+            "link": "https://www.cysecurity.news/2026/11/china-linked-hackers-exploit-vmware.html"
+        }
+    ],
+    "CVE-2026-123890": [
+        {
+            "title": "China-Linked Hackers Exploit VMware vCenter Zero-Day to Steal Data",
+            "link": "https://www.cysecurity.news/2026/11/china-linked-hackers-exploit-vmware.html"
         }
     ]
 }
