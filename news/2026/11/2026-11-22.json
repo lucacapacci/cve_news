@@ -27,6 +27,10 @@
         {
             "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day",
             "link": "https://www.cysecurity.news/2026/11/china-linked-hackers-exploit-critical.html"
+        },
+        {
+            "title": "VMware vCenter zero-day exploited for months before patch (CVE-2026-123890)",
+            "link": "https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/"
         }
     ],
     "CVE-2026-102764": [
@@ -39,6 +43,22 @@
         {
             "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
             "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html"
+        },
+        {
+            "title": "Hackers Exploit Cisco Expressway Flaw CVE-2026-76466 to Breach Russian Organization",
+            "link": "https://securityaffairs.com/203598/hacking/hackers-exploit-cisco-expressway-flaw-cve-2026-76466-to-breach-russian-organization.html"
+        }
+    ],
+    "CVE-2026-44908": [
+        {
+            "title": "WhatsApp Found a Scammer's Tool While Shutting Down the Scam",
+            "link": "https://www.cysecurity.news/2026/11/whatsapp-found-scammers-tool-while.html"
+        }
+    ],
+    "CVE-2026-99312": [
+        {
+            "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+            "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"
         }
     ]
 }
