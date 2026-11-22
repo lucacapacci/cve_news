@@ -31,6 +31,10 @@
         {
             "title": "Critical F5 BIG-IP Stack Buffer Overflow Flaw Enables Remote Code Execution and Denial-of-Service Attacks",
             "link": "https://gbhackers.com/critical-f5-big-ip-stack-buffer-overflow-flaw/"
+        },
+        {
+            "title": "Critical F5 BIG-IP Vulnerability Allows Hackers to Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-f5-big-ip-vulnerability/"
         }
     ],
     "CVE-2026-120285": [
@@ -49,6 +53,10 @@
         {
             "title": "WhatsApp Android Flaws Could Let Hackers Delete Users\u2019 Files and Expose IP Addresses",
             "link": "https://cybersecuritynews.com/whatsapp-android-flaws/"
+        },
+        {
+            "title": "WhatsApp Security Flaw Lets Hackers Delete Local Chat Files Using Malicious Messages",
+            "link": "https://cyberpress.org/whatsapp-security-flaw/"
         }
     ],
     "CVE-2026-102769": [
@@ -59,12 +67,20 @@
         {
             "title": "WhatsApp Security Flaw Lets Attackers Delete Files and Leak Chat Database Information on Android Devices",
             "link": "https://gbhackers.com/whatsapp-security-flaw/"
+        },
+        {
+            "title": "WhatsApp Security Flaw Lets Hackers Delete Local Chat Files Using Malicious Messages",
+            "link": "https://cyberpress.org/whatsapp-security-flaw/"
         }
     ],
     "CVE-2026-44908": [
         {
             "title": "WhatsApp Android Flaws Could Let Hackers Delete Users\u2019 Files and Expose IP Addresses",
             "link": "https://cybersecuritynews.com/whatsapp-android-flaws/"
+        },
+        {
+            "title": "WhatsApp Security Flaw Lets Hackers Delete Local Chat Files Using Malicious Messages",
+            "link": "https://cyberpress.org/whatsapp-security-flaw/"
         }
     ],
     "CVE-2026-132825": [
@@ -89,6 +105,10 @@
         {
             "title": "Critical Apache Tomcat Security Flaw Enables Unauthorized Nodes to Join Protected Server Clusters",
             "link": "https://gbhackers.com/critical-apache-tomcat-security-flaw/"
+        },
+        {
+            "title": "Critical Apache Tomcat Flaw Lets Unauthenticated Attackers Join Secure Server Clusters",
+            "link": "https://cyberpress.org/critical-apache-tomcat-flaw/"
         }
     ],
     "CVE-2026-132165": [

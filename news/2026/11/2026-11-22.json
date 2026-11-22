@@ -16,5 +16,29 @@
             "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
             "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/"
         }
+    ],
+    "CVE-2026-114938": [
+        {
+            "title": "Week in review: Java4Shell proves tricky to exploit, malware planted via Optimizely hits 178 orgs",
+            "link": "https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/"
+        }
+    ],
+    "CVE-2026-123890": [
+        {
+            "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day",
+            "link": "https://www.cysecurity.news/2026/11/china-linked-hackers-exploit-critical.html"
+        }
+    ],
+    "CVE-2026-102764": [
+        {
+            "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day",
+            "link": "https://www.cysecurity.news/2026/11/china-linked-hackers-exploit-critical.html"
+        }
+    ],
+    "CVE-2026-76466": [
+        {
+            "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html"
+        }
     ]
 }
