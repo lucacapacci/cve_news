@@ -1,0 +1,20 @@
+{
+    "CVE-2026-65640": [
+        {
+            "title": "Hackers Could Execute Commands on WordPress, Email and Print Servers Through Upload2Shell Flaw",
+            "link": "https://cybersecuritynews.com/upload2shell-flaw/"
+        }
+    ],
+    "CVE-2026-125396": [
+        {
+            "title": "Hackers Could Execute Commands on WordPress, Email and Print Servers Through Upload2Shell Flaw",
+            "link": "https://cybersecuritynews.com/upload2shell-flaw/"
+        }
+    ],
+    "CVE-2026-132825": [
+        {
+            "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
+            "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/"
+        }
+    ]
+}
