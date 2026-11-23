@@ -11,6 +11,10 @@
         {
             "title": "Critical ASP.NET Vulnerability Allows Hackers to Execute Code Without Authentication",
             "link": "https://cyberpress.org/critical-asp-net-vulnerability/"
+        },
+        {
+            "title": "Hackers Actively Exploit Critical ASP.NET Vulnerability to Execute Remote Code and Compromise Web Servers",
+            "link": "https://gbhackers.com/hackers-actively-exploit-critical-asp-net-vulnerability/"
         }
     ],
     "CVE-2026-123633": [
@@ -45,6 +49,10 @@
         {
             "title": "Hackers Allegedly Claiming Exploit for VMware vCenter 0-day Vulnerability",
             "link": "https://cybersecuritynews.com/alleged-vmware-vcenter-0-day-exploit/"
+        },
+        {
+            "title": "Cisco Expressway vulnerability exploited to breach internal networks (CVE-2026-76466)",
+            "link": "https://www.helpnetsecurity.com/2026/11/23/cisco-expressway-vulnerability-exploited-cve-2026-76466/"
         }
     ],
     "CVE-2026-76466": [
@@ -59,6 +67,14 @@
         {
             "title": "Critical Cisco Expressway Flaw Exploited in Attacks",
             "link": "https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/"
+        },
+        {
+            "title": "Hackers Exploit Critical Cisco Expressway Flaw to Gain Root Access and Infiltrate Internal Networks",
+            "link": "https://cybersecuritynews.com/hackers-exploit-critical-cisco-expressway-flaw/"
+        },
+        {
+            "title": "Cisco Expressway vulnerability exploited to breach internal networks (CVE-2026-76466)",
+            "link": "https://www.helpnetsecurity.com/2026/11/23/cisco-expressway-vulnerability-exploited-cve-2026-76466/"
         }
     ],
     "CVE-2026-0330": [
@@ -77,6 +93,58 @@
         {
             "title": "Low-Skilled Hacker Uses Jailbroken AI Agent to Steal Insurance Data and 8.6GB of Government Files",
             "link": "https://cyberpress.org/jailbroken-ai-enables-breach/"
+        },
+        {
+            "title": "Jailbroken AI Agent Helps Hacker Steal Customer Data and 8.6GB of European Government Files",
+            "link": "https://cybersecuritynews.com/jailbroken-ai-agent/"
+        }
+    ],
+    "CVE-2026-134814": [
+        {
+            "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+            "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html"
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html"
+        }
+    ],
+    "CVE-2026-134624": [
+        {
+            "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+            "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html"
+        },
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-134624",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-134624"
+        }
+    ],
+    "CVE-2026-134069": [
+        {
+            "title": "CVE-2026-134069 \u2013 Use of a default cryptographic key in the instance registration of Amazon SSM Agent on AWS Windows Server AMIs",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-197-aws/"
+        }
+    ],
+    "CVE-2026-133968": [
+        {
+            "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+            "link": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-133968",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-133968"
+        }
+    ],
+    "CVE-2026-134056": [
+        {
+            "title": "CVE-2026-134056 \u2013 Out-of-bounds write in padded block cipher decryption in AWS-LC",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-196-aws/"
         }
     ]
 }
