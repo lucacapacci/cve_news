@@ -1,0 +1,82 @@
+{
+    "CVE-2026-131914": [
+        {
+            "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html"
+        },
+        {
+            "title": "Critical ASP.NET AntiCsrf Flaw Under Attack, Allowing Hackers to Execute Code Without Login",
+            "link": "https://cybersecuritynews.com/asp-net-anticsrf-flaw-under-attack/"
+        },
+        {
+            "title": "Critical ASP.NET Vulnerability Allows Hackers to Execute Code Without Authentication",
+            "link": "https://cyberpress.org/critical-asp-net-vulnerability/"
+        }
+    ],
+    "CVE-2026-123633": [
+        {
+            "title": "Palo Alto Confirms NGINX Vulnerabilities Impact PAN-OS and Releases Workarounds",
+            "link": "https://cybersecuritynews.com/palo-alto-confirms-nginx-rce-vulnerabilities/"
+        },
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Allow Unauthenticated Attackers to Execute Code Remotely",
+            "link": "https://gbhackers.com/critical-palo-alto-networks-pan-os-flaws/"
+        },
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Let Hackers Execute Code Remotely Without Authentication",
+            "link": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/"
+        }
+    ],
+    "CVE-2026-123007": [
+        {
+            "title": "Palo Alto Confirms NGINX Vulnerabilities Impact PAN-OS and Releases Workarounds",
+            "link": "https://cybersecuritynews.com/palo-alto-confirms-nginx-rce-vulnerabilities/"
+        },
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Allow Unauthenticated Attackers to Execute Code Remotely",
+            "link": "https://gbhackers.com/critical-palo-alto-networks-pan-os-flaws/"
+        },
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Let Hackers Execute Code Remotely Without Authentication",
+            "link": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/"
+        }
+    ],
+    "CVE-2026-123890": [
+        {
+            "title": "Hackers Allegedly Claiming Exploit for VMware vCenter 0-day Vulnerability",
+            "link": "https://cybersecuritynews.com/alleged-vmware-vcenter-0-day-exploit/"
+        }
+    ],
+    "CVE-2026-76466": [
+        {
+            "title": "Hackers Exploit Cisco Expressway CVE-2026-76466 After Public PoC Release to Gain Root Privileges",
+            "link": "https://gbhackers.com/hackers-exploit-cisco-expressway-cve-2026-76466/"
+        },
+        {
+            "title": "Hackers Exploit Critical Cisco Expressway Flaw to Gain Root Access and Breach Internal Networks",
+            "link": "https://cyberpress.org/critical-cisco-expressway-flaw-2/"
+        },
+        {
+            "title": "Critical Cisco Expressway Flaw Exploited in Attacks",
+            "link": "https://www.infosecurity-magazine.com/news/critical-cisco-expressway-flaw/"
+        }
+    ],
+    "CVE-2026-0330": [
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Let Hackers Execute Code Remotely Without Authentication",
+            "link": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/"
+        }
+    ],
+    "CVE-2026-0310": [
+        {
+            "title": "Critical Palo Alto Networks PAN-OS Flaws Let Hackers Execute Code Remotely Without Authentication",
+            "link": "https://cyberpress.org/critical-palo-alto-networks-pan-os-flaws/"
+        }
+    ],
+    "CVE-2023-38646": [
+        {
+            "title": "Low-Skilled Hacker Uses Jailbroken AI Agent to Steal Insurance Data and 8.6GB of Government Files",
+            "link": "https://cyberpress.org/jailbroken-ai-enables-breach/"
+        }
+    ]
+}
