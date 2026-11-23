@@ -60,5 +60,35 @@
             "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
             "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html"
         }
+    ],
+    "CVE-2026-121810": [
+        {
+            "title": "NGINX2ROOT Exploits 5 Critical NGINX Vulnerabilities to Gain Remote Code Execution and Root Access",
+            "link": "https://gbhackers.com/nginx2root-exploits-5-critical-nginx-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123634": [
+        {
+            "title": "NGINX2ROOT Exploits 5 Critical NGINX Vulnerabilities to Gain Remote Code Execution and Root Access",
+            "link": "https://gbhackers.com/nginx2root-exploits-5-critical-nginx-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-113425": [
+        {
+            "title": "NGINX2ROOT Exploits 5 Critical NGINX Vulnerabilities to Gain Remote Code Execution and Root Access",
+            "link": "https://gbhackers.com/nginx2root-exploits-5-critical-nginx-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123007": [
+        {
+            "title": "NGINX2ROOT Exploits 5 Critical NGINX Vulnerabilities to Gain Remote Code Execution and Root Access",
+            "link": "https://gbhackers.com/nginx2root-exploits-5-critical-nginx-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123633": [
+        {
+            "title": "NGINX2ROOT Exploits 5 Critical NGINX Vulnerabilities to Gain Remote Code Execution and Root Access",
+            "link": "https://gbhackers.com/nginx2root-exploits-5-critical-nginx-vulnerabilities/"
+        }
     ]
 }
