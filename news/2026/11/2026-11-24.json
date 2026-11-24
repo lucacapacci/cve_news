@@ -37,12 +37,266 @@
         {
             "title": "Critical Cisco Expressway RCE Vulnerability Exploited in the Wild to Execute Commands as Root",
             "link": "https://gbhackers.com/critical-cisco-expressway-rce-vulnerability/"
+        },
+        {
+            "title": "CISA Warns of VMware vCenter, SAP NetWeaver, Cisco Expressway, and Apache Roller Flaws Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-warns-vmware-sap-cisco-apache-roller-flaws-exploited/"
         }
     ],
     "CVE-2026-114938": [
         {
             "title": "OpenAI and Cisco Launch Shirudo AI Security Tool to Block Exploits on Linux Servers",
             "link": "https://cybersecuritynews.com/openai-and-cisco-launch-shirudo/"
+        }
+    ],
+    "CVE-2026-123903": [
+        {
+            "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+            "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html"
+        },
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-87268": [
+        {
+            "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+            "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html"
+        }
+    ],
+    "CVE-2026-123919": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123912": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123911": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123908": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123907": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123914": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123918": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123909": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123924": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123910": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-123913": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123905": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123890": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/"
+        },
+        {
+            "title": "CISA Warns of VMware vCenter, SAP NetWeaver, Cisco Expressway, and Apache Roller Flaws Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-warns-vmware-sap-cisco-apache-roller-flaws-exploited/"
+        },
+        {
+            "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day",
+            "link": "https://www.cysecurity.news/2026/11/china-linked-hackers-exploit-critical.html"
+        }
+    ],
+    "CVE-2026-123925": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123926": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123906": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123915": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123922": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123923": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123920": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123916": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123921": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123904": [
+        {
+            "title": "Critical VMware ESX Flaws Let Remote Attackers Execute Malicious Code on Virtualization Hosts",
+            "link": "https://cybersecuritynews.com/vmware-esx-host-vulnerabilities/"
+        }
+    ],
+    "CVE-2026-131914": [
+        {
+            "title": "Critical ASP.NET AntiCsrf Flaw Exploited in Attacks by triggering a web redirect on vulnerable apps",
+            "link": "https://cybersecuritynews.com/critical-asp-net-anticsrf-flaw-exploited/"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-131914",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-131914"
+        }
+    ],
+    "CVE-2026-123158": [
+        {
+            "title": "Hackers Bypass Alpine Linux SSH Authentication Using Just a 257-Byte Password",
+            "link": "https://cybersecuritynews.com/hackers-bypass-alpine-linux-ssh-authentication/"
+        }
+    ],
+    "CVE-2026-129448": [
+        {
+            "title": "CISA Warns of VMware vCenter, SAP NetWeaver, Cisco Expressway, and Apache Roller Flaws Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-warns-vmware-sap-cisco-apache-roller-flaws-exploited/"
+        }
+    ],
+    "CVE-2025-42884": [
+        {
+            "title": "CISA Warns of VMware vCenter, SAP NetWeaver, Cisco Expressway, and Apache Roller Flaws Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/cisa-warns-vmware-sap-cisco-apache-roller-flaws-exploited/"
+        }
+    ],
+    "CVE-2026-134401": [
+        {
+            "title": "Critical Google Chrome Flaw Could Let Hackers Execute Malicious Code Outside Browser Sandbox",
+            "link": "https://cybersecuritynews.com/critical-google-chrome-flaw/"
+        }
+    ],
+    "CVE-2026-96805": [
+        {
+            "title": "Hackers Could Suddenly Apply Trailer Brakes at Highway Speeds Through Bluetooth Vulnerability",
+            "link": "https://gbhackers.com/bluetooth-vulnerability/"
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "Hackers Have Spent Weeks Silently Hijacking MSP Technician Machines Through a Critical ScreenConnect Flaw",
+            "link": "https://www.cysecurity.news/2026/11/hackers-have-spent-weeks-silently.html"
+        }
+    ],
+    "CVE-2026-126714": [
+        {
+            "title": "New phpAfterShell Bug Reopens PHP2Shell Attack Path",
+            "link": "https://www.cysecurity.news/2026/11/new-phpaftershell-bug-reopens-php2shell.html"
+        }
+    ],
+    "CVE-2026-134068": [
+        {
+            "title": "CVE-2026-134068 \u2013 Stack-based buffer overflow in replication origin name parsing in AWS pgactive",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-198-aws/"
+        }
+    ],
+    "CVE-2026-132224": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-132224",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-132224"
+        }
+    ],
+    "CVE-2026-132165": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-132165",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-132165"
         }
     ]
 }
