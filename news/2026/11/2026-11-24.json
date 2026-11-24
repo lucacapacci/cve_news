@@ -1,0 +1,48 @@
+{
+    "CVE-2026-134624": [
+        {
+            "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html"
+        }
+    ],
+    "CVE-2026-134815": [
+        {
+            "title": "Critical Node.js simple-git Library Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/node-js-simple-git-library-flaw/"
+        }
+    ],
+    "CVE-2026-28292": [
+        {
+            "title": "Critical Node.js simple-git Library Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/node-js-simple-git-library-flaw/"
+        }
+    ],
+    "CVE-2026-6951": [
+        {
+            "title": "Critical Node.js simple-git Library Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/node-js-simple-git-library-flaw/"
+        }
+    ],
+    "CVE-2022-24433": [
+        {
+            "title": "Critical Node.js simple-git Library Vulnerability Enables Remote Code Execution Attacks",
+            "link": "https://cybersecuritynews.com/node-js-simple-git-library-flaw/"
+        }
+    ],
+    "CVE-2026-76466": [
+        {
+            "title": "Hackers Actively Exploiting Cisco Expressway Vulnerability to Gain Full Root Access",
+            "link": "https://cybersecuritynews.com/cisco-expressway-vulnerability-exploited/"
+        },
+        {
+            "title": "Critical Cisco Expressway RCE Vulnerability Exploited in the Wild to Execute Commands as Root",
+            "link": "https://gbhackers.com/critical-cisco-expressway-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-114938": [
+        {
+            "title": "OpenAI and Cisco Launch Shirudo AI Security Tool to Block Exploits on Linux Servers",
+            "link": "https://cybersecuritynews.com/openai-and-cisco-launch-shirudo/"
+        }
+    ]
+}
