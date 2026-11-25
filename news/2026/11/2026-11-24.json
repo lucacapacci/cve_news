@@ -298,5 +298,11 @@
             "title": "CISA KEV Addition: CVE-2026-132165",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-132165"
         }
+    ],
+    "CVE-2026-123633": [
+        {
+            "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+            "link": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/"
+        }
     ]
 }
