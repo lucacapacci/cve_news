@@ -11,6 +11,18 @@
         {
             "title": "CISA Warns Hackers Are Actively Exploiting Critical Drupal, ASP.NET and Optimizely Security Flaws",
             "link": "https://cyberpress.org/cisa-drupal-asp-net-and-optimizely-security-flaws/"
+        },
+        {
+            "title": "CISA Warns of Drupal Core RCE, Idunno AntiCsrf and Optimizely Flaws Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/drupal-idunno-anticsrf-optimizely-flaws-exploited/"
+        },
+        {
+            "title": "Hackers Are Exploiting a Critical Drupal Flaw to Target Websites Without Needing a Password",
+            "link": "https://cybersecuritynews.com/drupal-critical-security-flaw/"
+        },
+        {
+            "title": "Critical Drupal installer flaw under active attack (CVE-2026-132165)",
+            "link": "https://www.helpnetsecurity.com/2026/11/25/drupal-installer-rce-cve-2026-132165-exploited/"
         }
     ],
     "CVE-2026-131914": [
@@ -25,6 +37,10 @@
         {
             "title": "CISA Warns Hackers Are Actively Exploiting Critical Drupal, ASP.NET and Optimizely Security Flaws",
             "link": "https://cyberpress.org/cisa-drupal-asp-net-and-optimizely-security-flaws/"
+        },
+        {
+            "title": "CISA Warns of Drupal Core RCE, Idunno AntiCsrf and Optimizely Flaws Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/drupal-idunno-anticsrf-optimizely-flaws-exploited/"
         }
     ],
     "CVE-2026-103782": [
@@ -55,6 +71,10 @@
         {
             "title": "CISA Warns Hackers Are Actively Exploiting Critical Drupal, ASP.NET and Optimizely Security Flaws",
             "link": "https://cyberpress.org/cisa-drupal-asp-net-and-optimizely-security-flaws/"
+        },
+        {
+            "title": "CISA Warns of Drupal Core RCE, Idunno AntiCsrf and Optimizely Flaws Exploited in Attacks",
+            "link": "https://cybersecuritynews.com/drupal-idunno-anticsrf-optimizely-flaws-exploited/"
         }
     ],
     "CVE-2026-129514": [
@@ -68,6 +88,11 @@
             "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
             "link": "https://cyberpress.org/adobe-critical-security-flaws/",
             "listOnly": true
+        },
+        {
+            "title": "Critical Adobe Vulnerabilities Let Hackers Execute Malicious Code on Servers",
+            "link": "https://cybersecuritynews.com/critical-adobe-vulnerabilities/",
+            "listOnly": true
         }
     ],
     "CVE-2026-123266": [
@@ -75,6 +100,10 @@
             "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
             "link": "https://cyberpress.org/adobe-critical-security-flaws/",
             "listOnly": true
+        },
+        {
+            "title": "Critical Adobe Vulnerabilities Let Hackers Execute Malicious Code on Servers",
+            "link": "https://cybersecuritynews.com/critical-adobe-vulnerabilities/"
         }
     ],
     "CVE-2026-123722": [
@@ -96,6 +125,11 @@
             "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
             "link": "https://cyberpress.org/adobe-critical-security-flaws/",
             "listOnly": true
+        },
+        {
+            "title": "Critical Adobe Vulnerabilities Let Hackers Execute Malicious Code on Servers",
+            "link": "https://cybersecuritynews.com/critical-adobe-vulnerabilities/",
+            "listOnly": true
         }
     ],
     "CVE-2026-123986": [
@@ -110,12 +144,22 @@
             "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
             "link": "https://cyberpress.org/adobe-critical-security-flaws/",
             "listOnly": true
+        },
+        {
+            "title": "Critical Adobe Vulnerabilities Let Hackers Execute Malicious Code on Servers",
+            "link": "https://cybersecuritynews.com/critical-adobe-vulnerabilities/",
+            "listOnly": true
         }
     ],
     "CVE-2026-123253": [
         {
             "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
             "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        },
+        {
+            "title": "Critical Adobe Vulnerabilities Let Hackers Execute Malicious Code on Servers",
+            "link": "https://cybersecuritynews.com/critical-adobe-vulnerabilities/",
             "listOnly": true
         }
     ],
@@ -131,12 +175,22 @@
             "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
             "link": "https://cyberpress.org/adobe-critical-security-flaws/",
             "listOnly": true
+        },
+        {
+            "title": "Critical Adobe Vulnerabilities Let Hackers Execute Malicious Code on Servers",
+            "link": "https://cybersecuritynews.com/critical-adobe-vulnerabilities/",
+            "listOnly": true
         }
     ],
     "CVE-2026-125718": [
         {
             "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
             "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        },
+        {
+            "title": "Critical Adobe Vulnerabilities Let Hackers Execute Malicious Code on Servers",
+            "link": "https://cybersecuritynews.com/critical-adobe-vulnerabilities/",
             "listOnly": true
         }
     ],
@@ -152,6 +206,10 @@
             "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
             "link": "https://cyberpress.org/adobe-critical-security-flaws/",
             "listOnly": true
+        },
+        {
+            "title": "Critical Adobe Vulnerabilities Let Hackers Execute Malicious Code on Servers",
+            "link": "https://cybersecuritynews.com/critical-adobe-vulnerabilities/"
         }
     ],
     "CVE-2026-123265": [
@@ -187,6 +245,11 @@
             "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
             "link": "https://cyberpress.org/adobe-critical-security-flaws/",
             "listOnly": true
+        },
+        {
+            "title": "Critical Adobe Vulnerabilities Let Hackers Execute Malicious Code on Servers",
+            "link": "https://cybersecuritynews.com/critical-adobe-vulnerabilities/",
+            "listOnly": true
         }
     ],
     "CVE-2026-109618": [
@@ -205,6 +268,91 @@
         {
             "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
             "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/"
+        }
+    ],
+    "CVE-2026-120705": [
+        {
+            "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+        }
+    ],
+    "CVE-2026-129243": [
+        {
+            "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+        }
+    ],
+    "CVE-2026-123256": [
+        {
+            "title": "Critical Adobe Vulnerabilities Let Hackers Execute Malicious Code on Servers",
+            "link": "https://cybersecuritynews.com/critical-adobe-vulnerabilities/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-84869": [
+        {
+            "title": "Hackers Have Spent Weeks Silently Hijacking MSP Technician Machines Through a Critical ScreenConnect Flaw",
+            "link": "https://www.cysecurity.news/2026/11/hackers-have-spent-weeks-silently.html"
+        }
+    ],
+    "CVE-2026-103406": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-103406",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-103406"
+        }
+    ],
+    "CVE-2026-133469": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-133469",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-133469"
+        }
+    ],
+    "CVE-2025-41450": [
+        {
+            "title": "CISA KEV Addition: CVE-2025-41450",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2025-41450"
+        }
+    ],
+    "CVE-2023-25914": [
+        {
+            "title": "CISA KEV Addition: CVE-2023-25914",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-25914"
+        }
+    ],
+    "CVE-2023-25915": [
+        {
+            "title": "CISA KEV Addition: CVE-2023-25915",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2023-25915"
+        }
+    ],
+    "CVE-2026-133324": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-133324",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-133324"
+        }
+    ],
+    "CVE-2026-133275": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-133275",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-133275"
+        }
+    ],
+    "CVE-2026-133311": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-133311",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-133311"
+        }
+    ],
+    "CVE-2026-133303": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-133303",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-133303"
+        }
+    ],
+    "CVE-2026-133323": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-133323",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-133323"
         }
     ]
 }
