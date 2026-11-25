@@ -1,0 +1,210 @@
+{
+    "CVE-2026-132165": [
+        {
+            "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+            "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html"
+        },
+        {
+            "title": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)",
+            "link": "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/"
+        },
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting Critical Drupal, ASP.NET and Optimizely Security Flaws",
+            "link": "https://cyberpress.org/cisa-drupal-asp-net-and-optimizely-security-flaws/"
+        }
+    ],
+    "CVE-2026-131914": [
+        {
+            "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
+            "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/"
+        },
+        {
+            "title": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)",
+            "link": "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/"
+        },
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting Critical Drupal, ASP.NET and Optimizely Security Flaws",
+            "link": "https://cyberpress.org/cisa-drupal-asp-net-and-optimizely-security-flaws/"
+        }
+    ],
+    "CVE-2026-103782": [
+        {
+            "title": "Critical 9.9 Dell Enterprise SONiC Flaw Could Let Hackers Execute Malicious Commands on Network Switches",
+            "link": "https://cybersecuritynews.com/critical-dell-enterprise-sonic-flaw/"
+        },
+        {
+            "title": "Critical Dell Enterprise SONiC Flaw Could Allow Hackers to Run Malicious Commands on Network Switches",
+            "link": "https://cyberpress.org/critical-dell-enterprise-sonic-flaw/"
+        }
+    ],
+    "CVE-2026-46300": [
+        {
+            "title": "Palo Alto Networks Confirms Hackers Are Exploiting Fragnesia Flaw to Gain Root Access to Firewalls",
+            "link": "https://cybersecuritynews.com/palo-alto-confirms-fragnesia-exploitation/"
+        },
+        {
+            "title": "Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks",
+            "link": "https://cyberpress.org/exploit-palo-alto-networks-firewall/"
+        }
+    ],
+    "CVE-2026-132224": [
+        {
+            "title": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)",
+            "link": "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/"
+        },
+        {
+            "title": "CISA Warns Hackers Are Actively Exploiting Critical Drupal, ASP.NET and Optimizely Security Flaws",
+            "link": "https://cyberpress.org/cisa-drupal-asp-net-and-optimizely-security-flaws/"
+        }
+    ],
+    "CVE-2026-129514": [
+        {
+            "title": "Hackers Breach Hex.pm Package Registry, Potentially Exposing Password Hashes and 2FA Secrets",
+            "link": "https://cyberpress.org/hackers-breach-hex-pm-package-registry/"
+        }
+    ],
+    "CVE-2026-125723": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123266": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123722": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123342": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125716": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123986": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125717": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123253": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-119579": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123721": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125718": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125675": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-132877": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123265": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123987": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-121357": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123723": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-125676": [
+        {
+            "title": "Adobe Warns of Critical Security Flaws That Could Allow Hackers to Execute Malicious Code",
+            "link": "https://cyberpress.org/adobe-critical-security-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-109618": [
+        {
+            "title": "Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks",
+            "link": "https://cyberpress.org/exploit-palo-alto-networks-firewall/"
+        }
+    ],
+    "CVE-2026-109619": [
+        {
+            "title": "Hackers Exploit Palo Alto Networks Firewall Vulnerability in Active Attacks",
+            "link": "https://cyberpress.org/exploit-palo-alto-networks-firewall/"
+        }
+    ],
+    "CVE-2026-114938": [
+        {
+            "title": "Java4Shell (CVE-2026-114938): CrowdStrike Detects Exposure and Post-Exploitation Activity",
+            "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-helps-protect-against-java4shell-cve-2026-114938/"
+        }
+    ]
+}
