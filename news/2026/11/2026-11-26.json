@@ -1,0 +1,48 @@
+{
+    "CVE-2026-132165": [
+        {
+            "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+            "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
+        }
+    ],
+    "CVE-2026-136716": [
+        {
+            "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+            "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
+        },
+        {
+            "title": "Hackers Actively Exploit Critical Drupal Vulnerability to Take Over Websites",
+            "link": "https://gbhackers.com/hackers-actively-exploit-critical-drupal-vulnerability/"
+        }
+    ],
+    "CVE-2026-133275": [
+        {
+            "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"
+        }
+    ],
+    "CVE-2026-103406": [
+        {
+            "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+            "link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/"
+        }
+    ],
+    "CVE-2026-129713": [
+        {
+            "title": "Critical Danfoss Refrigeration Controller Vulnerability Could Let Hackers Execute Arbitrary Code Remotely",
+            "link": "https://gbhackers.com/critical-danfoss-refrigeration-controller-vulnerability/"
+        }
+    ],
+    "CVE-2026-131914": [
+        {
+            "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
+            "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/"
+        }
+    ],
+    "CVE-2026-46300": [
+        {
+            "title": "Palo Alto confirms Fragnesia exploitation against firewalls in PHP2Shell attacks",
+            "link": "https://www.csoonline.com/article/4253600/palo-alto-confirms-fragnesia-exploitation-against-firewalls-in-php2shell-attacks.html"
+        }
+    ]
+}
