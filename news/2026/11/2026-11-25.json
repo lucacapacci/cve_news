@@ -23,6 +23,10 @@
         {
             "title": "Critical Drupal installer flaw under active attack (CVE-2026-132165)",
             "link": "https://www.helpnetsecurity.com/2026/11/25/drupal-installer-rce-cve-2026-132165-exploited/"
+        },
+        {
+            "title": "Hackers Exploit Critical Drupal Vulnerability to Hijack Websites Without Authentication",
+            "link": "https://cyberpress.org/critical-drupal-vulnerability/"
         }
     ],
     "CVE-2026-131914": [
@@ -353,6 +357,194 @@
         {
             "title": "CISA KEV Addition: CVE-2026-133323",
             "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-133323"
+        }
+    ],
+    "CVE-2026-123165": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-82321": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-123169": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-75806": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-75805": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-82313": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-82319": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-123172": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-123167": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-63076": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123168": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-123170": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-63074": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-84782": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-77696": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-35189": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-75803": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-82322": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-82320": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-123173": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-54872": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123171": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-82315": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-63072": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-54874": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/",
+            "listOnly": true
+        }
+    ],
+    "CVE-2026-123166": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-82314": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-82316": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
+        }
+    ],
+    "CVE-2026-82317": [
+        {
+            "title": "Critical SolarWinds Serv-U Flaws Could Let Hackers Gain Root Access and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-solarwinds-serv-u-flaws/"
         }
     ]
 }
