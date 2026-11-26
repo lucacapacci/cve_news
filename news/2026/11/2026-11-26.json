@@ -3,6 +3,10 @@
         {
             "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
             "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
+        },
+        {
+            "title": "Hackers Exploit Critical Drupal Authentication Bypass Flaw to Hijack Websites",
+            "link": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/"
         }
     ],
     "CVE-2026-136716": [
@@ -13,36 +17,144 @@
         {
             "title": "Hackers Actively Exploit Critical Drupal Vulnerability to Take Over Websites",
             "link": "https://gbhackers.com/hackers-actively-exploit-critical-drupal-vulnerability/"
+        },
+        {
+            "title": "Hackers Exploit Critical Drupal Authentication Bypass Flaw to Hijack Websites",
+            "link": "https://cyberpress.org/critical-drupal-authentication-bypass-flaw/"
+        },
+        {
+            "title": "Drupal Warns of New Critical Flaw Exploited in the Wild",
+            "link": "https://securityaffairs.com/204085/security/drupal-warns-of-new-critical-flaw-exploited-in-the-wild.html"
         }
     ],
     "CVE-2026-133275": [
         {
             "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
             "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
         }
     ],
     "CVE-2026-103406": [
         {
             "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
             "link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/"
+        },
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
         }
     ],
     "CVE-2026-129713": [
         {
             "title": "Critical Danfoss Refrigeration Controller Vulnerability Could Let Hackers Execute Arbitrary Code Remotely",
             "link": "https://gbhackers.com/critical-danfoss-refrigeration-controller-vulnerability/"
+        },
+        {
+            "title": "Hackers Could Exploit Critical Danfoss Flaw to Execute Malicious Code on Refrigeration Controllers",
+            "link": "https://cyberpress.org/critical-danfoss-flaw/"
         }
     ],
     "CVE-2026-131914": [
         {
             "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
             "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/"
+        },
+        {
+            "title": "U.S. CISA adds Drupal Core, Idunno AntiCsrf, and Optimizely Web Experimentation\u00a0flaws to its Known Exploited Vulnerabilities catalog",
+            "link": "https://securityaffairs.com/203965/uncategorized/u-s-cisa-adds-drupal-core-idunno-anticsrf-and-optimizely-web-experimentation-flaws-to-its-known-exploited-vulnerabilities-catalog.html"
         }
     ],
     "CVE-2026-46300": [
         {
             "title": "Palo Alto confirms Fragnesia exploitation against firewalls in PHP2Shell attacks",
             "link": "https://www.csoonline.com/article/4253600/palo-alto-confirms-fragnesia-exploitation-against-firewalls-in-php2shell-attacks.html"
+        }
+    ],
+    "CVE-2026-118737": [
+        {
+            "title": "Microsoft Windows Update Causes NTLM Authentication Failures in Enterprise Apps and SSO",
+            "link": "https://cyberpress.org/microsoft-windows-update-ntlm-authentication/"
+        }
+    ],
+    "CVE-2026-129245": [
+        {
+            "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-geoserver-flaws/"
+        }
+    ],
+    "CVE-2026-129243": [
+        {
+            "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-geoserver-flaws/"
+        }
+    ],
+    "CVE-2026-120705": [
+        {
+            "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-geoserver-flaws/"
+        }
+    ],
+    "CVE-2026-129244": [
+        {
+            "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-geoserver-flaws/"
+        }
+    ],
+    "CVE-2026-129242": [
+        {
+            "title": "Critical GeoServer Flaws Could Let Hackers Bypass Authentication and Execute Malicious Commands on Servers",
+            "link": "https://cyberpress.org/critical-geoserver-flaws/"
+        }
+    ],
+    "CVE-2026-133469": [
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2025-41450": [
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2023-25914": [
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2026-133323": [
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2026-133324": [
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2023-25915": [
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2026-133311": [
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
+        }
+    ],
+    "CVE-2026-133303": [
+        {
+            "title": "CISA Warns of 10 Exploited Flaws That Could Expose Enterprise Servers to Cyberattacks",
+            "link": "https://cyberpress.org/cisa-warns-of-10-exploited-flaws/"
         }
     ]
 }
