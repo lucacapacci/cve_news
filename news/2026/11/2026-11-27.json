@@ -28,5 +28,29 @@
             "title": "CVE-2026-123903: Critical VMware Directory Service Authentication Bypass affects vCenter",
             "link": "https://www.rapid7.com/blog/post/etr-cve-2026-123903-critical-vmware-directory-service-authentication-bypass-affects-vcenter"
         }
+    ],
+    "CVE-2026-99362": [
+        {
+            "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+            "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/"
+        }
+    ],
+    "CVE-2026-3854": [
+        {
+            "title": "GitHub RCE Vulnerability Allows Hackers to Compromise Servers With a Single Git Push Command",
+            "link": "https://gbhackers.com/github-rce-vulnerability/"
+        }
+    ],
+    "CVE-2026-124286": [
+        {
+            "title": "Critical Erlang/OTP Vulnerability Allows Hackers to Bypass TLS Certificate Authentication",
+            "link": "https://gbhackers.com/critical-erlang-otp-vulnerability/"
+        }
+    ],
+    "CVE-2026-134070": [
+        {
+            "title": "CVE-2026-134070 \u2013 Improper input sanitization in the AWS Config remediation runbook AWSConfigRemediation-EnableSystemsManagerSessionManagerAuditLogsToS3",
+            "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-203-aws/"
+        }
     ]
 }
