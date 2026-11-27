@@ -9,12 +9,20 @@
         {
             "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
             "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-120705",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-120705"
         }
     ],
     "CVE-2026-129243": [
         {
             "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
             "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+        },
+        {
+            "title": "CISA KEV Addition: CVE-2026-129243",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-129243"
         }
     ],
     "CVE-2026-123890": [
@@ -33,24 +41,102 @@
         {
             "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
             "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/"
+        },
+        {
+            "title": "12-Year-Old NFS2ROOT Linux Flaw Let Hackers Take Full Control of Servers Without a Password",
+            "link": "https://cybersecuritynews.com/nfs2root-linux-vulnerability/"
         }
     ],
     "CVE-2026-3854": [
         {
             "title": "GitHub RCE Vulnerability Allows Hackers to Compromise Servers With a Single Git Push Command",
             "link": "https://gbhackers.com/github-rce-vulnerability/"
+        },
+        {
+            "title": "Critical GitHub Flaw Could Let Hackers Execute Malicious Code and Access Millions of Private Repositories",
+            "link": "https://cyberpress.org/critical-github-flaw/"
         }
     ],
     "CVE-2026-124286": [
         {
             "title": "Critical Erlang/OTP Vulnerability Allows Hackers to Bypass TLS Certificate Authentication",
             "link": "https://gbhackers.com/critical-erlang-otp-vulnerability/"
+        },
+        {
+            "title": "Critical Erlang/OTP Vulnerability Lets Attackers Impersonate TLS Servers Without Valid Certificates",
+            "link": "https://cyberpress.org/critical-erlang-otp-vulnerability/"
         }
     ],
     "CVE-2026-134070": [
         {
             "title": "CVE-2026-134070 \u2013 Improper input sanitization in the AWS Config remediation runbook AWSConfigRemediation-EnableSystemsManagerSessionManagerAuditLogsToS3",
             "link": "https://aws.amazon.com/security/security-bulletins/rss/2026-203-aws/"
+        }
+    ],
+    "CVE-2026-92027": [
+        {
+            "title": "Tor Browser Flaw Could Reveal Users\u2019 Real IP Addresses With Just One Click on Malicious Websites",
+            "link": "https://cybersecuritynews.com/tor-browser-flaw/"
+        }
+    ],
+    "CVE-2026-105236": [
+        {
+            "title": "Critical Erlang/OTP Vulnerability Lets Attackers Impersonate TLS Servers Without Valid Certificates",
+            "link": "https://cyberpress.org/critical-erlang-otp-vulnerability/"
+        }
+    ],
+    "CVE-2026-89422": [
+        {
+            "title": "Critical Erlang/OTP Vulnerability Lets Attackers Impersonate TLS Servers Without Valid Certificates",
+            "link": "https://cyberpress.org/critical-erlang-otp-vulnerability/"
+        }
+    ],
+    "CVE-2024-36401": [
+        {
+            "title": "WeaveLotus Exploits GeoServer and osTicket Flaws to Breach Government Networks",
+            "link": "https://cyberpress.org/weavelotus-breaches-government-networks/"
+        }
+    ],
+    "CVE-2021-42235": [
+        {
+            "title": "WeaveLotus Exploits GeoServer and osTicket Flaws to Breach Government Networks",
+            "link": "https://cyberpress.org/weavelotus-breaches-government-networks/"
+        }
+    ],
+    "CVE-2026-133555": [
+        {
+            "title": "Attacker Ran Commands on Six Hex.pm Servers Through a Flaw Dating Back to 2016",
+            "link": "https://www.cysecurity.news/2026/11/attacker-ran-commands-on-six-hexpm.html"
+        }
+    ],
+    "CVE-2026-130411": [
+        {
+            "title": "Attacker Ran Commands on Six Hex.pm Servers Through a Flaw Dating Back to 2016",
+            "link": "https://www.cysecurity.news/2026/11/attacker-ran-commands-on-six-hexpm.html"
+        }
+    ],
+    "CVE-2026-21619": [
+        {
+            "title": "Attacker Ran Commands on Six Hex.pm Servers Through a Flaw Dating Back to 2016",
+            "link": "https://www.cysecurity.news/2026/11/attacker-ran-commands-on-six-hexpm.html"
+        }
+    ],
+    "CVE-2026-124283": [
+        {
+            "title": "Attacker Ran Commands on Six Hex.pm Servers Through a Flaw Dating Back to 2016",
+            "link": "https://www.cysecurity.news/2026/11/attacker-ran-commands-on-six-hexpm.html"
+        }
+    ],
+    "CVE-2026-129514": [
+        {
+            "title": "Attacker Ran Commands on Six Hex.pm Servers Through a Flaw Dating Back to 2016",
+            "link": "https://www.cysecurity.news/2026/11/attacker-ran-commands-on-six-hexpm.html"
+        }
+    ],
+    "CVE-2026-136716": [
+        {
+            "title": "CISA KEV Addition: CVE-2026-136716",
+            "link": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog?field_cve=CVE-2026-136716"
         }
     ]
 }
