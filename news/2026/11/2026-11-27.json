@@ -1,0 +1,32 @@
+{
+    "CVE-2026-105481": [
+        {
+            "title": "Node.js 27 Introduces Stronger TLS Security, Post-Quantum Cryptography and HTTP/2 Improvements",
+            "link": "https://cyberpress.org/node-js-27-tls-security-post-quantum-cryptography/"
+        }
+    ],
+    "CVE-2026-120705": [
+        {
+            "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+        }
+    ],
+    "CVE-2026-129243": [
+        {
+            "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+            "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+        }
+    ],
+    "CVE-2026-123890": [
+        {
+            "title": "CVE-2026-123903: Critical VMware Directory Service Authentication Bypass affects vCenter",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-123903-critical-vmware-directory-service-authentication-bypass-affects-vcenter"
+        }
+    ],
+    "CVE-2026-123903": [
+        {
+            "title": "CVE-2026-123903: Critical VMware Directory Service Authentication Bypass affects vCenter",
+            "link": "https://www.rapid7.com/blog/post/etr-cve-2026-123903-critical-vmware-directory-service-authentication-bypass-affects-vcenter"
+        }
+    ]
+}
